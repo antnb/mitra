@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pachypodium Yang Anti Air
+title: "Pachypodium Yang Anti Air"
 categories: artikel|Gardening
 date: 2020-08-25 11:50:10
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/Pachypodium_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Pachypodium_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-25 11:50:10
-blogger_orig_url: http://localhost/mitra/pachypodium-yang-anti-air.html
+blogger_orig_url: "http://localhost/mitra/pachypodium-yang-anti-air.html"
 ---
 
 <em>Penampilan pachypodium tampak kokoh gara-gara batangnya yang berduri, berukuran besar. Paduan warna yang kontras muncul tatkala bunga-bunga mekar di sela-sela pucuk. Sayang, ia <strong>sangat sensitif dan mudah mati</strong>.</em>

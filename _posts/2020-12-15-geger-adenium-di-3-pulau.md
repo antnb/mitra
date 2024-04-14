@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Geger Adenium di 3 Pulau
+title: "Geger Adenium di 3 Pulau"
 categories: tanaman hias
 date: 2020-12-15 05:45:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_juara1_1024x536.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_juara1_1024x536.jpg"
 tags:
 - Adenium
 - kontes adenium
 
 modification_time: 2020-12-15 05:45:32
-blogger_orig_url: http://localhost/mitra/geger-adenium-di-3-pulau.html
+blogger_orig_url: "http://localhost/mitra/geger-adenium-di-3-pulau.html"
 ---
 
 September di tahun babi api menjadi sejarah buat pencinta adenium. "Tiga perang adenium terjadi di 3 pulau: Sumatera, Jawa, dan Bali. Semuanya seru bila dilihat dari skala kontes. Ini pertanda demam kontes mulai menyusup ke berbagai daerah, terutama Sumatera," tutur Andy Solviano Fajar, juri <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/adenium"  title="adenium" data-wpil-keyword-link="linked">adenium</a> di berbagai kontes.

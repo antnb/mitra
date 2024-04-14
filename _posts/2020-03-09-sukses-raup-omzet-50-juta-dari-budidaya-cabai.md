@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sukses Raup Omzet 50 Juta Dari Budidaya Cabai
+title: "Sukses Raup Omzet 50 Juta Dari Budidaya Cabai"
 categories: perkebunan|Pertanian
 date: 2020-03-09 13:56:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/cabai-segar.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/cabai-segar.jpg"
 tags:
 - cabai
 
 modification_time: 2020-03-09 13:56:19
-blogger_orig_url: http://localhost/mitra/sukses-raup-omzet-50-juta-dari.html
+blogger_orig_url: "http://localhost/mitra/sukses-raup-omzet-50-juta-dari.html"
 ---
 
 Itulah rutinitas H Muhiddin. Ketelatenannya menjaga dan merawat puluhan hektar kebun tak diragukan lagi. Ia seperti berlomba dengan matahari. Bagi Muhiddin <strong>Budidaya Cabai memberikan kebahagiaan tersendiri</strong>. Tiap hari ia berada di antara bedengan sambil memanen “Hati saya senang bila ada di kebun,” kata Muhiddin.

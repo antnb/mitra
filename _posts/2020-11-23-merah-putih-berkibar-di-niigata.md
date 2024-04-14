@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Merah Putih Berkibar di Niigata
+title: "Merah Putih Berkibar di Niigata"
 categories: hobi|ikan hias
 date: 2020-11-23 12:46:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_koi_super_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_koi_super_1024x576.jpg"
 tags:
 - akuarium
 - ikan
@@ -13,7 +13,7 @@ tags:
 - Shinkokai
 
 modification_time: 2020-11-23 12:46:01
-blogger_orig_url: http://localhost/mitra/merah-putih-berkibar-di-niigata.html
+blogger_orig_url: "http://localhost/mitra/merah-putih-berkibar-di-niigata.html"
 ---
 
 Keikutsertaan Tan Peng Lung pada 21th All Japan Combine Young Koi Show pertengahan April tahun ini di Niigata berbuah manis. Runner up juara umum berhasil dibopong pulang. Prestasi anak negeri itu kian membanggakan lantaran pagelaran itu diikuti oleh koi-koi terbaik seluruh farm terkemuka di seantero Jepang.

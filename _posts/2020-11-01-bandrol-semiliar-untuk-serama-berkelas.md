@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Bandrol Semiliar untuk Serama berkelas
+title: "Bandrol Semiliar untuk Serama berkelas"
 categories: hobi
 date: 2020-11-01 09:29:25
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/serama2.png
+image: "http://localhost/mitra/wp-content/uploads/2020/11/serama2.png"
 tags:
 - ayam
 - serama
 
 modification_time: 2020-11-01 09:29:25
-blogger_orig_url: http://localhost/mitra/bandrol-semiliar-untuk-serama-berkelas.html
+blogger_orig_url: "http://localhost/mitra/bandrol-semiliar-untuk-serama-berkelas.html"
 ---
 
 Sore itu matahari telah condong ke ufuk barat. Udara tidak terlampau menyengat ubun-ubun kepala. Dengan berbalut kaos putih, Jerry Hermawan Lo tengah asyik mengelus-elus Andalusite nama ayam kebanggaan di halaman rumput. Wajar, serama berbulu cokelat kekuningan itu peraih juara I di kelas dewasa B kontes serama Indonesia Satu, Pasar Seni Jaya Ancol, Jakarta Utara.

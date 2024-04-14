@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Prospek Bisnis Bubuk Cabe Yang Menguntungkan
+title: "Prospek Bisnis Bubuk Cabe Yang Menguntungkan"
 categories: Pertanian
 date: 2020-03-06 01:13:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Yeongyang-gochu-garu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Yeongyang-gochu-garu.jpg"
 tags:
 - cabai
 
 modification_time: 2022-11-22 06:53:19
-blogger_orig_url: http://localhost/mitra/prospek-bisnis-bubuk-cabe-yang.html
+blogger_orig_url: "http://localhost/mitra/prospek-bisnis-bubuk-cabe-yang.html"
 ---
 
 Cabai kering adalah sejenis cabai yang biasanya dikeringkan dan digunakan sebagai bumbu. Ini asli pulau Jawa di Indonesia dan juga tumbuh di bagian lain Asia Tenggara. Cabai adalah anggota spesies Capsicum annuum dan berkerabat dekat dengan paprika dan cabai lainnya.

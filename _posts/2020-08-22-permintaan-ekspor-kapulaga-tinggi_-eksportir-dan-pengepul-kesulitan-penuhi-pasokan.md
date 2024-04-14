@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Permintaan Ekspor Kapulaga Tinggi, Eksportir Dan Pengepul Kesulitan Penuhi Pasokan
+title: "Permintaan Ekspor Kapulaga Tinggi, Eksportir Dan Pengepul Kesulitan Penuhi Pasokan"
 categories: perkebunan
 date: 2020-08-22 09:39:27
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/kapulaga_1280x720.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/kapulaga_1280x720.jpeg"
 tags:
 - ekspor
 - kapulaga
 
 modification_time: 2020-08-22 09:39:27
-blogger_orig_url: http://localhost/mitra/dicari-kapulaga-untuk-ekspor.html
+blogger_orig_url: "http://localhost/mitra/dicari-kapulaga-untuk-ekspor.html"
 ---
 
 “Di mana saya bisa mendapatkan kapulaga?” tanya Musa Datuk kepada <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a>. Relasi bisnisnya di luar negeri meminta kapulaga dalam jumlah besar. Pertengahan tahun lalu PT Multipratama Indahraya juga mendapat order <span class="keyword _ngcontent-tud-100" aria-hidden="false">ekspor kapulaga</span>. Karena itu Bamunas Setiawan Boediman, MBA., sang direktur utama, ingin mengebunkannya di Kuningan, Jawa Barat.

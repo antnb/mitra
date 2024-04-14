@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Penggunaan Nematoda Entomopatogen Untuk Menekan Serangan Hama Gayas
+title: "Penggunaan Nematoda Entomopatogen Untuk Menekan Serangan Hama Gayas"
 categories: Pertanian
 date: 2019-10-31 10:47:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Lepidiota-stigma.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Lepidiota-stigma.jpg"
 tags:
 - gayas
 - hama
@@ -15,7 +15,7 @@ tags:
 - uret
 
 modification_time: 2022-12-29 11:33:59
-blogger_orig_url: http://localhost/mitra/penggunaan-nematoda-entomopatogen.html
+blogger_orig_url: "http://localhost/mitra/penggunaan-nematoda-entomopatogen.html"
 ---
 
 Karena dampak negatif dari penggunaan insektisida kimia, pemerintah telah merancang Teknologi Pengendalian Hama Terpadu (PHT) melalui berbagai peraturan dan keputusan. Salah satu komponennya adalah pengendalian hama secara hayati dengan menggunakan parasit, predator, virus, jamur, bakteri dan nematoda entomopatogen.

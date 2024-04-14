@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Rambutan Cilengkeng Dan Basariah: Rambutan Langka Daging Buah Tebal Biji Kecil
+title: "Rambutan Cilengkeng Dan Basariah: Rambutan Langka Daging Buah Tebal Biji Kecil"
 categories: artikel|perkebunan
 date: 2021-02-13 12:31:45
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_rambutan_1280x931.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_rambutan_1280x931.jpg"
 tags:
 - rambutan
 - rapiah
 - rasa istimewa
 
 modification_time: 2021-02-13 12:31:45
-blogger_orig_url: http://localhost/mitra/rambutan-cilengkeng-dan-basariah.html
+blogger_orig_url: "http://localhost/mitra/rambutan-cilengkeng-dan-basariah.html"
 ---
 
 "Ehm...manis banget, dagingnya tebal lagi,"seru Elly Syahbana saat mencicipi rambutan cilengkeng. Sepintas penampilan Nephelium lappaceum itu tak meyakinkan.

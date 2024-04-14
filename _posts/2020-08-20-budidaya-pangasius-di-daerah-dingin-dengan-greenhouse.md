@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya Pangasius di Daerah Dingin Dengan Greenhouse
+title: "Budidaya Pangasius di Daerah Dingin Dengan Greenhouse"
 categories: Perikanan
 date: 2020-08-20 06:27:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/pangasius.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/pangasius.jpg"
 tags:
 - 
 
 modification_time: 2020-08-20 06:27:19
-blogger_orig_url: http://localhost/mitra/budidaya-pangasius-di-daerah-dingin.html
+blogger_orig_url: "http://localhost/mitra/budidaya-pangasius-di-daerah-dingin.html"
 ---
 
 <em>Pangasius bisa dibibitkan di dataran tinggi dengan keberhasilan menetas 95%. Akuarium, kompor pemanas, atau heater tak diperlukan asal pembibitannya dilakukan di greenhouse.</em>

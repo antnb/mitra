@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Melaju Dengan Bahan Bakar Minyak Jarak Murni
+title: "Melaju Dengan Bahan Bakar Minyak Jarak Murni"
 categories: artikel
 date: 2021-12-08 06:23:39
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/12/proses-minyak.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/proses-minyak.jpg"
 tags:
 - biodiesel
 - Jarak
 - minyak
 
 modification_time: 2022-09-19 06:20:50
-blogger_orig_url: http://localhost/mitra/melaju-dengan-minyak-jarak-murni.html
+blogger_orig_url: "http://localhost/mitra/melaju-dengan-minyak-jarak-murni.html"
 ---
 
 Kandungan minyak jarak Murni ternyata Berpotensi untuk dirubah sebagai bahan bakar alternatif. Melintasi perbukitan Bajawa, Kabupaten Ngada, Nusa Tenggara Timur, yang bertemperatur 13°C, laju mobil Mitsubishi Strada L-200 tersendat. Indikator stasioner di dashboard terlihat naik-turun.

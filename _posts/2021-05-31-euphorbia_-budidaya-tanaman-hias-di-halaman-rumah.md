@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Euphorbia: Budidaya Tanaman Hias Di Halaman Rumah
+title: "Euphorbia: Budidaya Tanaman Hias Di Halaman Rumah"
 categories: hobi|tanaman hias
 date: 2021-05-31 06:06:04
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/Euphorbia-2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/Euphorbia-2.jpg"
 tags:
 - delapan dewa
 - Euphorbia
 
 modification_time: 2021-05-31 06:06:04
-blogger_orig_url: http://localhost/mitra/budidaya-tanaman-hias-di-halaman-rumah.html
+blogger_orig_url: "http://localhost/mitra/budidaya-tanaman-hias-di-halaman-rumah.html"
 ---
 
 Setiap bulan beberapa pedagang euphorbia di Bogor dan Jakarta mendatangi rumah Parman, sapaan Geraldus Parman, di Cimanggis, Kotamadya Depok. Mereka memboyong rata-rata 200 tanaman per bulan setinggi 15 sampai 20 cm. Alumnus Fakultas Ekonomi Universitas Pancasila itu melepas dengan harga Rp25.000 per pot. Selain pembelian partai besar, ada pula penggemar yang membeli eceran.

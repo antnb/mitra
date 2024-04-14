@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mengatasi Kekurangan Unsur Hara Pada Lahan Tanaman Pertanian
+title: "Mengatasi Kekurangan Unsur Hara Pada Lahan Tanaman Pertanian"
 categories: perkebunan
 date: 2021-09-05 05:01:51
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/09/tabulampot.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/tabulampot.jpg"
 tags:
 - air
 - Dekastar
@@ -15,7 +15,7 @@ tags:
 - Vitabloom
 
 modification_time: 2021-09-05 05:01:51
-blogger_orig_url: http://localhost/mitra/cara-unsur-hara-pada-tanaman.html
+blogger_orig_url: "http://localhost/mitra/cara-unsur-hara-pada-tanaman.html"
 ---
 
 Tujuh belas November 1869. Terusan Suez yang menghubungkan Laut Mediterania dan Laut Merah resmi dibuka. Kehadiran parit raksasa sepanjang 168 km itu membuat arus niaga antara saudagar Eropa dan Asia kian lancar. Terusan Suez memangkas jarak ribuan kilometer mengelilingi Benua Afrika yang ditempuh berbulan-bulan menjadi hitungan jam saja.

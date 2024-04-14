@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kriteria Dalam memilih dan perawatan cupang aduan Terbaik
+title: "Kriteria Dalam memilih dan perawatan cupang aduan Terbaik"
 categories: hobi|ikan hias
 date: 2021-11-17 08:15:50
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/11/cupang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/cupang.jpg"
 tags:
 - 
 
 modification_time: 2022-09-19 07:03:35
-blogger_orig_url: http://localhost/mitra/kawah-candradimuka-untuk-cupang-aduan.html
+blogger_orig_url: "http://localhost/mitra/kawah-candradimuka-untuk-cupang-aduan.html"
 ---
 
 Ikan cupang aduan sangat populer di Indonesia, dan sering dijadikan hobi oleh banyak orang. Ikan ini sering dibudidayakan di kolam-kolam ikan, dan banyak peternak ikan cupang aduan menyediakan berbagai jenis pakan ikan khusus untuk ikan ini.

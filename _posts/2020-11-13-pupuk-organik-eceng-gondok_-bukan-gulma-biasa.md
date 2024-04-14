@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Pupuk Organik Eceng Gondok: Bukan Gulma Biasa
+title: "Pupuk Organik Eceng Gondok: Bukan Gulma Biasa"
 categories: artikel|perkebunan
 date: 2020-11-13 15:11:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_eceng_gondok1_1280x720.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_eceng_gondok1_1280x720.jpeg"
 tags:
 - eceng gondok
 - organik
 - pupuk
 
 modification_time: 2020-11-13 15:11:31
-blogger_orig_url: http://localhost/mitra/pupuk-organik-eceng-gondok-bukan.html
+blogger_orig_url: "http://localhost/mitra/pupuk-organik-eceng-gondok-bukan.html"
 ---
 
 Dulu dipuja sebagai <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a>. Kini kehadiran eceng gondok malah bikin gondok. Sebab, gulma itu cepat berkembang biak sehingga menutupi perairan. I Gusti Made Arjana mengolahnya menjadi pupuk organik yang kaya asam humat. Ia terbukti memacu pertumbuhan tanaman.

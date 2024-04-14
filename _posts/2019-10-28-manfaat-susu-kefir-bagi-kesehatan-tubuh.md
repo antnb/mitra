@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Manfaat Susu Kefir Bagi Kesehatan Tubuh
+title: "Manfaat Susu Kefir Bagi Kesehatan Tubuh"
 categories: kesehatan
 date: 2019-10-28 13:53:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/kefir.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/kefir.jpg"
 tags:
 - kambing
 - kefir
@@ -12,7 +12,7 @@ tags:
 - youghurt
 
 modification_time: 2022-09-11 00:17:04
-blogger_orig_url: http://localhost/mitra/manfaat-kefir-yang-kaya-akan-zat-anti.html
+blogger_orig_url: "http://localhost/mitra/manfaat-kefir-yang-kaya-akan-zat-anti.html"
 ---
 
 Luka itu muncul dari sekumpulan gelembung mungil mirip jerawat yang menimbulkan gatal. Desi mengira kondisi itu hanya gatal-gatal biasa karena gigitan serangga. "Ketika gatal menyerang kadang juga disertai sensasi panas," ujarnya. Acap kali ibu satu anak itu tidak sanggup menahan dan menggaruk bagian yang gatal. Akibatnya kulit berubah menjadi ruam-ruam merah, melepuh, dan bernanah.

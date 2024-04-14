@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Teknologi Pertanian dari Kampung Santri
+title: "Teknologi Pertanian dari Kampung Santri"
 categories: artikel
 date: 2020-09-05 08:16:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_IMG_5596_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_IMG_5596_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-05 08:16:36
-blogger_orig_url: http://localhost/mitra/teknologi-pertanian-dari-kampung.html
+blogger_orig_url: "http://localhost/mitra/teknologi-pertanian-dari-kampung.html"
 ---
 
 <em>Suara gemuruh dari sebuah shaker memecah keheningan ruangan bernuansa putih itu. Di belakangnya rak-rak besi berbaris rapi dalam 2 lanjar. Isinya botol-botol berisi bibit beragam tanaman hasil kultur jaringan. Di ruang sebelah yang lebih kecil, seorang gadis tekun menduplikasi bahan tanaman di ruang tanam steril.</em>

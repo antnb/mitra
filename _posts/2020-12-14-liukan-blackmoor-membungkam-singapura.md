@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Liukan Blackmoor Membungkam Singapura
+title: "Liukan Blackmoor Membungkam Singapura"
 categories: hobi|ikan hias
 date: 2020-12-14 10:58:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_blackmoor_1024x576-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_blackmoor_1024x576-1.jpg"
 tags:
 - blackmoor goldfish
 - dragon eye
@@ -12,7 +12,7 @@ tags:
 - kontes maskoki
 
 modification_time: 2020-12-14 10:58:51
-blogger_orig_url: http://localhost/mitra/liukan-blackmoor-membungkam-singapura.html
+blogger_orig_url: "http://localhost/mitra/liukan-blackmoor-membungkam-singapura.html"
 ---
 
 Harsono pantas bangga. Selain blackmoor, 2 maskoki lainnya oranda dan ryukin pun merebut juara pertama di kelasnya. Kontes maskoki itu diselenggarakan oleh Qian Hu Fish Farm (secara harfiah berarti seribu danau, red). Farm yang didirikan oleh Yap Tik Huai pada 1985 itu bermarkas di Sungeitengah Agrotechnology Park, kira kira 30 menit perjalanan dari Bandara Changi. Kini generasi kedua uuef Kenny Yap dan Yap Hey Cha mengendalikan perusahaan yang mengekspor 500 spesies <a class="wpil_keyword_link " title="ikan hias" href="http://127.0.0.1/mitra/ikan-hias" data-wpil-keyword-link="linked">ikan hias</a> ke 60 negara.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dongkrak Produksi Buah Jambu Kristal Dengan Pupuk Guano
+title: "Dongkrak Produksi Buah Jambu Kristal Dengan Pupuk Guano"
 categories: Pertanian
 date: 2019-10-14 09:51:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/jambu-kristal.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/jambu-kristal.jpg"
 tags:
 - Buah
 - buah jambu
@@ -15,7 +15,7 @@ tags:
 - renyah
 
 modification_time: 2022-09-24 08:42:26
-blogger_orig_url: http://localhost/mitra/dongkrak-produksi-dan-kualitas-jambu.html
+blogger_orig_url: "http://localhost/mitra/dongkrak-produksi-dan-kualitas-jambu.html"
 ---
 
 Kualitas istimewa membuat buah jambu kristal itu selalu ludes. "Di sini di Majalengka dan Cirebon, panen 200 kg per hari saja masih kurang," ungkap Runah Heryanto yang mengebunkan 5.000 pohon di lahan 20 ha di Desa Jayi, Kecamatan Sukahaji, Kabupaten Majalengka, Jawa Barat.

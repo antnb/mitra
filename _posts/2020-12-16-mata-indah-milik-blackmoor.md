@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mata Indah Milik Blackmoor
+title: "Mata Indah Milik Blackmoor"
 categories: ikan hias
 date: 2020-12-16 06:41:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_blackdemekin1_1024x726.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_blackdemekin1_1024x726.jpg"
 tags:
 - black demekin
 - black demekin goldfish
@@ -13,7 +13,7 @@ tags:
 - grand champion
 
 modification_time: 2020-12-16 06:41:36
-blogger_orig_url: http://localhost/mitra/mata-indah-milik-blackmoor.html
+blogger_orig_url: "http://localhost/mitra/mata-indah-milik-blackmoor.html"
 ---
 
 Blackmoor telah menyihir hobiis-hobiis di negeri jiran. Itu setelah kemenangan telak blackmoor koleksi Harsono di Fancy Goldfish Competition 2004 di Sungeitengah, Singapura. Jenis maskoki peraih grand champion di suatu kontes memang bepeluang menjadi populer. Karena blackmoor yang menyabet gelar bergengsi itu, banyak hobiis menggandrunginya.

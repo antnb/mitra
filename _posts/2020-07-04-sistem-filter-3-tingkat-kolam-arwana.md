@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sistem Filter 3 tingkat Kolam Arwana
+title: "Sistem Filter 3 tingkat Kolam Arwana"
 categories: hobi|ikan hias|Perikanan
 date: 2020-07-04 13:42:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/1-12576914389p8I.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/1-12576914389p8I.jpg"
 tags:
 - Arwana
 - kualitas air
 
 modification_time: 2020-07-04 13:42:31
-blogger_orig_url: http://localhost/mitra/sistem-filter-3-tingkat-kolam-arwana.html
+blogger_orig_url: "http://localhost/mitra/sistem-filter-3-tingkat-kolam-arwana.html"
 ---
 
 Pantas jika Jap Khiat Bun menanti cukup lama. Arwana-terutama <em>super red</em>-termasuk ikan yang sulit dikembangbiakkan. Hanya pada kondisi lingkungan yang sesuai, sumber air cocok, dan pakan tersedia secara rutin, <em>Scleropages formosus</em> dapat ditangkarkan. Saat ini pun sangat sedikit peternak di Indonesia yang berhasil menangkarkan arwana.

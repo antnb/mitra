@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perawatan Pohon Durian Yang Terserang Busuk Buah
+title: "Perawatan Pohon Durian Yang Terserang Busuk Buah"
 categories: artikel|perkebunan
 date: 2020-08-18 07:22:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/duren_1185x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/duren_1185x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-18 07:22:04
-blogger_orig_url: http://localhost/mitra/perawatan-pohon-durian-yang-terserang.html
+blogger_orig_url: "http://localhost/mitra/perawatan-pohon-durian-yang-terserang.html"
 ---
 
 <em>Siang itu matahari bersinar terik memanggang kulit saat <a href="http://127.0.0.1/mitra"><a href="http://127.0.0.1/mitra"><a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a></a></a> menjelajahi kebun seluas 14 ha di Desa Murnisari, Kecamatan Mande, Cianjur. Lokasi itu adalah salah satu kebun durian milik Bernard Sadhani. Kebun lain-masih di Cianjur-hanya berjarak 3 km dari sana. Letaknya di Desa Mulyasari seluas 15 m.</em>

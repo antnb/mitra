@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Manfaat Dan Khasiat Kunyit untuk Kesehatan
+title: "Manfaat Dan Khasiat Kunyit untuk Kesehatan"
 categories: Herbal
 date: 2021-01-23 05:50:11
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kunyit_1011x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kunyit_1011x768.jpg"
 tags:
 - ekstrak kunyit
 - kunyit
 
 modification_time: 2021-01-23 05:50:11
-blogger_orig_url: http://localhost/mitra/manfaat-dan-khasiat-kunyit-untuk.html
+blogger_orig_url: "http://localhost/mitra/manfaat-dan-khasiat-kunyit-untuk.html"
 ---
 
 Siapa yang tidak kenal kunyit? Di Jawa sebutannya kunir; Sunda, koneng; Madura, konyet. Rimpang berwarna kuning itu banyak digunakan ibu rumah tangga sebagai bumbu masak.

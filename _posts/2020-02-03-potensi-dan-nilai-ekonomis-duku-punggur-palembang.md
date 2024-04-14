@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Potensi Dan Nilai Ekonomis Duku Punggur Palembang
+title: "Potensi Dan Nilai Ekonomis Duku Punggur Palembang"
 categories: Pertanian
 date: 2020-02-03 06:51:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/Duku.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/Duku.jpg"
 tags:
 - Buah
 - duku
 - Palembang
 
 modification_time: 2022-09-13 10:59:12
-blogger_orig_url: http://localhost/mitra/potensi-dan-nilai-ekonomis-duku.html
+blogger_orig_url: "http://localhost/mitra/potensi-dan-nilai-ekonomis-duku.html"
 ---
 
 Sang pemilik jongko setengah berteriak menawarkan dagangannya. "Punggurnya pak? " Tanpa ba bi bu pasangan suami istri yang turun dari mobil itu langsung meminta 5 kg. Uang sebanyak Rp 40.000 pun berpindah tangan.

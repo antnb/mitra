@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Hobi bercocok tanam sayuran hidroponik Tanpa Media Tanah Ala Pejabat
+title: "Hobi bercocok tanam sayuran hidroponik Tanpa Media Tanah Ala Pejabat"
 categories: hobi|Pertanian
 date: 2019-10-11 14:40:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/tanam-hidroponik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/tanam-hidroponik.jpg"
 tags:
 - Hidroponik
 - organik
 
 modification_time: 2022-12-24 09:27:03
-blogger_orig_url: http://localhost/mitra/hobi-bertani-tanpa-media-tanah-ala.html
+blogger_orig_url: "http://localhost/mitra/hobi-bertani-tanpa-media-tanah-ala.html"
 ---
 
 Mark Sungkar dan Bupati Dadang M Naser berkolaborasi untuk memberikan tips tentang cara menanam sayuran hidroponik di rumah untuk mendapatkan penghasilan tambahan. Mereka berharap bahwa dengan cara ini, masyarakat dapat menumbuhkan sayur-sayuran yang sehat dan segar tanpa banyak usaha dan biaya tinggi. Dengan begitu, masyarakat dapat memiliki sumber penghasilan tambahan yang stabil.

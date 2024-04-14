@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sangkar Burung Dan Kelestarian Burung Langka
+title: "Sangkar Burung Dan Kelestarian Burung Langka"
 categories: artikel
 date: 2021-05-07 13:29:42
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/burung.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/burung.jpg"
 tags:
 - burung berkicau
 - kontes burung
@@ -13,7 +13,7 @@ tags:
 - sahabat burung indonesia
 
 modification_time: 2021-05-07 13:29:42
-blogger_orig_url: http://localhost/mitra/sangkar-burung-dan-kelestarian-burung.html
+blogger_orig_url: "http://localhost/mitra/sangkar-burung-dan-kelestarian-burung.html"
 ---
 
 Seorang Sahabat Burung Indonesia (SBI), Hapsoro, protes keras atas perlombaan dan pameran ratusan burung dalam sangkar burung untuk merayakan hari lahir kota kecil kesayangannya.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jeruk Siem Batola Ditepian Sungai Barito
+title: "Jeruk Siem Batola Ditepian Sungai Barito"
 categories: perkebunan
 date: 2020-12-18 13:10:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_batola_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_batola_1024x576.jpg"
 tags:
 - desa karangbuah
 - Jeruk
@@ -14,7 +14,7 @@ tags:
 - tabulampot jeruk
 
 modification_time: 2020-12-18 13:10:45
-blogger_orig_url: http://localhost/mitra/jeruk-siem-batola-ditepian-sungai.html
+blogger_orig_url: "http://localhost/mitra/jeruk-siem-batola-ditepian-sungai.html"
 ---
 
 Bak petualangan Indiana Jones memburu harta karun terpendam, perjalanan menuju sentra penanaman siem kali ini begitu mengasyikan. Selepas menumpang pesawat selama 1,5 jam dari Jakarta menuju Banjarmasin, perjalanan dilanjutkan melalui air.

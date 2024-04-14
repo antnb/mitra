@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Hidroponik: Bila Dua Teknologi Berpadu
+title: "Hidroponik: Bila Dua Teknologi Berpadu"
 categories: perkebunan
 date: 2020-12-27 08:20:58
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_hidroponik2_1024x724.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_hidroponik2_1024x724.jpg"
 tags:
 - Hidroponik
 - hobi bertani
 - teknologi hidroponik
 
 modification_time: 2020-12-27 08:20:58
-blogger_orig_url: http://localhost/mitra/hidroponik-bila-dua-teknologi-berpadu.html
+blogger_orig_url: "http://localhost/mitra/hidroponik-bila-dua-teknologi-berpadu.html"
 ---
 
 Itulah kombinasi 2 teknologi hidroponik hasil kreasi Sudibyo Karsono di Bogor. Pemberian nutrisi tanaman dari atas populer sebagai teknologi top feed. Sedangkan kucuran unsur hara dari bawah disebut ebb endflow atau pasang surut.

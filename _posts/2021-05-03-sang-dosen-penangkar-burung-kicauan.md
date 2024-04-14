@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sang Dosen Penangkar Burung kicauan
+title: "Sang Dosen Penangkar Burung kicauan"
 categories: artikel|hobi
 date: 2021-05-03 14:49:34
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/05/kicau.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/kicau.jpg"
 tags:
 - Anis merah
 - cucak rawa
@@ -13,7 +13,7 @@ tags:
 - usaha penangkaran
 
 modification_time: 2021-05-03 14:49:34
-blogger_orig_url: http://localhost/mitra/sang-dosen-penangkar-burung-kicauan.html
+blogger_orig_url: "http://localhost/mitra/sang-dosen-penangkar-burung-kicauan.html"
 ---
 
 Di rumahnya tak ada tanda-tanda Djumadi sebagai penangkar cucak rawa, jalak suren, dan murai batu. Ketiga burung itu memang digantung dalam sangkar. Itu mengesankan bungsu 6 bersaudara hanya sekadar hobiis. Di sisi kanan rumahnya memang ada 4 kandang setinggi 2 m. Namun, hanya dimanfaatkan sebagai ruang pajang. Aktivitas Djumadi di sana benar-benar jauh dari kesan menangkarkan.

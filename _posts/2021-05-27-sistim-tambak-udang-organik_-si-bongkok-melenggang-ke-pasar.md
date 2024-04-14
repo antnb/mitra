@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sistim Tambak Udang Organik: Si Bongkok Melenggang ke Pasar
+title: "Sistim Tambak Udang Organik: Si Bongkok Melenggang ke Pasar"
 categories: Perikanan
 date: 2021-05-27 08:14:59
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/windu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/windu.jpg"
 tags:
 - udang
 - udang windu
 
 modification_time: 2021-05-27 08:14:59
-blogger_orig_url: http://localhost/mitra/udang-organik-si-bongkok-melenggang.html
+blogger_orig_url: "http://localhost/mitra/udang-organik-si-bongkok-melenggang.html"
 ---
 
 Petambak udang organik kerap gigit jari lantaran udangnya ditolak pasar ekspor gara-gara mengandung antibiotik chloramphenicol. Udang windu produksi petambak di Buduran, Sidoarjo, malah jadi rebutan pasar. Swedia saja meminta 3.500 ton per tahun. Maklum Pennaeus monodon di sana dibudidayakan secara organik.

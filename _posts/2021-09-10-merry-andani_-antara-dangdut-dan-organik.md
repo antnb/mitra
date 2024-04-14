@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Merry Andani: Antara Dangdut dan Organik
+title: "Merry Andani: Antara Dangdut dan Organik"
 categories: perkebunan
 date: 2021-09-10 13:37:14
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/mery-andani.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/mery-andani.jpg"
 tags:
 - produk organik
 
 modification_time: 2021-09-10 13:37:14
-blogger_orig_url: http://localhost/mitra/merry-andani-antara-dangdut-dan.html
+blogger_orig_url: "http://localhost/mitra/merry-andani-antara-dangdut-dan.html"
 ---
 
 ...antara kita berdua terhalang dinding pemisah yang tak mungkin dilalui walaupun sampai di akhir nanti..." Lirik lagu merdu Dinding Pemisah itu bukan terlantun dari sebuah stasiun televisi. Melainkan terdengar di sebuah kebun asri seluas 1.200 m2 di Desa Cimande, Caringin, Bogor. Yang melantunkan, Merry Andani, sambil mengayunkan cangkul untuk bertanam sayuran organik.

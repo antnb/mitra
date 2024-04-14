@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kelengkeng Tabulampot Buah Lebat Berkat Pupuk Minyak ikan
+title: "Kelengkeng Tabulampot Buah Lebat Berkat Pupuk Minyak ikan"
 categories: artikel|perkebunan
 date: 2020-11-12 10:21:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_lengkeng_buah_637x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_lengkeng_buah_637x720.jpg"
 tags:
 - Kelengkeng
 - Tabulampot
 
 modification_time: 2020-11-12 10:21:15
-blogger_orig_url: http://localhost/mitra/kelengkeng-tabulampot-pupuk-minyak-ikan.html
+blogger_orig_url: "http://localhost/mitra/kelengkeng-tabulampot-pupuk-minyak-ikan.html"
 ---
 
 Dua <span class="keyword _ngcontent-tca-100" aria-hidden="false">kelengkeng tabulampot</span> setinggi 2 m langsung menyita perhatian Innasari. Buah <span class="keyword _ngcontent-boh-101" aria-hidden="false">tabulampot kelengkeng</span> itu seukuran kelereng bergerombol di ujung-ujung tangkai. Pohon kelihatan tambah semarak dengan kehadiran dompolan bunga berwarna kuning keputihan.

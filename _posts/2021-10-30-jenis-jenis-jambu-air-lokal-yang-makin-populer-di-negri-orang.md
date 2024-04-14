@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Jenis Jenis Jambu Air Lokal Yang Makin Populer Di Negri Orang
+title: "Jenis Jenis Jambu Air Lokal Yang Makin Populer Di Negri Orang"
 categories: artikel|perkebunan
 date: 2021-10-30 06:13:35
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/10/buah1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/buah1.jpg"
 tags:
 - jambu air
 
 modification_time: 2021-10-30 06:13:35
-blogger_orig_url: http://localhost/mitra/jenis-jenis-jambu-air-unggulan.html
+blogger_orig_url: "http://localhost/mitra/jenis-jenis-jambu-air-unggulan.html"
 ---
 
 Indonesia "gudangnya" jambu air. Hampir semua jenis jambu air unggulan berasal dari sini. Namun ada kesan kita tidak menghargai kekayaan plasma nutfah bernilai eksklusif tersebut. Akibatnya, Taiwan dan Thailand menyerobot untuk mengembangkannya menjadi komoditas hortikultura komersial.

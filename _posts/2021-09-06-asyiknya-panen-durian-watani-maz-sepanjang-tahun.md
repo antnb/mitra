@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Asyiknya Panen Durian Watani Maz Sepanjang Tahun
+title: "Asyiknya Panen Durian Watani Maz Sepanjang Tahun"
 categories: perkebunan
 date: 2021-09-06 14:31:37
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/09/durian1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/durian1.jpg"
 tags:
 - Durian
 - Watani maz
 
 modification_time: 2021-09-06 14:31:37
-blogger_orig_url: http://localhost/mitra/asyiknya-panen-durian-watani-maz.html
+blogger_orig_url: "http://localhost/mitra/asyiknya-panen-durian-watani-maz.html"
 ---
 
 Dering telepon terdengar nyaring di salah satu ruang di Pesantren Al-Zaytun. Suara di seberang mengabarkan Durian Watani Maz jatuh. Dr AS Panji Gumilang yang menerima telepon mengangguk-angguk sambil mengulum senyum. Dua hari kemudian durian istimewa itu sampai ke tangan pimpinan pondok pesantren di Indramayu itu.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Benur Tahan Penyakit Dengan Prebiotik Alteromonas Sp
+title: "Benur Tahan Penyakit Dengan Prebiotik Alteromonas Sp"
 categories: Perikanan
 date: 2020-07-10 14:09:55
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/benih-kepiting_1194x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/benih-kepiting_1194x800.jpg"
 tags:
 - 
 
 modification_time: 2020-07-10 14:09:55
-blogger_orig_url: http://localhost/mitra/benur-tahan-penyakit-dengan-prebiotik.html
+blogger_orig_url: "http://localhost/mitra/benur-tahan-penyakit-dengan-prebiotik.html"
 ---
 
 <em>Hatchery-hatchery selama ini mengandalkan antibiotik untuk mengatasi vibrosis. Meski tidak terlalu signifikan menaikkan SR, upaya itu paling banyak diterapkan di hatchery. Namun, penggunaan antibiotik secara terus-menerus menimbulkan masalah baru. Antibiotik memicu akumulasi residu dalam jaringan tubuh. Bahkan, menyebabkan bakteri patogen itu resistan. Akibatnya sistem kekebalan turun karena sifat antibiotik yang immuno suppressive dapat menghambat respon imunitas atau kekebalan.</em>

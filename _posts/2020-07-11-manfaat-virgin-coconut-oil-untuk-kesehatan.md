@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Manfaat Virgin Coconut Oil Untuk Kesehatan
+title: "Manfaat Virgin Coconut Oil Untuk Kesehatan"
 categories: artikel|Herbal|kesehatan|perkebunan
 date: 2020-07-11 13:46:10
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/07/vco.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/vco.jpg"
 tags:
 - kelapa
 - kolesterol
 
 modification_time: 2020-07-11 13:46:10
-blogger_orig_url: http://localhost/mitra/manfaat-virgin-coconut-oil-untuk.html
+blogger_orig_url: "http://localhost/mitra/manfaat-virgin-coconut-oil-untuk.html"
 ---
 
 <em>Di salah satu rumah sakit terkenal di Jakarta, keampuhan Manfaat Virgin Coconut Oil Untuk Kesehatan juga sedang diuji. Sebanyak 15 penderita penyakit jantung koroner diminumkan minyak perawan itu. “Setelah 1 bulan mengkonsumsi, para pasien memperlihatkan perkembangan positif,” papar Dr AH Bambang Setiaji MSc tentang studi yang sedang dilakukan seorang rekannya.</em>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Desain Kolam Lobster Air Tawar Cekung Makin Mudahkan Peternak Di Saat Panen
+title: "Desain Kolam Lobster Air Tawar Cekung Makin Mudahkan Peternak Di Saat Panen"
 categories: Perikanan
 date: 2021-12-08 10:31:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/kolam-lobster-air-tawar.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/kolam-lobster-air-tawar.jpg"
 tags:
 - air
 - cekungan
@@ -14,7 +14,7 @@ tags:
 - peternak
 
 modification_time: 2022-09-19 06:06:58
-blogger_orig_url: http://localhost/mitra/desain-kolam-kobster-air-tawar-cekung.html
+blogger_orig_url: "http://localhost/mitra/desain-kolam-kobster-air-tawar-cekung.html"
 ---
 
 Dalam budidaya lobster air tawar, kolam lobster adalah salah satu komponen penting yang perlu diperhatikan. Kolam lobster harus dirancang sedemikian rupa sehingga sesuai dengan kondisi lingkungan lobster sehingga dapat mendukung kehidupan dan pertumbuhan lobster dengan baik.

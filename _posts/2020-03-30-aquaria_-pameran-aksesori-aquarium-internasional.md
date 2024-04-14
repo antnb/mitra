@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Aquaria: Pameran Aksesori Aquarium Internasional
+title: "Aquaria: Pameran Aksesori Aquarium Internasional"
 categories: artikel|hobi
 date: 2020-03-30 12:45:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/aquaria_1165x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/aquaria_1165x800.jpg"
 tags:
 - 
 
 modification_time: 2020-03-30 12:45:34
-blogger_orig_url: http://localhost/mitra/aquaria-pameran-aksesori-aquarium.html
+blogger_orig_url: "http://localhost/mitra/aquaria-pameran-aksesori-aquarium.html"
 ---
 
 Siang itu, Hall 2 di Jinhan Exhibition Center seluas 9.000 m2 tampak meriah dihadiri para undangan mulai <a class="" style="width: auto !important" href="http://127.0.0.1/mitra/kontes-best-bonsai-santigi-show.html" id="24">dari pejabat pemerintah, eksportir, dan</a> pelaku bisnis ikan hias, dalam dan luar negeri. Selain secara simbolis membuka pameran <a href="http://127.0.0.1/mitra/evolusi-perdagangan-aksesori-ikan-hias.html" class="" style="width: auto !important" data-wpil-post-to-id="">Aksesori Aquarium, Prof Tan Qisheng juga menyerahkan piala pada masing-masing para grand champion lomba ikan</a> yang berlangsung sehari sebelumnya.

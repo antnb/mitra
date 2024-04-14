@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Teknik Menyambung Batang Tanaman Yang Terserang Cendawan
+title: "Teknik Menyambung Batang Tanaman Yang Terserang Cendawan"
 categories: perkebunan|Pertanian
 date: 2020-02-05 12:18:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/teknik-menyambung-tanaman.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/teknik-menyambung-tanaman.jpg"
 tags:
 - cendawan
 - hama
 
 modification_time: 2022-12-29 13:55:43
-blogger_orig_url: http://localhost/mitra/teknik-menyambung-tanaman-cendawan.html
+blogger_orig_url: "http://localhost/mitra/teknik-menyambung-tanaman-cendawan.html"
 ---
 
 Di Kebun Zanita di Baturaja, Sumatera Selatan terlihat batang jeruk yang merana dengan warna cokelat, kering dan rapuh tanda mati. Namun, di tengah-tengahnya justru muncul dompolan buah hijau kuning. Teknik menyambung tanaman menggunakan donor makanan dari batang baru yang muncul dari akar disebut sebagai cara penyelamatan tanaman dari serangan cendawan Upasia salmonicolor. Pemilik duku kepayang ini telah berhasil menyelamatkan tanaman dengan menyusukan tunas-tunas baru yang muncul dari akar ke batang yang sehat. Teknik ini dapat diterapkan ketika tanaman belum mati, dengan tingkat keberhasilan 90% jika penyambungan sempurna. Hasilnya tanaman tetap produktif.

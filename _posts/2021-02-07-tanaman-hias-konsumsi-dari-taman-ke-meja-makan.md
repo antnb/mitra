@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Tanaman Hias Konsumsi Dari Taman Ke Meja Makan
+title: "Tanaman Hias Konsumsi Dari Taman Ke Meja Makan"
 categories: artikel
 date: 2021-02-07 13:20:56
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_lily1_1024x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_lily1_1024x768.jpg"
 tags:
 - daun krisan
 - sirop umbi
 
 modification_time: 2021-02-07 13:20:56
-blogger_orig_url: http://localhost/mitra/tanaman-hias-konsumsi-dari-taman-ke.html
+blogger_orig_url: "http://localhost/mitra/tanaman-hias-konsumsi-dari-taman-ke.html"
 ---
 
 Indah di taman, sedap disantap di meja makan. Tanaman hias tertentu kini tak melulu menyumbang keindahan. Di balik keelokannya ia juga menawarkan kelezatan bila dikonsumsi.

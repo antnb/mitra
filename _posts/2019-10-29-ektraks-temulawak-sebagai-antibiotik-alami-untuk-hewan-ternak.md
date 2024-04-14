@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ektraks Temulawak Sebagai Antibiotik Alami Untuk Hewan Ternak
+title: "Ektraks Temulawak Sebagai Antibiotik Alami Untuk Hewan Ternak"
 categories: artikel|Peternakan
 date: 2019-10-29 08:50:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/temulawak1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/temulawak1.jpg"
 tags:
 - ekstrak
 - hewan
@@ -13,7 +13,7 @@ tags:
 - ternak
 
 modification_time: 2019-10-29 08:50:00
-blogger_orig_url: http://localhost/mitra/ektrak-temulawak-sebagai-antibiotik.html
+blogger_orig_url: "http://localhost/mitra/ektrak-temulawak-sebagai-antibiotik.html"
 ---
 
 Menyebut rimpang temu lawak (<em>Curcuma xanthorrhiza Roxb</em>), maka ingatan akan melayang kepada Javaplant. Ya, Javaplant memang identik dengan temulawak. Sudah lama, Javaplant memang bertekad akan mempopulerkan temulawak <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/air-rebusan-daun-saga-obat-hepatitis.html" data-wpil-post-to-id="">sebagai antibiotik alami bahan herbal asli Indonesia yang hanya tumbuh di tanah air dan</a> telah dibudidayakan secara turun temurun oleh bangsa Indonesia ke mancanegara.

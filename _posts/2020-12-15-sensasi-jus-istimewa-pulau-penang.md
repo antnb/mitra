@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sensasi Jus Istimewa Pulau Penang
+title: "Sensasi Jus Istimewa Pulau Penang"
 categories: artikel
 date: 2020-12-15 09:47:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_dondong_1024x681.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_dondong_1024x681.jpg"
 tags:
 - buah tropis
 - jus
 
 modification_time: 2020-12-15 09:47:10
-blogger_orig_url: http://localhost/mitra/sensasi-jus-istimewa-pulau-penang.html
+blogger_orig_url: "http://localhost/mitra/sensasi-jus-istimewa-pulau-penang.html"
 ---
 
 Pantas para pengunjung Tropical Fruit Farm tak puas dengan segelas jus. Dahaga mereka belum terobati lantaran setengah hari berkeliling kebun seluas 10 ha. “Saya haus sekali. Gelas pertama sudah habis sebelum makan siang dimulai. Yang kedua diminum setelah makan. Rasanya aneh, tapi segar dan nikmat,” tutur Dr Fadil bin Samiun, turis lokal asal Kualalumpur, Malaysia. Dokter spesialis syaraf di ibukota negeri jiran itu menyukai jus pala karena rasa dan khasiatnya. Maklum, dalam pengobatan tradisional, pala beserta minyak asirinya diyakini mampu menimbulkan efek relaksasi.

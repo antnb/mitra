@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Produk Agrikultur Indonesia: Sebuah Panduan Lengkap
+title: "Produk Agrikultur Indonesia: Sebuah Panduan Lengkap"
 categories: Pertanian
 date: 2022-11-21 18:29:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/11/produk-agrikultur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/11/produk-agrikultur.jpg"
 tags:
 - 
 
 modification_time: 2022-11-21 18:31:06
-blogger_orig_url: http://localhost/mitra/produk-agrikultur.html
+blogger_orig_url: "http://localhost/mitra/produk-agrikultur.html"
 ---
 
 Produk pertanian di Indonesia mengacu pada produk yang berasal dari sektor pertanian negara tersebut. Sektor ini mempekerjakan sebagian besar tenaga kerja negara dan memberikan kontribusi signifikan terhadap PDB negara. Indonesia adalah penghasil dan pengekspor produk pertanian utama, dengan ekspor menyumbang sekitar 15% dari PDB negara. Negara ini adalah pengekspor utama minyak kelapa sawit, kopi, teh, rempah-rempah, dan tembakau. Ini juga merupakan produsen utama beras, gandum, kedelai, jagung, dan tanaman lainnya.

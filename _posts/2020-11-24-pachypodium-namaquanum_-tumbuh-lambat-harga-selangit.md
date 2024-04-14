@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pachypodium namaquanum: Tumbuh Lambat Harga Selangit
+title: "Pachypodium namaquanum: Tumbuh Lambat Harga Selangit"
 categories: hobi|tanaman hias
 date: 2020-11-24 09:13:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_brevicaule_1024x504.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_brevicaule_1024x504.jpg"
 tags:
 - daun
 - Pachypodium
@@ -12,7 +12,7 @@ tags:
 - vas
 
 modification_time: 2020-11-24 09:13:49
-blogger_orig_url: http://localhost/mitra/pachypodium-namaquanum-tumbuh-lambat.html
+blogger_orig_url: "http://localhost/mitra/pachypodium-namaquanum-tumbuh-lambat.html"
 ---
 
 Pantas namaquanum gundul berharga mahal itu menjadi buruan hobiis. “Kita tak sekadar membeli tanaman, tapi membeli umur,” kata Edi Sebayang, kolektor pachypodium, di Tangerang. Di kediaman Edi, wartawan Mitra Usaha Tani Destika Cahyana dan Evy Syariefa melihat 2 pot namaquanum setinggi 8 sampai 10 cm menjadi klangenannya.

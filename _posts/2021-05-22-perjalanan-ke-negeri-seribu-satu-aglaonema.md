@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Perjalanan ke Negeri Seribu Satu Aglaonema
+title: "Perjalanan ke Negeri Seribu Satu Aglaonema"
 categories: hobi|tanaman hias
 date: 2021-05-22 06:56:23
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/05/Aglaonema1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/Aglaonema1.jpg"
 tags:
 - Aglaonema
 - greg hambali
@@ -13,7 +13,7 @@ tags:
 - pride of sumatera
 
 modification_time: 2021-05-22 06:56:23
-blogger_orig_url: http://localhost/mitra/perjalanan-ke-negeri-seribu-satu.html
+blogger_orig_url: "http://localhost/mitra/perjalanan-ke-negeri-seribu-satu.html"
 ---
 
 Tanyalah para penggila aglaonema, ke mana mereka memburu jenis terbaru? Thailand niscaya menjadi pilihan. Di sana puluhan penangkar tumplek blek di Bangkok dan seputaran ibukota negara Gajah Putih itu. Masing-masing getol "menelurkan" koleksi terbaru agar tak kalah pamor dari pesaing. Jadilah Thailand negara seribu satu <a class="wpil_keyword_link " title="aglaonema" href="http://127.0.0.1/mitra/topik/aglaonema" data-wpil-keyword-link="linked">aglaonema</a>.

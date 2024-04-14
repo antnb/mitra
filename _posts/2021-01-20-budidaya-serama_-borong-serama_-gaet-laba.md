@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Budidaya Serama: Borong Serama, Gaet Laba
+title: "Budidaya Serama: Borong Serama, Gaet Laba"
 categories: Peternakan
 date: 2021-01-20 12:17:56
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_949x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_949x768.jpg"
 tags:
 - serama
 - serama berkualitas
@@ -12,7 +12,7 @@ tags:
 - serama pilihan
 
 modification_time: 2021-01-20 12:17:56
-blogger_orig_url: http://localhost/mitra/borong-serama-gaet-laba.html
+blogger_orig_url: "http://localhost/mitra/borong-serama-gaet-laba.html"
 ---
 
 Saat ini Mega Bird Farm (MBF) baru sanggup memproduksi 10 anakan/bulan. Maklum, dari 17 kandang ayam serama miliknya hanya 6 induk yang menghasilkan anak. "Banyak induk belum siap bertelur. Telur yang dihasilkan pun acap gagal menetas. Betapa sulitnya menghasilkan anakan serama," kata Muchsinin, penanggungjawab kandang MBF.

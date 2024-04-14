@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya Cendana Dengan Teknologi Kultur Jaringan
+title: "Budidaya Cendana Dengan Teknologi Kultur Jaringan"
 categories: artikel|perkebunan
 date: 2020-09-15 12:08:41
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Manfaat-Kayu-Cendana-Daun-Cendana_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Manfaat-Kayu-Cendana-Daun-Cendana_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-15 12:08:41
-blogger_orig_url: http://localhost/mitra/budidaya-cendana-dengan-teknologi.html
+blogger_orig_url: "http://localhost/mitra/budidaya-cendana-dengan-teknologi.html"
 ---
 
 <em>Populasi cendana muda pada 1997 mencapai 502.584 pohon. Namun, pada 2001 hanya tinggal sekitar 17.000 pohon. Kondisi ini jelas sangat memprihatinkan. Untuk menyelamatkannya, upaya pelestarian sudah harus dilakukan. Pelestarian sumber daya hayati tersebut merupakan tanggung jawab kita bersama sebagai bangsa. Baik pemerintah sebagai pengambil keputusan, lembaga penelitian, perguruan tinggi, LSM, swasta, maupun masyarakat pada umumnya.</em>

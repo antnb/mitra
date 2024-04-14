@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Langkah Menghasilkan Ranchu Berkualitas Dan Bermutu
+title: "Langkah Menghasilkan Ranchu Berkualitas Dan Bermutu"
 categories: hobi|ikan hias
 date: 2020-10-21 09:37:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/lionhead.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/lionhead.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 09:37:24
-blogger_orig_url: http://localhost/mitra/langkah-menghasilkan-ranchu.html
+blogger_orig_url: "http://localhost/mitra/langkah-menghasilkan-ranchu.html"
 ---
 
 Selain Jepang, Thailand dikenal piawai menghasilkan ranchu berkualitas. Tak heran bila maskoki keluaran negeri Siam itu diminati berbagai negara. Itu buah kerja keras pemulia di sana selama 5 tahun terakhir. Inilah rahasia mereka membidani kelahiran ranchu bermutu.

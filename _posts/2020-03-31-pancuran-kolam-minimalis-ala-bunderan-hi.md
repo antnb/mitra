@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pancuran kolam minimalis Ala Bunderan HI
+title: "Pancuran kolam minimalis Ala Bunderan HI"
 categories: artikel|hobi
 date: 2020-03-31 11:50:30
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/pancuran_717x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/pancuran_717x800.jpg"
 tags:
 - 
 
 modification_time: 2020-03-31 11:50:30
-blogger_orig_url: http://localhost/mitra/pancuran-kolam-minimalis-ala-bunderan.html
+blogger_orig_url: "http://localhost/mitra/pancuran-kolam-minimalis-ala-bunderan.html"
 ---
 
 Air mancur di bundaran HI itu memang istimewa. Puluhan nozel(mata pipa)itu mampu menyedot pandangan pengendara dan penumpang kendaraan yang melewati kawasan itu. “Pancuran kolam Itu pakai 4 mata pipa yang dikombinasi sedemikian rupa membentuk kelopak bunga,” ujar Harjanto, desainer kolam taman di Jakarta. Kolam itu semakin indah lantaran air yang jatuh memberi kesan tumpah ke sekeliling kolam.

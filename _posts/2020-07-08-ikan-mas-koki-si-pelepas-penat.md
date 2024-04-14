@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ikan Mas Koki Si Pelepas Penat
+title: "Ikan Mas Koki Si Pelepas Penat"
 categories: artikel|hobi|ikan hias|Perikanan
 date: 2020-07-08 07:56:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/Goldfish_Lionchu_first_orize_winner_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/Goldfish_Lionchu_first_orize_winner_1200x800.jpg"
 tags:
 - ranchu
 - ryukin
 
 modification_time: 2020-07-08 07:56:07
-blogger_orig_url: http://localhost/mitra/ikan-mas-koki-si-pelepas-penat.html
+blogger_orig_url: "http://localhost/mitra/ikan-mas-koki-si-pelepas-penat.html"
 ---
 
 <em>Begitulah cara Ferdinandes menangkap pancaran energi dari maskoki untuk menghilangkan stres sehabis menempuh perjalanan dari rumah di Muarakarang, Jakarta Utara ke kantornya di Cikupa, Tangerang, Banten. Lalu lintas padat yang menghubungkan kedua tempat berjarak 50 km itu membuat perjalanan terasa jauh. “Sulit rasanya memulai aktivitas. Badan terasa pegal-pegal,” ujar kelahiran Medan 41 tahun silam itu.</em>

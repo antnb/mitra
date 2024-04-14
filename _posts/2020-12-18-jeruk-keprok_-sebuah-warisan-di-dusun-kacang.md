@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jeruk Keprok: Sebuah Warisan di Dusun Kacang
+title: "Jeruk Keprok: Sebuah Warisan di Dusun Kacang"
 categories: perkebunan
 date: 2020-12-18 12:18:43
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_keprok_914x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_keprok_914x768.jpg"
 tags:
 - dusun kacang
 - Jeruk keprok
@@ -12,7 +12,7 @@ tags:
 - kulit buah
 
 modification_time: 2020-12-18 12:18:43
-blogger_orig_url: http://localhost/mitra/jeruk-keprok-sebuah-warisan-di-dusun.html
+blogger_orig_url: "http://localhost/mitra/jeruk-keprok-sebuah-warisan-di-dusun.html"
 ---
 
 Pantas saja keprok kacang jadi kebanggaan kabupaten yang berdiri pada 29 Juli 1958 itu. Kulit buah yang dipetik matang penuh berwarna kuning keoranyean. Persis keprok-keprok yang didatangkan dari Cina, Australia, atau Amerika Serikat. Meski tebal, tak sulit mengupasnya.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ubi Telo Unggulan Silangan Arek Malang
+title: "Ubi Telo Unggulan Silangan Arek Malang"
 categories: perkebunan
 date: 2020-11-14 06:11:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_telo_sukuh_640x425.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_telo_sukuh_640x425.jpg"
 tags:
 - ubi
 - ubi jalar
 
 modification_time: 2020-11-14 06:11:35
-blogger_orig_url: http://localhost/mitra/ubi-telo-unggulan-silangan-arek-malang.html
+blogger_orig_url: "http://localhost/mitra/ubi-telo-unggulan-silangan-arek-malang.html"
 ---
 
 Produksi rata-rata ubijalar hanya 10-15 ton/ha. Namun, potensi produksi 5 jenis ubijalar hibrida temuan Balai Penelitian Tanaman Kacang-kacangan dan umbi-umbian (Balitkabi) Malang mencapai 25-30 ton/ha. Sejak 2001 kelima jenis telo alias ubijalar itu dilepas sebagai varietas unggul.

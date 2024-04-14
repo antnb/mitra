@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Raja Arwana dari Bumi Khatulistiwa
+title: "Raja Arwana dari Bumi Khatulistiwa"
 categories: hobi|ikan hias
 date: 2020-11-02 13:34:56
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_arwana_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_arwana_1280x720.jpg"
 tags:
 - arowana
 - Arwana
 - kolam arwana
 
 modification_time: 2020-11-02 13:34:56
-blogger_orig_url: http://localhost/mitra/raja-arwana-dari-bumi-khatulistiwa.html
+blogger_orig_url: "http://localhost/mitra/raja-arwana-dari-bumi-khatulistiwa.html"
 ---
 
 Dengan 1.600 ekor induk, PT Wajok Inti Lestari (WIL) menjadi salah satu eksportir terbesar. Dalam semester pertama 2002 WIL melempar 2.703 ekor arwana merah (super red) ke pasaran. Masing-masing 1.709 ekor ke Jakarta, dan 994 ekor ke Malaysia, Taiwan, serta Singapura. WIL juga mengekspor 850 ekor kuning banjar (banjar red) dan 950 ekor kuning riau (golden red) ke Taiwan dan Malaysia. Kalau harga rata-rata per ekor Rp3-juta, tahun ini minimal Rpl3,5-miliar mengisi kantung The Hendrie, pemiliknya.

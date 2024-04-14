@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sakai Fish Farm: Gudang Koi Kelas Grand Champion
+title: "Sakai Fish Farm: Gudang Koi Kelas Grand Champion"
 categories: artikel|ikan hias
 date: 2020-10-25 12:57:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Sakai-Fish-Farm2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Sakai-Fish-Farm2.jpg"
 tags:
 - 
 
 modification_time: 2020-10-25 12:57:04
-blogger_orig_url: http://localhost/mitra/sakai-fish-farm-gudang-koi-kelas.html
+blogger_orig_url: "http://localhost/mitra/sakai-fish-farm-gudang-koi-kelas.html"
 ---
 
 Obsesi Winarso Tanuwijaya meraih gelar bergengsi pada lomba koi dibayar lunas saat kontes 2nd Jakarta Koi Show 2018. Gelar mature champion dan young champion berturut-turut disabetnya. Pemilik Golden Koi Center itu membuktikan sendiri kehebatan kohaku dan sanke "jebolan" Sakai Fish Farm (SFF). Padahal prestasi itu belum seberapa jika melongok kiprah koi SFF di Jepang.

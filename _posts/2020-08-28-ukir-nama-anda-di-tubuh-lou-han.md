@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ukir Nama Anda di Tubuh Lou Han
+title: "Ukir Nama Anda di Tubuh Lou Han"
 categories: hobi|ikan hias
 date: 2020-08-28 07:22:59
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/louhan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/louhan.jpg"
 tags:
 - 
 
 modification_time: 2020-08-28 07:22:59
-blogger_orig_url: http://localhost/mitra/ukir-nama-anda-di-tubuh-lou.html
+blogger_orig_url: "http://localhost/mitra/ukir-nama-anda-di-tubuh-lou.html"
 ---
 
 <em>Inginkah nama Anda terukir di tubuh lou han? Itu mungkin saja terjadi, tapi perlu waktu lama. Lou han pang kini banyak diperdagangkan dirancang 5-6 tahun lalu. Sosoknya terus disempurnakan hingga motif menyerupai huruf Mandarin, jidat nonong, warna cerah dengan taburan kristal atau mutiara, jika persilangan terus dilakukan, pasti keinginan Anda terwujud.</em>

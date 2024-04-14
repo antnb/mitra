@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Analisa Alih Fungsi Ruko Menjadi Rumah Walet
+title: "Analisa Alih Fungsi Ruko Menjadi Rumah Walet"
 categories: Peternakan
 date: 2020-03-20 18:58:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Untitled_1056x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Untitled_1056x800.jpg"
 tags:
 - Apodidae
 - walet
 
 modification_time: 2020-03-20 18:58:22
-blogger_orig_url: http://localhost/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html
+blogger_orig_url: "http://localhost/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html"
 ---
 
 Saat senja mulai merayap, ribuan walet melayang di kawasan Pecinan Pati. Mereka beterbangan di atas puluhan rumah walet sehabis berburu pakan di Pegunungan Kapur Utara, di sebelah selatan, dan Pesisir Laut Jawa, di sisi utara. Di situlah penghasil liur emas membentuk sarang dan beranak pinak. "Sekali panen bisa 3 kuintal," ujar H Ahmad Suyuti, praktisi walet di kota itu, sambil menunjuk sebuah rumah walet.

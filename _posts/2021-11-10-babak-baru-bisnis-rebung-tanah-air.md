@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Babak Baru Bisnis Rebung Tanah Air
+title: "Babak Baru Bisnis Rebung Tanah Air"
 categories: perkebunan
 date: 2021-11-10 07:48:33
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/bisnis-rebung.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/bisnis-rebung.jpg"
 tags:
 - rebung
 
 modification_time: 2022-09-19 08:26:01
-blogger_orig_url: http://localhost/mitra/babak-baru-bisnis-rebung-tanah-air.html
+blogger_orig_url: "http://localhost/mitra/babak-baru-bisnis-rebung-tanah-air.html"
 ---
 
 Pohon Bambu adalah jenis bambu yang sering ditanam di sekitar rumah. Tunas bambu yang masih muda dan belum keras disebut dengan Rebung. Rebung sering digunakan untuk berbagai keperluan, seperti sebagai media pembuatan makanan, dan sebagainya. Oleh karena itu, permintaan untuk bambu rebung sangat tinggi.

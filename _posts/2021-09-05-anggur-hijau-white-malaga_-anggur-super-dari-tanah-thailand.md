@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Anggur Hijau White malaga, Anggur Super Dari Tanah Thailand
+title: "Anggur Hijau White malaga, Anggur Super Dari Tanah Thailand"
 categories: perkebunan
 date: 2021-09-05 11:28:47
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/anggur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/anggur.jpg"
 tags:
 - Anggur
 - White malaga
 
 modification_time: 2022-09-11 01:18:24
-blogger_orig_url: http://localhost/mitra/anggur-hijau-kuning-dari-don-kruai.html
+blogger_orig_url: "http://localhost/mitra/anggur-hijau-kuning-dari-don-kruai.html"
 ---
 
 Udara terasa kering di bawah sorotan sang surya tengah hari. Suasana sunyi senyap, tak ada gemuruh kendaraan roda dua atau empat dijalan beraspal mulus itu. Sayup-sayup sampai terdengar suara orang bercakap-cakap di tengah ladang.

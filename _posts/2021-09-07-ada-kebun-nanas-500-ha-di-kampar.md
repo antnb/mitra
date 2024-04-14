@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ada Kebun Nanas 500 ha di Kampar
+title: "Ada Kebun Nanas 500 ha di Kampar"
 categories: perkebunan
 date: 2021-09-07 09:06:27
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/nanas1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/nanas1.jpg"
 tags:
 - nanas
 - Nanas madu
 
 modification_time: 2021-09-07 09:06:27
-blogger_orig_url: http://localhost/mitra/ada-kebun-nanas-500-ha-di.html
+blogger_orig_url: "http://localhost/mitra/ada-kebun-nanas-500-ha-di.html"
 ---
 
 Buah <a href="http://127.0.0.1/mitra/topik/nanas-madu">nanas madu</a> berbentuk bulat lonjong bersisik tergantung di tiang stainless steel di sebuah pasar swalayan di Pekanbaru, Riau itu menarik banyak pengunjung. Sosok besar, 1,5 kg dan warna kuning kehijauan membangkitkan selera makan siapa pun yang melihatnya. Rasa Buah <span class="keyword _ngcontent-jqi-98" aria-hidden="false">nanas madu</span> manis dan nyaris tanpa serat. Itulah nanas andalan TH Mix Farming yang dikembangkan di kebun nanas seluas 500 ha di Kualu, Kampar, Riau.

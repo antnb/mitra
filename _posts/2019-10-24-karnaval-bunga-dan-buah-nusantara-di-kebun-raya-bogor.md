@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Karnaval Bunga dan Buah Nusantara di Kebun Raya Bogor
+title: "Karnaval Bunga dan Buah Nusantara di Kebun Raya Bogor"
 categories: artikel|Pertanian
 date: 2019-10-24 07:32:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/buah6.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/buah6.jpg"
 tags:
 - bogor
 - Buah
@@ -12,7 +12,7 @@ tags:
 - nusantara
 
 modification_time: 2022-12-28 14:54:14
-blogger_orig_url: http://localhost/mitra/permasalahan-seputar-rantai-pasok-buah.html
+blogger_orig_url: "http://localhost/mitra/permasalahan-seputar-rantai-pasok-buah.html"
 ---
 
 <i>Beragam bunga seperti krisan, mawar, dan anggrek menyelimuti sebuah mobil. Di bagian depan beragam buah nasional indonesia seperti semangka, pisang, dan nanas turut menghias mobil itu. Lima mobil yang semuanya berhias bunga <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/durian-otak-udang-galah-draveolens.html" data-wpil-post-to-id="">dan buah</a> itu berderet-deret di lapangan kampus lama Institut Pertanian Bogor di kawasan Baranangsiang dan bersiap mengelilingi Kebun Raya Bogor.</i>

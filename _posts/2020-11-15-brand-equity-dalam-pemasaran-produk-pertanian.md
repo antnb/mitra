@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Brand Equity Dalam Pemasaran Produk Pertanian
+title: "Brand Equity Dalam Pemasaran Produk Pertanian"
 categories: artikel
 date: 2020-11-15 04:39:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_20160216093636-Untitled-4_640x427.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_20160216093636-Untitled-4_640x427.jpeg"
 tags:
 - brand
 - merk
 
 modification_time: 2020-11-15 04:39:24
-blogger_orig_url: http://localhost/mitra/brand-equity-dalam-pemasaran-produk.html
+blogger_orig_url: "http://localhost/mitra/brand-equity-dalam-pemasaran-produk.html"
 ---
 
 Memasarkan produk pertanian bukanlah hal gampang. Seorang pemasar harus benar-benar jeli melihat potensi pasar dan produk sebelum melepasnya. Ada sejumlah faktor yang menentukan keberhasilan pemasaran. Salah satunya, brand equity sesuatu dari hasil pertanian yang memberikan nilai tambah sekaligus memuaskan keinginan konsumen. Brand equity sangat dipengaruhi oleh persepsi kualitas dan nama/merek dari suatu produk. Produk A memiliki brand equity kuat bila ia diterima, disukai, dan dibutuhkan konsumen. Sebaliknya, brand equity lemah ketika tingkat kepuasan konsumen rendah.

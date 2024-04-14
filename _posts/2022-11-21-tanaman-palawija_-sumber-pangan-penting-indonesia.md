@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanaman Palawija: Sumber Pangan Penting Indonesia
+title: "Tanaman Palawija: Sumber Pangan Penting Indonesia"
 categories: Pertanian
 date: 2022-11-21 18:04:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/11/Tanaman-Palawija.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/11/Tanaman-Palawija.jpg"
 tags:
 - buah buahan
 - indonesia
@@ -13,7 +13,7 @@ tags:
 - tanaman palawija
 
 modification_time: 2022-11-21 18:04:54
-blogger_orig_url: http://localhost/mitra/tanaman-palawija.html
+blogger_orig_url: "http://localhost/mitra/tanaman-palawija.html"
 ---
 
 Palawija adalah sebuah kelompok tanaman yang termasuk dalam keluarga Fabaceae. Palawija biasanya ditanam untuk tujuan <a class="wpil_keyword_link" href="http://127.0.0.1/mitra/pertanian"   title="pertanian" data-wpil-keyword-link="linked">pertanian</a>, seperti untuk bahan makanan atau untuk industri. Beberapa jenis palawija yang paling umum ditanam adalah kacang-kacangan, seperti kacang tanah, kacang hijau, dan kacang merah. Palawija juga termasuk jenis-jenis tanaman seperti kedelai, jagung, dan buncis.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perihal Retribusi dan Larangan Perdagangan Sarang Walet
+title: "Perihal Retribusi dan Larangan Perdagangan Sarang Walet"
 categories: artikel
 date: 2020-09-06 06:13:13
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Perdagangan-Sarang-Walet_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Perdagangan-Sarang-Walet_1280x719.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 06:13:13
-blogger_orig_url: http://localhost/mitra/perihal-retribusi-dan-larangan.html
+blogger_orig_url: "http://localhost/mitra/perihal-retribusi-dan-larangan.html"
 ---
 
 <em>Mungkin tak pemah terlintas di benak Anda perdagangan sarang walet nyaris dilarang. Konferensi CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) di Florida, AS, pada 1994 membahas kemungkinan itu.</em>

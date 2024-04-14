@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Semarak bunga eksklusif Penghias Taman Rumah
+title: "Semarak bunga eksklusif Penghias Taman Rumah"
 categories: Gardening|tanaman hias
 date: 2021-01-23 03:24:29
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_taman_1024x612.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_taman_1024x612.jpg"
 tags:
 - Aglaonema
 - aglaonema berdaun
@@ -14,7 +14,7 @@ tags:
 - pride of sumatera
 
 modification_time: 2021-01-23 03:24:29
-blogger_orig_url: http://localhost/mitra/semarak-bunga-eksklusif-penghias-taman.html
+blogger_orig_url: "http://localhost/mitra/semarak-bunga-eksklusif-penghias-taman.html"
 ---
 
 Selain donacarmen, pride of sumatera kini juga ditanam kolosal sebagai border teduh. Chandra Gunawan, kolektor tanaman hias di Sawangan, Depok memanfaatkannya untuk elemen Penghias Taman. bunga eksklusif berharga Rp 15.000 per helai daun itu ditanam di antara walisongo dan philodendron. Meski hanya menggunakan 10 tanaman, taman mungil seluas 50 m2 jadi terkesan eksklusif.

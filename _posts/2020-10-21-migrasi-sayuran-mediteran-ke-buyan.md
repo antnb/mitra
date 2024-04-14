@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Migrasi Sayuran Mediteran ke Buyan
+title: "Migrasi Sayuran Mediteran ke Buyan"
 categories: artikel|hobi
 date: 2020-10-21 05:23:09
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/basil.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/basil.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 05:23:09
-blogger_orig_url: http://localhost/mitra/migrasi-sayuran-mediteran-ke-buyan.html
+blogger_orig_url: "http://localhost/mitra/migrasi-sayuran-mediteran-ke-buyan.html"
 ---
 
 <p>Sepiring salad tersaji di atas meja di sebuah restoran di Bali. Yang istimewa di permukaan atas terdapat pucuk-pucuk tanaman berdaun melancip. Aroma khas, tajam lagi menyegarkan. Itulah rosemary Rosemarinus officinalis, sayuran rempah asal Mediteran yang dikembangkan Marco de Leonardis.</p>

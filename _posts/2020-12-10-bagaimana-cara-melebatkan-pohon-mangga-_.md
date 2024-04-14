@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bagaimana cara melebatkan pohon mangga ?
+title: "Bagaimana cara melebatkan pohon mangga ?"
 categories: Tanya Jawab
 date: 2020-12-10 18:08:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_mangga_1024x656.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_mangga_1024x656.jpg"
 tags:
 - Mangga
 
 modification_time: 2020-12-10 18:08:04
-blogger_orig_url: http://localhost/mitra/bagaimana-cara-melebatkan-pohon-mangga.html
+blogger_orig_url: "http://localhost/mitra/bagaimana-cara-melebatkan-pohon-mangga.html"
 ---
 
 Saya petani mangga di Pemalang, tapi kebun saya kurang produktif. Pertanyaan saya:

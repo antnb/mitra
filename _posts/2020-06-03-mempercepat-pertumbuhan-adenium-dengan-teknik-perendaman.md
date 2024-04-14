@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mempercepat Pertumbuhan Adenium Dengan Teknik Perendaman
+title: "Mempercepat Pertumbuhan Adenium Dengan Teknik Perendaman"
 categories: Gardening|hobi|tanaman hias
 date: 2020-06-03 12:16:54
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/123_1194x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/123_1194x800.jpg"
 tags:
 - Adenium
 
 modification_time: 2020-06-03 12:16:54
-blogger_orig_url: http://localhost/mitra/mempercepat-pertumbuhan-adenium-dengan.html
+blogger_orig_url: "http://localhost/mitra/mempercepat-pertumbuhan-adenium-dengan.html"
 ---
 
 <em>Banyak orang tak percaya teknik ala Frans panggilan akrab Fransiscus bisa mempercepat pertumbuhan adenium. Pasalnya, tanaman asli gurun pasir itu dikenal sebagai sukulen alias banyak menyimpan air. Tanaman seperti itu dianggap antiair. Pengairan yang berlebih bisa menyebabkan sukulen membusuk.</em>

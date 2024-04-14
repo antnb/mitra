@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Berbagai Manfaat Dan Produk olahan jagung manis
+title: "Berbagai Manfaat Dan Produk olahan jagung manis"
 categories: artikel|perkebunan|Pertanian
 date: 2020-02-25 14:36:41
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/jagung-kering.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/jagung-kering.jpg"
 tags:
 - jagung
 - maizena
 
 modification_time: 2020-02-25 14:36:41
-blogger_orig_url: http://localhost/mitra/produk-olahan-jagung-manis.html
+blogger_orig_url: "http://localhost/mitra/produk-olahan-jagung-manis.html"
 ---
 
 Saat ini bus berbahan bakar etanol dari <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/produk-olahan-kelapa-pandan-wangi.html" id="">Produk Olahan</a> jagung memang belum melintasi jalanan di Jakarta. Namun, di beberapa negara seperti Kanada atau Amerika Serikat wahana semacam itu lalu-lalang di jalanan.

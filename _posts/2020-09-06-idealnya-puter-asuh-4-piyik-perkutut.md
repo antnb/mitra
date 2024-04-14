@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Idealnya Puter Asuh 4 Piyik Perkutut
+title: "Idealnya Puter Asuh 4 Piyik Perkutut"
 categories: hobi
 date: 2020-09-06 14:17:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_perkututnusantara_1092x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_perkututnusantara_1092x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 14:17:16
-blogger_orig_url: http://localhost/mitra/idealnya-puter-asuh-4-piyik-perkutut.html
+blogger_orig_url: "http://localhost/mitra/idealnya-puter-asuh-4-piyik-perkutut.html"
 ---
 
 <em>Apakah suara perkutut Anda ngempos seperti tali bass gitar yang kendor? Atau cowong tapi agak kasar alias tidak bersih? Penyebabnya karena diasuh puter. Piyik-piyik perkutut yang dititipkan ke puter mempunyai tembolok lebih besar sehingga menurunkan kualitas suara.</em>

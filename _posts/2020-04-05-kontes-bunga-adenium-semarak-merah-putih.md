@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kontes Bunga Adenium Semarak Merah Putih
+title: "Kontes Bunga Adenium Semarak Merah Putih"
 categories: hobi|tanaman hias
 date: 2020-04-05 06:35:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Kontes-adenium.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Kontes-adenium.jpg"
 tags:
 - Adenium
 - kontes
 
 modification_time: 2020-04-05 06:35:53
-blogger_orig_url: http://localhost/mitra/kontes-bunga-adenium-semarak-merah.html
+blogger_orig_url: "http://localhost/mitra/kontes-bunga-adenium-semarak-merah.html"
 ---
 
 Pantas adenium jagoan Dede meraih juara pertama di kontes bunga adenium bertajuk Semarak Merah Putih, Agustus 2019. Taburan <a href="http://127.0.0.1/mitra/tanaman-hias">bunga</a> di atas tajuk menunjukkan ia paling siap di antara peserta lain. Alur dari bonggol, batang, dan percabangan pun terlihat mengalir. “Penampilannya utuh dan matang. Karakternya pun alami,” ujar Andy Solviano Fajar, koordinator juri, saat <a href="http://127.0.0.1/mitra">Mitrausahatani</a> memintanya berkomentar.

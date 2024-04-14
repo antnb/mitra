@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Budidaya jamur merang: Menjemput Laba di Atas Cawan
+title: "Budidaya jamur merang: Menjemput Laba di Atas Cawan"
 categories: perkebunan
 date: 2021-05-24 11:25:56
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/jamur2-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/jamur2-1.jpg"
 tags:
 - jamur
 - jamur merang
@@ -12,7 +12,7 @@ tags:
 - kumbung jamur
 
 modification_time: 2021-05-24 11:25:56
-blogger_orig_url: http://localhost/mitra/cara-budidaya-jamur-merang.html
+blogger_orig_url: "http://localhost/mitra/cara-budidaya-jamur-merang.html"
 ---
 
 Keputusan sulit akhirnya diambil Misa Suwarsa. Ia menetapkan pilihan meninggalkan profesi dosen di sebuah perguruan tinggi di Jakarta yang telah dijalani selama 5 tahun untuk mengeluti dunia <span class="keyword _ngcontent-boq-103" aria-hidden="false">budidaya jamur merang</span>. Alumnus Teknik Kimia Institut Teknologi Bandung itu menanggung risiko: dikucilkan keluarga hampir sewindu lamanya. Keluarga besarnya menentang pilihan Misa sebagai pekebun jamur merang yang dinilai kurang bermanfaat.

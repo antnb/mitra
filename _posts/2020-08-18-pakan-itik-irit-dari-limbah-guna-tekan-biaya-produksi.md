@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pakan Itik Irit Dari Limbah Guna Tekan Biaya Produksi
+title: "Pakan Itik Irit Dari Limbah Guna Tekan Biaya Produksi"
 categories: artikel|Peternakan
 date: 2020-08-18 14:20:01
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/180609171648-573_1280x738.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/180609171648-573_1280x738.jpg"
 tags:
 - 
 
 modification_time: 2020-08-18 14:20:01
-blogger_orig_url: http://localhost/mitra/pakan-itik-irit-dari-limbah-guna.html
+blogger_orig_url: "http://localhost/mitra/pakan-itik-irit-dari-limbah-guna.html"
 ---
 
 <em>H. Hibatullah cukup menggunakan campuran roti bekas, nasi kering, dan dedak untuk 700 ekor itiknya. Sebagai tambahan gizi, diberikan pakan alami segar keong mas atau ikan rucah. Produktivitas bisa 60%-70%. Padahal kalau dihitung harga pakan hanya sekitar Rp 750/kg, jauh lebih irit dibanding pakan pabrik.</em>

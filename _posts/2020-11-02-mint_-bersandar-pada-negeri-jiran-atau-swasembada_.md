@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mint: Bersandar pada Negeri Jiran atau Swasembada?
+title: "Mint: Bersandar pada Negeri Jiran atau Swasembada?"
 categories: perkebunan
 date: 2020-11-02 11:40:26
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/mint.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/mint.jpeg"
 tags:
 - mint
 - sayuran
 
 modification_time: 2020-11-02 11:40:26
-blogger_orig_url: http://localhost/mitra/mint-bersandar-pada-negeri-jiran-atau.html
+blogger_orig_url: "http://localhost/mitra/mint-bersandar-pada-negeri-jiran-atau.html"
 ---
 
 Jutaan dolar devisa Indonesia mengalir deras ke mancanegara. Maklum untuk memenuhi kebutuhan berbagai industri, kita terpaksa mengimpor mint. Volume impor pada 2003 menurut Badan Pusat Statistik tercatat 281.175 kg senilai US$2.385.757. Dari volume itu 200 ton di antaranya merupakan minyak asiri Mentha piperita. Volume tahun sebelumnya 238.522 kg (US$1.655.054).

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: SIASAT DEMI Mendongkrak Produksi Cabai
+title: "SIASAT DEMI Mendongkrak Produksi Cabai"
 categories: Pertanian
 date: 2020-11-01 10:41:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/cabe1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/cabe1.jpg"
 tags:
 - cabai
 - kebun
 - petani
 
 modification_time: 2020-11-01 10:41:03
-blogger_orig_url: http://localhost/mitra/siasat-demi-mendongkrak-produksi-cabai.html
+blogger_orig_url: "http://localhost/mitra/siasat-demi-mendongkrak-produksi-cabai.html"
 ---
 
 Begitulah cara Totok Wigianto mendongkrak produksi cabai. Bandingkan jika populasinya cuma 14.000 seperti lazim dilakukan pekebun. Produksi per ha hanya 11,2 ton. Toh, ketika jumlah tanaman ditingkatkan, tambahan biaya produksi relatif kecil, sekitar Rpl-juta---Rp2-juta. Itu untuk pembelian benih dan pestisida. Sedangkan biaya pengolahan tanah, mulsa plastik, dan pupuk tetap sama.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pekebun Lembang Budidayakan 4 Jenis Lobak Korea Unggulan
+title: "Pekebun Lembang Budidayakan 4 Jenis Lobak Korea Unggulan"
 categories: perkebunan|Pertanian
 date: 2021-05-26 07:52:52
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/05/altari.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/altari.jpg"
 tags:
 - daebu
 - hijau
@@ -16,7 +16,7 @@ tags:
 - umbi lobak
 
 modification_time: 2021-05-26 07:52:52
-blogger_orig_url: http://localhost/mitra/4-jenis-lobak-korea-unggulan.html
+blogger_orig_url: "http://localhost/mitra/4-jenis-lobak-korea-unggulan.html"
 ---
 
 Di dapur sebuah restoran di Melawai, Jakarta Selatan, suatu siang. Seorang koki cekatan memotong dadu <span class="keyword _ngcontent-boq-103" aria-hidden="false">lobak korea</span> berkulit putih berpadu hijau muda. Irisan Lobak Hibrida itu kemudian dicemplungkan ke wadah berisi air mendidih bersama irisan bawang bombay, cabai hijau, jamur shiitake, dan kentang. Beberapa sendok makan doenjang atau tauco khas Korea menambah cita rasa masakan. Aroma sup itu menguar dan membangkitkan selera makan siang.

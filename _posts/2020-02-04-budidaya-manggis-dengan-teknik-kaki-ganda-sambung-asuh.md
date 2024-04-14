@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Budidaya Manggis Dengan Teknik kaki ganda sambung asuh
+title: "Budidaya Manggis Dengan Teknik kaki ganda sambung asuh"
 categories: Pertanian
 date: 2020-02-04 06:06:28
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/sambung-asuh.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/sambung-asuh.jpg"
 tags:
 - kaki ganda
 - manggis
 
 modification_time: 2022-09-18 14:55:08
-blogger_orig_url: http://localhost/mitra/budidaya-manggis-dengan-teknik-kaki.html
+blogger_orig_url: "http://localhost/mitra/budidaya-manggis-dengan-teknik-kaki.html"
 ---
 
 Sepintas tak ada yang istimewa dari pemandangan itu. Namun, siapa menyangka, <em>queen of fruits</em> itu telah berbuah sejak umur 4 tahun. Manggis lain di atas 10 tahun. Budidaya Manggis dengan <em>Pemberian naungan dan pemangkasan menjadi kunci keberhasilan</em>.

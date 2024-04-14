@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Salak Berair Unggulan Sangatta
+title: "Salak Berair Unggulan Sangatta"
 categories: perkebunan
 date: 2020-09-02 09:12:39
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_salak_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_salak_1280x719.jpg"
 tags:
 - 
 
 modification_time: 2020-09-02 09:12:39
-blogger_orig_url: http://localhost/mitra/salak-berair-unggulan-sangatta.html
+blogger_orig_url: "http://localhost/mitra/salak-berair-unggulan-sangatta.html"
 ---
 
 Jika Anda ke Samarinda atau Tenggarong jangan lupa salak sangatta sebagai oleh-oleh. Rasanya khas, manis disertai aroma nangka. Ketika digigit buah berkadar air tinggi itu menjadi penawar dahaga. Ces,... rasa manis segera membasahi tenggorokan.

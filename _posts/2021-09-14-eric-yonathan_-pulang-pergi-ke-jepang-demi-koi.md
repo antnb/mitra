@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Eric Yonathan: Pulang Pergi ke Jepang Demi Koi
+title: "Eric Yonathan: Pulang Pergi ke Jepang Demi Koi"
 categories: hobi|ikan hias
 date: 2021-09-14 09:35:36
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/ikan-koi.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/ikan-koi.jpg"
 tags:
 - farm koi
 - hobi ikan
@@ -13,7 +13,7 @@ tags:
 - sanke
 
 modification_time: 2021-09-14 09:35:36
-blogger_orig_url: http://localhost/mitra/eric-yonathan-pulang-pergi-ke-jepang.html
+blogger_orig_url: "http://localhost/mitra/eric-yonathan-pulang-pergi-ke-jepang.html"
 ---
 
 Berburu koi ke Jepang bagi Eric Yonathan tak ubahnya mencari harta karun. Di sana ia mengaduk-aduk farm-farm koi kenamaan. Dimulai dengan mengunjungi jejeran kolam kohaku, showa, dan sanke di farm Maruyama. Hari berikutnya giliran Dai Nichi dan Matsuno Suke, di Nigata, Jepang, yang diincar. Belum puas dengan hasil buruannya, ia pun menambah koleksi ogon, taisho, shusui, goshiki, dan jenis lain di farm Hosikin. Hasilnya, 600 koi berkualitas senilai lebih dari Rp1 miliar terbang bersama ke Indonesia.

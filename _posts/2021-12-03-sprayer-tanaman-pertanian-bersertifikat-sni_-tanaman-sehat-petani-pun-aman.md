@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sprayer Tanaman Pertanian Bersertifikat SNI, Tanaman Sehat Petani Pun Aman
+title: "Sprayer Tanaman Pertanian Bersertifikat SNI, Tanaman Sehat Petani Pun Aman"
 categories: artikel|perkebunan|Pertanian
 date: 2021-12-03 08:40:44
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/nozle.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/nozle.jpg"
 tags:
 - 
 
 modification_time: 2022-09-20 08:33:53
-blogger_orig_url: http://localhost/mitra/sprayer-tanaman-pertanian-bersertifikat.html
+blogger_orig_url: "http://localhost/mitra/sprayer-tanaman-pertanian-bersertifikat.html"
 ---
 
 Pertanian telah berubah sejak zaman dulu. Peralatan pertanian telah mengalami banyak perubahan sejak zaman dulu. Salah satu peralatan pertanian yang paling berkembang adalah penyemprot pertanian. Penyemprot pertanian telah membantu petani dalam meningkatkan hasil pertanian mereka.

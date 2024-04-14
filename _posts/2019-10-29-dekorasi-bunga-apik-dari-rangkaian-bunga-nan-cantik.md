@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Dekorasi Bunga Apik Dari rangkaian Bunga Nan Cantik
+title: "Dekorasi Bunga Apik Dari rangkaian Bunga Nan Cantik"
 categories: tanaman hias
 date: 2019-10-29 11:55:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/dekor-bunga.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/dekor-bunga.jpg"
 tags:
 - bunga
 - daun
 - mawar
 
 modification_time: 2019-10-29 11:55:00
-blogger_orig_url: http://localhost/mitra/dekorasi-apik-dari-rangkaian-bunga-nan.html
+blogger_orig_url: "http://localhost/mitra/dekorasi-apik-dari-rangkaian-bunga-nan.html"
 ---
 
 <i>Apa jadinya jika daun anggur laut itu kering? Angin meluruhkan daun dari batang perdu itu. Daun tanaman anggota famili Polygonaceae itu biasanya terbuang sia-sia</i>

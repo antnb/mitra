@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sepenggal Ubi Meksiko di Tanah Citatah
+title: "Sepenggal Ubi Meksiko di Tanah Citatah"
 categories: artikel|perkebunan
 date: 2020-11-02 10:51:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/citatah.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/citatah.jpg"
 tags:
 - citatah
 - ubi jalar
 
 modification_time: 2020-11-02 10:51:57
-blogger_orig_url: http://localhost/mitra/sepenggal-ubi-meksiko-di-tanah-citatah.html
+blogger_orig_url: "http://localhost/mitra/sepenggal-ubi-meksiko-di-tanah-citatah.html"
 ---
 
 Vila-vila dan beberapa saung di kanan kiri jalan yang masih terlelap seakan menjadi saksi. Itu perjalanan pagi demi menelusuri jejak Ipomoea trifida nenek moyang ubijalar Ipomoea batatas. Sang saudara tua itu kabarnya banyak ditemukan di sepanjang jalan utama Cianjur Bandung.

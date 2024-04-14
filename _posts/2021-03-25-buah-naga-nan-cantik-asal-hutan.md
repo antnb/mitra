@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Buah Naga Nan Cantik Asal Hutan
+title: "Buah Naga Nan Cantik Asal Hutan"
 categories: perkebunan|Pertanian
 date: 2021-03-25 13:05:46
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/buahnaga.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/buahnaga.jpg"
 tags:
 - amerika selatan
 - buah buahan
@@ -15,7 +15,7 @@ tags:
 - sistem hidroponik
 
 modification_time: 2021-03-25 13:05:46
-blogger_orig_url: http://localhost/mitra/buah-naga-nan-cantik-asal-hutan.html
+blogger_orig_url: "http://localhost/mitra/buah-naga-nan-cantik-asal-hutan.html"
 ---
 
 Deretan lampu pada tiang-tiang setinggi 2 m otomatis menyala begitu gelap menyergap kebun dragon fruit di Rayong, Thailand. Di Taiwan keluarga kaktus-kaktusan itu ditanam dalam greenhouse berangka besi. Pekebun di Malaysia malah mencoba menanam dalam pot dengan sistem hidroponik. <a href="http://127.0.0.1/mitra/panen-dragon-fruit-3-kali-setahun.html">Buah naga memang kini komoditas andalan</a> di banyak negara. Padahal, dulu ia tumbuh liar di belantara Amerika Selatan.

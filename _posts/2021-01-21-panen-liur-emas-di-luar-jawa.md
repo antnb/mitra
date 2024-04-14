@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Panen Liur Emas di Luar Jawa
+title: "Panen Liur Emas di Luar Jawa"
 categories: artikel
 date: 2021-01-21 12:49:10
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_walet2_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_walet2_1024x576.jpg"
 tags:
 - pakan walet
 - populasi walet
@@ -12,7 +12,7 @@ tags:
 - walet
 
 modification_time: 2021-01-21 12:49:10
-blogger_orig_url: http://localhost/mitra/panen-liur-emas-di-luar-jawa.html
+blogger_orig_url: "http://localhost/mitra/panen-liur-emas-di-luar-jawa.html"
 ---
 
 Rumah walet yang dibangun sejak 4 tahun silam itu strategis. Daya dukung lingkungan memadai, seperti hutan-hutan, lahan pertanian, dan perkebunan sebagai sumber pakan walet. Pantas, bila investor mengincar daerah itu sebagai "rumah produksi" si liur emas. Dalam waktu 4 bulan, ruko berukuran 20 m x 10 m itu telah dihuni ratusan walet.

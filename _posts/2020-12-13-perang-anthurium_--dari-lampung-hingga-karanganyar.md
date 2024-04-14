@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Perang Anthurium:  Dari Lampung hingga Karanganyar
+title: "Perang Anthurium:  Dari Lampung hingga Karanganyar"
 categories: hobi|tanaman hias
 date: 2020-12-13 07:20:48
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anthurium_827x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anthurium_827x768.jpg"
 tags:
 - Anthurium
 - Anthurium jenmanii
@@ -13,7 +13,7 @@ tags:
 - perawatan anthurium
 
 modification_time: 2020-12-13 07:20:48
-blogger_orig_url: http://localhost/mitra/perang-anthurium-dari-lampung-hingga.html
+blogger_orig_url: "http://localhost/mitra/perang-anthurium-dari-lampung-hingga.html"
 ---
 
 Kontes di sebuah kecamatan di ujung selatan Pulau Sumatera itu memang belum semeriah hajat serupa di Pulau Jawa. Namun, gelaran itu mampu menyamai sukses kontes anthurium pertama di Tanah Andalas, tepatnya di kota Medan. Pada 2 Agustus tahun ini, Medan menggelar perhelatan serupa yang menyedot 37 peserta. "Target peserta terpenuhi. Malah kita kewalahan karena yang ditargetkan hanya 30 peserta. Minimal, kota kecamatan mampu mengimbangi sebuah kotamadya," kata Suwanto, ketua panitia kontes.

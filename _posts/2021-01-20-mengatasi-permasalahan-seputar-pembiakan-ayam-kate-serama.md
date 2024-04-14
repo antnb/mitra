@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mengatasi Permasalahan Seputar Pembiakan Ayam Kate Serama
+title: "Mengatasi Permasalahan Seputar Pembiakan Ayam Kate Serama"
 categories: Peternakan
 date: 2021-01-20 13:43:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_1024x730.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_1024x730.jpg"
 tags:
 - indukan serama
 - keberhasilan pembuahan
@@ -12,7 +12,7 @@ tags:
 - sel telur
 
 modification_time: 2021-01-20 13:43:31
-blogger_orig_url: http://localhost/mitra/ayam-kate-serama.html
+blogger_orig_url: "http://localhost/mitra/ayam-kate-serama.html"
 ---
 
 Telur ayam kate serama menjadi harapan setiap peternak. Sebab, bulatan sebesar uang pecahan Rp500 itu awal kehidupan anak ayam. Tak heran bila Hartono bersorak gembira begitu melihat induk mulai berkotek, lalu meletakkan telur di sarang. "Rasanya bangga dan senang, telur yang dinanti-nantikan sudah hadir," kata pemilik Galeri Serama itu.

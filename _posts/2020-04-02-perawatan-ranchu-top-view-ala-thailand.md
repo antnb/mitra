@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perawatan Ranchu Top View Ala Thailand
+title: "Perawatan Ranchu Top View Ala Thailand"
 categories: hobi|ikan hias
 date: 2020-04-02 09:44:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Ranchu-Top.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Ranchu-Top.jpg"
 tags:
 - ranchu
 
 modification_time: 2020-04-02 09:44:02
-blogger_orig_url: http://localhost/mitra/perawatan-ranchu-top-view-ala-thailand.html
+blogger_orig_url: "http://localhost/mitra/perawatan-ranchu-top-view-ala-thailand.html"
 ---
 
 <em>Kini tak ada yang meragukan kualitas ranchu top view keluaran negeri tak terjajah itu. Di berbagai kontes ia kerap menjadi jawara. Pantas jika dalam keluarga besar maskoki, ranchu top view bak superstar. Kini pamor ranchu top view mampu menggeser side view.</em>

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Pengendalian Hama Ulat Grayak Menggunakan Pestisida Alami
+title: "Pengendalian Hama Ulat Grayak Menggunakan Pestisida Alami"
 categories: perkebunan|Pertanian
 date: 2021-03-23 14:52:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/grayak.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/grayak.jpg"
 tags:
 - hama
 - ulat
 
 modification_time: 2021-03-23 14:52:07
-blogger_orig_url: http://localhost/mitra/pestisida-alami-hama-ulat-grayak.html
+blogger_orig_url: "http://localhost/mitra/pestisida-alami-hama-ulat-grayak.html"
 ---
 
 Gerus 250 ulat <a href="https://www.cabi.org/isc/datasheet/26757">Helicoverpa armigera</a> yang telah terinveksi virus NPV. Larutkan dalam 4001 air. Itu dosis anjuran untuk mengatasi ulat gerayak di lahan 1 ha. Semprotkan larutan disebut Ha-NPV itu ke tanaman pada pagi atau sore<a href="#footnote-1">[1]</a> .

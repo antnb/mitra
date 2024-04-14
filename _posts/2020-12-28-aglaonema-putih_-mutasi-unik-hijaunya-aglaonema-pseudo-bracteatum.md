@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aglaonema Putih: Mutasi Unik Hijaunya aglaonema pseudo bracteatum
+title: "Aglaonema Putih: Mutasi Unik Hijaunya aglaonema pseudo bracteatum"
 categories: tanaman hias
 date: 2020-12-28 01:35:58
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_white_1024x761.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_white_1024x761.jpg"
 tags:
 - Aglaonema
 - aglaonema variegata
@@ -12,7 +12,7 @@ tags:
 - top white
 
 modification_time: 2022-09-10 12:17:14
-blogger_orig_url: http://localhost/mitra/aglaonema-putih-di-antara-merahnya.html
+blogger_orig_url: "http://localhost/mitra/aglaonema-putih-di-antara-merahnya.html"
 ---
 
 Sang ratu Aglaonema putih pertumbuhannya lambat sehingga persediaan terbatas. Apalagi saat ini masyarakat Thailand sedang gandrung tanaman variegata <strong>aglaonema pseudo bracteatum</strong>. Semua aglonema hijau bintik putih yang berwarna putih selalu laku terjual. Berlakulah hukum pasar, pasokan sedikit, permintaan banyak dan harga pun melonjak.

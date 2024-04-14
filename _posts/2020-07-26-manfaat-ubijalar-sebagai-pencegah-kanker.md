@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Manfaat Ubijalar Sebagai Pencegah Kanker
+title: "Manfaat Ubijalar Sebagai Pencegah Kanker"
 categories: Herbal|kesehatan|perkebunan
 date: 2020-07-26 16:16:47
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/07/ubi_1280x688.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/ubi_1280x688.jpg"
 tags:
 - 
 
 modification_time: 2020-07-26 16:16:47
-blogger_orig_url: http://localhost/mitra/manfaat-ubijalar-sebagai-pencegah.html
+blogger_orig_url: "http://localhost/mitra/manfaat-ubijalar-sebagai-pencegah.html"
 ---
 
 <em> Keampuhan Ipomoea batatas menangkal kanker dibuktikan oleh periset. “Asam retinoik hasil metabolisme bekaroten dalam tubuh menghambat pertumbuhan onkogen, gen penyebab kanker,” tutur Andrew Yen, professor Patologi di Universitas Cornell. Mengkonsumsi bahan pangan kaya dengan betakaroten dan antioksidan mengurangi risiko kanker perut, paru-paru, mulut, dan tenggorokan.</em>

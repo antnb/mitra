@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanaman Pinang Unggulan Dari Pohon Berkualitas Prima
+title: "Tanaman Pinang Unggulan Dari Pohon Berkualitas Prima"
 categories: perkebunan|Pertanian
 date: 2019-10-31 12:15:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/pinang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/pinang.jpg"
 tags:
 - Buah
 - pinang
@@ -12,7 +12,7 @@ tags:
 - produksi
 
 modification_time: 2019-10-31 12:15:00
-blogger_orig_url: http://localhost/mitra/pohon-tanaman-pinang-berkualitas.html
+blogger_orig_url: "http://localhost/mitra/pohon-tanaman-pinang-berkualitas.html"
 ---
 
 Masyarakat daratan Hindustan menggunakan tanaman pinang antara lain untuk kudapan, pewarna tekstil, dan obat tradisional. Dengan pemanfaatan luas itu, wajar kebutuhan mereka terhadap buah <a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/areca-catechu" rel="nofollow">Areca catechu</a> itu tinggi.

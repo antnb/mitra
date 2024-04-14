@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Adu Terbang Merpati Balap Bali-Jakarta
+title: "Adu Terbang Merpati Balap Bali-Jakarta"
 categories: artikel|hobi
 date: 2020-11-12 12:21:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_pelepasan_1280x677.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_pelepasan_1280x677.jpg"
 tags:
 - balap
 - merpati
 
 modification_time: 2020-11-12 12:21:21
-blogger_orig_url: http://localhost/mitra/adu-terbang-merpati-balap-bali-jakarta.html
+blogger_orig_url: "http://localhost/mitra/adu-terbang-merpati-balap-bali-jakarta.html"
 ---
 
 Jumat pukul 05.00 di Denpasar. Seorang convoyer pengawal burung sibuk membuka penutup boks terbuat dari papan kayu. Begitu boks terbuka, bak anak panah lepas dari busur, 100 merpati pos melesat ke angkasa, membelah langit yang masih kemerahan. Mereka berlomba adu cepat menuju Jakarta, 1.500 km dari pulau Dewata itu.

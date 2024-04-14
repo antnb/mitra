@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Buah Unggulan Balitbu Solok: Alpukat 001 Dan Rambutan Sindanglaka
+title: "Buah Unggulan Balitbu Solok: Alpukat 001 Dan Rambutan Sindanglaka"
 categories: Arsip|artikel|perkebunan
 date: 2020-09-01 15:30:00
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_rambutan_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_rambutan_1200x800.jpg"
 tags:
 - alpukat
 - rambutan
 
 modification_time: 2022-09-19 05:44:44
-blogger_orig_url: http://localhost/mitra/buah-unggulan-alpukat-junjung-sirih.html
+blogger_orig_url: "http://localhost/mitra/buah-unggulan-alpukat-junjung-sirih.html"
 ---
 
 <em>Alpukat gurih dan pulen tak hanya ada di Tawangmangu atau Bandung. Dua alpukat asal Junjung Sirih, Solok bisa jadi pengganti. Ketika masak warna daging berubah kuning mentega. Saat digigit, rasa manis terasa di lidah.</em>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Seri Walet: Seriti pun Tak Merasa Ditipu
+title: "Seri Walet: Seriti pun Tak Merasa Ditipu"
 categories: Tak Berkategori
 date: 2020-12-28 12:59:20
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_walet_1024x703.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_walet_1024x703.jpg"
 tags:
 - piyik seriti
 - rumah walet
@@ -12,7 +12,7 @@ tags:
 - telur walet
 
 modification_time: 2020-12-28 12:59:20
-blogger_orig_url: http://localhost/mitra/seri-walet-seriti-pun-tak-merasa.html
+blogger_orig_url: "http://localhost/mitra/seri-walet-seriti-pun-tak-merasa.html"
 ---
 
 Bukan tanpa alasan Gondol Sugito memusnahkan ratusan sriti pada awal 1992. Aktifitas anggota keluarga Apodidae membuat sarang menyebabkan puluhan saung beratap ijuk bocor dan rusak berat.

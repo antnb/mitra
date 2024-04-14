@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Penanganan Baglog Jamur Agar Shitake Tumbuh Maksimal
+title: "Penanganan Baglog Jamur Agar Shitake Tumbuh Maksimal"
 categories: artikel
 date: 2021-11-07 15:39:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/bag-log-jamur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/bag-log-jamur.jpg"
 tags:
 - baglog
 - jamur
 
 modification_time: 2022-09-19 08:45:29
-blogger_orig_url: http://localhost/mitra/penanganan-baglog-jamur-tumbuh-maksimal.html
+blogger_orig_url: "http://localhost/mitra/penanganan-baglog-jamur-tumbuh-maksimal.html"
 ---
 
 Baglog untuk jamur shitake adalah sebuah bahan yang berfungsi sebagai media tanam jamur shitake. Baglog terbuat dari serbuk kayu yang dicampur dengan air dan dibiarkan selama 2-3 minggu sebelum ditanam.

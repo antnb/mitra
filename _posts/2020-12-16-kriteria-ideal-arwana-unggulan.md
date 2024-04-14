@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Kriteria Ideal Arwana Unggulan
+title: "Kriteria Ideal Arwana Unggulan"
 categories: ikan hias
 date: 2020-12-16 13:15:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/arowana.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/arowana.jpg"
 tags:
 - Arwana
 - kerapian sisik
 - kesehatan ikan
 
 modification_time: 2020-12-16 13:15:35
-blogger_orig_url: http://localhost/mitra/kriteria-ideal-arwana-unggulan.html
+blogger_orig_url: "http://localhost/mitra/kriteria-ideal-arwana-unggulan.html"
 ---
 
 "Tak mudah untuk menilai arwana, karena perlu pengamatan menyeluruh. Selain penampakan fisik, juga kesehatan ikan," ujar Erwin Murasalim yang saat itu tengah menjuri kontes lsl Asia-Pacific Arowana Competition di Taiwan. Menurutnya penilaian naga dibagi dua. Penilaian wajib meliputi penampakan ikan secara umum, dan penilaian ciri khusus tergantung jenis.

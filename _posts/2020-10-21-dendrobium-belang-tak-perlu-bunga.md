@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Dendrobium Belang Tak Perlu Bunga
+title: "Dendrobium Belang Tak Perlu Bunga"
 categories: hobi|tanaman hias
 date: 2020-10-21 10:46:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/content.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/content.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 10:46:01
-blogger_orig_url: http://localhost/mitra/dendrobium-belang-tak-perlu-bunga.html
+blogger_orig_url: "http://localhost/mitra/dendrobium-belang-tak-perlu-bunga.html"
 ---
 
 Bagi Joseph, pekebun tanaman hias di Bogor, dendrobium ini begitu disayangi. Ia menjadi salah satu koleksi andalan di antara ratusan jenis <a href="http://127.0.0.1/mitra/anggrek-bulan-di-baju-sang-perancang.html">tanaman eksklusif</a> lain. Uniknya, yang jadi daya tarik justru daun. Jumlahnya tak banyak, masih 3-5 daun. Namun <a href="https://www.budidayatani.com/budidaya-dendrobium-untung-dalam-4.html">jangan tanya harganya</a>, Rp300-ribu-Rp600-ribu, berlipat tak karuan daripada dendrobium silangan terbaru sekalipun.

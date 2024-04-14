@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tanaman Gunung Incaran Para Eksportir
+title: "Tanaman Gunung Incaran Para Eksportir"
 categories: perkebunan
 date: 2020-10-20 11:08:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/28004141251700394.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/28004141251700394.jpg"
 tags:
 - 
 
 modification_time: 2020-10-20 11:08:15
-blogger_orig_url: http://localhost/mitra/tanaman-gunung-incaran-para-eksportir.html
+blogger_orig_url: "http://localhost/mitra/tanaman-gunung-incaran-para-eksportir.html"
 ---
 
 <p>Order sebanyak 1 ton gula aren setiap pekan baru dipenuhi ling sepertiganya. Pengepul di Desa Cikuya, Kecamatan Singaparna, Tasikmalaya, itu harus pontang-panting mencari pasokan gula. Keluar-masuk kampung sudah menjadi pekerjaan rutin. "Barang sedikit sehingga jadi rebutan bandar," ujarnya.</p>

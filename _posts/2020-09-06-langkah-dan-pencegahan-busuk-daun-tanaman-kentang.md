@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Langkah Dan Pencegahan Busuk Daun Tanaman Kentang
+title: "Langkah Dan Pencegahan Busuk Daun Tanaman Kentang"
 categories: artikel|perkebunan
 date: 2020-09-06 11:58:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_busuk-daun_968x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_busuk-daun_968x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 11:58:17
-blogger_orig_url: http://localhost/mitra/langkah-dan-pencegahan-busuk-daun.html
+blogger_orig_url: "http://localhost/mitra/langkah-dan-pencegahan-busuk-daun.html"
 ---
 
 <em>Busuk daun momok pekebun kentang pada musim hujan. Daun yang semula hijau tiba-tiba melepuh seperti tersiram air panas. Daun pun berangsur menguning dan layu. Tak lama kemudian serangannya meluas ke seluruh bagian tanaman, bahkan umbi pun busuk. Jika demikian, bayangan kegagalan panen menghantui.</em>

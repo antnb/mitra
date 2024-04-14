@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Rambutan Kuning: Sijangkung Kebanggaan Malaysia
+title: "Rambutan Kuning: Sijangkung Kebanggaan Malaysia"
 categories: perkebunan
 date: 2021-09-05 04:25:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/09/rambutankuing.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/rambutankuing.jpg"
 tags:
 - rambutan
 - sikuning
 
 modification_time: 2021-09-05 04:25:51
-blogger_orig_url: http://localhost/mitra/rambutan-kuning.html
+blogger_orig_url: "http://localhost/mitra/rambutan-kuning.html"
 ---
 
 Ada pemandangan menarik ketika Kami singgah di tempat peristirahatan jalan tol di wilayah Gantang, Malaysia. Di antara onggokan buah-buahan di jongko-jongko kaki lima terdapat rambutan warna kuning. Lazimnya <a href="http://127.0.0.1/mitra/topik/rambutan">rambutan</a> berwarna merah merona. Pantas kalau 2 teman yang turut menemani peliputan mengira Rambutan Kuning itu buah rambutan yang belum matang penuh.

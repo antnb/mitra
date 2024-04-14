@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Buah Leci Manis Berbiji Kecil Dari Dataran Tiongkok
+title: "Buah Leci Manis Berbiji Kecil Dari Dataran Tiongkok"
 categories: artikel|perkebunan
 date: 2021-12-02 06:49:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/buah-leci-tiongkok.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/buah-leci-tiongkok.jpg"
 tags:
 - leci
 - tiongkok
 
 modification_time: 2022-09-19 06:38:36
-blogger_orig_url: http://localhost/mitra/buah-leci-manis-berbiji-kecil-dari.html
+blogger_orig_url: "http://localhost/mitra/buah-leci-manis-berbiji-kecil-dari.html"
 ---
 
 Leci manis itu bukan dari Samut Songkhram dan Samut Sakhon, Thailand, tapi datang dari sebuah desa di Kecamatan Kalibaru, Kabupaten Banyuwangi, Jawa Timur. <a href="http://127.0.0.1/mitra/">Mitra Usaha Tani</a> puas menikmati lezatnya leci dari kebun-kebun di Samut Songkhram dan Samut Sakhon, Thailand bagian selatan. Varietas khom yang ditanam bercitarasa manis dan kering.

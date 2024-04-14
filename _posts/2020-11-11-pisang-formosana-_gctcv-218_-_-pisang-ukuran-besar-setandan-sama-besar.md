@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pisang Formosana (GCTCV-218) : Pisang Ukuran Besar Setandan Sama Besar
+title: "Pisang Formosana (GCTCV-218) : Pisang Ukuran Besar Setandan Sama Besar"
 categories: perkebunan
 date: 2020-11-11 12:00:46
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_pisang_formosana1_964x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_pisang_formosana1_964x720.jpg"
 tags:
 - Pisang
 
 modification_time: 2022-10-17 06:53:11
-blogger_orig_url: http://localhost/mitra/pisang-formosana-setandan-sama-besar.html
+blogger_orig_url: "http://localhost/mitra/pisang-formosana-setandan-sama-besar.html"
 ---
 
 Pisang GCTCV-218 adalah salah satu varietas pisang yang awalnya dikembangkan di pulau Formosa taiwan. Varietas ini dihasilkan dari percampuran varietas pisang Cavendish dan Gajah Tampung. Pisang GCTCV-218 memiliki bentuk yang agak bulat dan ukuran yang sedang. Daging buahnya berwarna kuning cerah dan rasa manis. Pisang GCTCV-218 termasuk dalam kelompok pisang Cavendish.

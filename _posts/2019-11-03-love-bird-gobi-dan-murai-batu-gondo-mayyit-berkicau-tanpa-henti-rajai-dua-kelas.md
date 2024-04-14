@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Love bird Gobi dan Murai Batu Gondo Mayyit Berkicau Tanpa Henti Rajai Dua Kelas
+title: "Love bird Gobi dan Murai Batu Gondo Mayyit Berkicau Tanpa Henti Rajai Dua Kelas"
 categories: hobi
 date: 2019-11-03 05:39:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/Copsychus-malabaricus.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/Copsychus-malabaricus.jpg"
 tags:
 - burung hias
 - kacer
@@ -12,7 +12,7 @@ tags:
 - murai batu
 
 modification_time: 2019-11-03 05:39:00
-blogger_orig_url: http://localhost/mitra/love-bird-gobi-dan-gondo-mayyit.html
+blogger_orig_url: "http://localhost/mitra/love-bird-gobi-dan-gondo-mayyit.html"
 ---
 
 Kenny Rafsanjani, juri asal Kotamadya Depok, Jawa Barat, berpendapat sama. Tembakan lagu panjang, sehingga unggul dari kekuatan dan mental burung. Para juri akhirnya mendaulat Gobi menjadi yang terbaik di kelas Bang Yos.

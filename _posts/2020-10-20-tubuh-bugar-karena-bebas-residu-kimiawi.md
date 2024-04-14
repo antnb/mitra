@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tubuh Bugar karena Bebas Residu Kimiawi
+title: "Tubuh Bugar karena Bebas Residu Kimiawi"
 categories: artikel
 date: 2020-10-20 15:32:52
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/organik-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/organik-1.jpg"
 tags:
 - 
 
 modification_time: 2020-10-20 15:32:52
-blogger_orig_url: http://localhost/mitra/tubuh-bugar-karena-bebas-residu.html
+blogger_orig_url: "http://localhost/mitra/tubuh-bugar-karena-bebas-residu.html"
 ---
 
 <p>Dua tahun lalu merupakan lembaran hitam bagi kesehatan Sri Qoriah. Ia terkungkung hipertensi. Tensimeter tak beranjak dari 160/100 mmHg hingga jantungnya selalu berdebar-debar. Amarah pun mudah meluap. Sejak rajin mengonsumsi sayuran organik, hipertensi itu berangsur normal, 120/80 mmHg. Berobat ke dokter hingga 3 kali sebulan kini tidak lagi dilakoni.</p>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Perihal Usaha Pembesaran Gurami
+title: "Perihal Usaha Pembesaran Gurami"
 categories: Tanya Jawab
 date: 2020-12-08 12:07:34
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_pembesaran_gurami_1024x629-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_pembesaran_gurami_1024x629-1.jpg"
 tags:
 - benih gurami
 - gurami
@@ -12,7 +12,7 @@ tags:
 - usaha pembesaran
 
 modification_time: 2020-12-08 12:07:34
-blogger_orig_url: http://localhost/mitra/perihal-usaha-pembesaran-gurami.html
+blogger_orig_url: "http://localhost/mitra/perihal-usaha-pembesaran-gurami.html"
 ---
 
 Saya tertarik pembesaran gurami dan berminat untuk membudidayakannya. Yang ingin saya tanyakan:

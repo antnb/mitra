@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perawatan Taman Dengan Pepohonan Rindang
+title: "Perawatan Taman Dengan Pepohonan Rindang"
 categories: Gardening|hobi|tanaman hias
 date: 2020-06-05 11:42:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/ghhg_1280x729.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/ghhg_1280x729.jpg"
 tags:
 - 
 
 modification_time: 2020-06-05 11:42:29
-blogger_orig_url: http://localhost/mitra/perawatan-taman-dengan-pepohonan.html
+blogger_orig_url: "http://localhost/mitra/perawatan-taman-dengan-pepohonan.html"
 ---
 
 Adi Gardnadi berkali-kali berfikir bagaimana cara merawat taman miliknya, ia mencoba menanam rumput dan sejumlah tanaman hias di bawah mangga. Namun, usahanya selalu kandas. Pertumbuhan tanaman dan rumput selalu merana dan akhirnya mati. Tajuk pohon yang menutupi halaman menghalangi tanaman mendapat sinar matahari sehingga pertumbuhan merana.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Serangan Cacing Emas Resahkan Petani Kentang
+title: "Serangan Cacing Emas Resahkan Petani Kentang"
 categories: artikel|perkebunan
 date: 2020-11-14 06:51:55
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/ubi_kentang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/ubi_kentang.jpg"
 tags:
 - Cacing Emas
 - hama
 - Kentang
 
 modification_time: 2022-09-09 11:58:56
-blogger_orig_url: http://localhost/mitra/serangan-cacing-emas-resahkan-petani.html
+blogger_orig_url: "http://localhost/mitra/serangan-cacing-emas-resahkan-petani.html"
 ---
 
 Johny Djunaedy berwajah muram pada November silam. Pertumbuhan kentang di lahan 0,5 ha stagnan akibat serangan cacing emas Globodera rostochiensis. Daun anggota famili Solanaceae itu tampak menguning lalu mati. Walau perkembangan umbi belum maksimal pekebun di Bumiaji, Kotamadya Batu, itu memanen ketika berumur 45 hari. Hasilnya cuma 4 ton, biasanya 16 ton.

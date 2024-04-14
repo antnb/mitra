@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya Dan Cara Beternak Belut Dalam Bak Kolam
+title: "Budidaya Dan Cara Beternak Belut Dalam Bak Kolam"
 categories: Perikanan|Peternakan
 date: 2020-04-04 12:30:09
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/kolam1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/kolam1.jpg"
 tags:
 - belut
 
 modification_time: 2020-04-04 12:30:09
-blogger_orig_url: http://localhost/mitra/budidaya-dan-cara-beternak-belut-dalam.html
+blogger_orig_url: "http://localhost/mitra/budidaya-dan-cara-beternak-belut-dalam.html"
 ---
 
 <em>Di era 90-an peternak belut hanya bisa memanen belut ukuran besar dalam jumlah sedikit. Sifat kanibal dan pertumbuhan yang lambat menjadi penghalang utama budidaya belut. Tak heran jika kebutuhan pasar masih mengandalkan tangkapan alam.</em>

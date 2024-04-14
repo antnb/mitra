@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Durian Tak Selalu Enak Rasanya
+title: "Durian Tak Selalu Enak Rasanya"
 categories: perkebunan
 date: 2020-12-19 07:10:06
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_durian_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_durian_1024x576.jpg"
 tags:
 - daging buah
 - daging buah tebal
@@ -15,7 +15,7 @@ tags:
 - rasa durian
 
 modification_time: 2020-12-19 07:10:06
-blogger_orig_url: http://localhost/mitra/durian-tak-selalu-enak-rasanya.html
+blogger_orig_url: "http://localhost/mitra/durian-tak-selalu-enak-rasanya.html"
 ---
 
 Berbahagialah penggemar <i>Durio zibethinus</i> di Indonesia. Berbagai kultivar terkenal dan enak memanjakan lidah mereka. Yang paling populer tentu saja monthong. Kultivar asal Thailand itu paling mudah didapat di toko-toko buah. Selain diimpor langsung dari negeri Siam, ia juga banyak ditanam pekebun lokal.

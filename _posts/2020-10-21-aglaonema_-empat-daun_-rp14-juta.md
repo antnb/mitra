@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Aglaonema: Empat Daun, Rp14-juta
+title: "Aglaonema: Empat Daun, Rp14-juta"
 categories: artikel|hobi|tanaman hias
 date: 2020-10-21 16:52:38
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/cahaya.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/cahaya.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 16:52:38
-blogger_orig_url: http://localhost/mitra/aglaonema-empat-daun-rp14-juta.html
+blogger_orig_url: "http://localhost/mitra/aglaonema-empat-daun-rp14-juta.html"
 ---
 
 Semburat merah pada aglaonema bak variegatanya tanaman hias. Poin itu demikian bernilai, sehingga banyak hobiis berlomba memburu corak paling sempurna. Semakin dominan warna merah, maka harga pun makin menjulang. Setelah "era" <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/aglaonema"  title="aglaonema" data-wpil-keyword-link="linked">aglaonema</a> Pride Sumatera, kini menyusul aglaonema Adelia Angelen dan silangan super merah dari Thailand.

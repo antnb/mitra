@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya Lobster Bongsor Sistim running water
+title: "Budidaya Lobster Bongsor Sistim running water"
 categories: Perikanan
 date: 2020-09-16 12:17:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_kolam-lobster1_1114x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_kolam-lobster1_1114x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-16 12:17:17
-blogger_orig_url: http://localhost/mitra/budidaya-lobster-bongsor-sistim.html
+blogger_orig_url: "http://localhost/mitra/budidaya-lobster-bongsor-sistim.html"
 ---
 
 <em>Itu dibuktikan Cuncun Setiawan, peternak lobster di Ciampea, Kabupaten Bogor. Ia memanfaatkan arus sungai Ciampea nan jernih itu untuk membudidayakan lobster. Alumnus Institut Teknologi Indonesia itu membangun kolam 5 m x 25 m. Dinding kolam berupa tembok; lantai, tanah. Bagian atas kolam dibiarkan terbuka. Cuncun mengelola puluhan kolam sejenis.</em>

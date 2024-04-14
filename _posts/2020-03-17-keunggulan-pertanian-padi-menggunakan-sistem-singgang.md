@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Keunggulan Pertanian Padi Menggunakan Sistem Singgang
+title: "Keunggulan Pertanian Padi Menggunakan Sistem Singgang"
 categories: Pertanian
 date: 2020-03-17 15:50:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Singgang_1023x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Singgang_1023x800.jpg"
 tags:
 - padi
 
 modification_time: 2022-09-15 13:01:05
-blogger_orig_url: http://localhost/mitra/pertanian-padi-menggunakan-sistem.html
+blogger_orig_url: "http://localhost/mitra/pertanian-padi-menggunakan-sistem.html"
 ---
 
 Dari lahan seluas 2.000 nr'itu,sebelum menerapkan Pertanian Padi Sistem Singgang di sawah nya Ngadiono mendapat hasil 500 kg padi, setara 2,5 ton per ha. Itu hanya setengah dari jumlah panen sebelumnya, 5-6 ton per ha.

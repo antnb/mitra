@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 4 Sayuran Varietas Unggul Dari Negeri Jepang
+title: "4 Sayuran Varietas Unggul Dari Negeri Jepang"
 categories: artikel|perkebunan|Pertanian
 date: 2020-03-18 11:45:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/ishito_1204x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/ishito_1204x800.jpg"
 tags:
 - kubis
 - mentimun
@@ -12,7 +12,7 @@ tags:
 - sayuran
 
 modification_time: 2020-03-18 11:45:23
-blogger_orig_url: http://localhost/mitra/4-sayuran-varietas-unggul-dari-negeri.html
+blogger_orig_url: "http://localhost/mitra/4-sayuran-varietas-unggul-dari-negeri.html"
 ---
 
 Penampilan teime tampak kecil dengan panjang 6-10 cm. diameter buah 3-5 cm. Kulit amat tipis sehingga tak perlu dikupas jika akan dimasak. <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/modoinding-sentra-sayuran-terbesar.html" data-wpil-post-to-id="">Sayuran Unggulan ini memiliki Warna kulit ungu kehitaman, jauh lebih pekat ketimbang pendahulunya yang hadir di</a> sini. Di balik sosok mungilnya, teime menjanjikan kelezatan bagi penikmatnya. Di negeri asalnya yang dulu mengklaim <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/air-rebusan-daun-saga-obat-hepatitis.html" data-wpil-post-to-id="">sebagai saudara tua kita, teime diolah menjadi tempura dan</a> teppanyaki.

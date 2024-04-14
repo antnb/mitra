@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Rekonsiliasi Sektor Agribisnis Tanah Air?
+title: "Rekonsiliasi Sektor Agribisnis Tanah Air?"
 categories: perkebunan
 date: 2021-09-09 15:51:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/09/kebun.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/kebun.jpg"
 tags:
 - sektor agribisnis
 - singkong
 
 modification_time: 2021-09-09 15:51:31
-blogger_orig_url: http://localhost/mitra/rekonsiliasi-sektor-agribisnis-tanah.html
+blogger_orig_url: "http://localhost/mitra/rekonsiliasi-sektor-agribisnis-tanah.html"
 ---
 
 Saya lahir 100 tahun setelah singkong gencar ditanam di Pulau Jawa. Teman saya, wartawan terkemuka asal Pulau Sawu merasa iri, karena di sana tak ada ketela pohon. "Singkong dibawa oleh Belanda ke Pulau Jawa pada 1852 sebagai pengganti tanaman karbohidrat yang lahannya habis untuk tebu," katanya.

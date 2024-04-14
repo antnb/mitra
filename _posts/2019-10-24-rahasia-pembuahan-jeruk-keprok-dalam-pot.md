@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Rahasia Pembuahan Jeruk Keprok dalam Pot
+title: "Rahasia Pembuahan Jeruk Keprok dalam Pot"
 categories: Pertanian
 date: 2019-10-24 11:43:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/jeruk-keprok.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/jeruk-keprok.jpg"
 tags:
 - Buah
 - Jeruk
@@ -15,7 +15,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-28 15:18:51
-blogger_orig_url: http://localhost/mitra/kunci-sukses-melebatkan-produksi-buah.html
+blogger_orig_url: "http://localhost/mitra/kunci-sukses-melebatkan-produksi-buah.html"
 ---
 
 Kebun percobaan Balai Penelitian Jeruk dan Tanaman Subtropika di Batu, Jawa Timur menampilkan sebuah pohon jeruk keprok batu 55 yang tak seberapa tinggi. Tanaman dengan tanda sehat ditandai dengan batang dan cabang yang kokoh serta daun yang hijau segar. Vigor mereka menjadi tanda kehidupan yang penuh gairah dan membuat suasana menjadi lebih segar. Bagi pencinta tanaman, keberadaan tanaman sehat merupakan kebanggaan tersendiri. Vigor mereka menjadi salah satu ciri khas yang menarik untuk dilihat. 

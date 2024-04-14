@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Konservasi Harimau di 13 Tiger Range Countries
+title: "Konservasi Harimau di 13 Tiger Range Countries"
 categories: artikel
 date: 2019-11-01 11:14:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/Konservasi.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/Konservasi.jpg"
 tags:
 - Harimau
 - hutan
@@ -12,7 +12,7 @@ tags:
 - sumatera
 
 modification_time: 2019-11-01 11:14:00
-blogger_orig_url: http://localhost/mitra/konservasi-dan-penangkaran-harimau-di.html
+blogger_orig_url: "http://localhost/mitra/konservasi-dan-penangkaran-harimau-di.html"
 ---
 
 Satu setengah abad yang lalu, sekitar 1850-an diperkirakan masih ada 100.000 harimau di 24 negara Asia. Sayangnya dari 8 spesies harimau di dunia, tiga sudah punah, yaitu harimau kaspia, harimau jawa, dan harimau bali. Untuk memperbaiki keadaan, negara-negara pemangku harimau bertemu di Dhaka, Bangladesh, pertengahan September 2014.

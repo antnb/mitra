@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Beta Karoten Dan Warna Telur Bebek Yang Memerah
+title: "Beta Karoten Dan Warna Telur Bebek Yang Memerah"
 categories: artikel|Peternakan
 date: 2020-08-19 08:22:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/telur_asin.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/telur_asin.jpg"
 tags:
 - bebek
 - telur
 
 modification_time: 2020-08-19 08:22:04
-blogger_orig_url: http://localhost/mitra/beta-karoten-dan-warna-telur-bebek.html
+blogger_orig_url: "http://localhost/mitra/beta-karoten-dan-warna-telur-bebek.html"
 ---
 
 Singapura, Malaysia dan Hongkong perlu pasokan telur itik. Celakanya, yang mereka butuhkan tidak sembarang telur <a class="wpil_keyword_link " title="bebek" href="http://127.0.0.1/mitra/topik/bebek" data-wpil-keyword-link="linked">bebek</a>. Selain ukuran besar dan seragam di atas 70g/butir, warna telur bebek pada bagian kuning telurnya harus merah. Persyaratan terakhir itulah yang sulit dipenuhi.

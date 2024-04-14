@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Budidaya Jagung Di Tanah Pasir Dengan Bantuan Sprinkler Pertanian
+title: "Budidaya Jagung Di Tanah Pasir Dengan Bantuan Sprinkler Pertanian"
 categories: perkebunan|Pertanian
 date: 2020-02-16 12:53:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/budidaya-jagung.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/budidaya-jagung.jpg"
 tags:
 - jagung
 - sprinkler
 
 modification_time: 2022-09-14 11:34:42
-blogger_orig_url: http://localhost/mitra/budidaya-jagung-tanah-pasir-sprinkler.html
+blogger_orig_url: "http://localhost/mitra/budidaya-jagung-tanah-pasir-sprinkler.html"
 ---
 
 <em>Air dari Sprinkler Pertanian itu jatuh membasahi daun-daun jagung yang hijau segar. Itulah solusi yang ditempuh Muhammad Syifried Wahab dalam budidaya jagung manis di Tanah Pasir.</em>

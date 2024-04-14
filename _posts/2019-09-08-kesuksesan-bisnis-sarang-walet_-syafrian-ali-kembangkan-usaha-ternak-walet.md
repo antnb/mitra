@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kesuksesan Bisnis Sarang Walet, Syafrian Ali Kembangkan Usaha Ternak Walet
+title: "Kesuksesan Bisnis Sarang Walet, Syafrian Ali Kembangkan Usaha Ternak Walet"
 categories: artikel|Peternakan
 date: 2019-09-08 14:02:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/09/Bisnis-Sarang-Walet.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/09/Bisnis-Sarang-Walet.jpg"
 tags:
 - bisnis
 - burung
@@ -16,7 +16,7 @@ tags:
 - walet
 
 modification_time: 2022-12-24 08:34:00
-blogger_orig_url: http://localhost/mitra/budidaya-sarang-walet-bisa-diternakan.html
+blogger_orig_url: "http://localhost/mitra/budidaya-sarang-walet-bisa-diternakan.html"
 ---
 
 Syafrian Ali, seorang wirausahawan muda dari Jombang, Jawa Timur, berhasil mengembangkan usahanya dalam bisnis ternak walet. Ali memulai bisnisnya dengan hanya memiliki 6 sarang walet. Usaha yang dimulainya dengan modal kecil tersebut berhasil tumbuh menjadi usaha yang sukses dengan menjual produk-produk waletnya. Syafrian Ali juga berhasil menciptakan berbagai produk dari sarang walet, seperti cairan walet, sabun walet, dan tonik walet, yang semuanya laris manis diburu oleh para konsumen. Kesuksesan Syafrian Ali menjadi inspirasi bagi banyak pengusaha lain untuk mengembangkan usaha ternak walet.

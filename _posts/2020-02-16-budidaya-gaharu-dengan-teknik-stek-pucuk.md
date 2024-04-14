@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Budidaya Gaharu Dengan Teknik Stek Pucuk
+title: "Budidaya Gaharu Dengan Teknik Stek Pucuk"
 categories: perkebunan
 date: 2020-02-16 11:42:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/setek-pucuk.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/setek-pucuk.jpg"
 tags:
 - Gaharu
 - kayu agar
 
 modification_time: 2020-02-16 11:42:34
-blogger_orig_url: http://localhost/mitra/budidaya-gaharu-stek-pucuk.html
+blogger_orig_url: "http://localhost/mitra/budidaya-gaharu-stek-pucuk.html"
 ---
 
 Di tangan Joner Situmorang dan tim peneliti di <em>Seameo Biotrop</em>, Bogor, tanaman <strong>gaharu</strong> atau yang sering disebut <em>kayu agar</em> setinggi 30 cm di polibag pun sudah bisa diperbanyak. <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/budidaya-manggis-dengan-teknik-kaki.html" data-wpil-post-to-id="">Dengan teknik</a> stek pucuk, Budidaya Gaharu dengan sebatang bibit berumur 5 - 6 bulan menghasilkan 10 - 12 bibit baru setiap bulan. Selain pertumbuhan lebih seragam, kualitas genetik juga lebih terjamin.

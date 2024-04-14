@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Peranan Raiser Ikan Hias Di Indonesia
+title: "Peranan Raiser Ikan Hias Di Indonesia"
 categories: ikan hias|Perikanan
 date: 2020-12-27 06:40:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_raiser_1024x601.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_raiser_1024x601.jpg"
 tags:
 - hobi ikan
 - raiser
 - raiser ikan
 
 modification_time: 2022-09-19 17:10:15
-blogger_orig_url: http://localhost/mitra/peranan-raiser-ikan-hias-di-indonesia.html
+blogger_orig_url: "http://localhost/mitra/peranan-raiser-ikan-hias-di-indonesia.html"
 ---
 
 Indonesia memang gemah ripah loh jinawi. Termasuk di dalamnya kekayaan alam berupa ikan hias. Sungai-sungai di Kalimantan, surga bagi penggemar arwana. Ikan dewa itu menghuni sungai besar hingga anak kali di pelosok. Belum lagi danau-danau di Jambi yang melahirkan miliaran botia setiap musim.

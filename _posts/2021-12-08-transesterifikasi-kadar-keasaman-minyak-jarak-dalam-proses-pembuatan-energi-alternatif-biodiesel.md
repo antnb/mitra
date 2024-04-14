@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Transesterifikasi Kadar Keasaman Minyak Jarak Dalam Proses Pembuatan Energi Alternatif Biodiesel
+title: "Transesterifikasi Kadar Keasaman Minyak Jarak Dalam Proses Pembuatan Energi Alternatif Biodiesel"
 categories: artikel
 date: 2021-12-08 05:47:27
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/biji-jarak.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/biji-jarak.jpg"
 tags:
 - biji
 - biodiesel
@@ -16,7 +16,7 @@ tags:
 - pagar
 
 modification_time: 2021-12-08 05:47:27
-blogger_orig_url: http://localhost/mitra/proses-mengatasi-peningkatan-kadar.html
+blogger_orig_url: "http://localhost/mitra/proses-mengatasi-peningkatan-kadar.html"
 ---
 
 Minyak jarak dikenal sebagai sumber energi alternatif biodiesel. Saat ini tanpa proses esterifikasi dan transesterifikasi, Minyak jarak (Jatropha curcas) dapat diolah menjadi biodiesel. Padahal, kedua proses itu esterifikasi dan esterifikasi-menekan tingkat keasaman minyak jarak yang membahayakan kinerja mesin. Goebitz, pakar biodiesel dari Austria, memperingatkan, minyak nabati itu bisa menjadi bahan bakar asal ditransesterifikasi. Proses transesterifikasi dalam pembuatan biodiesel mensyaratkan kadar keasaman minyak 1,0. Minyak jarak pagar di atas angka 10. Oleh karena itu, sebelum transesterifikasi, minyak harus melalui proses esterifikasi.

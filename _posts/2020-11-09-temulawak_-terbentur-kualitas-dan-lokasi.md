@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Temulawak: Terbentur Kualitas dan Lokasi
+title: "Temulawak: Terbentur Kualitas dan Lokasi"
 categories: perkebunan
 date: 2020-11-09 14:47:11
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_temulawak_1151x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_temulawak_1151x720.jpg"
 tags:
 - temulawak
 
 modification_time: 2020-11-09 14:47:11
-blogger_orig_url: http://localhost/mitra/temulawak-terbentur-kualitas-dan.html
+blogger_orig_url: "http://localhost/mitra/temulawak-terbentur-kualitas-dan.html"
 ---
 
 Industri jamu setiap bulan membutuhkan 200 ton rimpang temulawak. Meski produksi temulawak mencapai 437 ton per bulan, tetapi kebutuhan itu tak juga terpenuhi. Menurut Bambang Soepartoko dari PT jamu Sido Muncul baru 60 % dari total kebutuhan yang terpenuhi. Kualitas rimpang rendah menjadi kendala pabrikan untuk menyerap produksi pekebun.

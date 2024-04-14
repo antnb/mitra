@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tanaman Golok Elok Si Penghias Ruangan
+title: "Tanaman Golok Elok Si Penghias Ruangan"
 categories: hobi|tanaman hias
 date: 2020-10-21 12:58:39
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/10/cryptanthus.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/cryptanthus.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 12:58:39
-blogger_orig_url: http://localhost/mitra/tanaman-golok-elok-si-penghias-ruangan.html
+blogger_orig_url: "http://localhost/mitra/tanaman-golok-elok-si-penghias-ruangan.html"
 ---
 
 Sosok pendek, daun kaku memanjang dengan pinggiran berlekuk mirip golok. Pola daun beragam, mulai polos sampai bergaris dengan paduan 2 -3 warna. Sifatnya lumayan tahan banting, sehingga cocok untuk pengisi terarium, pot indoor, atau border taman sekalipun. Itulah cryptanthus, keluarga bromelia asli Brazil.

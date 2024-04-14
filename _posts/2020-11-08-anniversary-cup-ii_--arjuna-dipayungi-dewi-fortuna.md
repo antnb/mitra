@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Anniversary Cup II:  Arjuna Dipayungi Dewi Fortuna
+title: "Anniversary Cup II:  Arjuna Dipayungi Dewi Fortuna"
 categories: artikel|hobi
 date: 2020-11-08 06:08:13
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_merpati_balap_1280x718.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_merpati_balap_1280x718.jpg"
 tags:
 - merpati
 - merpati balap
 
 modification_time: 2020-11-08 06:08:13
-blogger_orig_url: http://localhost/mitra/anniversary-cup-ii-arjuna-dipayungi.html
+blogger_orig_url: "http://localhost/mitra/anniversary-cup-ii-arjuna-dipayungi.html"
 ---
 
 Dewi fortuna terus memayungi Arjuna, merpati balap andalan Trisna Wijaya. Di partai puncak Anniversary Cup II ia mempecundangi Thaliban dan merebut juara I melalui undian. Hari mulai gelap ketika mentari jatuh di peraduan sehingga tak memungkinkan menerbangkan 2 calon jawara itu. Di babak perempat final kontes adu cepat di Batang, Jawa Tengah, ia juga menang bye.

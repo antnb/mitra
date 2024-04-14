@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Varietas Buah mangga raksasa di dunia
+title: "Varietas Buah mangga raksasa di dunia"
 categories: artikel|perkebunan
 date: 2020-04-18 15:35:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/buah-mangga-gajah.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/buah-mangga-gajah.jpg"
 tags:
 - Mangga
 
 modification_time: 2020-04-18 15:35:57
-blogger_orig_url: http://localhost/mitra/varietas-buah-mangga-raksasa-di-dunia.html
+blogger_orig_url: "http://localhost/mitra/varietas-buah-mangga-raksasa-di-dunia.html"
 ---
 
 Di perhentian tol di Gantang, sekitar 224 km dari Kualalumpur menuju Penang, Malaysia, <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> juga melihat mangga raksasa berpenampilan menarik. Mangifera indica berwarna hijau kekuningan itu langsung menyedot perhatian para pengguna jalan bebas hambatan yang sedang beristirahat.

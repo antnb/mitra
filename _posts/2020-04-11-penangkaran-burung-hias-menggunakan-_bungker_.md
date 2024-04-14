@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Penangkaran Burung Hias Menggunakan "Bungker"
+title: "Penangkaran Burung Hias Menggunakan Bungker"
 categories: Peternakan
 date: 2020-04-11 14:08:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Burung-Hias.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Burung-Hias.jpg"
 tags:
 - burung
 - jalak suren
@@ -12,7 +12,7 @@ tags:
 - penangkaran
 
 modification_time: 2020-04-11 14:08:49
-blogger_orig_url: http://localhost/mitra/penangkaran-burung-hias-menggunakan.html
+blogger_orig_url: "http://localhost/mitra/penangkaran-burung-hias-menggunakan.html"
 ---
 
 Perlindungan mirip bunker itu juga diterapkan oleh Cuan Lie untuk burung hias miliknya di Kenten, Talangkeramat, Palembang. Rumah panggung di tengah kebun jeruk seluas 1 ha tampak seperti rumah kebun biasa. Padahal, lorong rumah panggung itulah satu-satunya jalan masuk menuju tempat penangkaran seluas 200 m2.

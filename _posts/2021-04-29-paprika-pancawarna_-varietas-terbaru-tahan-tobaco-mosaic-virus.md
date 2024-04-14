@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Paprika Pancawarna: Varietas Terbaru Tahan Tobaco Mosaic Virus
+title: "Paprika Pancawarna: Varietas Terbaru Tahan Tobaco Mosaic Virus"
 categories: perkebunan|Pertanian
 date: 2021-04-29 12:35:13
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/04/paprika.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/04/paprika.jpg"
 tags:
 - benih paprika
 - harga paprika
@@ -14,7 +14,7 @@ tags:
 - tobaco mosaic virus
 
 modification_time: 2021-04-29 12:35:13
-blogger_orig_url: http://localhost/mitra/paprika-pancawarna-tobaco-mosaic-virus.html
+blogger_orig_url: "http://localhost/mitra/paprika-pancawarna-tobaco-mosaic-virus.html"
 ---
 
 Sekarang pekebun mengembangkan Paprika pancawarna beragam warna seperti putih, hitam, cokelat, dan ungu. Selama ini di pasaran hanya terdapat 3 warna paprika seperti lampu lalu lintas: hijau, merah, dan kuning. Dengan hadirnya paprika warna lain, ahli kuliner lebih leluasa memilih si buah lonceng itu.

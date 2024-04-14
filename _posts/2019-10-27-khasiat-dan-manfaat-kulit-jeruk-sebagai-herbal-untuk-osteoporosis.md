@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Khasiat Dan Manfaat Kulit Jeruk Sebagai Herbal Untuk Osteoporosis
+title: "Khasiat Dan Manfaat Kulit Jeruk Sebagai Herbal Untuk Osteoporosis"
 categories: kesehatan
 date: 2019-10-27 11:22:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/manfaat-kulit-jeruk.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/manfaat-kulit-jeruk.jpg"
 tags:
 - esterogen
 - Jeruk
@@ -14,7 +14,7 @@ tags:
 - tulang
 
 modification_time: 2022-12-30 09:43:49
-blogger_orig_url: http://localhost/mitra/khasiat-ekstrak-kulit-jeruk-sebagai.html
+blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-kulit-jeruk-sebagai.html"
 ---
 
 Kulit jeruk kaya akan serat, vitamin, dan polifenol penangkal penyakit, yang semuanya membantu Anda tetap sehat. Mereka juga mengandung limonene, sebuah molekul yang telah dikaitkan dengan penurunan risiko kanker kulit.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Yellow Pitaya Columbia di Wonosobo
+title: "Yellow Pitaya Columbia di Wonosobo"
 categories: perkebunan
 date: 2020-10-22 05:57:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Yellow_pitaya_fruit.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Yellow_pitaya_fruit.jpg"
 tags:
 - 
 
 modification_time: 2020-10-22 05:57:32
-blogger_orig_url: http://localhost/mitra/yellow-pitaya-columbia-di-wonosobo.html
+blogger_orig_url: "http://localhost/mitra/yellow-pitaya-columbia-di-wonosobo.html"
 ---
 
 Walau sama-sama menyandang gelar pitaya, sosok kaktus ini berbeda dengan red pitaya alias dragon fruit berkulit merah. Sosok pitaya kuning jauh lebih kecil, sekitar 80 - 100 g/buah. Namun jangan tanya rasanya. "Benar-benar manis. Sekali makan pasti ingin lagi," ujar Jack Craig, kolektornya.

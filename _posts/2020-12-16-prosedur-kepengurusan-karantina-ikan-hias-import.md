@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Prosedur Kepengurusan Karantina Ikan Hias Import
+title: "Prosedur Kepengurusan Karantina Ikan Hias Import"
 categories: artikel
 date: 2020-12-16 11:07:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_karantina_1024x686.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_karantina_1024x686.jpg"
 tags:
 - karantina ikan
 - maskoki
 
 modification_time: 2020-12-16 11:07:47
-blogger_orig_url: http://localhost/mitra/prosedur-kepengurusan-karantina-ikan.html
+blogger_orig_url: "http://localhost/mitra/prosedur-kepengurusan-karantina-ikan.html"
 ---
 
 Mengimpor itu gampang-gampang susah. Bagi importir yang ssering melakukannya tidak ada masalah. Namun, bagi

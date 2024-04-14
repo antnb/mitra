@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ranah Minang Demam sayur organik
+title: "Ranah Minang Demam sayur organik"
 categories: Pertanian
 date: 2021-01-20 10:05:14
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_nagari_1024x550.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_nagari_1024x550.jpg"
 tags:
 - organik
 
 modification_time: 2021-01-20 10:05:14
-blogger_orig_url: http://localhost/mitra/ranah-minang-demam-sayur-organik.html
+blogger_orig_url: "http://localhost/mitra/ranah-minang-demam-sayur-organik.html"
 ---
 
 Itulah pemandangan yang lazim ditemui di Kios Sayur Organik, Aie Angek, Kecamatan X Koto, Tanahdatar. Di sana terdapat 13 kios yang menjajakan beragam produk sehat dan ramah lingkungan. Bukan hanya sayuran, buah -buahan seperti jeruk, pisang, rambutan, markisa, dan pepaya juga tersedia. Produk olahan seperti sirup markisa pun ada.

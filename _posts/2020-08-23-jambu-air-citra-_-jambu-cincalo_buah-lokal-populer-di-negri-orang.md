@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Jambu Air Citra & Jambu Cincalo,Buah Lokal Populer Di Negri Orang
+title: "Jambu Air Citra & Jambu Cincalo,Buah Lokal Populer Di Negri Orang"
 categories: perkebunan
 date: 2020-08-23 07:03:28
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg"
 tags:
 - jambu air
 - Jambu Citra
 
 modification_time: 2020-08-23 07:03:28
-blogger_orig_url: http://localhost/mitra/jambu-air-citra-jambu-cincalo-buah.html
+blogger_orig_url: "http://localhost/mitra/jambu-air-citra-jambu-cincalo-buah.html"
 ---
 
 Thailand kembali menunjukkan keperkasaannya di dunia buah tropis. Jambu air citra dan <span class="keyword _ngcontent-tud-100" aria-hidden="false">jambu air cincalo</span> yang dibanggakan Indonesia, sejak 1997 telah menjadi andalan ekspor mereka. Padahal di Indonesia, <a href="http://127.0.0.1/mitra/topik/jambu-citra">jambu citra</a> baru dirilis sebagai buah unggul pada 1 Desember tahun itu. Sampai saat ini belum terdengar ada investor kita yang tertarik mengembangkannya dalam skala komersial.

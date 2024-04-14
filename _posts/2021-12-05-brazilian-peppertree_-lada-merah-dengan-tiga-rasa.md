@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Brazilian Peppertree: Lada Merah Dengan Tiga Rasa
+title: "Brazilian Peppertree: Lada Merah Dengan Tiga Rasa"
 categories: perkebunan
 date: 2021-12-05 08:36:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/lada-merah.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/lada-merah.jpg"
 tags:
 - lada
 
 modification_time: 2021-12-05 08:36:16
-blogger_orig_url: http://localhost/mitra/brazilian-peppertree-lada-merah.html
+blogger_orig_url: "http://localhost/mitra/brazilian-peppertree-lada-merah.html"
 ---
 
 Jangan bayangkan lada merah muda tumbuh merambat. Pink pepper berupa pohon tinggi seatap, la mencatut nama lada karena bercitarasa persis merica.

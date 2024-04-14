@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Laba Berlipat Dari Minyak Kelapa Murni (Minyak VCO)
+title: "Laba Berlipat Dari Minyak Kelapa Murni (Minyak VCO)"
 categories: perkebunan
 date: 2020-07-10 14:33:09
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/vco.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/vco.jpg"
 tags:
 - kelapa
 - vco
 
 modification_time: 2020-07-10 14:33:09
-blogger_orig_url: http://localhost/mitra/laba-minyak-kelapa-murni-minyak-vco.html
+blogger_orig_url: "http://localhost/mitra/laba-minyak-kelapa-murni-minyak-vco.html"
 ---
 
 Meski hasil <strong><span class="keyword _ngcontent-jdw-101" aria-hidden="false">minyak vco</span></strong> sudah ditangan, kesibukan Endang tak berhenti sampai di situ. Sore itu deru mesin pemarut kelapa kembali meraung-raung di halaman belakang rumahnya. Dalam hitungan menit, puluhan kilo daging buah dari sekitar 150 kg butir kelapa hancur luluh dan siap di proses menjadi <span class="keyword _ngcontent-jdw-101" aria-hidden="false">minyak kelapa murni</span>.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Benih jagung hibrida Terbaik golden sweeter super genjah
+title: "Benih jagung hibrida Terbaik golden sweeter super genjah"
 categories: artikel|perkebunan
 date: 2020-02-18 08:32:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/Benih-jagung-hibrida.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/Benih-jagung-hibrida.jpg"
 tags:
 - cap kapal terbang
 - golden boy
@@ -12,7 +12,7 @@ tags:
 - jagung
 
 modification_time: 2022-09-18 13:11:20
-blogger_orig_url: http://localhost/mitra/bibit-jagung-hibrida-terbaik-golden.html
+blogger_orig_url: "http://localhost/mitra/bibit-jagung-hibrida-terbaik-golden.html"
 ---
 
 Artikel ini ialah artikel yang membahas tentang jagung jenis baru yang ditanam petani di Indonesia. Jagung disebut "golden sweeter," dan sangat manis. Petani di Indonesia menanamnya karena orang suka memakannya. Ukuran jagungnya juga bagus, dan mudah ditanam.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mereka Yang Bergelut Di Ekspor Impor Buah Lokal
+title: "Mereka Yang Bergelut Di Ekspor Impor Buah Lokal"
 categories: artikel
 date: 2021-02-17 08:23:09
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/02/durian11.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/durian11.jpg"
 tags:
 - ekspor
 - ke singapura
@@ -14,7 +14,7 @@ tags:
 - volume ekspor
 
 modification_time: 2021-02-17 08:23:09
-blogger_orig_url: http://localhost/mitra/mereka-yang-bergelut-di-ekspor-impor.html
+blogger_orig_url: "http://localhost/mitra/mereka-yang-bergelut-di-ekspor-impor.html"
 ---
 
 Tumpukan 350 kardus mangga masih teronggok di rung karantina Bandara Sukarno-Hatta menunggu giliran diterbangkan. Padahal jauh-jauh hari Umar Alaydrus eksportir di Jawa Timur, telah memesan tempat.

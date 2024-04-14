@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Manfaat Dan Khasiat cordyceps sinensis Untuk Kesehatan
+title: "Manfaat Dan Khasiat cordyceps sinensis Untuk Kesehatan"
 categories: artikel|Herbal|kesehatan
 date: 2020-04-16 15:03:29
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/04/penjualan-cordyceps.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/penjualan-cordyceps.jpg"
 tags:
 - cordyceps
 - fungus
@@ -12,7 +12,7 @@ tags:
 - ulat
 
 modification_time: 2020-04-16 15:03:29
-blogger_orig_url: http://localhost/mitra/manfaat-dan-khasiat-cordyceps-sinensis.html
+blogger_orig_url: "http://localhost/mitra/manfaat-dan-khasiat-cordyceps-sinensis.html"
 ---
 
 Obat yang rutin dikonsumsi Huang Li Ping dan kawan-kawan adalah He Yuan Tang hasil temuan Li Xiao Ping. Bahan utama dalam suplemen itu adalah Cordyceps sinensis, tumbuhan endemik di Pegunungan Himalaya, Tibet. Tumbuhan yang hanya berproduksi pada Mei-Juni saat temperatur -3-10°C cuma tumbuh di kisaran ketinggian 4.000-4.400 m dpi.

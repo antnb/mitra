@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tanaman Hias: Kuningnya Anggrek Kaki Gunung Gede
+title: "Tanaman Hias: Kuningnya Anggrek Kaki Gunung Gede"
 categories: artikel|hobi|tanaman hias
 date: 2020-08-26 06:03:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/13.-Anggrek.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/13.-Anggrek.jpg"
 tags:
 - 
 
 modification_time: 2020-08-26 06:03:03
-blogger_orig_url: http://localhost/mitra/tanaman-hias-kuningnya-anggrek-kaki.html
+blogger_orig_url: "http://localhost/mitra/tanaman-hias-kuningnya-anggrek-kaki.html"
 ---
 
 <em>Penampilan Phaius kuning milik Satria Wira mirip Calathea. Warna bunga kuning oranye tersusun dalam “tandan” yang mengarah ke atas. Anggrek langka ini dipelihara dalam kuhah berjaring agar tidak dilalap ulat.</em>

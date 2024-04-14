@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Dendrobium Keriting nan Cantik
+title: "Dendrobium Keriting nan Cantik"
 categories: Arsip
 date: 2020-10-21 11:02:54
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/123.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/123.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 11:02:54
-blogger_orig_url: http://localhost/mitra/dendrobium-keriting-nan-cantik.html
+blogger_orig_url: "http://localhost/mitra/dendrobium-keriting-nan-cantik.html"
 ---
 
 Datanglah ke Royal Orchids di Prigen. Atau ke Sien Orchids, Frans &amp; Edward Orchids, dan Handoyoharjo Orchids. Mata Anda akan dimanjakan aneka jenis anggrek keriting. Sekitar 70% isi kebun-kebun itu didominasi anggrek keriting.

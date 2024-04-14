@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Suara Mahal Sang Kicauan Bernilai Jutaan Rupiah
+title: "Suara Mahal Sang Kicauan Bernilai Jutaan Rupiah"
 categories: artikel|hobi
 date: 2021-05-03 09:06:39
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/05/kacer.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/kacer.jpg"
 tags:
 - burung kicauan
 - hobiis burung
@@ -14,7 +14,7 @@ tags:
 - raja pentet
 
 modification_time: 2021-05-03 09:06:39
-blogger_orig_url: http://localhost/mitra/suara-mahal-sang-kicauan-bernilai.html
+blogger_orig_url: "http://localhost/mitra/suara-mahal-sang-kicauan-bernilai.html"
 ---
 
 Gaya Ayu nama kacer itu atraktif bagai penyanyi rock and roll Elvis Presley di atas panggung. Burung jantan itu hinggap di tongkrongan, lalu meloncat ke lokasi lain sembari merentangkan kedua sayapnya. Suaranya tak putus-putus. Kerap kali kepalanya mendongak dan ditegakkan sehingga paruh seperti menunjuk langit.

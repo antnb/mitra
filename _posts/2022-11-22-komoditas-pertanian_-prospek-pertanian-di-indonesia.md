@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Komoditas Pertanian: Prospek Pertanian Di Indonesia
+title: "Komoditas Pertanian: Prospek Pertanian Di Indonesia"
 categories: Pertanian
 date: 2022-11-22 09:03:37
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/11/Komoditas-Pertanian.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/11/Komoditas-Pertanian.jpg"
 tags:
 - bahan pertanian
 - benih
@@ -21,7 +21,7 @@ tags:
 - tanaman
 
 modification_time: 2022-11-22 09:05:21
-blogger_orig_url: http://localhost/mitra/komoditas-pertanian.html
+blogger_orig_url: "http://localhost/mitra/komoditas-pertanian.html"
 ---
 
 Pertanian di Indonesia berkembang pesat dan sekarang telah menjadi salah satu sektor ekonomi terpenting di negara ini. Pertanian Indonesia mencakup sektor pertanian, perkebunan, dan <a class="wpil_keyword_link" title="peternakan" href="http://127.0.0.1/mitra/peternakan" data-wpil-keyword-link="linked">peternakan</a>.

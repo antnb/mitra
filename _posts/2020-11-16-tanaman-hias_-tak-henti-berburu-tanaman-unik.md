@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanaman Hias: Tak Henti Berburu Tanaman Unik
+title: "Tanaman Hias: Tak Henti Berburu Tanaman Unik"
 categories: hobi|tanaman hias
 date: 2020-11-16 12:18:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_rambut_barbie_562x480.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_rambut_barbie_562x480.jpg"
 tags:
 - Kumpulan
 - saya
@@ -12,7 +12,7 @@ tags:
 - Universitas Trisakti
 
 modification_time: 2020-11-16 12:18:20
-blogger_orig_url: http://localhost/mitra/tanaman-hias-tak-henti-berburu.html
+blogger_orig_url: "http://localhost/mitra/tanaman-hias-tak-henti-berburu.html"
 ---
 
 Kumpulan kelapa di pot 30 cm itu tingginya cuma 50 cm. Uniknya, kelapa itu membentuk anakan berjumlah 19 pohon. Di teras rumah di bilangan Puri Indah, Jakarta Barat, itu juga ada kelapa yang mudah remuk seperti kerupuk. Sekitar 300 an tanaman unik lain tumbuh subur dan tertata rapi. Itulah hasil perburuan tak kunjung henti Thomas Aquinas Santosa sejak 13 tahun silam.

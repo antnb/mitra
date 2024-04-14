@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Saat Kelezatan Durian Udang Merah Tercecap di Lidah
+title: "Saat Kelezatan Durian Udang Merah Tercecap di Lidah"
 categories: artikel|perkebunan
 date: 2020-12-08 06:49:43
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_durianudang_1024x624.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_durianudang_1024x624.jpg"
 tags:
 - Durian
 - durian udang
@@ -12,7 +12,7 @@ tags:
 - kuning kemerahan
 
 modification_time: 2020-12-08 06:49:43
-blogger_orig_url: http://localhost/mitra/saat-kelezatan-durian-udang-merah.html
+blogger_orig_url: "http://localhost/mitra/saat-kelezatan-durian-udang-merah.html"
 ---
 
 Pantas bila kegembiraan langsung pecah begitu Khor Hun Hin menyodorkan udang merah. Sudah sejak 2 perjalanan sebelumnya Karjono dan Sardi Duryatmo pada akhir tahun, serta Evy Syariefa pada durian andalan Pulau Penang itu jadi incaran. Sayang, udang merah urung dicicipi lantaran lewat musim.

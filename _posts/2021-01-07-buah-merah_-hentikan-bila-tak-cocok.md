@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Buah Merah: Hentikan Bila Tak Cocok
+title: "Buah Merah: Hentikan Bila Tak Cocok"
 categories: Herbal
 date: 2021-01-07 07:30:12
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_Pandanus_utilis_at_Itiquira_Falls_768x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_Pandanus_utilis_at_Itiquira_Falls_768x768.jpg"
 tags:
 - Buah merah
 - buah merah papua
@@ -13,7 +13,7 @@ tags:
 - saluran pencernaan
 
 modification_time: 2021-01-07 07:30:12
-blogger_orig_url: http://localhost/mitra/buah-merah-hentikan-bila-tak-cocok.html
+blogger_orig_url: "http://localhost/mitra/buah-merah-hentikan-bila-tak-cocok.html"
 ---
 
 Kondisi Farida gawat sehingga perlu dirawat di rumah sakit di Jakarta. Kadar haemoglobin darah drop sampai 4,4. Padahal normalnya 12. Pemberian sari <i>Pandanus conoideus</i> pun dihentikan. Walau begitu, Inge dan keluarga tak berani memastikan penyebab parahnya sang ibu. "Bisa jadi karena <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/buah-merah"  title="buah merah" data-wpil-keyword-link="linked">buah merah</a> berbentuk minyak, dapat juga dari makanan yang keras," kata Inge. Harap mafhum, penderita sakit hati—hepatitis, radang, sirosis, dan kanker diharuskan diet makanan berminyak dan keras.

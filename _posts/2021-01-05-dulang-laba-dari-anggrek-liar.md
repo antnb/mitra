@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dulang Laba dari anggrek Liar
+title: "Dulang Laba dari anggrek Liar"
 categories: tanaman hias
 date: 2021-01-05 08:16:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_anggrek2_1024x646.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_anggrek2_1024x646.jpg"
 tags:
 - Anggrek
 - anggrek spesies
@@ -13,7 +13,7 @@ tags:
 - laba besar
 
 modification_time: 2021-01-05 08:16:51
-blogger_orig_url: http://localhost/mitra/dulang-laba-dari-anggrek-liar.html
+blogger_orig_url: "http://localhost/mitra/dulang-laba-dari-anggrek-liar.html"
 ---
 
 Kesibukan terus berdenyut di ruang tamu Rini usai mengikuti festival hortikultura di Jakarta. Di ruang berukuran sekitar 60 m2 ia dibantu sang suami dan karyawannya melayani permintaan konsumen dari berbagai kota seperti Jakarta, Tangerang, Surabaya, dan Denpasar. "Ada yang minta 100 tanaman untuk setiap jenis anggrek yang saya koleksi," ujar alumnus Universitas Negeri Semarang itu.

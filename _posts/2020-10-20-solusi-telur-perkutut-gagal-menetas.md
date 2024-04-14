@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Solusi Telur Perkutut Gagal Menetas
+title: "Solusi Telur Perkutut Gagal Menetas"
 categories: artikel|hobi
 date: 2020-10-20 13:25:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/kabut.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/kabut.jpg"
 tags:
 - 
 
 modification_time: 2020-10-20 13:25:21
-blogger_orig_url: http://localhost/mitra/solusi-telur-perkutut-gagal-menetas.html
+blogger_orig_url: "http://localhost/mitra/solusi-telur-perkutut-gagal-menetas.html"
 ---
 
 <p>Dua telur di kandang Gofir yang berisi pasangan WAT 366 Cleopatra dan Turbo gagal menetas. Pasangan Leo 5653 Portugal dan Tow 147/S26 di kandang Sem juga mengalami hal serupa. Itu membuat Dicky Tiono, sang pemilik Nuh Bird Farm resah.</p>

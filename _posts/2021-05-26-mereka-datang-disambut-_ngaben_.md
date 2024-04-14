@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mereka Datang Disambut "Ngaben"
+title: "Mereka Datang Disambut Ngaben"
 categories: Tak Berkategori
 date: 2021-05-26 06:45:34
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/gandum1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/gandum1.jpg"
 tags:
 - gandum
 
 modification_time: 2021-05-26 06:45:34
-blogger_orig_url: http://localhost/mitra/mereka-datang-disambut-ngaben.html
+blogger_orig_url: "http://localhost/mitra/mereka-datang-disambut-ngaben.html"
 ---
 
 Kotak besi berukuran l,5mxlm yang dipenuhi benih jagung dari Thailand perlahan terkerek. Di ketinggian 3 meter kotak berhenti sejenak. Kemudian di depannya mulut tungku menganga lebar dan menelan isi kotak. Lidah api menjilati dan melumat hingga benih menjadi abu. Benih jagung terpaksa dimusnahkan lantaran terinfeksi bakteri Erwinia stewartii.

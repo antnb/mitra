@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Durian Bulungan: Saat Purnama Manjakan Lidah
+title: "Durian Bulungan: Saat Purnama Manjakan Lidah"
 categories: artikel|perkebunan
 date: 2020-10-29 05:53:43
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_duren4_1224x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_duren4_1224x720.jpg"
 tags:
 - Durian
 
 modification_time: 2020-10-29 05:53:43
-blogger_orig_url: http://localhost/mitra/durian-bulungan-saat-purnama-manjakan.html
+blogger_orig_url: "http://localhost/mitra/durian-bulungan-saat-purnama-manjakan.html"
 ---
 
 Begitulah penduduk Kabupaten Bulungan menyebut durian durian andalannya. Begitu 3 nama itu disebut, spontan para pedagang dan pengepul yang sejak sore menggelar dagangan di Jalan Sudirman, tepi Sungai Kayan berlarian menuju perahu. Tawar menawar harga pun menjadi tontonan menarik di pekat malam. Setelah harga disetujui, berayut, tringgiling, dan kaleng langsung dijajakan di tepi jalan.

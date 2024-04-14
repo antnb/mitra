@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Memahami Cara Menggunakan Pupuk NPK Phonska untuk Meningkatkan Pertumbuhan Tanaman
+title: "Memahami Cara Menggunakan Pupuk NPK Phonska untuk Meningkatkan Pertumbuhan Tanaman"
 categories: Pertanian
 date: 2022-12-11 10:18:49
 author: admin
-image: http://localhost/mitra/wp-content/uploads/2022/12/ponska.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/12/ponska.jpg"
 tags:
 - pupuk
 
 modification_time: 2023-02-27 10:53:06
-blogger_orig_url: http://localhost/mitra/manfaat-pupuk-phonska-untuk-pertanian.html
+blogger_orig_url: "http://localhost/mitra/manfaat-pupuk-phonska-untuk-pertanian.html"
 ---
 
 Pupuk Phonska adalah pupuk yang dikeluarkan oleh pemerintah untuk meningkatkan produksi tanaman dan memberikan rakyat Indonesia manfaat ekonomi. Pupuk ini disubsidi oleh pemerintah dan ditawarkan kepada petani dengan harga yang lebih rendah daripada harga pasar. Subsidi ini juga bertujuan untuk meningkatkan pertumbuhan ekonomi dan kesejahteraan petani di Indonesia. Pupuk NPK Phonska didistribusikan dengan harga yang relatif lebih murah karena disubsidi oleh pemerintah. .

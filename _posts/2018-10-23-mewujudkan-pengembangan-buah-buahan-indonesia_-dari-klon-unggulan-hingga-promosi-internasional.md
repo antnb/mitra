@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mewujudkan Pengembangan Buah Buahan Indonesia: Dari Klon Unggulan hingga Promosi Internasional
+title: "Mewujudkan Pengembangan Buah Buahan Indonesia: Dari Klon Unggulan hingga Promosi Internasional"
 categories: artikel
 date: 2018-10-23 07:03:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/thai-fruits.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/thai-fruits.jpg"
 tags:
 - Buah
 - Durian
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-24 07:59:19
-blogger_orig_url: http://localhost/mitra/menthailandkan-buah-indonesia.html
+blogger_orig_url: "http://localhost/mitra/menthailandkan-buah-indonesia.html"
 ---
 
 Sebuah advertorial <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> Maret lalu mengenai Exotic Thai Fruits Tour mengingatkan saya akan negara berpenduduk 8 juta orang. Suatu seminar selama 3 hari di Bangkok menyisakan suatu kenangan buat saya. Di sana saya terpana melihat tanaman buah segar yang disajikan.

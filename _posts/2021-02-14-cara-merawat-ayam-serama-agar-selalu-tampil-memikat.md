@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cara Merawat Ayam Serama Agar Selalu Tampil Memikat
+title: "Cara Merawat Ayam Serama Agar Selalu Tampil Memikat"
 categories: hobi|Peternakan
 date: 2021-02-14 08:39:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_bantam_1280x812.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_bantam_1280x812.jpg"
 tags:
 - ayam
 - Ayam serama
@@ -13,7 +13,7 @@ tags:
 - serama bulu mengkilap
 
 modification_time: 2021-02-14 08:39:29
-blogger_orig_url: http://localhost/mitra/cara-merawat-ayam-serama-agar-selalu.html
+blogger_orig_url: "http://localhost/mitra/cara-merawat-ayam-serama-agar-selalu.html"
 ---
 
 Cara merawat ayam Serama sebenarnya susah susah gampang. Begitu dilepas, si Gondrong langsung pasang aksi. Ia berjingkat-jingkat kian kemari dengan dada dibusungkan. Kepalanya ditarik ke belakang sampai menyentuh ekor. Kadang-kadang kepala ditengokkan ke kanan dan kiri bagai peragawan yang sedang beraksi di catwalk. Polahnya yang lucu memancing senyum simpul yang melihat. Pantas, bila Rudiasfie Sjofinabangga sekali dengan serama itu.

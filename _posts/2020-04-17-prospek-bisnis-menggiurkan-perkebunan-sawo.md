@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Prospek Bisnis menggiurkan Perkebunan Sawo
+title: "Prospek Bisnis menggiurkan Perkebunan Sawo"
 categories: perkebunan
 date: 2020-04-17 16:07:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Perkebunan-Sawo.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Perkebunan-Sawo.jpg"
 tags:
 - perkebunan
 - sawo
 
 modification_time: 2020-04-17 16:07:16
-blogger_orig_url: http://localhost/mitra/prospek-bisnis-menggiurkan-perkebunan.html
+blogger_orig_url: "http://localhost/mitra/prospek-bisnis-menggiurkan-perkebunan.html"
 ---
 
 <em>Itulah hasil panen dari 150 pohon yang ditanam Ating di lahan seluas 1 ha. Dompet pekebun sawo di Desa Sukatali, Kecamatan Situraja, Sumedang, itu kian menebal lantaran hanya mengeluarkan biaya perawatan Rp 100.000 per tahun. Dengan pendapatan jutaan rupiah, Ating hidup makmur.</em>

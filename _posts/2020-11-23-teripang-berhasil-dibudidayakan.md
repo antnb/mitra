@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Teripang Berhasil Dibudidayakan
+title: "Teripang Berhasil Dibudidayakan"
 categories: artikel|Perikanan
 date: 2020-11-23 13:51:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/timun-laut-ok000.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/timun-laut-ok000.jpg"
 tags:
 - avertebrata
 - Echinodermata
 - timun laut
 
 modification_time: 2020-11-23 13:51:35
-blogger_orig_url: http://localhost/mitra/teripang-berhasil-dibudidayakan.html
+blogger_orig_url: "http://localhost/mitra/teripang-berhasil-dibudidayakan.html"
 ---
 
 "Aduh, sulitnya mencari teripang," keluh Antonius K Sembiring pelaku budidaya teripang, eksportir di Surabaya. Untuk memenuhi 15 ton/2 bulan teripang kering saja ia harus pontang-panting berburu hingga Bangka sampai Belitung. Gara-gara tak dapat pasokan lagi, Herman Taslim, eksportir di Jakarta juga menghentikan usaha setahun silam.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Buah Nona Silangan Unggul Komoditas Ekspor Negri Gajah Putih
+title: "Buah Nona Silangan Unggul Komoditas Ekspor Negri Gajah Putih"
 categories: perkebunan
 date: 2021-01-23 11:00:46
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Noina.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Noina.jpg"
 tags:
 - buah nona
 - ekspor
@@ -12,7 +12,7 @@ tags:
 - thailand
 
 modification_time: 2022-11-22 06:14:04
-blogger_orig_url: http://localhost/mitra/buah-nona-silangan-unggul-komoditas.html
+blogger_orig_url: "http://localhost/mitra/buah-nona-silangan-unggul-komoditas.html"
 ---
 
 Tebakan Greg tak salah. Petch pakchong, buah nona itu, hasil silangan si bongsor asal Australia dengan nona thailand nan manis. Keduanya dipertemukan pakar di provinsi Nakom Ratchasima.

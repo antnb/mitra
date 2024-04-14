@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Daun Sambiloto dan Virus Flu Burung
+title: "Daun Sambiloto dan Virus Flu Burung"
 categories: Herbal
 date: 2020-12-18 09:16:43
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sambiloto_1024x675.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sambiloto_1024x675.jpg"
 tags:
 - daun sambiloto
 - herbal sambiloto
@@ -13,7 +13,7 @@ tags:
 - wabah flu burung
 
 modification_time: 2020-12-18 09:16:43
-blogger_orig_url: http://localhost/mitra/daun-sambiloto-dan-virus-flu-burung.html
+blogger_orig_url: "http://localhost/mitra/daun-sambiloto-dan-virus-flu-burung.html"
 ---
 
 Beberapa bulan ke belakang masyarakat dihebohkan oleh kasus merebaknya wabah flu burung yang menyerang ternak-ternak ayam. Dalam waktu singkat jutaan ayam mati akibat penyakit itu. Kontan fenomena itu menimbulkan ketakutan hebat di kalangan masyarakat. Sebab, penyakit virus itu bersifat zoonosis alias menular ke manusia.

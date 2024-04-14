@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Manfaat Sarang Walet untuk Kesehatan dan Kecantikan yang Terbukti Tokcer
+title: "Manfaat Sarang Walet untuk Kesehatan dan Kecantikan yang Terbukti Tokcer"
 categories: kesehatan
 date: 2019-09-08 07:31:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/09/birdnest.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/09/birdnest.jpg"
 tags:
 - china
 - merah
@@ -13,7 +13,7 @@ tags:
 - walet
 
 modification_time: 2022-12-24 08:09:57
-blogger_orig_url: http://localhost/mitra/cantik-dan-sehat-berkat-liur-walet.html
+blogger_orig_url: "http://localhost/mitra/cantik-dan-sehat-berkat-liur-walet.html"
 ---
 
 Sarang walet memiliki banyak manfaat bagi kesehatan dan kecantikan. Penelitian telah membuktikan bahwa sarang walet mengandung berbagai nutrisi penting yang membantu menjaga tubuh tetap sehat dan cantik. Sarang walet mengandung protein, vitamin, mineral, asam amino, lemak dan asam lemak yang bermanfaat untuk kulit, rambut, dan kesehatan jantung.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Banyak Keuntungan, Pekebun Mulai Lirik Tanaman Kentang Organik
+title: "Banyak Keuntungan, Pekebun Mulai Lirik Tanaman Kentang Organik"
 categories: perkebunan
 date: 2020-12-28 08:14:35
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_kentang1_1024x670.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_kentang1_1024x670.jpg"
 tags:
 - Kentang
 - Pupuk kandang
 
 modification_time: 2020-12-28 08:14:35
-blogger_orig_url: http://localhost/mitra/tanaman-kentang-organik-makin-diminati.html
+blogger_orig_url: "http://localhost/mitra/tanaman-kentang-organik-makin-diminati.html"
 ---
 
 Di ketinggian 1.200 m dpi, lahan kentang itu tampak lain dari kebun di sekitarnya. Di beberapa bagian lahan, kelihatan karung bekas setinggi 2 m sebagai pagar di kebun Tanaman Kentang Organik.

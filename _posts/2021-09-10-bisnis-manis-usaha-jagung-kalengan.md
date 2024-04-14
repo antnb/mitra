@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bisnis Manis Usaha Jagung Kalengan
+title: "Bisnis Manis Usaha Jagung Kalengan"
 categories: perkebunan
 date: 2021-09-10 14:31:26
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/jagung-manis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/jagung-manis.jpg"
 tags:
 - jagung
 
 modification_time: 2022-09-21 06:29:12
-blogger_orig_url: http://localhost/mitra/bisnis-manis-jagung-kalengan.html
+blogger_orig_url: "http://localhost/mitra/bisnis-manis-jagung-kalengan.html"
 ---
 
 Satu per satu tongkol jagung itu berbaris di atas conveyer mesin packing Jagung Kaleng. Setelah masuk ke dalam mesin, ratusan tongkol itu dipipil, dibersihkan, dan dipisahkan secara otomatis. Tak lama kemudian, 250 g pipilan jagung dicemplungkan ke dalam kaleng setinggi 10 cm berisi cairan pengawet. Keluar dari mesin, tangan-tangan terampil siap melabeli kaleng <a href="http://127.0.0.1/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html">jagung manis</a> itu.

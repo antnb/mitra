@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tepung Jepang Cocok di dataran Medium
+title: "Tepung Jepang Cocok di dataran Medium"
 categories: perkebunan|Pertanian
 date: 2021-02-06 05:38:20
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_terong_1024x633.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_terong_1024x633.jpg"
 tags:
 - dataran rendah
 - lahan medium
@@ -13,7 +13,7 @@ tags:
 - terung jepang
 
 modification_time: 2021-02-06 05:38:20
-blogger_orig_url: http://localhost/mitra/tepung-jepang-cocok-di-dataran-medium.html
+blogger_orig_url: "http://localhost/mitra/tepung-jepang-cocok-di-dataran-medium.html"
 ---
 
 Apa susahnya menanam terung jepang, toh sama-sama terung. Pikiran seperti ini muncul dari pekebun yang akan mencoba menanam. Kenyataan di lapangan, dari 18.000 bibit yang ditanam hanya 2.500 sempat menghasilkan buah. Itu pun sebagian besar kualitasnya tak layak masuk industri pengolahan.

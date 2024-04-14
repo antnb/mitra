@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tepung Cabai Tambang Rupiah Mustari
+title: "Tepung Cabai Tambang Rupiah Mustari"
 categories: artikel|Pertanian
 date: 2020-09-04 11:01:26
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Tepung-Cabai_1208x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Tepung-Cabai_1208x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 11:01:26
-blogger_orig_url: http://localhost/mitra/tepung-cabai-tambang-rupiah-mustari.html
+blogger_orig_url: "http://localhost/mitra/tepung-cabai-tambang-rupiah-mustari.html"
 ---
 
 <em>Rp 20-juta mengisi kocek Mustari Anies dari penjualan 3,5 ton tepung cabai per bulan. Dengan teknologi sederhana, alumnus sebuah STM di Padang itu mengolah cabai untuk memenuhi permintaan restoran korea dan jepang, pasar swalayan, produsen mi instan, serta produsen esens.</em>

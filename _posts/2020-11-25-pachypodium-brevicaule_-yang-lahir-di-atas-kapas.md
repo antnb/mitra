@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pachypodium brevicaule: Yang Lahir di Atas Kapas
+title: "Pachypodium brevicaule: Yang Lahir di Atas Kapas"
 categories: hobi|tanaman hias
 date: 2020-11-25 04:57:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kapas_benih_990x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kapas_benih_990x768.jpg"
 tags:
 - Botany
 - daun
@@ -15,7 +15,7 @@ tags:
 - vegetasi
 
 modification_time: 2020-11-25 04:57:17
-blogger_orig_url: http://localhost/mitra/pachypodium-brevicaule-yang-lahir-di.html
+blogger_orig_url: "http://localhost/mitra/pachypodium-brevicaule-yang-lahir-di.html"
 ---
 
 Ukuran biji Pachypodium brevicaule memang amat mungil, lebih kecil daripada biji bayam. "Kita bernapas saja, biji brevicaule terbang," ujar Handry Chuhairy melukiskan betapa kecil dan ringannya biji itu. Bandingkan dengan ukuran biji P. lamerei yang setara gabah alias bulir padi. Oleh karena itu jumlah 5.000 biji cuma setara 3 sendok makan. Alumnus Fakultas Ekonomi Universitas Tarumanagara itu memperoleh benih brevicaule dari Jerman.

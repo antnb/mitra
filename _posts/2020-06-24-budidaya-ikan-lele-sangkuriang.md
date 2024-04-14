@@ -1,15 +1,15 @@
 ---
 layout: post
-title: budidaya Ikan lele sangkuriang
+title: "budidaya Ikan lele sangkuriang"
 categories: Perikanan
 date: 2020-06-24 10:01:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/Budidaya-Lele-Sangkuriang_288044_1250x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/Budidaya-Lele-Sangkuriang_288044_1250x800.jpg"
 tags:
 - 
 
 modification_time: 2022-09-15 11:12:40
-blogger_orig_url: http://localhost/mitra/budidaya-ikan-lele-sangkuriang.html
+blogger_orig_url: "http://localhost/mitra/budidaya-ikan-lele-sangkuriang.html"
 ---
 
 Lele sangkuriang adalah salah satu jenis ikan lele hasil dari persilangan antara beberapa jenis lele yang dianggap memiliki kualitas baik, sehingga dihasilkan yang lebih baik dibanding jenis kedua induknya.

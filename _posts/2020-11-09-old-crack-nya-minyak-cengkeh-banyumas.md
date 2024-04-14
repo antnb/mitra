@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Old Crack-nya Minyak Cengkeh Banyumas
+title: "Old Crack-nya Minyak Cengkeh Banyumas"
 categories: artikel|perkebunan
 date: 2020-11-09 11:47:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cengkeh_1084x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cengkeh_1084x720.jpg"
 tags:
 - cengkeh
 - minyak cengkih
 
 modification_time: 2020-11-09 11:47:29
-blogger_orig_url: http://localhost/mitra/old-crack-nya-minyak-cengkeh-banyumas.html
+blogger_orig_url: "http://localhost/mitra/old-crack-nya-minyak-cengkeh-banyumas.html"
 ---
 
 Julukan old crack-jago tua-pantas disandang Haji Soenarjo Soebagyo dari Desa Dawuanwetan, Kecamatan Kedung Banteng, Banyumas. Betapa tidak, jungkir balik bisnis minyak daun cengkeh sudah kenyang dilakoni puluhan tahun. Terjungkir akibat belasan ton minyak tak terjual sampai terbalik di zaman BPPC pernah dikecapnya. Toh, kerikil-kerikil itu pantang mengerem roda bisnisnya. Justru berbekal pengalaman itu ia sekarang menangguk laba bersih Rpl 5-juta /bulan.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kendala Seputar Ekspor Impor Vanili
+title: "Kendala Seputar Ekspor Impor Vanili"
 categories: artikel
 date: 2020-09-15 08:10:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_vanili-1_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_vanili-1_1280x719.jpg"
 tags:
 - 
 
 modification_time: 2020-09-15 08:10:00
-blogger_orig_url: http://localhost/mitra/kendala-seputar-ekspor-impor-vanili.html
+blogger_orig_url: "http://localhost/mitra/kendala-seputar-ekspor-impor-vanili.html"
 ---
 
 <em>Menurut Johny Sinaga, penampung vanili di Bogor, beberapa bulan terakhir banyak eksportir menutup pintu pembelian. Pemasok hanya mengandalkan pasar lokal yang daya serapnya terbatas. Stok di gudang penampung pun melimpah.</em>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sistem Hidroponik Pasang Surut Bertingkat EBB And FLow
+title: "Sistem Hidroponik Pasang Surut Bertingkat EBB And FLow"
 categories: artikel
 date: 2021-12-07 11:37:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/hidroponik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/hidroponik.jpg"
 tags:
 - Hidroponik
 - mesin
@@ -16,7 +16,7 @@ tags:
 - tanaman
 
 modification_time: 2022-09-18 15:05:40
-blogger_orig_url: http://localhost/mitra/sistem-hidroponik-teknik-pasang-surut.html
+blogger_orig_url: "http://localhost/mitra/sistem-hidroponik-teknik-pasang-surut.html"
 ---
 
 Memetik sayuran di kebun hidroponik sendiri? Dulu tak pernah terlintas di benak Dr Winny Sitompul. Namun, kini ia bisa menuai bayam, selada, dan beragam sayuran lain di halaman belakang rumah. semua itu berkat teknik hidroponik sistim EBB And FLow atau sistem pasang surut hidroponik.

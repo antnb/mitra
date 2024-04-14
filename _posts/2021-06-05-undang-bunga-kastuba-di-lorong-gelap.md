@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Undang Bunga Kastuba di Lorong Gelap
+title: "Undang Bunga Kastuba di Lorong Gelap"
 categories: hobi|tanaman hias
 date: 2021-06-05 08:58:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/06/Kastuba.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/06/Kastuba.jpg"
 tags:
 - Kastuba
 - Kastuba mini
 
 modification_time: 2022-09-21 06:36:22
-blogger_orig_url: http://localhost/mitra/undang-bunga-kastuba-di-lorong-gelap.html
+blogger_orig_url: "http://localhost/mitra/undang-bunga-kastuba-di-lorong-gelap.html"
 ---
 
 Bunga Kastuba (Poinsettia) adalah pohon yang berasal dari Meksiko dan Amerika Tengah. Pohon ini biasanya tumbuh menjadi pohon kecil dengan daun yang lebar dan berwarna hijau cerah. Pohon ini biasanya tumbuh menjadi pohon kecil dengan daun yang lebar dan berwarna hijau cerah dan Bunga poinsettia yang mekar biasanya berwarna merah, namun ada juga poinsettia dengan bunga berwarna kuning atau putih. Pohon poinsettia sering kali ditanam di pekarangan rumah atau di sekolah sebagai tanaman hias.

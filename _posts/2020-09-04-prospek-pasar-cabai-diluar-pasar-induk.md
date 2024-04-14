@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Prospek Pasar Cabai Diluar Pasar Induk
+title: "Prospek Pasar Cabai Diluar Pasar Induk"
 categories: artikel|perkebunan
 date: 2020-09-04 08:06:13
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_cabai1_1201x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_cabai1_1201x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 08:06:13
-blogger_orig_url: http://localhost/mitra/prospek-pasar-cabai-diluar-pasar-induk.html
+blogger_orig_url: "http://localhost/mitra/prospek-pasar-cabai-diluar-pasar-induk.html"
 ---
 
 <em>Tiga tahun lalu berkebun cabai terasa getir bagi Elka Purwantara. Ia menanam si pedas itu di lahan 3,5 ha. Elka menjualnya ke Pasar Induk Kramatjati, Jakarta Timur. Pada puncak panen harga melorot tajam, Rp l.600 per kg dari sebelumnya Rp 3.500 pada awal panen. Eaba yang diimpikan pria humoris itu berbalik bagai mimpi buruk. Sulit dihindari Rp 60-juta terkuras dari pundi-pundi Elka. "Siasat memanen pada musim hujan tak dapat membantu menaikan harga. Sekarang banyak pekebun yang pintar mengatasi kendala hujan," tutur Elka mengenang kegetiran itu.</em>

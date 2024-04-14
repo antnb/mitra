@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Seri Sarang Walet: Dokumen dan Kemasan Ekspor
+title: "Seri Sarang Walet: Dokumen dan Kemasan Ekspor"
 categories: artikel
 date: 2020-11-08 06:38:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_birdnest_1097x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_birdnest_1097x720.jpg"
 tags:
 - ekspor
 - sarang walet
 - walet
 
 modification_time: 2020-11-08 06:38:45
-blogger_orig_url: http://localhost/mitra/seri-sarang-walet-dokumen-dan-kemasan.html
+blogger_orig_url: "http://localhost/mitra/seri-sarang-walet-dokumen-dan-kemasan.html"
 ---
 
 Setiap negara menginginkan standar mutu dan jenis sarang walet berbeda. Memahami mutu yang diminta buyers salah satu kunci sukses ekspor sarang walet. Selain itu kemasan dan dokumen yang dipersyaratkan masing-masing negara harus diperhatikan.

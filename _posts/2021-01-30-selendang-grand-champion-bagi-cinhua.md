@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Selendang Grand Champion bagi Cinhua
+title: "Selendang Grand Champion bagi Cinhua"
 categories: artikel|ikan hias
 date: 2021-01-30 06:45:27
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lohan_1024x650.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lohan_1024x650.jpg"
 tags:
 - cinhua
 - cinhua klasik
@@ -15,7 +15,7 @@ tags:
 - lou han
 
 modification_time: 2021-01-30 06:45:27
-blogger_orig_url: http://localhost/mitra/selendang-grand-champion-bagi-cinhua.html
+blogger_orig_url: "http://localhost/mitra/selendang-grand-champion-bagi-cinhua.html"
 ---
 
 Sosok cinhua grand champion itu memikat. Nonong bulat penuh berkesan tebal, marking merata dari insang hingga pangkal ekor. Taburan mutiara tampak terang dan penuh menyelimuti seluruh tubuh yang kemerahan. "Penampilannya sangat bagus dan proporsional," ujar Siabang, ketua juri asal Bandung.

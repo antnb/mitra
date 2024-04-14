@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ikan frontosa: Perawatan Si Muka Monyet Menuntut Kesabaran Ekstra
+title: "Ikan frontosa: Perawatan Si Muka Monyet Menuntut Kesabaran Ekstra"
 categories: hobi|ikan hias
 date: 2020-11-18 11:27:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_frosa1_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_frosa1_1024x576.jpg"
 tags:
 - Cyphotilapia frontosa
 - ikan
 
 modification_time: 2022-09-14 08:54:46
-blogger_orig_url: http://localhost/mitra/ikan-frosa-perawatan-si-muka-monyet.html
+blogger_orig_url: "http://localhost/mitra/ikan-frosa-perawatan-si-muka-monyet.html"
 ---
 
 Iqbal Suhatman pusing 7 keliling. Setahun lebih mencoba memijahkan si muka monyet tapi tak kunjung berhasil. Ujung-ujungnya hobiis di Solo itu menyerah. Kedelapan ikan yang berumur 1,5 tahun itu lalu digadaikan. Ia tidak tahu kalau frontosa baru memijah pada umur 2,5 tahun.

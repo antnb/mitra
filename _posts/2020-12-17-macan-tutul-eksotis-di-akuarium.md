@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Macan Tutul Eksotis di Akuarium
+title: "Macan Tutul Eksotis di Akuarium"
 categories: ikan hias
 date: 2020-12-17 10:42:38
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_tigercatfish_1024x636.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_tigercatfish_1024x636.jpg"
 tags:
 - catfish
 - induk betina
 - tiger catfish
 
 modification_time: 2020-12-17 10:42:38
-blogger_orig_url: http://localhost/mitra/macan-tutul-eksotis-di-akuarium.html
+blogger_orig_url: "http://localhost/mitra/macan-tutul-eksotis-di-akuarium.html"
 ---
 
 Sewaktu kecil sepintas sosok leopard menyerupai redtail, tetapi ekor tidak berwarna merah seperti lazimnya. Ekor kuning kecokelatan dengan lekukan lebih dalam. “Meski demikian tak sedalam lekukan ekor sang ibu, tiger catfish,” ujar Didik Dwi Ratnanto, penyilang yang membidani kelahiran leopard.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: PKBT IPB Rilis Pepaya IPB-4
+title: "PKBT IPB Rilis Pepaya IPB-4"
 categories: perkebunan|Pertanian
 date: 2021-02-04 16:31:13
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_pepaya1_1024x596.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_pepaya1_1024x596.jpg"
 tags:
 - daging buah
 - pepaya
 - pkbt ipb
 
 modification_time: 2021-02-04 16:31:13
-blogger_orig_url: http://localhost/mitra/pkbt-ipb-rilis-pepaya-ipb-4.html
+blogger_orig_url: "http://localhost/mitra/pkbt-ipb-rilis-pepaya-ipb-4.html"
 ---
 
 Kepala Bagian Produksi Buah Taman Wisata Mekarsari (TWM) Cileungsi, Bogor, itu juga terkesan oleh kehalusan daging buah setebal 2 cm yang begitu mudah dilumat. Walaupun berdaging lembut, Pepaya IPB-4 tahan disimpan hingga seminggu setelah petik. Riris pun tak ragu memboyongnya ke TWM untuk diperbanyak.

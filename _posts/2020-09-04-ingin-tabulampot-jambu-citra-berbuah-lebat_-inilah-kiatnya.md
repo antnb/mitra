@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ingin Tabulampot Jambu Citra Berbuah Lebat? Inilah Kiatnya
+title: "Ingin Tabulampot Jambu Citra Berbuah Lebat? Inilah Kiatnya"
 categories: artikel|perkebunan
 date: 2020-09-04 05:55:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Jambu-Citra_800x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Jambu-Citra_800x800.jpg"
 tags:
 - jambu
 - jambu air
 
 modification_time: 2022-11-22 06:03:17
-blogger_orig_url: http://localhost/mitra/ingin-tabulampot-jambu-citra-berbuah.html
+blogger_orig_url: "http://localhost/mitra/ingin-tabulampot-jambu-citra-berbuah.html"
 ---
 
 Jambu Citra adalah sejenis pohon yang tumbuh di daerah tropis seperti Indonesia. Tanaman ini biasanya ditanam di halaman rumah atau di sekitar bangunan untuk memberikan suasana yang hijau dan segar. Jambu Citra biasanya tumbuh sehingga ketinggian 3-4 meter dan memiliki daun yang lebar dan rindang. Bunga Jambu Citra berwarna pink atau merah muda dan berbentuk seperti bunga tulip. Buah Jambu Citra berwarna hijau dan memiliki bentuk seperti apel. Rasanya seperti apel juga, tetapi sedikit asam.

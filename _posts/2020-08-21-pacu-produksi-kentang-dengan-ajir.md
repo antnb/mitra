@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pacu Produksi Kentang Dengan Ajir
+title: "Pacu Produksi Kentang Dengan Ajir"
 categories: artikel|perkebunan
 date: 2020-08-21 13:23:41
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/busuk-daun_1280x744.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/busuk-daun_1280x744.jpg"
 tags:
 - 
 
 modification_time: 2020-08-21 13:23:41
-blogger_orig_url: http://localhost/mitra/pacu-produksi-kentang-dengan-ajir.html
+blogger_orig_url: "http://localhost/mitra/pacu-produksi-kentang-dengan-ajir.html"
 ---
 
 <em>Panen Asep T. Gunawan kali ini bakalan berhasil. Daun kentang yang biasanya menguning saat umur tanam 2 bulan, tak terlihat di kebunnya. Sampai mendekati waktu panen, yakni 2,5 bulan, pertanamannya masih tampak hijau dan sehat. Selain itu, “Penyakit yang menyerang, seperti fusarium dan phytopthora bisa diatasi,” kata petani kentang di Cipanas tersebut. Bahkan terkesan serangannya dianggap 0%. Itu semua berkat ajir yang ditambahkannya.</em>

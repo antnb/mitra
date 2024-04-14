@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dibelai Tancho Unik dan langka
+title: "Dibelai Tancho Unik dan langka"
 categories: ikan hias
 date: 2021-01-07 10:56:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_tancho_1024x597.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_tancho_1024x597.jpg"
 tags:
 - koi lokal
 - sakai fish farm
@@ -12,7 +12,7 @@ tags:
 - tancho showa
 
 modification_time: 2021-01-07 10:56:45
-blogger_orig_url: http://localhost/mitra/dibelai-tancho-unik-dan-langka.html
+blogger_orig_url: "http://localhost/mitra/dibelai-tancho-unik-dan-langka.html"
 ---
 
 Koi yang kini berukuran berukuran 40 cm itu memang dicetak dalam jumlah terbatas di Negeri Sakura. Itu karena ia sulit sekali diperoleh. Joji Konishi, salah satu penangkar spesialis <i>tancho kujaku</i> di Selatan Jepang, menggambarkan seekor tancho kujaku berkualitas tinggi baru bisa didapat setiap 2 tahun sekali. "Karena sukar, saya baru berhasil dapat setelah menunggu lebih dari setahun," tutur Ferry. Koi yang dibeli saat berukuran 20 cm itu diboyong pulang dari Jepang dengan bantuan dealer koi di Jakarta Barat pada medio 2003.

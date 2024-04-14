@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jorang 6 Meter Meriahkan Lomba Mancing Tegeg
+title: "Jorang 6 Meter Meriahkan Lomba Mancing Tegeg"
 categories: hobi
 date: 2019-11-01 14:41:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/Lomba-Mancing.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/Lomba-Mancing.jpg"
 tags:
 - bogor
 - ikan
@@ -13,7 +13,7 @@ tags:
 - mancing
 
 modification_time: 2019-11-01 14:41:00
-blogger_orig_url: http://localhost/mitra/jorang-6-meter-meriahkan-lomba-mancing.html
+blogger_orig_url: "http://localhost/mitra/jorang-6-meter-meriahkan-lomba-mancing.html"
 ---
 
 Aten hanya memerlukan 0,5 menit untuk mengangkat ikan berbobot rata-rata 0,4 kg ke permukaan.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mau Susu Jagung? Belilah di Thailand
+title: "Mau Susu Jagung? Belilah di Thailand"
 categories: artikel
 date: 2020-11-02 09:58:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_susu_jagung_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_susu_jagung_1280x720.jpg"
 tags:
 - jagung
 - susu
 
 modification_time: 2020-11-02 09:58:32
-blogger_orig_url: http://localhost/mitra/mau-susu-jagung-belilah-di-thailand.html
+blogger_orig_url: "http://localhost/mitra/mau-susu-jagung-belilah-di-thailand.html"
 ---
 
 Jus atau susu jagung sebetulnya sudah diproduksi Madam Mon’s Farm di Provinsi Kanchanaburi sejak 1998. Namun, kepopulerannya baru mencuat setelah penderita diabetes dan jantung mengkonsumsinya. Minuman kesehatan itu tersedia di gerai-gerai layanan 24 jam pompa bensin sampai ke hipermarket terkemuka seperti Carrefour, Big C, dan Makro.

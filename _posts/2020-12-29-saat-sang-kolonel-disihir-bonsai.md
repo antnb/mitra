@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Saat Sang Kolonel Disihir Bonsai
+title: "Saat Sang Kolonel Disihir Bonsai"
 categories: Gardening|tanaman hias
 date: 2020-12-29 12:02:58
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_bongsai1_750x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_bongsai1_750x768.jpg"
 tags:
 - bonsai
 - daun lebat
 - tanaman favorit
 
 modification_time: 2020-12-29 12:02:58
-blogger_orig_url: http://localhost/mitra/saat-sang-kolonel-disihir-bonsai.html
+blogger_orig_url: "http://localhost/mitra/saat-sang-kolonel-disihir-bonsai.html"
 ---
 
 Raksasa kecil bergaya broom itu memang salah satu kebanggaan lantaran tampil prima. Tumbuh di pot berukuran 150 cm x 80 cm bermedia pasir malang miskin hara, tapi daun lebat menutup sekujur tajuk. Batang, cabang, dan akar baru terus tumbuh tumpuk-menumpuk sehingga pohon terkesan liar.

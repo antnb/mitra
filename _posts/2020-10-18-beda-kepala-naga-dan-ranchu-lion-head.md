@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Beda Kepala Naga dan Ranchu lion head
+title: "Beda Kepala Naga dan Ranchu lion head"
 categories: artikel|ikan hias
 date: 2020-10-18 12:32:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_lionhead_1013x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_lionhead_1013x720.jpg"
 tags:
 - ikan mas
 - mas koki
 - ranchu
 
 modification_time: 2020-10-18 12:32:07
-blogger_orig_url: http://localhost/mitra/beda-kepala-naga-dan-ranchu-lion.html
+blogger_orig_url: "http://localhost/mitra/beda-kepala-naga-dan-ranchu-lion.html"
 ---
 
 Panitia kontes ikan hias di Plaza Gajah Mada akhirnya menggabungkan ranchu dan lion head di satu kelas. Memisahkan mereka di kelas berbeda berpotensi memicu kekisruhan. Sebab, antara ranchu dan lion head acap dipertukarkan. Padahal, di negeri leluhur mereka, Cina, Jepang, bahkan Thailand kedua

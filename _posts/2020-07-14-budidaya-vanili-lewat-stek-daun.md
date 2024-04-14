@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya Vanili Lewat Stek Daun
+title: "Budidaya Vanili Lewat Stek Daun"
 categories: perkebunan
 date: 2020-07-14 05:01:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/vanili_1280x712.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/vanili_1280x712.jpg"
 tags:
 - 
 
 modification_time: 2020-07-14 05:01:02
-blogger_orig_url: http://localhost/mitra/budidaya-vanili-lewat-stek-daun.html
+blogger_orig_url: "http://localhost/mitra/budidaya-vanili-lewat-stek-daun.html"
 ---
 
 Cara RM Zu’aya Kusuma Budidaya Vanili Lewat Stek Daun amat efisien. Betapa tidak, pria kelahiran Yogyakarta 53 tahun silam itu hanya memerlukan sebuah titik tumbuh. Artinya panjang batang calon sebuah bibit hanya 2 cm. Untuk menentukan batang yang siap dijadikan calon generasi baru, Zu’ama berpatokan pada ukuran daun.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Keunggulan Cabe keriting Dibandingkan Cabai besar
+title: "Keunggulan Cabe keriting Dibandingkan Cabai besar"
 categories: perkebunan
 date: 2020-07-16 06:15:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/cabe_813x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/cabe_813x800.jpg"
 tags:
 - Cabe keriting
 
 modification_time: 2020-07-16 06:15:49
-blogger_orig_url: http://localhost/mitra/keunggulan-cabe-keriting-dibandingkan.html
+blogger_orig_url: "http://localhost/mitra/keunggulan-cabe-keriting-dibandingkan.html"
 ---
 
 Di Provinsi Lampung tercatat 600 ha lahan <span class="search-all keyword ng-binding">cabe keriting</span>. Lampung salah satu sentra terbesar cabai di Pulau Andalas. Bila bulan-bulan ini menyusuri sentra Magelang, Anda <em>bakal sulit melihat cabai besar menggelayut di cabang-cabang. Maklum 90% dari total penanaman sekitar 1.000 ha di Kota Getuk itu merupakan cabai keriting.</em>

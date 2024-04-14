@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Peluang Pasar Terbuka luas di Bisnis Kemiri
+title: "Peluang Pasar Terbuka luas di Bisnis Kemiri"
 categories: perkebunan
 date: 2021-01-02 10:07:13
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri1_1024x621.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri1_1024x621.jpg"
 tags:
 - bisnis kemiri
 - kemiri
@@ -12,7 +12,7 @@ tags:
 - peluang pasar
 
 modification_time: 2022-09-11 07:14:44
-blogger_orig_url: http://localhost/mitra/peluang-pasar-terbuka-luas-di-bisnis.html
+blogger_orig_url: "http://localhost/mitra/peluang-pasar-terbuka-luas-di-bisnis.html"
 ---
 
 Siang itu satu kontainer penuh berisi kemiri kupasan asal Medan memang sedang dibongkar. Kalau bukan karena peluang pasarnya, tak mungkin PT Indo Kemiri memilih kemiri sebagai andalan bisnisnya. "Permintaan pasarnya tinggi," papar Lina, sekretaris cabang Jakarta.

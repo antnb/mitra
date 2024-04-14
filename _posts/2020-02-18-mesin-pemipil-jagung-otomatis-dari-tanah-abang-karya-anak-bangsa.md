@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mesin Pemipil Jagung Otomatis Dari Tanah Abang Karya Anak Bangsa
+title: "Mesin Pemipil Jagung Otomatis Dari Tanah Abang Karya Anak Bangsa"
 categories: artikel|perkebunan|Pertanian
 date: 2020-02-18 12:45:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/bungkil-jagung_1280x738-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/bungkil-jagung_1280x738-1.jpg"
 tags:
 - jagung
 - mesin pertanian
 
 modification_time: 2020-02-18 12:45:07
-blogger_orig_url: http://localhost/mitra/mesin-pemipil-jagung-otomatis-dari.html
+blogger_orig_url: "http://localhost/mitra/mesin-pemipil-jagung-otomatis-dari.html"
 ---
 
 Sekali merengkuh dayung, dua tiga pulau terlampaui. Itulah <strong>mesin pemipil jagung</strong> terbaru keluaran Badan Pengkajian dan Penerapan Teknologi (BPPT). Dari sebuah mesin giling jagung, dihasilkan pipilan jagung yang langsung kering berkadar air 10% sekaligus dedak dari penghancuran tongkol.

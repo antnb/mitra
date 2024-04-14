@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Peluang &amp; Kendala Dalam Beternak Itik
+title: "Peluang &amp; Kendala Dalam Beternak Itik"
 categories: artikel|Peternakan
 date: 2020-08-18 10:39:24
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/itik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/itik.jpg"
 tags:
 - bebek
 - unggas
 
 modification_time: 2022-09-11 00:33:04
-blogger_orig_url: http://localhost/mitra/peluang-kendala-dalam-beternak-itik.html
+blogger_orig_url: "http://localhost/mitra/peluang-kendala-dalam-beternak-itik.html"
 ---
 
 <em>Hanya dengan memelihara 500 ekor, setiap pagi bisa dipungut minimum Rp l80.000 dari kandang itik. Padahal, pakan yang harus diberikan paling banter cuma Rp 90.000. Rayuan ini yang membuat Sahat Siagian menolak ketika ditawari untuk bekerja kembali di sebuah bank swasta dengan gaji di atas Rp 2,75-juta per bulan. Namun untung tak bisa diraih, malang tak dapat ditolak. Angan-angan meraup laba besar sirna gara-gara produksi telur rendah.</em>

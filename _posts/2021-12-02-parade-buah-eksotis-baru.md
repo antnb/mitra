@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Parade Buah Eksotis Baru
+title: "Parade Buah Eksotis Baru"
 categories: artikel|perkebunan
 date: 2021-12-02 06:27:22
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/12/eksotis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/eksotis.jpg"
 tags:
 - cempedak
 - nanas
 - nangka
 
 modification_time: 2021-12-02 06:27:22
-blogger_orig_url: http://localhost/mitra/parade-buah-eksotis-baru.html
+blogger_orig_url: "http://localhost/mitra/parade-buah-eksotis-baru.html"
 ---
 
 Buah Eksotis itu layak mendapat julukan nanas bertanduk atau bisa juga <strong>nanas medusa</strong>. Setiap matanya menjulur memanjang ke luar dari permukaan buah ibarat rambut sang dewi pelindung dalam mitologi Yunani. Tak hanya berpenampilan eksotis, citarasanya pun manis.

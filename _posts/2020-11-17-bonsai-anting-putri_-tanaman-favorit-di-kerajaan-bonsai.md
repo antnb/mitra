@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bonsai anting putri: Tanaman Favorit di Kerajaan Bonsai
+title: "Bonsai anting putri: Tanaman Favorit di Kerajaan Bonsai"
 categories: hobi|tanaman hias
 date: 2020-11-17 08:46:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_sui-mei_640x421.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_sui-mei_640x421.jpg"
 tags:
 - Anting putri
 - bonsai
@@ -18,7 +18,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2022-11-22 05:54:56
-blogger_orig_url: http://localhost/mitra/anting-putri-tanaman-favorit-di.html
+blogger_orig_url: "http://localhost/mitra/anting-putri-tanaman-favorit-di.html"
 ---
 
 Bonsai Anting Putri, juga dikenal sebagai "Bonsai Air Mancur Awet Muda", adalah spesies pohon bonsai langka dan indah yang berasal dari pulau Jawa, Indonesia. Pohon itu dikenal dengan bunganya yang unik dan rumit, yang menyerupai miniatur mahkota.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Janji Dan Keuntungan Dari Budidaya Stroberi
+title: "Janji Dan Keuntungan Dari Budidaya Stroberi"
 categories: perkebunan
 date: 2020-11-10 10:56:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/strawberry.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/strawberry.jpg"
 tags:
 - bisnis
 - strawberry
 
 modification_time: 2020-11-10 10:56:01
-blogger_orig_url: http://localhost/mitra/janji-dan-keuntungan-dari-stroberi.html
+blogger_orig_url: "http://localhost/mitra/janji-dan-keuntungan-dari-stroberi.html"
 ---
 
 Sekitar 4.000 karung berderet rapi di lahan 3.600 m2. Setiap karung setinggi 60 cm itu ditanami 4 stroberi yang merumpun dan sarat buah. Total jenderal populasi 16.000 tanaman. Dari sanalah Awan Rukmana menuai 40 kg stroberi setiap hari. Dengan harga jual Rp6.000 Rpl 6.500 per kg ia menangguk laba bersih Rp64-juta per tahun.

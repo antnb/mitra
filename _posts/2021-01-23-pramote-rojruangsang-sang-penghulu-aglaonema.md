@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Pramote Rojruangsang Sang Penghulu Aglaonema
+title: "Pramote Rojruangsang Sang Penghulu Aglaonema"
 categories: tanaman hias
 date: 2021-01-23 04:01:52
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_aglaoema_986x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_aglaoema_986x768.jpg"
 tags:
 - Aglaonema
 - berdaun merah
 - khaw chaw wang
 
 modification_time: 2021-01-23 04:01:52
-blogger_orig_url: http://localhost/mitra/pramote-rojruangsang-sang-penghulu.html
+blogger_orig_url: "http://localhost/mitra/pramote-rojruangsang-sang-penghulu.html"
 ---
 
 Aglaonema berumur 3 tahun itu menghias sudut-sudut istana kesultanandi Bandarseribegawan, ibukota Brunei Darussalam. Ada yang merah darah berbercak hijau dan bertangkai putih. Yang lain, daun kuning cerah berbentuk hati dan merah muda berhias bercak hijau tua di tepinya. <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/aglaonema"  title="Aglaonema" data-wpil-keyword-link="linked">Aglaonema</a>-aglaonema itu menjadi kesayangan Sultan Hasanah Bolkiah. Itulah salah satu hasil silangan Pramote Rojruangsang.

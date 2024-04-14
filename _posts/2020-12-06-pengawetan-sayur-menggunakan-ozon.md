@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pengawetan Sayur Menggunakan Ozon
+title: "Pengawetan Sayur Menggunakan Ozon"
 categories: perkebunan
 date: 2020-12-06 14:16:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ozone_1024x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ozone_1024x768.jpg"
 tags:
 - air berozon
 - larutan ozon
@@ -13,7 +13,7 @@ tags:
 - teknologi plasma
 
 modification_time: 2020-12-06 14:16:06
-blogger_orig_url: http://localhost/mitra/pengawetan-sayur-menggunakan-ozon.html
+blogger_orig_url: "http://localhost/mitra/pengawetan-sayur-menggunakan-ozon.html"
 ---
 
 Apa penyebab perbedaan sifat fisik tomat itu? Tomat Lycopersicum esculentum yang bertahan lama itu bermandikan ozon sebelum dibungkus. Dengan siraman air berozon selama 15 menit, tomat menjadi lebih awet. Air berozon berperan membunuh bakteri dan menguraikan kotoran atau zat penyebab pembusukan. Teknologi pengawetan sayuran dengan ozon ditemukan oleh Dr Anto Tri Sugiarto, M.Eng, periset Pusat Penelitian Kalibrasi Instrumentasi Metrologi, LIPI. Ia mulai meneliti mesin ozon sejak 1998.

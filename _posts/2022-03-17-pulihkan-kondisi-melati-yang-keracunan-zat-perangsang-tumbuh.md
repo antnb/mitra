@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pulihkan Kondisi Melati Yang Keracunan Zat perangsang tumbuh
+title: "Pulihkan Kondisi Melati Yang Keracunan Zat perangsang tumbuh"
 categories: tanaman hias
 date: 2022-03-17 10:34:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/03/fitohormon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/03/fitohormon.jpg"
 tags:
 - melati
 
 modification_time: 2022-09-09 12:12:59
-blogger_orig_url: http://localhost/mitra/melati-yang-keracunan-zpt-fitohormon.html
+blogger_orig_url: "http://localhost/mitra/melati-yang-keracunan-zpt-fitohormon.html"
 ---
 
 Zat perangsang tumbuh (ZPT) dapat merangsang melati berbunga. Kalau pemakaiannya keliru, ia justru mogok berbunga. Keracunan ZPT perlu segera ditangani agar melati tampil menawan.

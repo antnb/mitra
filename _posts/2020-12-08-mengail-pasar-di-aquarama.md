@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Mengail Pasar Di Aquarama
+title: "Mengail Pasar Di Aquarama"
 categories: artikel|ikan hias
 date: 2020-12-08 08:04:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Aquarama_1024x678.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Aquarama_1024x678.jpg"
 tags:
 - Aquarama
 - eksportir ikan
 - ikan hias dunia
 
 modification_time: 2020-12-08 08:04:23
-blogger_orig_url: http://localhost/mitra/mengail-pasar-di-aquarama.html
+blogger_orig_url: "http://localhost/mitra/mengail-pasar-di-aquarama.html"
 ---
 
 Mulyadi pantas masygul. Seratus ikan berharga $SinlO setara Rp58.000/ekor itu ia peroleh dari 7 indukan. Ia membutuhkan 30 indukan untuk memenuhi banjir permintaan dari para pengunjung Aquarama Singapura. Padahal, Puntius denisonii itu sulit diperoleh. Dulu penangkar <a class="wpil_keyword_link " title="ikan hias" href="http://127.0.0.1/mitra/ikan-hias" data-wpil-keyword-link="linked">ikan hias</a> dari Bandung itu mendapatkannya dari eksportir ikan hias di Bandung.

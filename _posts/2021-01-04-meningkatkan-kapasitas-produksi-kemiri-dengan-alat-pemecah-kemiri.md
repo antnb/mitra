@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Meningkatkan Kapasitas Produksi Kemiri Dengan Alat Pemecah Kemiri
+title: "Meningkatkan Kapasitas Produksi Kemiri Dengan Alat Pemecah Kemiri"
 categories: perkebunan
 date: 2021-01-04 16:11:14
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri1_1024x636.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri1_1024x636.jpg"
 tags:
 - kemiri
 
 modification_time: 2021-01-04 16:11:14
-blogger_orig_url: http://localhost/mitra/alat-pemecah-kemiri-mesin-pengupas.html
+blogger_orig_url: "http://localhost/mitra/alat-pemecah-kemiri-mesin-pengupas.html"
 ---
 
 Ketika berkunjung ke sentra kemiri di Flores, Nusa Tenggara Timur, Ir Rakhmadiono MSc tercenung. Pekebun di sana memisahkan kemiri dari tempurung dengan cara menjemur di bawah matahari selama 5 sampai 10 hari. Buah kemiri kemudian dijepit rotan <span class="keyword _ngcontent-zht-101" aria-hidden="false">pemecah kemiri</span> bergagang 30 cm dan dipukulkan di batu. Aleurites moluccana itu memang bertempurung keras.

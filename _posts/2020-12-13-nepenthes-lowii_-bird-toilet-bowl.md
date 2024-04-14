@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Nepenthes Lowii: Bird Toilet Bowl
+title: "Nepenthes Lowii: Bird Toilet Bowl"
 categories: hobi|tanaman hias
 date: 2020-12-13 08:19:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_lowii_1024x575.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_lowii_1024x575.jpg"
 tags:
 - gumpalan nektar
 - Nepenthes
@@ -12,7 +12,7 @@ tags:
 - toilet bowl
 
 modification_time: 2020-12-13 08:19:24
-blogger_orig_url: http://localhost/mitra/nepenthes-lowii-bird-toilet-bowl.html
+blogger_orig_url: "http://localhost/mitra/nepenthes-lowii-bird-toilet-bowl.html"
 ---
 
 Ada 5 pot lowii terlihat di atas rak besi setinggi 1,5 m beralas asbes dengan hamparan kerikil di atasnya. Dari ujung-ujung daun yang hijau menjuntai kantong-kantong berpinggang setinggi 20 cm. Nepenthes asli Sabah dan Sarawak, Malaysia, itu terimpit di antara <i lang="la">Nepenthes veitchii</i> berkantong merah dengan bibir hijau dan veitchii hijau dengan bibir merah, <i lang="la">Nepenthes truncata</i> berkantong seukuran air mineral kemasan 600 ml, dan N. petiolata berkantong merah menyala sekadar menyebut ketakung dataran tinggi yang dimiliki Borneo Exotics.

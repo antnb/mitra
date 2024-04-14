@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Seleksi Bibit Kentang berkualitas 66 Ton Panen Kentang per Hektar
+title: "Seleksi Bibit Kentang berkualitas 66 Ton Panen Kentang per Hektar"
 categories: perkebunan
 date: 2020-10-23 08:27:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/lahan_kentang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/lahan_kentang.jpg"
 tags:
 - Kentang
 
 modification_time: 2022-09-20 05:57:12
-blogger_orig_url: http://localhost/mitra/luar-biasa-66-ton-panen-kentang.html
+blogger_orig_url: "http://localhost/mitra/luar-biasa-66-ton-panen-kentang.html"
 ---
 
 Untuk dapat memenuhi kebutuhan pasar kentang maka para petani pun harus dapat meningkatkan produksinya, dan ada banyak cara agar para petani kentang dapat memperoleh hasil panen yang maksimal

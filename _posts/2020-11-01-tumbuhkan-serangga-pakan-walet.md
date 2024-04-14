@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Tumbuhkan Serangga Pakan Walet
+title: "Tumbuhkan Serangga Pakan Walet"
 categories: artikel|Peternakan
 date: 2020-11-01 10:00:46
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/walet.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/walet.jpg"
 tags:
 - pakan walet
 - walet
 
 modification_time: 2020-11-01 10:00:46
-blogger_orig_url: http://localhost/mitra/tumbuhkan-serangga-pakan-walet.html
+blogger_orig_url: "http://localhost/mitra/tumbuhkan-serangga-pakan-walet.html"
 ---
 
 Saat ini banyak peternak sadar betapa pentingnya serangga dalam budidaya walet. Mengandalkan kemurahan alam tak bisa terus berlanjut akibat kerusakan hutan dan pembukaan lahan baru untuk perumahan. Ketersediaan pakan semakin parah saat kemarau, karena produksi serangga anjlok. Akibatnya, untuk mempertahankan diri saja burung harus berjuang keras. Bahkan, tidak sedikit burung mati karena kekurangan pakan. Lebih-lebih untuk menghasilkan sarang. Kalau pun bisa, sarang yang dibuat kecil dan tipis.

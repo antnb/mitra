@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cara Hobiies Majalaya Saingi Koi Impor
+title: "Cara Hobiies Majalaya Saingi Koi Impor"
 categories: ikan hias
 date: 2020-12-17 13:08:40
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_kolam_koi_1024x664.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_kolam_koi_1024x664.jpg"
 tags:
 - koi lokal
 - kolam tanah
 - mutu koi
 
 modification_time: 2020-12-17 13:08:40
-blogger_orig_url: http://localhost/mitra/cara-hobiies-majalaya-saingi-koi-impor.html
+blogger_orig_url: "http://localhost/mitra/cara-hobiies-majalaya-saingi-koi-impor.html"
 ---
 
 Koi lokal sebenarnya berasal dari indukan impor yang disilang di sini. Turunannya disebut koi berkualitas apabila mendekati ciri-ciri impor. Itulah yang dilakukan peternak di Blitar, Jawa Timur. Jejak peternak di kota yang terkenal lantaran tempat peristirahatan terakhir sang proklamator, Soekarno Sampai Kepala Negara Republik Indonesia I itu sekarang ditiru Bandung. Sejak 2002 koi lokal asal Kota Kembang itu membanjiri pasar Jakarta.

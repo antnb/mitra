@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Jambu Biji Terbanggi di Negeri Paman Sam
+title: "Jambu Biji Terbanggi di Negeri Paman Sam"
 categories: artikel|perkebunan
 date: 2020-11-06 06:08:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_jambu1_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_jambu1_1280x720.jpg"
 tags:
 - jambu
 - jambu biji
 
 modification_time: 2020-11-06 06:08:45
-blogger_orig_url: http://localhost/mitra/jambu-biji-terbanggi-di-negeri-paman.html
+blogger_orig_url: "http://localhost/mitra/jambu-biji-terbanggi-di-negeri-paman.html"
 ---
 
 "Again, Madam?" tanya pramusaji Big Dean's Cafe di bilangan Ocean Front Walk, Santa Monica, Los Angeles, Amerika Serikat, pada Maissy Barcus. Yang ditanya mengangguk pelan sembari terus mengunyah potongan kecil jambu biji. Pegawai Kesehatan Angkatan Laut (AS) itu menyendok lagi gelas koktailnya. Kres..,kres.., kres.., rasa asam-manis kembali menyergap lidah.

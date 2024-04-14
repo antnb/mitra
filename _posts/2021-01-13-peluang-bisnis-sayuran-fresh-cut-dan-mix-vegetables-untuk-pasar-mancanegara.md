@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Peluang Bisnis Sayuran Fresh Cut Dan Mix Vegetables Untuk Pasar Mancanegara
+title: "Peluang Bisnis Sayuran Fresh Cut Dan Mix Vegetables Untuk Pasar Mancanegara"
 categories: Pertanian
 date: 2021-01-13 09:54:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_sayur_1024x680.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_sayur_1024x680.jpg"
 tags:
 - mix vegetables
 - pasar swalayan
 - sayuran
 
 modification_time: 2021-01-13 09:54:29
-blogger_orig_url: http://localhost/mitra/peluang-bisnis-sayuran-fresh-cut.html
+blogger_orig_url: "http://localhost/mitra/peluang-bisnis-sayuran-fresh-cut.html"
 ---
 
 Itulah impian sampai terutama kaum perempuan yang sibuk. Impian itu tahun ini mungkin bakal terwujud. PT Saung Mirwan, produsen sayuran eksklusif, tengah mempersiapkan produk baru itu. Sejak akhir tahun perusahaan di Bogor, Jawa Barat, itu merintis pasar bisnis sayuran dengan produk fresh cut. Intinya, sayuran dipotong-potong sesuai peruntukan, cuci bersih, dan dikemas.

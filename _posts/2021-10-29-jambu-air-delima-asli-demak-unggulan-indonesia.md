@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Jambu Air Delima Asli Demak Unggulan Indonesia
+title: "Jambu Air Delima Asli Demak Unggulan Indonesia"
 categories: perkebunan
 date: 2021-10-29 05:25:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/10/jambu-air-delima.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/jambu-air-delima.jpg"
 tags:
 - demak
 - jambu air
 
 modification_time: 2022-09-21 01:23:52
-blogger_orig_url: http://localhost/mitra/jambu-air-delima-asli-demak.html
+blogger_orig_url: "http://localhost/mitra/jambu-air-delima-asli-demak.html"
 ---
 
 Belimbing Demak punya saingan, namanya jambu air delima. Sejak tahun ’80-an ia ditanam di sana. . Kini ia dijual di Jakarta dengan nama jambu taiwan. Di Desa Betoan dan Tempura, Kecamatan Demak Kota, hampir semua pekarangan rumah penduduk minimal berisi satu pohon jambu air. Di dua desa itu pertumbuhan jambu air telah mengalahkan <a class="wpil_keyword_link " title="belimbing" href="http://127.0.0.1/mitra/topik/belimbing" data-wpil-keyword-link="linked">belimbing</a>.

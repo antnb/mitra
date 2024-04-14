@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sterilisasi Lahan Tanah Budidaya Strawberry
+title: "Sterilisasi Lahan Tanah Budidaya Strawberry"
 categories: artikel|perkebunan
 date: 2020-11-10 13:45:43
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ladang_strawberry_897x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ladang_strawberry_897x720.jpg"
 tags:
 - kebun strawberry
 - strawberry
 
 modification_time: 2020-11-10 13:45:43
-blogger_orig_url: http://localhost/mitra/sterilisasi-lahan-tanah-budidaya.html
+blogger_orig_url: "http://localhost/mitra/sterilisasi-lahan-tanah-budidaya.html"
 ---
 
 Tiga tahun sudah PT Mustika Nusantara Abadi (MNA) meninggalkan methil bromida untuk sterilisasi tanah. Sebagai gantinya salah satu produsen strobesi terbesar itu memanfaatkan methan sodium. Setidaknya Rp78-juta dihemat untuk pencucian tanah per ha. Padahal, anak perusahaan Kalbe Parma itu mengelola 12 ha.

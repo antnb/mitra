@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Jeruk Wangkang dan siem madu  Jeruk Terbaik dari Ketapang Dan Karo
+title: "Jeruk Wangkang dan siem madu  Jeruk Terbaik dari Ketapang Dan Karo"
 categories: perkebunan
 date: 2021-01-10 08:20:27
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_wangkang_1024x703.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_wangkang_1024x703.jpg"
 tags:
 - Jeruk
 - jeruk wangkang
 - siem madu
 
 modification_time: 2021-01-10 08:20:27
-blogger_orig_url: http://localhost/mitra/jeruk-wangkang-dan-siem-madu.html
+blogger_orig_url: "http://localhost/mitra/jeruk-wangkang-dan-siem-madu.html"
 ---
 
 Tak salah memang. <i>Citrus edulis</i> itu manis rasanya. Selain itu, penampilannya juga menarik. Di balik sosok yang bulat hingga bulat gepeng berbalut kulit kuning tua terdapat daging berwarna jingga menyala. Bila buah dibelah melintang terlihat 10 sampai 13 septa yang dihiasi 1 sampai 2 biji. Hm...menyegarkan.

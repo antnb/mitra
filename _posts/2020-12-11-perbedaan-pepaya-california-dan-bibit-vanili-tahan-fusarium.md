@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Perbedaan Pepaya California dan bibit vanili tahan fusarium
+title: "Perbedaan Pepaya California dan bibit vanili tahan fusarium"
 categories: Tanya Jawab
 date: 2020-12-11 11:01:08
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Pepaya_California_Super_segar_dan_manis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Pepaya_California_Super_segar_dan_manis.jpg"
 tags:
 - pepaya
 - Pepaya California
 - vanili
 
 modification_time: 2020-12-11 11:01:08
-blogger_orig_url: http://localhost/mitra/perbedaan-pepaya-california-dan-bibit.html
+blogger_orig_url: "http://localhost/mitra/perbedaan-pepaya-california-dan-bibit.html"
 ---
 
 Saya memiliki beberapa pertanyaan mengenai pepaya dan vanili:

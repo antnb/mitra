@@ -1,16 +1,16 @@
 ---
 layout: post
-title: CPU walet, Memanggil dan Meningkatkan Produksi Sarang Walet
+title: "CPU walet, Memanggil dan Meningkatkan Produksi Sarang Walet"
 categories: artikel
 date: 2020-11-13 06:03:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cpu_walet1_960x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cpu_walet1_960x720.jpg"
 tags:
 - burung walet
 - cpu
 
 modification_time: 2020-11-13 06:03:01
-blogger_orig_url: http://localhost/mitra/cpu-walet-memanggil-dan-meningkatkan.html
+blogger_orig_url: "http://localhost/mitra/cpu-walet-memanggil-dan-meningkatkan.html"
 ---
 
 Diputar minimal 7 jam setiap hari CD Player paling hanya bertahan 3-4 bulan. Apalagi jika digunakan terus-menerus selama 24 jam. Itu sebabnya sekarang banyak "peternak" walet beralih ke CPU (central power unit/ CPU untuk memutar CD suara walet itu awet hingga 2 tahun. Alat ini dilengkapi tombol pengatur volume, frekuensi, amplitudo, dan spektrum.

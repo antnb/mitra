@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Louhan Cencu Mutiara Kualitas kontes Hasil Pembiakan Pehobiis Jateng
+title: "Louhan Cencu Mutiara Kualitas kontes Hasil Pembiakan Pehobiis Jateng"
 categories: hobi|Perikanan
 date: 2019-11-01 13:02:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/louhan1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/louhan1.jpg"
 tags:
 - cinhua
 - diamond
 - louhan
 
 modification_time: 2019-11-01 13:02:00
-blogger_orig_url: http://localhost/mitra/louhan-cencu-mutiara-kualitas-kontes.html
+blogger_orig_url: "http://localhost/mitra/louhan-cencu-mutiara-kualitas-kontes.html"
 ---
 
 Taburan mutiara di tubuh Diamond membawanya meraih gelar baby champion. Sementara lawannya dari kampiun kelas cinhua masih memiliki sedikit lekukan di kepalanya.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Mengunjungi Farm Itik Terpadu di Kota Udang
+title: "Mengunjungi Farm Itik Terpadu di Kota Udang"
 categories: artikel|Peternakan
 date: 2020-11-07 16:15:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_bebek4_1035x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_bebek4_1035x720.jpg"
 tags:
 - bebek
 - itik
 - telur
 
 modification_time: 2020-11-07 16:15:35
-blogger_orig_url: http://localhost/mitra/mengunjungi-farm-itik-terpadu-di-kota.html
+blogger_orig_url: "http://localhost/mitra/mengunjungi-farm-itik-terpadu-di-kota.html"
 ---
 
 Sebanyak 32 bangunan masing-masing berukuran 75 m x 15 m itu berjajar rapi. Bangunan beratap asbes itu berdinding bawah

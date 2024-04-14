@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hama dan Penyakit Aglaonema Serta Pengendaliannya
+title: "Hama dan Penyakit Aglaonema Serta Pengendaliannya"
 categories: hobi|tanaman hias
 date: 2021-05-22 08:16:43
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/05/Aglaonema2-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/Aglaonema2-1.jpg"
 tags:
 - Aglaonema
 - cendawan
@@ -13,7 +13,7 @@ tags:
 - serangan cendawan
 
 modification_time: 2021-05-22 08:16:43
-blogger_orig_url: http://localhost/mitra/hama-dan-penyakit-aglaonema-serta.html
+blogger_orig_url: "http://localhost/mitra/hama-dan-penyakit-aglaonema-serta.html"
 ---
 
 Punah sudah harapan Yenny Widjaya untuk berlomba di Flona tahun ini, Jakarta. Daun aglaonema andalannya rusak terserang penyakit aglaonema. Andai tanaman itu sehat, Yenny memperkirakan koleksinya bakal "berbicara" di kontes lantaran ia juara ke-3 pada Flona tahun ini.

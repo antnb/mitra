@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Perawatan Bibit, Pupuk dan Pemangkasan Tanaman Buah Naga merah
+title: "Perawatan Bibit, Pupuk dan Pemangkasan Tanaman Buah Naga merah"
 categories: perkebunan
 date: 2021-01-24 02:18:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_naga_921x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_naga_921x768.jpg"
 tags:
 - Buah Naga
 - cahaya matahari
@@ -12,7 +12,7 @@ tags:
 - panen dragon fruit
 
 modification_time: 2022-09-19 17:22:56
-blogger_orig_url: http://localhost/mitra/bangkitnya-sang-naga-yang-tertidur.html
+blogger_orig_url: "http://localhost/mitra/bangkitnya-sang-naga-yang-tertidur.html"
 ---
 
 Tanaman buah naga merah adalah salah satu jenis buah yang banyak dicari oleh para pencinta buah. Buah naga merah memiliki rasa yang unik dan segar. Selain itu, buah naga merah juga kaya akan nutrisi. Buah naga merah mengandung banyak vitamim C, sehingga baik untuk kesehatan. Buahnya berwarna merah cerah dan memiliki rasa yang manis seperti anggur. Tanaman buah naga merah dapat tumbuh sampai ketinggian 15 meter dan buahnya dapat dikonsumsi segar maupun dalam bentuk jus.

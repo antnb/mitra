@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ikan Maskoki: Yang Anyar Yang Menebar Pesona
+title: "Ikan Maskoki: Yang Anyar Yang Menebar Pesona"
 categories: ikan hias
 date: 2020-12-16 08:04:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ikankoki_1024x692.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ikankoki_1024x692.jpg"
 tags:
 - black ranchu
 - ranchu
@@ -12,7 +12,7 @@ tags:
 - white ranchu
 
 modification_time: 2020-12-16 08:04:57
-blogger_orig_url: http://localhost/mitra/ikan-maskoki-yang-anyar-yang-menebar.html
+blogger_orig_url: "http://localhost/mitra/ikan-maskoki-yang-anyar-yang-menebar.html"
 ---
 
 Sejak marak di tanah air, banyak hobiis mengimpor sang ratu ikan hias air tawar. Selain Nico, juga <a href="http://127.0.0.1/mitra/budidaya-maskoki-empat-lakon-yb.html">YB Hariyantono</a>, Harsono,  ketiganya di Jakarta dan Ever Tagoli, hobiis di Bandung. “Kebetulan di sebuah farm koi di Jepang saya temukan beberapa maskoki unik. Semula saya ragu untuk membelinya karena berharga cukup mahal,” kata Nico. Hobiis maskoki sejak 1990 an itu memutuskan untuk mengambilnya.

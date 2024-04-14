@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cara Mudah Mencangkok Batang Aglaonema
+title: "Cara Mudah Mencangkok Batang Aglaonema"
 categories: artikel|Gardening|hobi|tanaman hias
 date: 2020-08-09 13:31:53
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/cangkok_1280x651.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/cangkok_1280x651.jpg"
 tags:
 - 
 
 modification_time: 2020-08-09 13:31:53
-blogger_orig_url: http://localhost/mitra/cara-mudah-mencangkok-batang-aglaonema.html
+blogger_orig_url: "http://localhost/mitra/cara-mudah-mencangkok-batang-aglaonema.html"
 ---
 
 <em>Cangkok dinilai Frans Wiratmahusada (30 tahun) sebagai jalan tercepat untuk memperbanyak aglaonema. Di tengah gencarnya permintaan anggota famili Araceae itu, cangkok salah satu solusi. Maklum perbanyakan dengan setek pendek-3 cm-rentan busuk, terutama pada musim hujan. Oleh karena itu alumnus Universitas Trisakti itu memilih cangkok untuk perbanyakan.</em>

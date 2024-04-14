@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Kutahu yang Anda Mau: Sayuran Organik
+title: "Kutahu yang Anda Mau: Sayuran Organik"
 categories: perkebunan|Pertanian
 date: 2020-11-14 11:05:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_organik11_640x472.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_organik11_640x472.jpg"
 tags:
 - sayur
 - sayur organik
 - sayuran
 
 modification_time: 2020-11-14 11:05:15
-blogger_orig_url: http://localhost/mitra/kutahu-yang-anda-mau-sayuran-organik.html
+blogger_orig_url: "http://localhost/mitra/kutahu-yang-anda-mau-sayuran-organik.html"
 ---
 
 Dua kali sepekan Annas Farm mengirimkan beragam sayuran organik ke Singapura. Bukan ke Pasirpanjang, pasar sayur-mayur terbesar di negeri singa itu. Sayuran bebas pestisida itu untuk memenuhi permintaan Anna Janti Darwaman, istri komisaris PT Matahari Putra Prima pengelola pasar swalayan Matahari. Sepuluh tahun terakhir Anna hanya mau mengkonsumsi sayuran organik.

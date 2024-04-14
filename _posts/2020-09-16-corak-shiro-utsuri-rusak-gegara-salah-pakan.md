@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Corak Shiro Utsuri Rusak Gegara Salah Pakan
+title: "Corak Shiro Utsuri Rusak Gegara Salah Pakan"
 categories: artikel|ikan hias
 date: 2020-09-16 08:16:35
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_ikan-koi-shiro-utsuri_1071x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_ikan-koi-shiro-utsuri_1071x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-16 08:16:35
-blogger_orig_url: http://localhost/mitra/corak-shiro-utsuri-rusak-gegara-salah.html
+blogger_orig_url: "http://localhost/mitra/corak-shiro-utsuri-rusak-gegara-salah.html"
 ---
 
 <em>Kejadian setahun silam terasa membekas di hati alumnus desain interior Arkansas State University. Semula tak ada keanehan yang tampak sebelum ia memberi suplemen tepung kaya asasantin dan betakaroten pada pakan. Belum genap sehari, corak merah itu muncul. Awalnya totol totol itu keluar di dekat kepala, lalu menjalar ke seluruh tubuh.</em>

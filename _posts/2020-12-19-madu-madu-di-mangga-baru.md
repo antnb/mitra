@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Madu-madu di Mangga Baru
+title: "Madu-madu di Mangga Baru"
 categories: perkebunan
 date: 2020-12-19 08:15:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_mangga_madu_905x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_mangga_madu_905x768.jpg"
 tags:
 - carangjuri
 - endog madu
@@ -12,7 +12,7 @@ tags:
 - Mangga Darakande
 
 modification_time: 2020-12-19 08:15:03
-blogger_orig_url: http://localhost/mitra/madu-madu-di-mangga-baru.html
+blogger_orig_url: "http://localhost/mitra/madu-madu-di-mangga-baru.html"
 ---
 
 Si manis yang bisa diseruput dengan sedotan itu ditemukan Dr Ir Mohammad Reza Tirtawinta, MS, kala melakukan eksplorasi di sentra mangga podang di Kecamatan Banyakan, Kediri. Sesosok pohon yang tidak meyakinkan penampilannya berdiri di tengah-tengah Mangifera indica di perbukitan yang dipenuhi buah berwarna merah kuning. Keberadaannya nyaris terlupakan. Maklum, dibanding podang yang ngejreng penampilan carangjuri berkulit kuning pucat terlihat kusam.

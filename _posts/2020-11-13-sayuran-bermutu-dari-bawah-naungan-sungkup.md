@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Sayuran Bermutu dari Bawah Naungan Sungkup
+title: "Sayuran Bermutu dari Bawah Naungan Sungkup"
 categories: Pertanian
 date: 2020-11-13 06:27:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kangkung_959x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kangkung_959x720.jpg"
 tags:
 - Greenhouse
 - sayur
 - sayuran
 
 modification_time: 2020-11-13 06:27:06
-blogger_orig_url: http://localhost/mitra/sayuran-bermutu-dari-bawah-naungan.html
+blogger_orig_url: "http://localhost/mitra/sayuran-bermutu-dari-bawah-naungan.html"
 ---
 
 Deretan kangkung berlabel all natural tersusun rapi di gerai sayuran eksklusif di swalayan Ranch. Sosok tegak, akar pendek, daun tidak kaku, dan berwarna hijau cerah. Bunyi kres terdengar saat batang berukuran 18-20 cm itu ditekan. Itu persis sayuran aeroponik. Padahal kangkung itu ditanam secara konvensional.

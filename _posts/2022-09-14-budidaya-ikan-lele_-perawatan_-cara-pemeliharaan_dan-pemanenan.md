@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Budidaya ikan lele, Perawatan, Cara Pemeliharaan,dan pemanenan
+title: "Budidaya ikan lele, Perawatan, Cara Pemeliharaan,dan pemanenan"
 categories: Perikanan
 date: 2022-09-14 16:29:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/09/ikan-lele.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/09/ikan-lele.jpg"
 tags:
 - 
 
 modification_time: 2022-09-15 11:09:58
-blogger_orig_url: http://localhost/mitra/budidaya-ikan-lele.html
+blogger_orig_url: "http://localhost/mitra/budidaya-ikan-lele.html"
 ---
 
 Budidaya ikan lele adalah proses pemeliharaan ikan lele di lingkungan yang terkendali, biasanya di kolam. Cara ini digunakan untuk meningkatkan populasi ikan lele. Hal ini juga dilakukan dalam rangka memanen ikan untuk dimakan.

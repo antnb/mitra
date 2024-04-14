@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pacu Produksi Jamur Tiram Dengan Pupuk Organik Cair
+title: "Pacu Produksi Jamur Tiram Dengan Pupuk Organik Cair"
 categories: artikel|Pertanian
 date: 2019-10-12 12:42:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/pupuk-organik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/pupuk-organik.jpg"
 tags:
 - baglog
 - bisnis
@@ -14,7 +14,7 @@ tags:
 - pupuk
 
 modification_time: 2022-12-13 14:38:31
-blogger_orig_url: http://localhost/mitra/pupuk-organik-cair-jamur-tiram.html
+blogger_orig_url: "http://localhost/mitra/pupuk-organik-cair-jamur-tiram.html"
 ---
 
 Pupuk organik cair adalah pupuk yang terbuat dari bahan-bahan organik seperti kotoran hewan, ampas tebu, dan sebagainya. Pupuk ini sering digunakan untuk meningkatkan kualitas tanah dan pertumbuhan tanaman. Pupuk organik cair juga dapat mengurangi kekeringan tanah, sehingga cocok untuk daerah kering.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hasil Panen Bermutu Menggunakan Teknik Nutrient Film Technique
+title: "Hasil Panen Bermutu Menggunakan Teknik Nutrient Film Technique"
 categories: perkebunan|Pertanian
 date: 2021-03-23 08:52:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/sayur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/sayur.jpg"
 tags:
 - Greenhouse
 - pembuatan serra
@@ -15,7 +15,7 @@ tags:
 - teknologi
 
 modification_time: 2021-03-23 08:52:22
-blogger_orig_url: http://localhost/mitra/panen-teknik-nutrient-film-technique.html
+blogger_orig_url: "http://localhost/mitra/panen-teknik-nutrient-film-technique.html"
 ---
 
 Pernah tidur di dalam kelambu? Serra kasa alias kelambu superbesar itu kini dimanfaatkan Yos Sutiyoso sebagai rumah tanam beragam sayuran. Dari balik kelambu Yos menuai sayuran bermutu. Kualitasnya sama dengan hasil budidaya dalam greenhouse. Selain itu biaya teknologi Nutrient Film Technique hemat Rp30.000 per m2.

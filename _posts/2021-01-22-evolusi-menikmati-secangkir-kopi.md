@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Evolusi Menikmati Secangkir Kopi
+title: "Evolusi Menikmati Secangkir Kopi"
 categories: artikel
 date: 2021-01-22 03:39:11
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kopi_1024x640.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kopi_1024x640.jpg"
 tags:
 - biji kopi
 - gerai starbucks
@@ -14,7 +14,7 @@ tags:
 - pecandu kopi
 
 modification_time: 2021-01-22 03:39:11
-blogger_orig_url: http://localhost/mitra/evolusi-menikmati-secangkir-kopi.html
+blogger_orig_url: "http://localhost/mitra/evolusi-menikmati-secangkir-kopi.html"
 ---
 
 Mirza tak sembarang menyeduh kopi. Suhu air saat dijerang harus 96 sampai 99°C. Jika terlampau panas, lebih dari 100°C, "Flavor kopi pecah. Kurang dari 90°C kopi lebih asam, lebih pahit, dan aroma tak keluar," katanya. Ia pantang menggunakan air termos, air yang dua kali direbus, dan air ledeng. Harus air tanah. Itulah sebabnya saban pagi ia sendiri yang menyeduh kopi, meski kedua orang tuanya juga membuatnya.

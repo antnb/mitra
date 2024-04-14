@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Arwana Super Red: Sapuan Merah Tubuh sang Naga
+title: "Arwana Super Red: Sapuan Merah Tubuh sang Naga"
 categories: artikel|hobi|ikan hias
 date: 2020-10-18 14:19:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/5688324632_d17b6faaa8_w.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/5688324632_d17b6faaa8_w.jpg"
 tags:
 - 
 
 modification_time: 2020-10-18 14:19:35
-blogger_orig_url: http://localhost/mitra/arwana-super-red-sapuan-merah-tubuh.html
+blogger_orig_url: "http://localhost/mitra/arwana-super-red-sapuan-merah-tubuh.html"
 ---
 
 <p>Arwana super red sepanjang 30 cm hilir-mudik menyusuri akuarium. Ring-ring sisiknya tampak berkilau ditimpa cahaya. Nirwan sang pemilik memang piawai merawat ikan naga itu. "Arwana, terutama super red dan golden butuh sinar matahari. Tanpa itu warnanya pucat," tuturnya.</p>

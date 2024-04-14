@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Kiat Menjaga kolam koi outdoor Tetap Bersih
+title: "Kiat Menjaga kolam koi outdoor Tetap Bersih"
 categories: hobi
 date: 2020-04-03 06:50:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/kolam-koi-outdoor.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/kolam-koi-outdoor.jpg"
 tags:
 - filter air
 - koi
 - kolam koi
 
 modification_time: 2020-04-03 06:50:20
-blogger_orig_url: http://localhost/mitra/kiat-menjaga-kolam-koi-outdoor-tetap.html
+blogger_orig_url: "http://localhost/mitra/kiat-menjaga-kolam-koi-outdoor-tetap.html"
 ---
 
 <em>Sejauh ini jarang hobiis yang berani membangun kolam koi tanpa naungan. Kontak langsung sinar matahari sudah memancing alga tumbuh subur. Di satu sisi kehadiran alga merupakan sumber pakan, tapi di pihak lain munculnya ganggang bersel tunggal sangat menganggu.</em>

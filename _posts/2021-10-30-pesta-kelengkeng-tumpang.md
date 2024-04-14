@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pesta Kelengkeng Tumpang
+title: "Pesta Kelengkeng Tumpang"
 categories: perkebunan
 date: 2021-10-30 15:23:29
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/10/lengkeng1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/lengkeng1.jpg"
 tags:
 - Kelengkeng
 
 modification_time: 2021-10-30 15:23:29
-blogger_orig_url: http://localhost/mitra/pesta-kelengkeng-tumpang.html
+blogger_orig_url: "http://localhost/mitra/pesta-kelengkeng-tumpang.html"
 ---
 
 Akhir Februari lalu apel manalagi maskot kota Malang kehilangan pamornya. Lengkeng tumpang yang dijajakan di berbagai sudut kota, menggantikan pesona buah yang tak kalah eksotis.

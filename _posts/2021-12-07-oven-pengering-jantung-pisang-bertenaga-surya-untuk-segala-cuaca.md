@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Oven Pengering Jantung Pisang Bertenaga Surya untuk Segala Cuaca
+title: "Oven Pengering Jantung Pisang Bertenaga Surya untuk Segala Cuaca"
 categories: artikel
 date: 2021-12-07 10:28:08
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/12/jantung-pisang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/jantung-pisang.jpg"
 tags:
 - alat
 - dendeng
@@ -14,7 +14,7 @@ tags:
 - Pisang
 
 modification_time: 2021-12-07 10:28:08
-blogger_orig_url: http://localhost/mitra/oven-pengering-jantung-pisang.html
+blogger_orig_url: "http://localhost/mitra/oven-pengering-jantung-pisang.html"
 ---
 
 Meninggalkan penjemuran konvensional di bawah matahari dan beralih ke mesin oven pengering, ternyata tak menyelesaikan masalah. Proses pengeringan memang singkat, hanya sejam; cara konvensional, 2 hari untuk mengeringkan 100 kg jantung pisang sebagai bahan dendeng. Sayang, tepi dendeng gosong. Ketika digoreng, warnanya kehitaman. Aroma pun tak sedap.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Satu Organik Beragam Tafsir
+title: "Satu Organik Beragam Tafsir"
 categories: perkebunan
 date: 2020-12-26 12:14:31
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Gambar_organik_1024x576_1024x666.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Gambar_organik_1024x576_1024x666.jpg"
 tags:
 - bahan anorganik
 - pertanian organik
@@ -12,7 +12,7 @@ tags:
 - sertifikat produk organik
 
 modification_time: 2020-12-26 12:14:31
-blogger_orig_url: http://localhost/mitra/satu-organik-beragam-tafsir.html
+blogger_orig_url: "http://localhost/mitra/satu-organik-beragam-tafsir.html"
 ---
 
 Agus Suryanto menganggap pertanian organik itu mesti berlandaskan biodiversity atau keragaman. Adanya ekosistem tanaman yang stabil menyebabkan pengembangan mikroorganisme dan daur hara terjadi secara alami. Keragaman pada tanaman tak terbatas jenis dan budidaya, tetapi juga makhluk hidup lain. Ada companion plant, burung, ulat, dan mikroorganisme.

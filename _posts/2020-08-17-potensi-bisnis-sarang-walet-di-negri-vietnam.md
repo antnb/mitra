@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Potensi Bisnis Sarang Walet Di Negri Vietnam
+title: "Potensi Bisnis Sarang Walet Di Negri Vietnam"
 categories: artikel
 date: 2020-08-17 06:00:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/walet.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/walet.jpg"
 tags:
 - 
 
 modification_time: 2020-08-17 06:00:53
-blogger_orig_url: http://localhost/mitra/potensi-bisnis-sarang-walet-di-negri.html
+blogger_orig_url: "http://localhost/mitra/potensi-bisnis-sarang-walet-di-negri.html"
 ---
 
 <em>Perlahan-lahan badan perahu itu melepaskan diri dari pelabuhan. Raungan 2 mesin pendorong semakin kencang seiring laju perahu yang makin cepat. Semenit kemudian, speedboat berkapasitas 20-30 penumpang itu melaju membelah ombak menuju Hon Yen atau Dao Yen (sebutan orang Vietnam untuk Pulau Salangane, red). “Di Bandara Nha Trang ada brosur tentang Pulau Salangane sebagai penghasil sarang walet terbesar di Vietnam. Saya penasaran untuk ke sana,” ujar Hary.</em>

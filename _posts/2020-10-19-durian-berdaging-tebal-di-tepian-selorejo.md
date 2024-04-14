@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Durian Berdaging Tebal di Tepian Selorejo
+title: "Durian Berdaging Tebal di Tepian Selorejo"
 categories: artikel
 date: 2020-10-19 08:29:20
 author: Yudianto
-image: 
+image: ""
 tags:
 - 
 
 modification_time: 2020-10-19 08:29:20
-blogger_orig_url: http://localhost/mitra/durian-berdaging-tebal-di-tepian.html
+blogger_orig_url: "http://localhost/mitra/durian-berdaging-tebal-di-tepian.html"
 ---
 
 <p>Depok 1 dan depok 2 bukan daerah pemukiman di selatan Jakarta. Itu sebutan buat dua durian unggul asal Desa Kawungrejo, Kecamatan Ngantang, Malang. Sosoknya mungil. Bobot cuma 1,5-2 kg per buah. Namun, bila Anda sanggup menghabiskan 2 buah sekali makan, Anda layak disebut mania durian.</p>

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Azolla Sang Pendongkrak unsur Hara Tanah
+title: "Azolla Sang Pendongkrak unsur Hara Tanah"
 categories: artikel
 date: 2020-09-17 14:35:46
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Azolla_1214x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Azolla_1214x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-17 14:35:46
-blogger_orig_url: http://localhost/mitra/azolla-sang-pendongkrak-unsur-hara.html
+blogger_orig_url: "http://localhost/mitra/azolla-sang-pendongkrak-unsur-hara.html"
 ---
 
 <em>Azolla sudah terbukti meningkatkan produksi padi karena mampu menghasilkan nitrogen yang diperlukan tanaman. Tumbuhan air itu mengumpulkan 2-4 kg nitrogen/ha/hari setara dengan 10-20 kg amonium sulfat. Kemampuannya mengikat nitrogen karena peran ganggang biru Anabaena azzolae.</em>

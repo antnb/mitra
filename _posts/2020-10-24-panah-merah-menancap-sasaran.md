@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Panah Merah Menancap Sasaran
+title: "Panah Merah Menancap Sasaran"
 categories: artikel|perkebunan
 date: 2020-10-24 04:39:42
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/10/expo.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/expo.jpg"
 tags:
 - 
 
 modification_time: 2020-10-24 04:39:42
-blogger_orig_url: http://localhost/mitra/panah-merah-menancap-sasaran.html
+blogger_orig_url: "http://localhost/mitra/panah-merah-menancap-sasaran.html"
 ---
 
 Produk bertambah, omzet yang diraup meningkat. Demikian yang dirasakan produsen benih PT East West Seed Indonesia. Pada 1997 dengan 48 varietas produksi hanya 100 ton. Setahun kemudian pertumbuhan produksi melonjak 20% per tahun setelah 50-an varietas dipasarkan. Itu hikmah krisis ekonomi yang melanda Indonesia sehingga banyak orang terjun ke agribisnis.

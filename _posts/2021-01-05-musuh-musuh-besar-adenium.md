@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Musuh-musuh Besar Adenium
+title: "Musuh-musuh Besar Adenium"
 categories: tanaman hias
 date: 2021-01-05 09:52:44
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_adenium1_1024x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_adenium1_1024x768.jpg"
 tags:
 - Adenium
 - daun menguning
 - media tanam
 
 modification_time: 2021-01-05 09:52:44
-blogger_orig_url: http://localhost/mitra/musuh-musuh-besar-adenium.html
+blogger_orig_url: "http://localhost/mitra/musuh-musuh-besar-adenium.html"
 ---
 
 Kejadian itu kerap Chandra Gunawan alami saat musim hujan tiba. Tak hanya daun, bunga pun diserang. Kuncup sebesar kelereng kerap jadi targetnya. Bunga menjadi hitam dan rontok.

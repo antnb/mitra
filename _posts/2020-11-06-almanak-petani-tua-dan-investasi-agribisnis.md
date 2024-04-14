@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Almanak Petani Tua dan Investasi Agribisnis
+title: "Almanak Petani Tua dan Investasi Agribisnis"
 categories: artikel|Pertanian
 date: 2020-11-06 12:13:43
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_petani_1080x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_petani_1080x720.jpg"
 tags:
 - petani
 
 modification_time: 2020-11-06 12:13:43
-blogger_orig_url: http://localhost/mitra/almanak-petani-tua-dan-investasi.html
+blogger_orig_url: "http://localhost/mitra/almanak-petani-tua-dan-investasi.html"
 ---
 
 Setiap bulan Oktober begini, di Amerika, biasanya saya tenggelam membaca Almanak Petani Tua. Itu adalah majalah tahunan. Terbit rutin sejak 1792, ketika George Washington memangku jabatan presiden negeri itu. Jadi sejak 210 tahun lalu, majalah yang paling saya sukai, tak pernah berhenti terbit.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Khasiat Buah Makasar untuk Pengobatan Kanker Hati
+title: "Khasiat Buah Makasar untuk Pengobatan Kanker Hati"
 categories: Herbal
 date: 2021-01-06 11:38:46
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_makasar1_916x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_makasar1_916x768.jpg"
 tags:
 - brucea javanica
 - Buah makasar
@@ -13,7 +13,7 @@ tags:
 - sel kanker
 
 modification_time: 2021-01-06 11:38:46
-blogger_orig_url: http://localhost/mitra/khasiat-buah-makasar-untuk-pengobatan.html
+blogger_orig_url: "http://localhost/mitra/khasiat-buah-makasar-untuk-pengobatan.html"
 ---
 
 Senyum mengembang di bibirnya. Derita kanker hati itu menjadi kenangan lama yang hanya bisa diceritakan pada putra-putrinya agar tabah dalam menjalani hidup. Itu kejadian 34 tahun silam yang sulit terhapus dari ingatan kelahiran Jakarta 1 April 1947. Kini, di usianya yang mencapai 58 tahun ia tampak masih segar bugar.

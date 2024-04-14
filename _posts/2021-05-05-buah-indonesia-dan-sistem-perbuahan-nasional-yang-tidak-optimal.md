@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Buah Indonesia Dan Sistem Perbuahan Nasional Yang Tidak Optimal
+title: "Buah Indonesia Dan Sistem Perbuahan Nasional Yang Tidak Optimal"
 categories: perkebunan
 date: 2021-05-05 12:35:51
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/kontes.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/kontes.jpg"
 tags:
 - buah buahan
 - buah impor
@@ -14,7 +14,7 @@ tags:
 - sistem perbuahan nasional
 
 modification_time: 2021-05-05 12:35:51
-blogger_orig_url: http://localhost/mitra/buah-indonesia-dan-sistem-perbuahan.html
+blogger_orig_url: "http://localhost/mitra/buah-indonesia-dan-sistem-perbuahan.html"
 ---
 
 Pada periode 1996 sampai 2000, impor <span class="keyword _ngcontent-cfu-100" aria-hidden="false">buah indonesia</span> seperti jeruk, apel, dan anggur rata-rata berturut turut mencapai 43.341 ton, 35.857 ton, dan 28.852 ton per tahun. Jumlah itu senilai Rp450-miliar per tahun, setara 40% nilai total Buah Nasional Indonesia. Itu belum termasuk lengkeng dan durian dari Thailand yang secara periodik hadir di beberapa pasar swalayan.

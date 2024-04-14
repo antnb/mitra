@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tomat ceri: Madu Dari Balik Bukit Pasir
+title: "Tomat ceri: Madu Dari Balik Bukit Pasir"
 categories: perkebunan|Pertanian
 date: 2021-12-03 15:12:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/buah-Tomat-ceri.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/buah-Tomat-ceri.jpg"
 tags:
 - tomat
 
 modification_time: 2022-09-11 00:46:51
-blogger_orig_url: http://localhost/mitra/tomat-ceri-madu-dari-balik-bukit.html
+blogger_orig_url: "http://localhost/mitra/tomat-ceri-madu-dari-balik-bukit.html"
 ---
 
 Tomat ceri yang ranum dan renyah di toko-toko sayuran eksklusif di Eropa itu berasal dari greenhouse di tepi pantai Laut Utara, Belanda.

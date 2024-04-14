@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sistem Filterisasi Aquarium: Degup si Jantung Akuarium
+title: "Sistem Filterisasi Aquarium: Degup si Jantung Akuarium"
 categories: hobi|ikan hias
 date: 2021-05-30 06:47:39
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/05/filter-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/filter-1.jpg"
 tags:
 - filter akuarium
 - head filter
@@ -13,7 +13,7 @@ tags:
 - sistem filter
 
 modification_time: 2021-05-30 06:47:39
-blogger_orig_url: http://localhost/mitra/sistem-filterisasi-aquarium-degup-si.html
+blogger_orig_url: "http://localhost/mitra/sistem-filterisasi-aquarium-degup-si.html"
 ---
 
 Model <span class="keyword _ngcontent-boh-101" aria-hidden="false">filterisasi <span class="keyword _ngcontent-cfu-100" aria-hidden="false">aquarium murah</span></span> itu mirip rumah siput seukuran kardus mie. Bulat setengah lingkaran dengan pipa pengeluaran mendongak. Isinya kombinasi filter biologi dan mekanik. Fungsi filter itu semakin garang berkat pemasangan ultra violet carbon (UVC) alias biotron. Ia akan membuat alga dan bakteri patogen berpikir seribu kali untuk menetap.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Buah Cempedak King Malaysia, Cempedak Super Sang Primadona Baru
+title: "Buah Cempedak King Malaysia, Cempedak Super Sang Primadona Baru"
 categories: perkebunan
 date: 2021-01-23 07:37:32
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_cempedak_959x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_cempedak_959x768.jpg"
 tags:
 - cempedak
 - pongge
 - varietas lokal
 
 modification_time: 2021-01-23 07:37:32
-blogger_orig_url: http://localhost/mitra/buah-cempedak-king-malaysia.html
+blogger_orig_url: "http://localhost/mitra/buah-cempedak-king-malaysia.html"
 ---
 
 <i lang="la">Artocarpus champeden</i> itu diboyong sepasang sahabat, Ibrahim dan Mulyono, kolektor buah-buah eksklusif di Singkawang, Kalimantan Barat, dari Kuching 5 tahun silam. Meski diambil dari negeri di Malaysia Timur itu, menurut Ibrahim, Buah cempedak berasal dari Thailand.

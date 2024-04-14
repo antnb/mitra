@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Menanti Buah Indonesia di Pasar Dunia
+title: "Menanti Buah Indonesia di Pasar Dunia"
 categories: Arsip|artikel
 date: 2020-10-21 06:08:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/fruit.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/fruit.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 06:08:33
-blogger_orig_url: http://localhost/mitra/menanti-buah-indonesia-di-pasar-dunia.html
+blogger_orig_url: "http://localhost/mitra/menanti-buah-indonesia-di-pasar-dunia.html"
 ---
 
 Baru-baru ini diadakan sidang Codex Alimentarius Commission (CAC) ke-26 di Roma, Italia, 30 Juni-7 Juli 2003. CAC merupakan badan bentukan FAO dan WHO pada era 1960-an. Kata codex alimentarius sendiri berasal dari bahasa Latin yang berarti food code. Atau, bisa juga diartikan kumpulan standar berbagai jenis makanan yang diakui internasional. Tujuannya, di samping melindungi kesehatan konsumen, juga untuk memastikan kejujuran produsen makanan.

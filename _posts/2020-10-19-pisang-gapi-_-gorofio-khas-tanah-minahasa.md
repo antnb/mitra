@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pisang Gapi & Gorofio Khas Tanah Minahasa
+title: "Pisang Gapi & Gorofio Khas Tanah Minahasa"
 categories: artikel|perkebunan
 date: 2020-10-19 12:29:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/pisang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/pisang.jpg"
 tags:
 - 
 
 modification_time: 2020-10-19 12:29:49
-blogger_orig_url: http://localhost/mitra/pisang-gapi-gorofio-khas-tanah.html
+blogger_orig_url: "http://localhost/mitra/pisang-gapi-gorofio-khas-tanah.html"
 ---
 
 <p>Di Pasar Pinasungkulan Karombasan, Manado, dijajakan pisang kuning berbintik cokelat. Jangan salah itu bukan barangan asal Medan, tapi si bongsor gapi yang banyak ditanam di pesisir pantai utara Provinsi Sulawesi Utara. Soal rasa ia tak kalah lezat: manis dan legit. Andalan lain tanah Kawanua, goroho pisang olah yang cocok buat penderita diabetes.</p>

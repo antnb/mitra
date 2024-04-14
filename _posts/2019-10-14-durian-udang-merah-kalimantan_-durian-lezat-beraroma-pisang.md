@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Durian Udang Merah Kalimantan, Durian Lezat Beraroma Pisang
+title: "Durian Udang Merah Kalimantan, Durian Lezat Beraroma Pisang"
 categories: perkebunan|Pertanian
 date: 2019-10-14 09:35:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Durian-Draveolens.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Durian-Draveolens.jpg"
 tags:
 - Buah
 - Durian
 - graveolens
 
 modification_time: 2022-10-17 07:26:26
-blogger_orig_url: http://localhost/mitra/durian-otak-udang-galah-draveolens.html
+blogger_orig_url: "http://localhost/mitra/durian-otak-udang-galah-draveolens.html"
 ---
 
 Berkali-kali dalam belasan tahun terakhir menembus belantara Kalimantan, Lutfi Bansir belum pernah menemukan durian anggang berdaging tebal bercitarasa istimewa. Lazimnya Durio graveolens itu berdaging buah tipis dan hambar. Siapa sangka di Kelantan, Malaysia, ada 40 klon graveolens terbaik di dunia: daging buah tebal dan lezat. Graveolens termasuk satu di antara 3 kerabat durian yang berwarna. Daging buahnya berwarna merah atau jingga sehingga memikat.

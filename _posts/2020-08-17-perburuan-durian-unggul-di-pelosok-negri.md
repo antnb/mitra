@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perburuan Durian Unggul Di Pelosok Negri
+title: "Perburuan Durian Unggul Di Pelosok Negri"
 categories: artikel|perkebunan
 date: 2020-08-17 15:29:02
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/IMG_0934-L_800x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/IMG_0934-L_800x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-17 15:29:02
-blogger_orig_url: http://localhost/mitra/perburuan-durian-unggul-di-pelosok.html
+blogger_orig_url: "http://localhost/mitra/perburuan-durian-unggul-di-pelosok.html"
 ---
 
 <em>Memasuki Desember -Januari telepon  genggam di tangan Prakoso semakin  sering berdering. “Kali ini bukan bertanya lengkeng atau citra, tapi bertanya tentang musim durian tiba,” katanya. Maklum, selain sebagai penangkar buah, Prakoso dikenal oleh sahabat dan kenalannya sebagai mania durian. Karena itulah, saat Jawa Tengah panen durian, profesinya seolah berubah. Ia menjadi pengantar bagi kenalannya dari luar kota untuk berburu durian.</em>

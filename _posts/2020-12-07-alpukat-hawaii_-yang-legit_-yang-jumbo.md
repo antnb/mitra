@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Alpukat Hawaii: Yang Legit, Yang Jumbo
+title: "Alpukat Hawaii: Yang Legit, Yang Jumbo"
 categories: perkebunan
 date: 2020-12-07 09:51:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_alpukat_hawai4_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_alpukat_hawai4_1024x576.jpg"
 tags:
 - alpukat
 - alpukat hawaii
 - alpukat pati
 
 modification_time: 2020-12-07 09:51:16
-blogger_orig_url: http://localhost/mitra/alpukat-hawaii-yang-legit-yang-jumbo.html
+blogger_orig_url: "http://localhost/mitra/alpukat-hawaii-yang-legit-yang-jumbo.html"
 ---
 
 Saat berkunjung ke kediaman Prakoso pada penghujung Mei 2017, kelezatan avocado itu sempat tercecap. Kesan pertama langsung memikat. Ukuran buah lebih bongsor ketimbang alpukat yang banyak dijajakan di pasar. Waktu ditimbang, jarum menunjuk angka 1,2 kg. <a class="wpil_keyword_link " title="Alpukat" href="http://127.0.0.1/mitra/topik/alpukat" data-wpil-keyword-link="linked">Alpukat</a> biasa, lazimnya hanya 250 sampai 500 g per buah.

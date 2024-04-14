@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Senna siamea Si penakluk Kaki Gajah
+title: "Senna siamea Si penakluk Kaki Gajah"
 categories: Herbal
 date: 2020-10-23 04:37:11
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/10/johar.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/johar.jpg"
 tags:
 - Daun johar
 
 modification_time: 2020-10-23 04:37:11
-blogger_orig_url: http://localhost/mitra/johar-si-penakluk-kaki-gajah.html
+blogger_orig_url: "http://localhost/mitra/johar-si-penakluk-kaki-gajah.html"
 ---
 
 Anda tentu pernah berkemah di lapangan terbuka. Nyamuk pasti banyak di sana. Jika Anda tidak tahan gigitannya, bakarlah daun johar kering. Serangga pengisap darah itu pasti kabur atau berjatuhan mati. Daun johar Cassia siamea memang banyak digunakan sebagai bahan baku obat antinyamuk. Alkaloid yang terkandung dalam daun dan ranting johar bersifat toksik.

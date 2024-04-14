@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Beragam Kendala Pemasaran Gambir Lokal Ke Pasar Internasional
+title: "Beragam Kendala Pemasaran Gambir Lokal Ke Pasar Internasional"
 categories: perkebunan
 date: 2021-11-05 06:33:46
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/11/gambir.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/gambir.jpg"
 tags:
 - ekspor
 - gambir
 
 modification_time: 2022-09-20 06:22:55
-blogger_orig_url: http://localhost/mitra/kendala-pemasaran-gambir-lokal-ke.html
+blogger_orig_url: "http://localhost/mitra/kendala-pemasaran-gambir-lokal-ke.html"
 ---
 
 <strong>Gambir</strong> (Uncaria) adalah sejenis pohon yang tumbuh di daerah tropis seperti Indonesia. Daunnya digunakan untuk membuat teh dan obat-obatan tradisional.

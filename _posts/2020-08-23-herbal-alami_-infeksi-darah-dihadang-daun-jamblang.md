@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Herbal Alami: Infeksi Darah Dihadang Daun Jamblang
+title: "Herbal Alami: Infeksi Darah Dihadang Daun Jamblang"
 categories: artikel|Herbal|kesehatan
 date: 2020-08-23 05:43:31
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/08/buah-jamblang_1280x718.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/buah-jamblang_1280x718.jpg"
 tags:
 - 
 
 modification_time: 2020-08-23 05:43:31
-blogger_orig_url: http://localhost/mitra/herbal-alami-infeksi-darah-dihadang.html
+blogger_orig_url: "http://localhost/mitra/herbal-alami-infeksi-darah-dihadang.html"
 ---
 
 <em>Akibat infeksi darah Titik Fajarwati menderita lumpuh total. Dua tahun ia habiskan di atas tempat tidur lantaran seluruh tubuhnya tak dapat digerak-gerakkan. Ramuan daun jamhlang dan air kelapa hijau menyelamatkan Titik.</em>

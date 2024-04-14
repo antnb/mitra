@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kiat Sukses Ternak Kroto Skala Rumahan Untuk Pemula
+title: "Kiat Sukses Ternak Kroto Skala Rumahan Untuk Pemula"
 categories: Peternakan
 date: 2019-11-02 12:21:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/ternak-kroto.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/ternak-kroto.jpg"
 tags:
 - kroto
 - peternak
@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2022-12-29 13:09:04
-blogger_orig_url: http://localhost/mitra/ternak-kroto-skala-rumahan-untuk-pemula.html
+blogger_orig_url: "http://localhost/mitra/ternak-kroto-skala-rumahan-untuk-pemula.html"
 ---
 
 Di bangunan sederhana itulah ia beternak semut rangrang penghasil kroto di Kabupaten Jember, Provinsi Jawa Timur, itu menempatkan rak-rak kayu bersusun 4 berderet rapi. Setiap rak berisi umpukan potongan pipa polivinil klorida (PVC).

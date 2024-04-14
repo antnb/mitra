@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Keistimewaan Buah Mangga Udang Dari Sumba Manis Dan Berserat
+title: "Keistimewaan Buah Mangga Udang Dari Sumba Manis Dan Berserat"
 categories: artikel|perkebunan
 date: 2020-09-13 09:40:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_pou-urang_1280x671.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_pou-urang_1280x671.jpg"
 tags:
 - Mangga
 
 modification_time: 2022-09-12 16:33:09
-blogger_orig_url: http://localhost/mitra/keistimewaan-mangga-udang-dari-sumba.html
+blogger_orig_url: "http://localhost/mitra/keistimewaan-mangga-udang-dari-sumba.html"
 ---
 
 Nun di Kecamatan Wanokaka, Kabupaten Sumba Barat, NTT, <span class="keyword _ngcontent-boh-101" aria-hidden="false">pohon mangga udang</span> itu mudah ditemukan di halaman-halaman rumah penduduk. Dahulu Yacoba kecil tak pernah bosan menikmati mangga ranum yang manis dan segar. Terkadang tak perlu pisau untuk mengupas dan memotong buah.

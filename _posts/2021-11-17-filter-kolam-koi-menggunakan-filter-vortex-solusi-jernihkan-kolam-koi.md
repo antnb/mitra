@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Filter kolam koi menggunakan filter vortex Solusi Jernihkan Kolam Koi
+title: "Filter kolam koi menggunakan filter vortex Solusi Jernihkan Kolam Koi"
 categories: artikel|hobi|ikan hias
 date: 2021-11-17 07:22:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/koi4.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/koi4.jpg"
 tags:
 - koi
 
 modification_time: 2022-09-19 07:15:41
-blogger_orig_url: http://localhost/mitra/filter-biologis-kolam-koi-sistem-vortex.html
+blogger_orig_url: "http://localhost/mitra/filter-biologis-kolam-koi-sistem-vortex.html"
 ---
 
 Koi adalah ikan yang indah dan menyenangkan untuk dilihat, tetapi mereka dapat menjadi sangat berbahaya bagi kesehatan air Anda. Mereka dapat menghasilkan banyak kotoran dan limbah yang dapat mengakibatkan kerusakan pada kualitas air. Oleh karena itu, sangat penting untuk memiliki sistem filter yang baik untuk menjaga kualitas air tetap baik.

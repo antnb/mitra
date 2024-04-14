@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Trik Dan Langkah Bungakan Kembali Anggrek Bulan Yang Layu
+title: "Trik Dan Langkah Bungakan Kembali Anggrek Bulan Yang Layu"
 categories: hobi|tanaman hias
 date: 2021-05-24 08:21:31
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/05/anggrek.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/anggrek.jpg"
 tags:
 - anggrek bulan
 - media tanam
@@ -12,7 +12,7 @@ tags:
 - pupuk organik
 
 modification_time: 2021-05-24 08:21:31
-blogger_orig_url: http://localhost/mitra/trik-dan-langkah-bungakan-kembali.html
+blogger_orig_url: "http://localhost/mitra/trik-dan-langkah-bungakan-kembali.html"
 ---
 
 <blockquote>"Habis manis sepah dibuang," seperti pepatah itu nasib beberapa pot anggrek bulan di sebuah rumah di Cibubur, Jakarta Timur. Daun phalaenopsis asal Taiwan itu terkulai, menguning, dan keriput. Tangkai bunganya mengering cokelat. Padahal sebulan sebelumnya, anggrek-angrek itu bak putri. Ia dipajang di meja dan ditatap penuh kekaguman.</blockquote>

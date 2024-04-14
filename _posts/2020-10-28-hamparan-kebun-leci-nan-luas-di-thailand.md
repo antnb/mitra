@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Hamparan Kebun Leci Nan Luas Di Thailand
+title: "Hamparan Kebun Leci Nan Luas Di Thailand"
 categories: perkebunan
 date: 2020-10-28 13:44:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_Leci2_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_Leci2_1280x720.jpg"
 tags:
 - leci
 - thailanf
 
 modification_time: 2020-10-28 13:44:02
-blogger_orig_url: http://localhost/mitra/hamparan-kebun-leci-di-thailand.html
+blogger_orig_url: "http://localhost/mitra/hamparan-kebun-leci-di-thailand.html"
 ---
 
 Empat pengunjung mengitari kebun dengan berjalan kaki. Setelah menentukan pilihan, salah seorang di antaranya memesan buah dekat pintu masuk. Karyawan Suthira segera mengambil gunting dan keranjang bambu. Tanpa harus menaiki tangga, ia cekatan menggunting ranting penuh buah ranum. Hasil panen siang itu kemudian di bawa ke sebuah tenda untuk ditimbang. Pengunjung hanya membayar 70 baht-80 baht setara Rpl7.500-Rp20.000 untuk sekilo leci segar.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 9 Langkah Merawat Anthurium Agar Tetap Tampil Menawan
+title: "9 Langkah Merawat Anthurium Agar Tetap Tampil Menawan"
 categories: tanaman hias
 date: 2020-12-13 06:28:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Anthuriums_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Anthuriums_1024x576.jpg"
 tags:
 - akar anthurium
 - Anthurium
 - perawatan anthurium
 
 modification_time: 2020-12-13 06:28:57
-blogger_orig_url: http://localhost/mitra/9-langkah-perawatan-anthurium.html
+blogger_orig_url: "http://localhost/mitra/9-langkah-perawatan-anthurium.html"
 ---
 
 Anthurium koleksi pemasar Jamu Jago itu memang prima. Waktu Trubus bertandang ke kediaman di Temanggung, Jawa Tengah, puluhan pot anthos oura beragam ukuran berdaun hijau mengkilap berwarna solid. Daun kokoh dan tegak membentuk sudut 45°. Tidak terlihat daun menguning atau berlobang.

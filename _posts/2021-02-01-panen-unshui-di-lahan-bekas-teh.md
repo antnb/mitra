@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Panen Unshui di lahan bekas teh
+title: "Panen Unshui di lahan bekas teh"
 categories: Pertanian|Peternakan
 date: 2021-02-01 09:29:06
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_jeruks2_1024x757.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_jeruks2_1024x757.jpg"
 tags:
 - buah berwarna kuning
 - Pupuk kandang
 - unshui
 
 modification_time: 2021-02-01 09:29:06
-blogger_orig_url: http://localhost/mitra/panen-unshui-di-lahan-bekas-teh.html
+blogger_orig_url: "http://localhost/mitra/panen-unshui-di-lahan-bekas-teh.html"
 ---
 
 Jarum jam menunjuk angka 12.30 WIB. Berarti tepat 3 jam Mitrausahatani menyusuri jalan sempit berliku menuju Kecamatan Sukanagara, Cianjur Selatan. Dari speedometer tertera angka 40 km jarak kota Cianjur Desa Sukanagara. Toh perjalanan melelahkan itu terbayar begitu melihat hamparan kebun jeruk di depan mata.

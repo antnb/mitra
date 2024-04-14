@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sepotong tanaman bunga zinnia incaran perangkai bunga
+title: "Sepotong tanaman bunga zinnia incaran perangkai bunga"
 categories: Gardening|tanaman hias
 date: 2021-09-04 06:49:51
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/Zinnia1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/Zinnia1.jpg"
 tags:
 - krisan
 
 modification_time: 2022-09-09 12:17:30
-blogger_orig_url: http://localhost/mitra/tanaman-bunga-zinnia.html
+blogger_orig_url: "http://localhost/mitra/tanaman-bunga-zinnia.html"
 ---
 
 Nasib <span class="keyword _ngcontent-uuo-101" aria-hidden="false">bunga zinnia</span> ibarat Cinderella pada siang hari, tak dilirik oleh hobiis. Paling banter anggota famili kangkung-kangkungan itu cuma menjadi tanaman hamparan. Itu dulu. Sekarang, tanaman zinnia adalah Cinderella pada malam hari yang memikat pangeran tampan. Kini bunga potong itu menjadi incaran perangkai bunga.

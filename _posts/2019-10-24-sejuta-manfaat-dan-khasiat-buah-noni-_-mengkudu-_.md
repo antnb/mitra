@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sejuta Manfaat Dan Khasiat Buah Noni ( Mengkudu )
+title: "Sejuta Manfaat Dan Khasiat Buah Noni ( Mengkudu )"
 categories: kesehatan|Pertanian
 date: 2019-10-24 15:55:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/mengkudu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/mengkudu.jpg"
 tags:
 - depresi
 - konsumsi
@@ -13,7 +13,7 @@ tags:
 - obat
 
 modification_time: 2022-12-28 15:35:17
-blogger_orig_url: http://localhost/mitra/sejuta-manfaat-dan-khasiat-buah-noni.html
+blogger_orig_url: "http://localhost/mitra/sejuta-manfaat-dan-khasiat-buah-noni.html"
 ---
 
 Hermawan Adi tengah mengendarai motor ketika merasakan dada sesak dan tubuh lemas, la baru saja menjemput istri. Untung mereka bisa selamat sampai di rumah dan bergegas berkunjung ke dokter. Hasil pemeriksaan menunjukkan kadar hormon tiroidnya (FT4) 2 kali lipat normal, mencapai 23,2. Lazimnya 5-12. Artinya Hermawan mengidap <b>hipertiroidisme</b>.

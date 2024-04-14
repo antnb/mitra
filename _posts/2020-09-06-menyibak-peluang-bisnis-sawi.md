@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Menyibak Peluang Bisnis Sawi
+title: "Menyibak Peluang Bisnis Sawi"
 categories: perkebunan
 date: 2020-09-06 07:02:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_sawi_858x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_sawi_858x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 07:02:21
-blogger_orig_url: http://localhost/mitra/menyibak-peluang-bisnis-sawi.html
+blogger_orig_url: "http://localhost/mitra/menyibak-peluang-bisnis-sawi.html"
 ---
 
 <em>Tiga puluh tahun bergelut dengan sayuran, tak sekalipun HM Saputro meninggalkan sawi. Ia memang salah satu sayuran andalan pekebun di Cipanas itu. "Bisnis sawi cukup menguntungkan karena permintaan kontinu," ujar ketua Kelompok Tani dari 20 petani. Berkat sawi pu</em>la, ia bisa mereguk keuntungan sampai 100%.

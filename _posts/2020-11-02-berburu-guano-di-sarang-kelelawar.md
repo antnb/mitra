@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Berburu Guano di Sarang Kelelawar
+title: "Berburu Guano di Sarang Kelelawar"
 categories: artikel|Pertanian
 date: 2020-11-02 06:53:39
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_guano_931x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_guano_931x720.jpg"
 tags:
 - guano
 - kelelawar
 - pupuk
 
 modification_time: 2020-11-02 06:53:39
-blogger_orig_url: http://localhost/mitra/berburu-guano-di-sarang-kelelawar.html
+blogger_orig_url: "http://localhost/mitra/berburu-guano-di-sarang-kelelawar.html"
 ---
 
 Hal itu bukan hal baru bagi para Batman di Gunungkidul. Mengunjungi gua kapur yang menjadi sarang kalong bagian dari pekerjaan yang mesti dilakoni. Hewan malam itu tak sepenuhnya parasit, kotoran yang dihasilkannya mengandung fosfat hingga 27,16%, nitrat sampai 16%, dan kalium sebesar 3%. Itu modal bagi tanaman untuk tumbuh subur dengan daun sehat dan cepat berbunga.

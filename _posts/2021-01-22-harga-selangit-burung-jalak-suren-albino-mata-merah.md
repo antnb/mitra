@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Harga Selangit Burung Jalak Suren Albino Mata Merah
+title: "Harga Selangit Burung Jalak Suren Albino Mata Merah"
 categories: hobi
 date: 2021-01-22 02:16:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_albinoGracupicacontra_1024x735.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_albinoGracupicacontra_1024x735.jpg"
 tags:
 - jalak
 
 modification_time: 2021-01-22 02:16:35
-blogger_orig_url: http://localhost/mitra/burung-albino-mata-merah.html
+blogger_orig_url: "http://localhost/mitra/burung-albino-mata-merah.html"
 ---
 
 Harga tinggi itu diperolah Anda setelah terlibat tawar-menawar alot selama beberapa pekan. Wajar harga itu disematkan pada sang burung albino Jalak Suren bercorak putih bak salju.

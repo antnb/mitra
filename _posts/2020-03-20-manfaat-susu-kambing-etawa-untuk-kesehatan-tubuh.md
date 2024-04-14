@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Manfaat Susu Kambing Etawa Untuk Kesehatan Tubuh
+title: "Manfaat Susu Kambing Etawa Untuk Kesehatan Tubuh"
 categories: artikel|Herbal|kesehatan
 date: 2020-03-20 10:32:16
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/03/Untitled_918x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Untitled_918x800.jpg"
 tags:
 - kambing
 - susu
 
 modification_time: 2020-03-20 10:32:16
-blogger_orig_url: http://localhost/mitra/manfaat-susu-kambing-etawa.html
+blogger_orig_url: "http://localhost/mitra/manfaat-susu-kambing-etawa.html"
 ---
 
 Rutinitas itu dijalaninya selama 2 minggu. Hasilnya, batuk berangsur-angsur sembuh. Kondisi tubuh pun memperlihatkan kemajuan setelah secara rutin mengkonsumsi Susu Kambing Etawa. Meski belum cek ke dokter lagi, Ujang merasakan napasnya jauh lebih lega. <span class="keyword _ngcontent-iay-100" aria-hidden="false">khasiat susu kambing</span> yang ia rasakan antara lain melegakan pernafasan "Dada tidak nyeri, kalau bernapas pun tidak terasa berat," ujar ayah 7 anak itu.

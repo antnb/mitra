@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Perburuan Tanaman Buah Tropis Nan Eksotis dari Florida
+title: "Perburuan Tanaman Buah Tropis Nan Eksotis dari Florida"
 categories: hobi|perkebunan
 date: 2021-01-10 13:23:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_shutterstock_278723528_1024x683.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_shutterstock_278723528_1024x683.jpg"
 tags:
 - buah tropis
 - fruit council international
 - kebun buah
 
 modification_time: 2021-01-10 13:23:05
-blogger_orig_url: http://localhost/mitra/perburuan-tanaman-buah-tropis-nan.html
+blogger_orig_url: "http://localhost/mitra/perburuan-tanaman-buah-tropis-nan.html"
 ---
 
 Citra, itulah jambu air yang diburu Maurice Kong. Setibanya di Indonesia ia segera melakukan perburuan ke toko-toko dan kebun-kebun buah di seputar Jakarta dan Bogor. Hasilnya nihil. Saat itu akhir Juni citra sedang tidak berbuah. Meski gigit jari Maurice tak kecewa. Perburuannya selama 3 hari tak sia-sia. Ia menemukan banyak buah tropis eksotik.

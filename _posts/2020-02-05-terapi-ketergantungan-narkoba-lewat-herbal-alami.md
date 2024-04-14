@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Terapi Ketergantungan Narkoba Lewat Herbal Alami
+title: "Terapi Ketergantungan Narkoba Lewat Herbal Alami"
 categories: Herbal|kesehatan
 date: 2020-02-05 16:09:46
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/Ketergantungan-Narkoba.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/Ketergantungan-Narkoba.jpg"
 tags:
 - alami
 - narkoba
 - pengobatan
 
 modification_time: 2020-02-05 16:09:46
-blogger_orig_url: http://localhost/mitra/terapi-ketergantungan-narkoba-lewat.html
+blogger_orig_url: "http://localhost/mitra/terapi-ketergantungan-narkoba-lewat.html"
 ---
 
 Di sofa sebuah kantor polisi di Jakarta Selatan, seorang gadis tengah meregang kesakitan. Kedua matanya terpejam erat dengan gigi terkatup rapat dan rona muka meringis. Kedua kaki saling dililitkan sementara tangan mengepal.

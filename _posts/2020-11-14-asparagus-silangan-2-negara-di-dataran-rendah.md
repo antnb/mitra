@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Asparagus Silangan 2 Negara di Dataran Rendah
+title: "Asparagus Silangan 2 Negara di Dataran Rendah"
 categories: perkebunan
 date: 2020-11-14 10:15:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_asparagus_plantation1_640x442.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_asparagus_plantation1_640x442.jpeg"
 tags:
 - asparagus
 
 modification_time: 2020-11-14 10:15:49
-blogger_orig_url: http://localhost/mitra/asparagus-silangan-2-negara-di-dataran.html
+blogger_orig_url: "http://localhost/mitra/asparagus-silangan-2-negara-di-dataran.html"
 ---
 
 Bertanam asparagus tidak lagi monopoli pekebun dataran tinggi. Setelah Boyolali sukses dengan varietas Tainan yang adaptif di ketinggian 600 m dpi, kini Bogor ketinggian 400 m dpi tidak ketinggalan menanam asparagus. Produksi per hari mencapai 60 kg/ha, melebihi Tainan. Ini kabar gembira bagi pekebun yang memiliki lahan di dataran menengah ke bawah.

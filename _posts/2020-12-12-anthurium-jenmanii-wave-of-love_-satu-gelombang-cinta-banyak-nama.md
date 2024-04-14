@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Anthurium jenmanii wave of love: Satu Gelombang Cinta Banyak Nama
+title: "Anthurium jenmanii wave of love: Satu Gelombang Cinta Banyak Nama"
 categories: tanaman hias
 date: 2020-12-12 12:51:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_jemanii_1024x664-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_jemanii_1024x664-1.jpg"
 tags:
 - Anthurium
 - Anthurium jenmanii
@@ -12,7 +12,7 @@ tags:
 - gelombang cinta
 
 modification_time: 2020-12-12 12:51:04
-blogger_orig_url: http://localhost/mitra/anthurium-jenmanii-satu-gelombang.html
+blogger_orig_url: "http://localhost/mitra/anthurium-jenmanii-satu-gelombang.html"
 ---
 
 Anthurium wave of love baru dapat nama beberapa bulan terakhir. Pemberian nama pada A I varian galombang cinta mengikuti <i lang="la">Anthurium jenmanii</i> yang sudah banyak diketahui orang. Berdasarkan penelusuran Trubus di kalangan pemain anthurium, ada puluhan nama yang mengiringi sebutan wave of love. Nama nama yang dimaksudkan untuk membedakan wave of love satu dengan lainnya itu saat ini belum baku. Itu karena setiap pemilik bisa memberikan nama.

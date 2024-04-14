@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Perawatan Benih Kayu ulin Agar Tumbuh Secara Maksimal
+title: "Perawatan Benih Kayu ulin Agar Tumbuh Secara Maksimal"
 categories: perkebunan
 date: 2021-12-05 14:31:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/pohon-ulin.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/pohon-ulin.jpg"
 tags:
 - ulin
 
 modification_time: 2022-09-19 06:30:02
-blogger_orig_url: http://localhost/mitra/teknik-terbaru-agar-pohon-ulin-tumbuh.html
+blogger_orig_url: "http://localhost/mitra/teknik-terbaru-agar-pohon-ulin-tumbuh.html"
 ---
 
 Kayu ulin (Eusideroxylon zwageri) adalah pohon yang tumbuh di hutan-hutan Indonesia. Kayu ulin banyak digunakan untuk berbagai keperluan, seperti untuk pembuatan kapal, perabotan, dan lain-lain. Kayu ulin memiliki sifat yang kuat dan tahan lama, sehingga banyak digunakan untuk berbagai keperluan.

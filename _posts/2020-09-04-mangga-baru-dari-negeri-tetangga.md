@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mangga Baru dari Negeri Tetangga
+title: "Mangga Baru dari Negeri Tetangga"
 categories: artikel|perkebunan
 date: 2020-09-04 05:22:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Mangga-Chokanan_1227x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Mangga-Chokanan_1227x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 05:22:19
-blogger_orig_url: http://localhost/mitra/mangga-baru-dari-negeri-tetangga.html
+blogger_orig_url: "http://localhost/mitra/mangga-baru-dari-negeri-tetangga.html"
 ---
 
 <em>Puluhan mangga terbungkus koran dan kasa nyamuk bergelantungan di ujung tangkai. Ketika pembungkus dibuka, tampaklah kulit kuning dan aroma amat harum menebar. Itulah mangga chokanan yang menghiasi halaman rumah Hartono di Puri Indah, Jakarta Barat. Mangga dari Thailand itu menjadi pilihan bila bosan dengan kulit hijau.</em>

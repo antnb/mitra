@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cara Mengobati Penyakit Ikan Arwana Swim bladder
+title: "Cara Mengobati Penyakit Ikan Arwana Swim bladder"
 categories: ikan hias
 date: 2021-01-08 09:32:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_ikan_1024x612.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_ikan_1024x612.jpg"
 tags:
 - Arwana
 - berenang lurus
@@ -14,7 +14,7 @@ tags:
 - swimbladder
 
 modification_time: 2021-01-08 09:32:50
-blogger_orig_url: http://localhost/mitra/penyakit-ikan-arwana-swimbladder.html
+blogger_orig_url: "http://localhost/mitra/penyakit-ikan-arwana-swimbladder.html"
 ---
 
 Pun bila harga itu diturunkan menjadi Rp 1-juta per ekor, tetap tak ada yang berminat. “Ikan yang telah cacat seperti itu berisiko,” ujar Mahmud dari PT Munjul prima Utama, eksportir arwana. Risiko paling ringan perut ikan menggelambir setelah ia sembuh. Selain itu tulang punggung tidak lurus sempurna seperti kondisi sebelumnya. Malahan, seringkah sang malaikat maut segera menjemput sang ikan.

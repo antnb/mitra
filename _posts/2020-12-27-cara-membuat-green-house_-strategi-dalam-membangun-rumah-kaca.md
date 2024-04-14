@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cara Membuat Green House: Strategi Dalam Membangun Rumah Kaca
+title: "Cara Membuat Green House: Strategi Dalam Membangun Rumah Kaca"
 categories: perkebunan
 date: 2020-12-27 09:59:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_greenhouse_1024x679.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_greenhouse_1024x679.jpg"
 tags:
 - Greenhouse
 - membangun greenhouse
 - persemaian
 
 modification_time: 2020-12-27 09:59:32
-blogger_orig_url: http://localhost/mitra/strategi-cara-membuat-green-house.html
+blogger_orig_url: "http://localhost/mitra/strategi-cara-membuat-green-house.html"
 ---
 
 Membangun greenhouse yang baik harus sesuai dengan situasi dan kondisi yang dihadapi. Sebab, Indonesia memiliki musim, ketinggian tempat, dan agroklimat yang berbeda-beda.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Delima Jumbo Asli Dari Colo
+title: "Delima Jumbo Asli Dari Colo"
 categories: artikel|perkebunan
 date: 2020-10-19 06:23:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/delima_colo.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/delima_colo.jpg"
 tags:
 - 
 
 modification_time: 2020-10-19 06:23:31
-blogger_orig_url: http://localhost/mitra/delima-jumbo-asli-dari-colo.html
+blogger_orig_url: "http://localhost/mitra/delima-jumbo-asli-dari-colo.html"
 ---
 
 <p>"Istimewa" komentar Gregori Hambali, MSc, pakar buah di Bogor ketika mendengar delima asal Kudus berbobot 700 g/buah. Lazimnya bobot Punica granatum itu 300-400 g. Ukuran jumbo itu menyamai delima asal Persia.</p>

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Durian Unggul Dari Tepian Sungai Sekayam
+title: "Durian Unggul Dari Tepian Sungai Sekayam"
 categories: artikel|perkebunan
 date: 2020-10-28 11:00:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_duren2_1082x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_duren2_1082x720.jpg"
 tags:
 - Durian
 - kalbar
 - kalimantan
 
 modification_time: 2020-10-28 11:00:07
-blogger_orig_url: http://localhost/mitra/durian-unggul-dari-tepian-sungai.html
+blogger_orig_url: "http://localhost/mitra/durian-unggul-dari-tepian-sungai.html"
 ---
 
 Tujuan menyusuri anak Sungai Kapuas itu terhenti sejenak gara-gara kulit durian. Tim ekplorasi pun berganti haluan menelusuri pembuang kulit durian di tepi jalan itu. Tak mudah menemukannya karena timbunan sampah di tepi jalan itu tempat sampah warga, bukan milik pribadi. Beruntung setelah kurang lebih sejam menjadi detektif gadungan kami menemukan si pemakan durian itu. Ia menyebutnya durian gantang.

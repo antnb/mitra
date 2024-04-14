@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mitos Perkutut Jawa Di Negri Thailand
+title: "Mitos Perkutut Jawa Di Negri Thailand"
 categories: hobi
 date: 2021-11-16 16:57:01
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/perkutut2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/perkutut2.jpg"
 tags:
 - perkutut
 - thailand
 
 modification_time: 2022-09-20 06:13:29
-blogger_orig_url: http://localhost/mitra/legenda-perkutut-jawa-di-negri.html
+blogger_orig_url: "http://localhost/mitra/legenda-perkutut-jawa-di-negri.html"
 ---
 
 Perkutut Bangkok adalah salah satu jenis perkutut yang populer di Indonesia. Perkutut Bangkok memiliki ciri-ciri seperti ukuran yang relatif kecil, warna bulu putih dengan garis-garis hitam, dan kakinya yang panjang. Perlindungan bagi Perkut utbangkok sangat dianjurkan agar tetap bisa mendapatkan hasil maksimal sebagai burung penghasil telur.

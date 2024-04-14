@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Peluang Bisnis Di Balik Tren Ikan Mas Koki
+title: "Peluang Bisnis Di Balik Tren Ikan Mas Koki"
 categories: artikel|ikan hias
 date: 2020-12-14 09:09:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_koki1_1024x739.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_koki1_1024x739.jpg"
 tags:
 - black ranchu
 - ikan mas
@@ -15,7 +15,7 @@ tags:
 - white ranchu
 
 modification_time: 2020-12-14 09:09:04
-blogger_orig_url: http://localhost/mitra/peluang-bisnis-di-balik-tren-ikan.html
+blogger_orig_url: "http://localhost/mitra/peluang-bisnis-di-balik-tren-ikan.html"
 ---
 
 Di tempat sama, kelahiran Bogor 25 tahun lalu itu sukses pula membeli kampiun tosakin milik Bens Aquarium seharga Rp25 juta. Ikan cetakan penangkar di Jepang itu salah satu jenis yang juga diincar. Jadi, Ahad sore medio Maret itu, tanpa rasa sesal sedikit pun, pria lajang itu sudah menguras Rp55 juta dari pundi pundinya. Setahun lalu grand champion Indofish 2003, black ranchu, dibeli Rp15 juta meski kini klangenan itu sudah berpindah tangan.

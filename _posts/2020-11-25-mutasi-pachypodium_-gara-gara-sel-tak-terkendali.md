@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mutasi Pachypodium: Gara-gara Sel Tak Terkendali
+title: "Mutasi Pachypodium: Gara-gara Sel Tak Terkendali"
 categories: artikel|tanaman hias
 date: 2020-11-25 05:40:48
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_keranjang1_666x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_keranjang1_666x768.jpg"
 tags:
 - daun
 - Pachypodium
@@ -12,7 +12,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2020-11-25 05:40:48
-blogger_orig_url: http://localhost/mitra/mutasi-pachypodium-gara-gara-sel-tak.html
+blogger_orig_url: "http://localhost/mitra/mutasi-pachypodium-gara-gara-sel-tak.html"
 ---
 
 Pantas bila Edi berkomentar begitu. Mestinya lamerei berupa tanaman tunggal dengan daun hijau zaitun di ujung batang. Di sekujur tubuhnya bertebaran duri-duri tajam yang berpasangan. Terkadang muncul cabang di bagian pucuk. Namun, begitu berlabel kristata, sosoknya berubah 180°.

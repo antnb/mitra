@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Gemerincing Rupiah dari Sebuah Gaya Hidup
+title: "Gemerincing Rupiah dari Sebuah Gaya Hidup"
 categories: perkebunan
 date: 2020-12-25 18:37:44
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_organik_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_organik_1024x576.jpg"
 tags:
 - Gaya Hidup
 - Gerai Organik
@@ -12,7 +12,7 @@ tags:
 - sayuran
 
 modification_time: 2020-12-25 18:37:44
-blogger_orig_url: http://localhost/mitra/gemerincing-rupiah-dari-sebuah-gaya.html
+blogger_orig_url: "http://localhost/mitra/gemerincing-rupiah-dari-sebuah-gaya.html"
 ---
 
 Kondisi itu berbalik 180° dengan keadaan 8 bulan silam. Kala itu kedatangan pria berkacamata itu ke kantor dengan kaki tertatih bukan pemandangan asing buat stafnya. Asam urat kerap menerjang persendian kakek 1 cucu itu. Belum lagi keluhan pusing-pusing akibat darah tinggi dan kolesterol tinggi. Penyakit "ringan" seperti influenza pun tak bosan menghampiri.

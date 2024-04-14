@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Jangan Salah Pilih Ikan Cupang Aduan, Pilih Jenis Sesuai Gaya Bertarung
+title: "Jangan Salah Pilih Ikan Cupang Aduan, Pilih Jenis Sesuai Gaya Bertarung"
 categories: hobi|ikan hias
 date: 2020-08-20 11:21:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/cupang-seri-ipoh_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/cupang-seri-ipoh_1280x720.jpg"
 tags:
 - 
 
 modification_time: 2020-08-20 11:21:06
-blogger_orig_url: http://localhost/mitra/jangan-salah-pilih-ikan-cupang-aduan.html
+blogger_orig_url: "http://localhost/mitra/jangan-salah-pilih-ikan-cupang-aduan.html"
 ---
 
 Anda mengenal dengan baik jenis <span class="keyword _ngcontent-hxa-100" aria-hidden="false">ikan cupang aduan</span> yang andal untuk diadu? Hampir dapat dipastikan, penggemar Bettas fish adu tahu nama, tapi tidak tahu pasti sosoknya. Tidak salah, sebab para pedagang itu sendiri kadang asal sebut. Memang, satu sama lain jenis cupang tidak ada perbedaan mencolok baik ukuran maupun warna ikan cupang.

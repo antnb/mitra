@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pasupati: Patin Hibrid Silangan Jambal Dan Siam
+title: "Pasupati: Patin Hibrid Silangan Jambal Dan Siam"
 categories: Perikanan
 date: 2020-12-09 09:35:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_patin1_1024x578.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_patin1_1024x578.jpg"
 tags:
 - daging putih
 - pasupati
@@ -13,7 +13,7 @@ tags:
 - silangan jambal
 
 modification_time: 2020-12-09 09:35:15
-blogger_orig_url: http://localhost/mitra/pasupati-patin-hibrid-silangan-jambal.html
+blogger_orig_url: "http://localhost/mitra/pasupati-patin-hibrid-silangan-jambal.html"
 ---
 
 Hal itu menjadi sebuah prestasi besar dibandingkan tetuanya, patin jambal dan siam. Patin jambal Pangasius djambal mencapai bobot 700 g/ekor dalam waktu 7 bulan dan siam <i lang="la">Pangasius hypophthalmus</i> 8 bulan. "Kecepatan tumbuh inilah salah satu kelebihan patin pasupati," kata Drs Sularto MSi, peneliti di Loris.

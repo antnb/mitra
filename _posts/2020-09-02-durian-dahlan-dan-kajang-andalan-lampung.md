@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Durian Dahlan dan Kajang Andalan Lampung
+title: "Durian Dahlan dan Kajang Andalan Lampung"
 categories: artikel|perkebunan
 date: 2020-09-02 08:25:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_durian-kajang_1280x757.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_durian-kajang_1280x757.jpeg"
 tags:
 - 
 
 modification_time: 2020-09-02 08:25:20
-blogger_orig_url: http://localhost/mitra/durian-dahlan-dan-kajang-andalan.html
+blogger_orig_url: "http://localhost/mitra/durian-dahlan-dan-kajang-andalan.html"
 ---
 
 <em>Ingin menikmati durian enak lebih awal? Bertandanglah ke Lampung pada akhir September-Oktober. Saat daerah lain belum panen, dahlan yang manis dan legit bisa dinikmati di Balai Benih Induk Pekalongan, Metro, Lampung Tengah</em>

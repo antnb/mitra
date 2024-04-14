@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Maskoki Cantik dari Atas Garasi
+title: "Maskoki Cantik dari Atas Garasi"
 categories: hobi|ikan hias|Perikanan
 date: 2021-03-27 13:48:30
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/kolamkoi.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/kolamkoi.jpg"
 tags:
 - air hijau
 - hobiis
@@ -16,7 +16,7 @@ tags:
 - teknik air
 
 modification_time: 2021-03-27 13:48:30
-blogger_orig_url: http://localhost/mitra/maskoki-cantik-dari-atas-garasi.html
+blogger_orig_url: "http://localhost/mitra/maskoki-cantik-dari-atas-garasi.html"
 ---
 
 Luar biasa! Meski berjumlah lebih dari 200 maskoki berbagai jenis, tak seekor pun yang mengecewakan. Semua tampil prima. Tubuh sehat dan bongsor dengan bentuk proporsional. Warna juga sangat mencolok. Padahal, Harsono mengaku tak punya kiat khusus agar ikan koleksinya tampil prima. Hanya memelihara di kolam alga saja.

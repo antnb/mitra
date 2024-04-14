@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hati Hati Jamur Beracun
+title: "Hati Hati Jamur Beracun"
 categories: artikel
 date: 2020-08-21 11:32:51
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/jamur_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/jamur_1280x720.jpg"
 tags:
 - 
 
 modification_time: 2020-08-21 11:32:51
-blogger_orig_url: http://localhost/mitra/hati-hati-jamur-beracun.html
+blogger_orig_url: "http://localhost/mitra/hati-hati-jamur-beracun.html"
 ---
 
 <em>Cisolok, Sukabumi tiba-tiba gempar. Pasangan suami-istri, Misdia dan Kesih serta 3 anaknya ditemukan tewas di rumahnya. Tak hanya mereka, 29 orang penduduk lainnya harus dirawat intensif. Usut punya usut, ternyata jamur beracun penyebabnya.</em>

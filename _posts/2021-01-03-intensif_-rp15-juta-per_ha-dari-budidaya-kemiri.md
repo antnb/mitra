@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Intensif, Rp15-juta Per/Ha dari Budidaya Kemiri
+title: "Intensif, Rp15-juta Per/Ha dari Budidaya Kemiri"
 categories: perkebunan
 date: 2021-01-03 09:53:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri2_1024x762.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_kemiri2_1024x762.jpg"
 tags:
 - kemiri
 
 modification_time: 2021-01-03 09:53:22
-blogger_orig_url: http://localhost/mitra/budidaya-kemiri-untung-rp15-juta-per-ha.html
+blogger_orig_url: "http://localhost/mitra/budidaya-kemiri-untung-rp15-juta-per-ha.html"
 ---
 
 budidaya kemiri <i>Aleurites moluccana</i> memang menguntungkan. Lihat saja Mochtar Sanusi di Soppeng, Sulawesi Selatan. “Setiap tahun kebun kemiri saya menghasilkan Rp 15-juta sampai Rp20-juta,” paparnya kepada Trubus. Padahal, ia hanya memiliki 74 pohon yang ditanam di lahan seluas hampir 5.000 m2.

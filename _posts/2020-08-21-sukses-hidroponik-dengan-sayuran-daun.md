@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sukses Hidroponik Dengan Sayuran Daun
+title: "Sukses Hidroponik Dengan Sayuran Daun"
 categories: artikel|perkebunan
 date: 2020-08-21 05:55:11
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/Screenshot_101.png
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Screenshot_101.png"
 tags:
 - 
 
 modification_time: 2020-08-21 05:55:11
-blogger_orig_url: http://localhost/mitra/sukses-hidroponik-dengan-sayuran-daun.html
+blogger_orig_url: "http://localhost/mitra/sukses-hidroponik-dengan-sayuran-daun.html"
 ---
 
 <em>Teorinya, pemilihan sayuran untuk hidroponik sebaiknya bernilai ekonomi tinggi. Pasalnya teknologi ini memakan biaya tak sedikit. Agar menguntungkan, orang lebih memilih sayuran buah sebagai unggulan. Misalnya paprika dan mentimun jepang. Namun, beberapa pengusaha justru lebih sreg memilih sayuran daun. Padahal komoditas itu identik dengan harga murah.</em>

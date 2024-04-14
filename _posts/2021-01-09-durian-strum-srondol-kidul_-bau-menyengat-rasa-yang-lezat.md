@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Durian Strum Srondol kidul: Bau Menyengat Rasa Yang Lezat
+title: "Durian Strum Srondol kidul: Bau Menyengat Rasa Yang Lezat"
 categories: perkebunan
 date: 2021-01-09 09:18:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buah-durian-_190829145636-238_1024x686.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buah-durian-_190829145636-238_1024x686.jpg"
 tags:
 - Durian
 - Srondolkidul
 
 modification_time: 2021-01-09 09:18:20
-blogger_orig_url: http://localhost/mitra/durian-strum-srondol-kidul-bau.html
+blogger_orig_url: "http://localhost/mitra/durian-strum-srondol-kidul-bau.html"
 ---
 
 Itulah pohon buah durian strum milik Tatir Sudarman di Srondolkulon, Banyumanik, Semarang. “Kadar alkoholnya tinggi mencapai 60 sampai 70%, sehingga banyak orang yang tidak tahan mencium baunya,” kata Darman, panggilan akrab Tatir Sudarman.

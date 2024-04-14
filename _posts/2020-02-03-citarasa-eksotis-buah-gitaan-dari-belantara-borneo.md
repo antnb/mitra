@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Citarasa Eksotis Buah Gitaan Dari Belantara Borneo
+title: "Citarasa Eksotis Buah Gitaan Dari Belantara Borneo"
 categories: artikel|Pertanian
 date: 2020-02-03 06:18:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/Willughbeia-sp.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/Willughbeia-sp.jpg"
 tags:
 - Buah
 - susu
 
 modification_time: 2020-02-03 06:18:47
-blogger_orig_url: http://localhost/mitra/buah-gitaan-komoditas-dari-borneo.html
+blogger_orig_url: "http://localhost/mitra/buah-gitaan-komoditas-dari-borneo.html"
 ---
 
 Bukan tanpa alasan jika Reza menjuluki <span class="keyword _ngcontent-nzw-101" aria-hidden="false">buah gitaan</span> sebagai buah dari surga. <em>Manggis</em> dan <em>sirsak</em> selama ini dikenal sebagai buah eksotis yang lezat. Pun susu, minuman bergizi tinggi.

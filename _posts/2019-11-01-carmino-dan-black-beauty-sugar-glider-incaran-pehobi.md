@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Carmino Dan Black Beauty Sugar Glider Incaran Pehobi
+title: "Carmino Dan Black Beauty Sugar Glider Incaran Pehobi"
 categories: hobi
 date: 2019-11-01 11:45:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/glider.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/glider.jpg"
 tags:
 - Sugar Glider
 
 modification_time: 2019-11-01 11:45:00
-blogger_orig_url: http://localhost/mitra/carmino-dan-black-beauty-sugar-glider.html
+blogger_orig_url: "http://localhost/mitra/carmino-dan-black-beauty-sugar-glider.html"
 ---
 
 Mata tupai gula baru itu merah, sedangkan mata karamel hitam. Itulah carmino, tupai gula anyar bertubuh karamel bermata merah. Menurut pencinta tupai gula di Cibubur, Jakarta Timur, Suryo Adilaksono, carmino termasuk tupai gula jenis baru. Suryo mendapatkan informasi itu dari seorang kawan di Amerika Serikat. "Di luar negeri jenis itu sudah ada meskipun sangat jarang," kata Sonny Catro, nama panggilan Suryo Adilaksono.

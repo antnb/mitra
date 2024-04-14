@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Manfaat Pupuk Organik Cair untuk Pertanian
+title: "Manfaat Pupuk Organik Cair untuk Pertanian"
 categories: Pertanian
 date: 2022-12-13 14:12:56
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/12/organik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/12/organik.jpg"
 tags:
 - pupuk
 
 modification_time: 2022-12-13 16:47:49
-blogger_orig_url: http://localhost/mitra/pupuk-organik-cair.html
+blogger_orig_url: "http://localhost/mitra/pupuk-organik-cair.html"
 ---
 
 Kementerian Pertanian telah merancang Gerakan Tani Pro-Organik (GENTA ORGANIK) sebagai antisipasi penjaminan ketersediaan pangan aman. GENTA ORGANIK merupakan suatu gerakan <a class="wpil_keyword_link" title="pertanian" href="http://127.0.0.1/mitra/pertanian" data-wpil-keyword-link="linked">pertanian</a> pro organik yang meliputi penggunaan pupuk organik, pupuk hayati, dan pembenah tanah sebagai solusi terhadap masalah pupuk mahal. Melalui gerakan ini, Kementerian Pertanian berupaya untuk mendorong petani untuk memproduksi pupuk organik, pupuk hayati, dan juga dapat meningkatkan tekstur tanah dan meningkatkan aktivitas mikroba di tanah

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cara Efektif Menghilangkan Hama Kutu Putih(kutu kebul) Pada Tanaman Cabe
+title: "Cara Efektif Menghilangkan Hama Kutu Putih(kutu kebul) Pada Tanaman Cabe"
 categories: Pertanian
 date: 2021-12-10 10:32:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/whitefly.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/whitefly.jpg"
 tags:
 - cabai
 - daun
@@ -16,7 +16,7 @@ tags:
 - virus
 
 modification_time: 2022-09-13 12:18:58
-blogger_orig_url: http://localhost/mitra/menghilangkan-hama-kutuputih-kutu-kebul.html
+blogger_orig_url: "http://localhost/mitra/menghilangkan-hama-kutuputih-kutu-kebul.html"
 ---
 
 Impian pekebun meraih laba besar kerap kandas gara-gara sosok kecil itu. Panjang tubuhnya cuma 2 mm. la adalah <span class="keyword _ngcontent-oli-98" aria-hidden="false">hama kutu putih</span> (nama ilmiah kutu putih Silverleaf whitefly). Karena ulah mereka, miliaran rupiah melayang .

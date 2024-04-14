@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mendulang Laba Dari Labu Jepang (labu kabocha)
+title: "Mendulang Laba Dari Labu Jepang (labu kabocha)"
 categories: artikel
 date: 2020-11-09 10:40:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_labu_jepang_1080x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_labu_jepang_1080x720.jpg"
 tags:
 - jepang
 - labu
 
 modification_time: 2020-11-09 10:40:24
-blogger_orig_url: http://localhost/mitra/mendulang-laba-dari-labu-jepang.html
+blogger_orig_url: "http://localhost/mitra/mendulang-laba-dari-labu-jepang.html"
 ---
 
 Memperluas areal penanaman kabocha menjadi keputusan Agus Suhendar. Laba pang ditangguk pekebun di Cikole, Kabupaten Bandung, itu tentu bakal menggelembung. Dengan 10,5 ha penanaman saja, saat ini ia memperoleh untung bersih Rp 42-juta dalam 3 bulan. Perluasan itu untuk memenuhi permintaan 7,5 ton per hari.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ayung, Pilih Berkebun Ketimbang Menjadi Direktur
+title: "Ayung, Pilih Berkebun Ketimbang Menjadi Direktur"
 categories: artikel|perkebunan
 date: 2020-09-04 05:11:03
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_DSC08547_1205x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_DSC08547_1205x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 05:11:03
-blogger_orig_url: http://localhost/mitra/ayung-pilih-berkebun-ketimbang.html
+blogger_orig_url: "http://localhost/mitra/ayung-pilih-berkebun-ketimbang.html"
 ---
 
 <em>"Pakaian dinas", sepatu bot, dan caping dikenakan Apung. Sebilah golok disematkan di pinggang. Sosok kecil tegap itu menaiki sepeda motor bebek untuk mengontrol kondisi tanaman di kebun seluas 4 ha. Cabang jambu air pang "gondrong' tak beraturan dipangkas. Ia lalu beralih ke sudut lain untuk membungkus buah <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/belimbing"  title="belimbing" data-wpil-keyword-link="linked">belimbing</a>.</em>

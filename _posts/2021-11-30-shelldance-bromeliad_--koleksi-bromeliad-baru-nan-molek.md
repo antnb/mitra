@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Shelldance bromeliad,  Koleksi bromeliad baru nan molek
+title: "Shelldance bromeliad,  Koleksi bromeliad baru nan molek"
 categories: tanaman hias
 date: 2021-11-30 06:15:03
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/shell-dance.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/shell-dance.jpg"
 tags:
 - bromeliad
 
 modification_time: 2022-09-19 06:47:00
-blogger_orig_url: http://localhost/mitra/koleksi-bromeliad-baru-nan-molek.html
+blogger_orig_url: "http://localhost/mitra/koleksi-bromeliad-baru-nan-molek.html"
 ---
 
 Bromeliad merupakan salah satu jenis tumbuhan yang berasal dari Amerika Selatan. Jenis ini memiliki ratusan spesies dan rupanya, sebagian besar dari spesies ini hidup di daerah tropis seperti Indonesia. Bromeliad dikenal dengan bunga yang berwarna-warni dan daun yang membentuk roset. Koleksi bromeliad ini sangat disukai oleh para pecinta tumbuhan karena selain cantik, bromeliad juga relatif mudah perawatannya.

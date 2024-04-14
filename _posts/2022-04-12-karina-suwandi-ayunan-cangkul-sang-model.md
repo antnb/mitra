@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Karina Suwandi Ayunan Cangkul sang Model
+title: "Karina Suwandi Ayunan Cangkul sang Model"
 categories: artikel
 date: 2022-04-12 12:41:38
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2022/04/kebun-belakang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/04/kebun-belakang.jpg"
 tags:
 - organik
 
 modification_time: 2022-04-12 12:41:38
-blogger_orig_url: http://localhost/mitra/karina-suwandi-ayunan-cangkul-sang-model.html
+blogger_orig_url: "http://localhost/mitra/karina-suwandi-ayunan-cangkul-sang-model.html"
 ---
 
 Malam itu penampilan Karina Suwandi sungguh anggun. Gaun rancangan Oscar Lawalata membalut tubuhnya nan tinggi semampai. Diiringi dentuman musik, kaki jenjangnya melangkah menelusuri catwalk. Esok hari, usai sarapan giliran kebun di samping rumah yang digarap. Dengan cangkul di tangan ia mulai mengaduk-aduk tanah. Ia tak hirau dengan terik matahari yang menyengat kulit putihnya. Kegiatan itu berlangsung hingga petang menjelang.

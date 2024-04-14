@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mawar Gurun Bermandi Bunga
+title: "Mawar Gurun Bermandi Bunga"
 categories: tanaman hias
 date: 2020-12-29 05:33:50
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_adenium_966x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_adenium_966x768.jpg"
 tags:
 - Adenium
 - perbanyakan vegetatif
 
 modification_time: 2020-12-29 05:33:50
-blogger_orig_url: http://localhost/mitra/mawar-gurun-bermandi-bunga.html
+blogger_orig_url: "http://localhost/mitra/mawar-gurun-bermandi-bunga.html"
 ---
 
 Sosok mawar gurun itu amat mini. Cabangnya ditumbuhi banyak ranting. Penampilannya jauh berbeda dengan Adenium arabicum berbonggol besar, batang lurus hingga 1 sampai 2 m.

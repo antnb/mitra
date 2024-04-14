@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pohon Manggis Berbuah Dengan Cepat? Ini Caranya
+title: "Pohon Manggis Berbuah Dengan Cepat? Ini Caranya"
 categories: artikel|perkebunan
 date: 2020-10-22 07:16:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/manggis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/manggis.jpg"
 tags:
 - manggis
 
 modification_time: 2020-10-22 07:16:33
-blogger_orig_url: http://localhost/mitra/cara-cepat-buahkan-manggis.html
+blogger_orig_url: "http://localhost/mitra/cara-cepat-buahkan-manggis.html"
 ---
 
 Queen of fruit terkenal lama berbuah. Tanaman dari biji baru bisa dipanen setelah berumur 8-15 tahun. Malah ada yang lebih. Penggunaan pupuk berimbang, zat pengatur tumbuh, perlakuan mekanis dengan penjeratan batang dan kombinasinya mampu membuat pohon manggis berbuah dengan cepat. Umur 9 tahun "mutiara hutan belantara" itu sudah bisa berbuah.

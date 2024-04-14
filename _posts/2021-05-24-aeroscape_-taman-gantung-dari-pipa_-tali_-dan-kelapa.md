@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Aeroscape: Taman Gantung dari Pipa, Tali, dan Kelapa
+title: "Aeroscape: Taman Gantung dari Pipa, Tali, dan Kelapa"
 categories: Gardening|hobi
 date: 2021-05-24 09:27:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/05/pot.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/pot.jpg"
 tags:
 - penyiraman
 - pipa pvc
 - sabut kelapa
 
 modification_time: 2021-05-24 09:27:10
-blogger_orig_url: http://localhost/mitra/aeroscape-taman-gantung-dari-pipa.html
+blogger_orig_url: "http://localhost/mitra/aeroscape-taman-gantung-dari-pipa.html"
 ---
 
 Anda tinggal di apartemen? Halaman rumah Anda sempit? Tembok pagar demikian tinggi sehingga seakan-akan Anda terkungkung di dalamnya? Atau apakah ada pohon besar yang kehadirannya mengganggu, tetapi tidak mungkin ditebang? Taman gantung dari pipa, tali, atau sabut kelapa solusinya.

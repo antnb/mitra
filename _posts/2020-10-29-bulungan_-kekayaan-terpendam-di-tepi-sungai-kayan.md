@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bulungan: Kekayaan Terpendam di Tepi Sungai Kayan
+title: "Bulungan: Kekayaan Terpendam di Tepi Sungai Kayan"
 categories: artikel
 date: 2020-10-29 12:07:37
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/bulungan3.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/bulungan3.jpg"
 tags:
 - Buah
 - duku
@@ -12,7 +12,7 @@ tags:
 - rambutan
 
 modification_time: 2020-10-29 12:07:37
-blogger_orig_url: http://localhost/mitra/bulungan-kekayaan-terpendam-di-tepi.html
+blogger_orig_url: "http://localhost/mitra/bulungan-kekayaan-terpendam-di-tepi.html"
 ---
 
 Sepuluh menit kemudian, perjalanan selama 15 menit dari Tanjungselor, ibukota Bulungan pun berakhir. Perjalanan dilanjutkan dengan berjalan kaki selama 5-10 menit menyusuri tepi hutan yang temaram karena naungan tajuk-tajuk pohon setinggi 10-20 m. Kawasan itu bagai tak berpenghuni, tetapi di sanalah lokasi kebun jambu air madu seluas 4 ha. Itulah halaman rumah Fidelis Tupen Liwun.

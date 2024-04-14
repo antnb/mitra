@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Manggis Lingsar: Si putih Dari Lombok
+title: "Manggis Lingsar: Si putih Dari Lombok"
 categories: artikel|perkebunan
 date: 2020-10-28 09:28:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_manggis_putih_997x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_manggis_putih_997x720.jpg"
 tags:
 - manggis
 
 modification_time: 2020-10-28 09:28:59
-blogger_orig_url: http://localhost/mitra/manggis-lingsar-si-putih-dari-lombok.html
+blogger_orig_url: "http://localhost/mitra/manggis-lingsar-si-putih-dari-lombok.html"
 ---
 
 Kejadian 10 tahun silam itu kini berulang setiap kali Garcinia mangostana berbuah di Batumekar. Sepanjang musim panen yang berlangsung pada November hingga Januari minimal 35 ton keluar dari desa berjarak tempuh sekitar 1 jam dari Mataram ibukota provinsi Nusa Tenggara Barat. Buah tak melulu berasal dari gudang milik Gede, tapi juga dari gudang Nengah Budiasta. Keduanya memang pengepul besar di sana.

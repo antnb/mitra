@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanaman Mutasi: Daun Putih Kuning Puluhan Juta Harganya
+title: "Tanaman Mutasi: Daun Putih Kuning Puluhan Juta Harganya"
 categories: tanaman hias
 date: 2021-01-05 09:23:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_mutasi_1024x709.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_mutasi_1024x709.jpg"
 tags:
 - bisnis tanaman
 - mutasi daun
@@ -13,7 +13,7 @@ tags:
 - tanaman variegata
 
 modification_time: 2021-01-05 09:23:22
-blogger_orig_url: http://localhost/mitra/tanaman-mutasi-daun-putih-kuning.html
+blogger_orig_url: "http://localhost/mitra/tanaman-mutasi-daun-putih-kuning.html"
 ---
 
 Wajar bila perasaan bahagia dan senang menyelimuti hati Tommy. Baginya memiliki tanaman satu-satunya di dunia itu memberi kebanggaan tersendiri. Bonggol kokoh dihiasi 12 sampai 15 daun yang menjulang setinggi lebih 1 m itu memang tampil istimewa. "Tanaman ini langka. Apalagi daunnya variegata," tuturnya. Koleksi berharga wah itu menambah koleksi ratusan tanaman mutasi lain.

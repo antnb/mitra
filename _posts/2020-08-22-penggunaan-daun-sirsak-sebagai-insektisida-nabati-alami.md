@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Penggunaan Daun Sirsak Sebagai Insektisida Nabati Alami
+title: "Penggunaan Daun Sirsak Sebagai Insektisida Nabati Alami"
 categories: artikel|perkebunan
 date: 2020-08-22 07:52:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/Daun-Sirsak.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Daun-Sirsak.jpg"
 tags:
 - daun
 - insektisida
 - sirsak
 
 modification_time: 2020-08-22 07:52:06
-blogger_orig_url: http://localhost/mitra/penggunaan-daun-sirsak-sebagai.html
+blogger_orig_url: "http://localhost/mitra/penggunaan-daun-sirsak-sebagai.html"
 ---
 
 <em>Beragam serangan hama pada tanaman hortikultura dapat diatasi dengan ramuan insektisida nabati daun sirsak. Cara meramu gampang, biaya murah, hasilnya memuaskan, dan teruji lapangan.</em>

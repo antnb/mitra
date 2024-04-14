@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Alat Pengering Sayuran Dried Vegetable Produksi Lokal
+title: "Alat Pengering Sayuran Dried Vegetable Produksi Lokal"
 categories: artikel
 date: 2021-03-24 15:06:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/sayur1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/sayur1.jpg"
 tags:
 - daun bawang
 - dried vegetable
@@ -15,7 +15,7 @@ tags:
 - wortel
 
 modification_time: 2022-09-18 12:57:03
-blogger_orig_url: http://localhost/mitra/mesin-pengering-sayuran-dried.html
+blogger_orig_url: "http://localhost/mitra/mesin-pengering-sayuran-dried.html"
 ---
 
 Salah satu cara untuk menjaga kualitas sayuran segar adalah dengan menggunakan mesin pengering sayuran. Mesin pengering ini akan menghilangkan kelembaban dari sayuran sehingga bisa lebih tahan lama. Proses pengeringan menggunakan mesin pengering sayuran akan membuat sayuran lebih awet sehingga tidak mudah rusak dan membuatnya lebih tahan lama.

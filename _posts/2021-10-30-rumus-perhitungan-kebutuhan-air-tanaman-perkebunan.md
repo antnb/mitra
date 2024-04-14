@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Rumus Perhitungan Kebutuhan Air Tanaman Perkebunan
+title: "Rumus Perhitungan Kebutuhan Air Tanaman Perkebunan"
 categories: perkebunan
 date: 2021-10-30 08:20:16
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/10/sistim-pengairan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/sistim-pengairan.jpg"
 tags:
 - pengairan
 
 modification_time: 2022-09-21 01:17:29
-blogger_orig_url: http://localhost/mitra/perhitungan-kebutuhan-air-tanaman.html
+blogger_orig_url: "http://localhost/mitra/perhitungan-kebutuhan-air-tanaman.html"
 ---
 
 Kemarau panjang 1997 merupakan pengalaman buruk bagi pekebun buah. Ribuan tanaman mati kekeringan. Jumlah air kala itu memang terbatas. Namun, bila kebutuhan air tanaman bisa diketahui maka petaka tersebut bisa diminimalkan.

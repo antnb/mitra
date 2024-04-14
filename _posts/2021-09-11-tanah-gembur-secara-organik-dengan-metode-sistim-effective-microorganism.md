@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanah Gembur Secara Organik Dengan Metode Sistim Effective Microorganism
+title: "Tanah Gembur Secara Organik Dengan Metode Sistim Effective Microorganism"
 categories: perkebunan|Pertanian
 date: 2021-09-11 08:09:48
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/09/kebun-cabai.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/kebun-cabai.jpg"
 tags:
 - cara gembur tanah
 - cara gembur tanah dalam pasu
@@ -19,7 +19,7 @@ tags:
 - meningkatkan kualitas tanah
 
 modification_time: 2021-09-11 08:09:48
-blogger_orig_url: http://localhost/mitra/tanah-gembur-effective-microorganism.html
+blogger_orig_url: "http://localhost/mitra/tanah-gembur-effective-microorganism.html"
 ---
 
 Hasil panen cabai pada Awal tahun sebanyak 16 ton/ha membuat Dian Sofyan bergairah. Setahun sebelumnya, pekebun di Kampung Tarikolotdua, Desa Cimande, Kecamatan Caringin, Bogor, Jawa Barat, itu hanya menuai 9,6 ton/ha.

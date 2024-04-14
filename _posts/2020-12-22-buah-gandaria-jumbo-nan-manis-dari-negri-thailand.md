@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Buah Gandaria Jumbo Nan Manis Dari Negri Thailand
+title: "Buah Gandaria Jumbo Nan Manis Dari Negri Thailand"
 categories: perkebunan
 date: 2020-12-22 14:00:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_serba_789x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_serba_789x768.jpg"
 tags:
 - gandaria
 
 modification_time: 2022-09-13 08:00:48
-blogger_orig_url: http://localhost/mitra/buah-gandaria-jumbo-nan-manis.html
+blogger_orig_url: "http://localhost/mitra/buah-gandaria-jumbo-nan-manis.html"
 ---
 
 Alun-alun di depan kantor walikota Nakorn Nayok, 1 sampai 7 Maret silam berubah jadi serbajingga. Di setiap sudut terlihat tumpukan buah gandaria berwarna kuning menyala.

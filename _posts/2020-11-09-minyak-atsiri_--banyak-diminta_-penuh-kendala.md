@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Minyak Atsiri:  Banyak Diminta, Penuh Kendala
+title: "Minyak Atsiri:  Banyak Diminta, Penuh Kendala"
 categories: artikel|Herbal
 date: 2020-11-09 10:57:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/aetheric-oil.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/aetheric-oil.jpg"
 tags:
 - atsiri
 - cengkeh
 - minyak
 
 modification_time: 2020-11-09 10:57:59
-blogger_orig_url: http://localhost/mitra/minyak-atsiri-banyak-diminta-penuh.html
+blogger_orig_url: "http://localhost/mitra/minyak-atsiri-banyak-diminta-penuh.html"
 ---
 
 Mimpi kali ye... Retorika Hughes, presenter acara televisi itu betul-betul dirasakan oleh Tharir. Sejak menjadi penyuling minyak daun cengkeh selama 10 tahun mimpi-mimpi terpendam bisa ia gapai. Ongkos sekolah 4 putera, rumah 200 m2 berdinding tembok, dan satu pick up L-300. Itu hasil 3 unit ketel sulingan yang tak pernah pelit mengucurkan 1,8 ton/bulan minyak. Dengan modal Rp25-juta ia menangguk laba bersih Rp9-juta per bulan.

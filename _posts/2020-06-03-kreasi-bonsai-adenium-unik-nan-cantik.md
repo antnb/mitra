@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kreasi Bonsai Adenium Unik Nan Cantik
+title: "Kreasi Bonsai Adenium Unik Nan Cantik"
 categories: hobi|tanaman hias
 date: 2020-06-03 09:02:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/asas_614x800-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/asas_614x800-1.jpg"
 tags:
 - Adenium
 - Tanaman Hias
 
 modification_time: 2020-06-03 09:02:17
-blogger_orig_url: http://localhost/mitra/kreasi-bonsai-adenium-unik-nan-cantik.html
+blogger_orig_url: "http://localhost/mitra/kreasi-bonsai-adenium-unik-nan-cantik.html"
 ---
 
 <em>Kreasi bonsai adenium unik milik Ahmad Susanto, hobiis di Jakarta, membuat sisik naga pada umbi kamboja jepang tergolong berani. Pasalnya, hampir 90% dari permukaan bonggol dipermak dengan pisau tajam. Tanaman berumur 2 tahun itu stres tak terkira setelah Ahmad menyelesaikan pekerjaannya. Wajar, dari 10 umbi yang dipahat hanya 3 yang sanggup bertahan hidup hingga kini.</em>

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bingung Memilih Tanaman Yang Cocok Untuk Taman? Pilih Saja Bromelia
+title: "Bingung Memilih Tanaman Yang Cocok Untuk Taman? Pilih Saja Bromelia"
 categories: hobi|tanaman hias
 date: 2021-06-05 12:46:41
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/06/bromela4.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/06/bromela4.jpg"
 tags:
 - Bromelia
 
 modification_time: 2021-06-05 12:46:41
-blogger_orig_url: http://localhost/mitra/anda-sibuk-pilih-taman-saja-bromelia.html
+blogger_orig_url: "http://localhost/mitra/anda-sibuk-pilih-taman-saja-bromelia.html"
 ---
 
 Nong Nooch Tropical Garden, Thailand. Sejauh mata memandang taman seluas 112 ha itu, warna hijau mendominasi pemandangan. Namun, nun di sudut Bromeliads Garden, tampak nuansa warna yang lebih semarak. Daun merah, kuning, berpadu warna hijau di setiap sudut.

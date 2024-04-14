@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Paracetamol Alami Untuk Meredakan sakit kepala
+title: "Paracetamol Alami Untuk Meredakan sakit kepala"
 categories: kesehatan
 date: 2022-09-07 08:14:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/09/Dedalu-putih.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/09/Dedalu-putih.jpg"
 tags:
 - 
 
 modification_time: 2022-09-10 13:03:13
-blogger_orig_url: http://localhost/mitra/khasiat-dedalu-putih-sebagai-paracetamol.html
+blogger_orig_url: "http://localhost/mitra/khasiat-dedalu-putih-sebagai-paracetamol.html"
 ---
 
 Sakit kepala adalah salah satu penyakit yang umum terjadi dan sering dialami oleh sebagian besar orang. Sakit kepala dapat disebabkan oleh berbagai faktor, seperti stress, kelelahan, flu, sinusitis, dan lain-lain. Penyakit ini dapat memberikan gejala berupa rasa nyeri, sakit, dan kepala pusing.

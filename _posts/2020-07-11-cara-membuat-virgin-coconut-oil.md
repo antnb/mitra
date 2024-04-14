@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cara Membuat Virgin Coconut Oil
+title: "Cara Membuat Virgin Coconut Oil"
 categories: Tutorial
 date: 2020-07-11 08:55:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/coconuts-tree-dried-cocos-nucifera-coconut-tree-thumbnail_1072x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/coconuts-tree-dried-cocos-nucifera-coconut-tree-thumbnail_1072x800.jpg"
 tags:
 - 
 
 modification_time: 2020-07-11 08:55:36
-blogger_orig_url: http://localhost/mitra/cara-membuat-virgin-coconut-oil.html
+blogger_orig_url: "http://localhost/mitra/cara-membuat-virgin-coconut-oil.html"
 ---
 
 <em><strong>Virgin coconut oil adalah <span class="search-all keyword ng-binding">minyak kelapa murni</span> yang diproses secara alami dari daging kelapa segar atau derivatnya</strong>. Minyak kelapa rakyat yang diolah dari daging kelapa segar sudah dapat disebut virgin coconut oil (VCO). Hanya saja, kualitas minyak hasil pengolahan tradisional kebanyakan di bawah standar mutu yang diinginkan pasar.</em>

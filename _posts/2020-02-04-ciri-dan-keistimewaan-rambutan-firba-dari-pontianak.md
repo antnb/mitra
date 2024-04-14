@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ciri Dan Keistimewaan Rambutan Firba Dari Pontianak
+title: "Ciri Dan Keistimewaan Rambutan Firba Dari Pontianak"
 categories: Pertanian
 date: 2020-02-04 08:12:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/Firba.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/Firba.jpg"
 tags:
 - Pontianak
 - rambutan
 
 modification_time: 2022-09-13 10:38:06
-blogger_orig_url: http://localhost/mitra/ciri-dan-keistimewaan-rambutan-firba.html
+blogger_orig_url: "http://localhost/mitra/ciri-dan-keistimewaan-rambutan-firba.html"
 ---
 
 Setiap Juli-Agustus lautan merah menyala menjadi pemandangan lumrah di sudut-sudut kota Pontianak. Namun jangan salah, itu bukan merahnya bendera untuk menyambut hari kemerdekaan. Saat itu Rambutan Firba, rambutan yang banyak di tanam di Kalimantan Barat sedang panen raya.

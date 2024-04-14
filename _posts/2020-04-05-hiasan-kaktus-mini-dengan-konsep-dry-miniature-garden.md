@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hiasan Kaktus Mini Dengan Konsep Dry Miniature Garden
+title: "Hiasan Kaktus Mini Dengan Konsep Dry Miniature Garden"
 categories: Gardening|hobi|tanaman hias
 date: 2020-04-05 16:08:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/mini-catus.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/mini-catus.jpg"
 tags:
 - kaktus
 
 modification_time: 2020-04-05 16:08:24
-blogger_orig_url: http://localhost/mitra/kreasi-kaktus-mini-dengan-konsep-dry.html
+blogger_orig_url: "http://localhost/mitra/kreasi-kaktus-mini-dengan-konsep-dry.html"
 ---
 
 <span class="keyword _ngcontent-boq-103" aria-hidden="false">kaktus mini</span> hias....Mungkin kenangan itulah yang muncul saat Yuliana C Leo mencari ide untuk dekorasi pelaminan sang adik 2 tahun silam. Ia pun merangkai berbagai jenis kaktus mini dalam pot besar. <em>Gymnocalycium</em>, <a href="https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/15901/Notocactus_scopa"><em>Notocactus scopa</em></a>, <em>Notocactus leninghausii</em>, <em>Notocactus ottonis</em>, <em>Mammilaria elongata</em>, dan <em>Lobivia pentandlii</em> dipadukan dengan apik. "Eh, ternyata bagus juga. Tak disangka kalau panorama itu malah menjadi sorotan pengunjung," ujar hobiis dari Semarang, Jawa Tengah, itu.

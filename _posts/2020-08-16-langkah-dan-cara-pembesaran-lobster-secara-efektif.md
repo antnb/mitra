@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Langkah Dan Cara Pembesaran Lobster Secara Efektif
+title: "Langkah Dan Cara Pembesaran Lobster Secara Efektif"
 categories: artikel
 date: 2020-08-16 11:52:48
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/lobster_1121x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/lobster_1121x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-16 11:52:48
-blogger_orig_url: http://localhost/mitra/langkah-dan-cara-pembesaran-lobster.html
+blogger_orig_url: "http://localhost/mitra/langkah-dan-cara-pembesaran-lobster.html"
 ---
 
 <em>Selama ini lobster yang dibesarkan dengan beragam teknologi waring danEDU umumnya memakan waktu 7 bulan. Dengan memanfaatkan arus deras yang berkembang awal 2005 memberi harapan baru bagi peternak. Cara yang dipakai Cuncun Setiawan di Bintaro, Tangerang, itu membuat waktu panen maju 30 hari. Sayang, teknologi terbentur sumber air karena kolam sangat mengandalkan debit air yang besar.</em>

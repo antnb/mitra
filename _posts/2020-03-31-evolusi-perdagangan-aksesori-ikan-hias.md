@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Evolusi Perdagangan Aksesori Ikan Hias
+title: "Evolusi Perdagangan Aksesori Ikan Hias"
 categories: artikel|hobi
 date: 2020-03-31 07:16:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/pusat-ikan-hias-radio-dalam-1_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/pusat-ikan-hias-radio-dalam-1_1280x719.jpg"
 tags:
 - 
 
 modification_time: 2020-03-31 07:16:59
-blogger_orig_url: http://localhost/mitra/evolusi-perdagangan-aksesori-ikan-hias.html
+blogger_orig_url: "http://localhost/mitra/evolusi-perdagangan-aksesori-ikan-hias.html"
 ---
 
 Perdagangan produk-produk Aksesori Ikan Hias di dunia saat ini sudah meningkat pesat sejak 4 tahun terakhir. Munculnya Cina sebagai raksasa baru penyedia produk-produk aksesori seperti pompa, filter, lampu, dan akuarium sebagai penyebab. Sejak medio 1990-an hingga 2000, pabrik-pabrik aksesori skala menengah dibangun di pusat-pusat bisnis di Cina seperti Beijing, Shanghai, Shantou, dan Guangzhou.

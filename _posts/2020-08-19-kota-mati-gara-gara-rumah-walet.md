@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kota Mati gara Gara Rumah Walet
+title: "Kota Mati gara Gara Rumah Walet"
 categories: artikel
 date: 2020-08-19 14:07:13
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/rumah-walet_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/rumah-walet_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-19 14:07:13
-blogger_orig_url: http://localhost/mitra/kota-mati-gara-gara-rumah-walet.html
+blogger_orig_url: "http://localhost/mitra/kota-mati-gara-gara-rumah-walet.html"
 ---
 
 <em>“Lingkungan akan tercemar, kenyamanan terganggu, kota pun menjadi sunyi-senyap bagai mati tak ada kehidupan.” Inilah yang dikhawatirkan sekitar 15 orang- perwakilan warga Metro yang mendatangi Kantor Kecamatan Metro Raya. Mereka menuntut agar pembangunan rumah walet di Metro, Lampung Tengah, distop. Kejadian ini mengagetkan para pengusaha karena baru pertama kali muncul.</em>

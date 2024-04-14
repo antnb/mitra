@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Varietas Buah Unggulan Dari Sumatera Utara
+title: "Varietas Buah Unggulan Dari Sumatera Utara"
 categories: artikel
 date: 2020-08-23 15:03:37
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/siam_800x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/siam_800x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-23 15:03:37
-blogger_orig_url: http://localhost/mitra/varietas-buah-unggulan-dari-sumatera.html
+blogger_orig_url: "http://localhost/mitra/varietas-buah-unggulan-dari-sumatera.html"
 ---
 
 <em>Yang khas dari Sumatera Utara ternyata tak hanya sirup markisa, durian, atau pisang barangan merah. Buah unggul lain yang juga berpotensi dikembangkan adalah rambutan brahrang, jeruk siem madu, salak padangsidempuan merah, dan salak padangsidempuan putih. Kelima varietas unggul ini didukung oleh tersedianya pohon induk sebagai sumber benih.</em>

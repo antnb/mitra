@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tabulampot: Saat Pisang Dikungkung Beton
+title: "Tabulampot: Saat Pisang Dikungkung Beton"
 categories: perkebunan
 date: 2021-01-11 08:59:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_pisang_785x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_pisang_785x768.jpg"
 tags:
 - Pisang
 
 modification_time: 2021-01-11 08:59:29
-blogger_orig_url: http://localhost/mitra/tabulmpot-saat-pisang-dikungkung.html
+blogger_orig_url: "http://localhost/mitra/tabulmpot-saat-pisang-dikungkung.html"
 ---
 
 Di kediaman sang jenderal tabulampot pisang terbilang istimewa. Lazimnya Musa sp itu ditanam di kebun atau pekarangan. Lantaran dipotkan, pertumbuhan tanaman menjadi bongsor. Ukuran buah juga besar karena pasokan hara lebih teijamin.

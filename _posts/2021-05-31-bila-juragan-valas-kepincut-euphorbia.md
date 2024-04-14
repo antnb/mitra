@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Bila Juragan Valas Kepincut Euphorbia
+title: "Bila Juragan Valas Kepincut Euphorbia"
 categories: hobi|tanaman hias
 date: 2021-05-31 07:38:09
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/taman.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/taman.jpg"
 tags:
 - delapan dewa
 - Euphorbia
 
 modification_time: 2021-05-31 07:38:09
-blogger_orig_url: http://localhost/mitra/bila-juragan-valas-kepincut-euphorbia.html
+blogger_orig_url: "http://localhost/mitra/bila-juragan-valas-kepincut-euphorbia.html"
 ---
 
 Mata Kang Chien Chung tak lepas menatap pergerakan angka di lapar komputer. Sesekali mimik wajahnya menegang berharap NT$ menguat. Rutinitas Kang di kantor terus berlanjut sesampainya di rumah di jantung kota Kaohsiung, Taiwan. Ia langsung menuju dak di lantai 6, tempat menyimpan euphorbia. Harap-harap cemas diamati satu per satu deretan euphorbia berumur 3 bulan. Raut mukanya seketika berbinar bak memenangkan pertaruhan kala menemukan bunga baru nan cantik.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aspek Bisnis Dan Pentingnya Menjaga Kelestarian Alam
+title: "Aspek Bisnis Dan Pentingnya Menjaga Kelestarian Alam"
 categories: artikel
 date: 2021-05-06 10:43:08
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/cites-2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/cites-2.jpg"
 tags:
 - appendix iii
 - fauna and flora
@@ -13,7 +13,7 @@ tags:
 - tumbuhan
 
 modification_time: 2021-05-06 10:43:08
-blogger_orig_url: http://localhost/mitra/aspek-bisnis-dan-pentingnya-menjaga.html
+blogger_orig_url: "http://localhost/mitra/aspek-bisnis-dan-pentingnya-menjaga.html"
 ---
 
 Kekayaan bumi Indonesia menurut World Conservation Monitoring Committee (1994) mencakup 27.500 jenis Karena kekayaan alam itu, Indonesia mendapat predikat mega biodiversity. Di pihak lain, predikat itu menuntut tanggung jawab sangat besar karena harus menjaga keseimbangan antara kelestarian fungsi ekologis dan ekonomi.

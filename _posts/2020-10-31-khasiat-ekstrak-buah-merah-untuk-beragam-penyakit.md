@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Khasiat Ekstrak Buah Merah Untuk Beragam Penyakit
+title: "Khasiat Ekstrak Buah Merah Untuk Beragam Penyakit"
 categories: artikel|Herbal
 date: 2020-10-31 13:00:46
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-Merah-papua.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-Merah-papua.jpg"
 tags:
 - Buah merah
 
 modification_time: 2020-10-31 13:00:46
-blogger_orig_url: http://localhost/mitra/khasiat-ekstrak-buah-merah-untuk.html
+blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-buah-merah-untuk.html"
 ---
 
 Selama ini oleh sebagian orang, buah merah dianggap sebagai panasea alias obat segala penyakit. Padahal, “Tak ada peluru ajaib untuk mengatasi berbagai penyakit,” ujar dr Paulus Wahyudi Halim, pengobat komplementer-memadukan medis dan herbal. Sebaliknya pasien beberapa penyakit tertentu disarankan tak mengkonsumsi sari buah merah. Sebab secara medis dapat membahayakan kesehatan.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Pepaya Madu Honolulu Dari Pontianak
+title: "Pepaya Madu Honolulu Dari Pontianak"
 categories: artikel|perkebunan|Pertanian
 date: 2021-02-13 14:16:33
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_gedang_1280x728.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_gedang_1280x728.jpg"
 tags:
 - pepaya
 - pepaya madu
 - Pontianak
 
 modification_time: 2022-09-12 17:24:16
-blogger_orig_url: http://localhost/mitra/pepaya-madu-honolulu-pontianak.html
+blogger_orig_url: "http://localhost/mitra/pepaya-madu-honolulu-pontianak.html"
 ---
 
 "Seperti untuk orang barat ya," tutur seorang ibu seraya menunjuk setumpuk pepaya di anjungan Kalimantan Barat pada Indonesia Tropical Fruit Festival di Kuta, Bali. Pepaya Madu Tak seperti bangkok yang jumbo, pepaya asal Sungai selamat itu berukuran kecil.

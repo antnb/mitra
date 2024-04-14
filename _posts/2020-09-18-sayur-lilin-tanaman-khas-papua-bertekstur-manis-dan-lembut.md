@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sayur Lilin Tanaman Khas Papua Bertekstur Manis Dan Lembut
+title: "Sayur Lilin Tanaman Khas Papua Bertekstur Manis Dan Lembut"
 categories: artikel
 date: 2020-09-18 10:40:27
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_sayur-lilin_1100x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_sayur-lilin_1100x800.jpg"
 tags:
 - 
 
 modification_time: 2022-09-11 06:39:32
-blogger_orig_url: http://localhost/mitra/sayur-lilin-tumbuhan-khas-papua.html
+blogger_orig_url: "http://localhost/mitra/sayur-lilin-tumbuhan-khas-papua.html"
 ---
 
 Masyarakat Papua menyebutnya pohon sayur lilin papua. Boleh jadi lantaran bentuk dan ukurannya menyerupai alat penerangan itu. Bagian pangkal lebih besar ketimbang ujung. Panjang 15 cm, diameter 1,5-2 cm. Warna putih seperti lilin pada umumnya. Ketika digigit, kres, terasa gurih. Malahan ada yang bilang lebih enak daripada daging ayam. Maklum, teksturnya memang amat lembut, berbutir halus seperti gula pasir.

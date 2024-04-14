@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aglaonema Cantik Hasil Berburu di Thailand
+title: "Aglaonema Cantik Hasil Berburu di Thailand"
 categories: tanaman hias
 date: 2020-12-29 10:46:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anggrex1_1024x716.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anggrex1_1024x716.jpg"
 tags:
 - Aglaonema
 - aglaonema berdaun
@@ -12,7 +12,7 @@ tags:
 - merah muda
 
 modification_time: 2020-12-29 10:46:24
-blogger_orig_url: http://localhost/mitra/aglaonema-cantik-hasil-berburu-di.html
+blogger_orig_url: "http://localhost/mitra/aglaonema-cantik-hasil-berburu-di.html"
 ---
 
 Pameran akbar untuk memperingati hari kelahiran raja Bhumibol Adulyadej itu menjadi ajang bagi hobiis aglaonema untuk mendapatkan jenis baru. Tak heran jika kolektor dari segala penjuru dunia berbondong-bondong menyerbu. Thailand memang dikenal sebagai pusat mode aglaonema. Hampir setiap bulan penangkar di sana melahirkan jenis baru. "Corak beragam, mencolok, bentuk dan warna bervariasi. Selain itu ia sangat adaptif," ujar Leman, kolektor <a class="wpil_keyword_link " title="aglaonema" href="http://127.0.0.1/mitra/topik/aglaonema" data-wpil-keyword-link="linked">aglaonema</a> di Jakarta Utara yang kerap berburu ke sana.

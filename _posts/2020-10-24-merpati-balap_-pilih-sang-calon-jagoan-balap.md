@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Merpati Balap: Pilih Sang Calon Jagoan Balap
+title: "Merpati Balap: Pilih Sang Calon Jagoan Balap"
 categories: artikel|hobi
 date: 2020-10-24 12:44:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_balap_995x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_balap_995x720.jpg"
 tags:
 - 
 
 modification_time: 2020-10-24 12:44:42
-blogger_orig_url: http://localhost/mitra/merpati-balap-pilih-sang-calon-jagoan.html
+blogger_orig_url: "http://localhost/mitra/merpati-balap-pilih-sang-calon-jagoan.html"
 ---
 
 Sampurna dan Elang M melesat bak anak panah begitu dilepas. Kedua merpati susul-menyusul menghampiri garis finish. Udin dan Afzan segera mempercepat keplekan yang diarahkan ke jagoan masing-masing. Elang M meleset ke telapak tangan Afzan sang joki. Sementara Sampurna mendarat di atas punggung merpati betina yang digenggam Udin.

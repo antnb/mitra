@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Di Ujung Lidah Langsar Telah Teruji
+title: "Di Ujung Lidah Langsar Telah Teruji"
 categories: perkebunan
 date: 2020-12-18 09:46:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_srikaya_936x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_srikaya_936x768.jpg"
 tags:
 - buah srikaya
 - daging buah
@@ -12,7 +12,7 @@ tags:
 - varietas srikaya
 
 modification_time: 2020-12-18 09:46:03
-blogger_orig_url: http://localhost/mitra/di-ujung-lidah-langsar-telah-teruji.html
+blogger_orig_url: "http://localhost/mitra/di-ujung-lidah-langsar-telah-teruji.html"
 ---
 
 Jika melancong ke Madura, sempatkan mengunjungi pasar malam itu. Ditemani bintang gemintang di langit bersih, menyantap langsar sebuah kenikmatan tersendiri. Potong sedikit bagian di dekat tangkai, lalu dengan sendok keruklah daging buah yang putih. Wuih, manisnya bukan kepalang. Maklum, tingkat kemanisan buah anggota famili Annonaceae alias kenanga-kenangaan itu mencapai 27,40 briks.

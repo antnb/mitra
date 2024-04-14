@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Khasiat Herbal Ekstrak Meniran Untuk Bermacam Penyakit
+title: "Khasiat Herbal Ekstrak Meniran Untuk Bermacam Penyakit"
 categories: artikel|Herbal|kesehatan
 date: 2020-08-11 13:09:33
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/08/meniran_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/meniran_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-11 13:09:33
-blogger_orig_url: http://localhost/mitra/khasiat-herbal-ekstrak-meniran-untuk.html
+blogger_orig_url: "http://localhost/mitra/khasiat-herbal-ekstrak-meniran-untuk.html"
 ---
 
 <em>Ketika obat-obatan medis tak B&amp; menyudahi penderitaan itu, Syahrizal BB beralih pada meniran. Lima tanaman segar termasuk akar direbus dalam 4 gelas air dengan api kecil hingga mendidih. Hasil rebusan tersisa 2 gelas itu diminum pagi dan sore. Sepekan berselang batuknya mereda. Darah yang biasanya menyertai batuk juga berkurang. Menurut Purwo Suryanto, herbalis di Pamulang, Tangerang, yang meresepkan meniran, kesembuhannya setelah 2-3 bulan.</em>

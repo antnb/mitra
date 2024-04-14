@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Ayam Merawang: Ayam Kampung Unggul Asal Merawang
+title: "Ayam Merawang: Ayam Kampung Unggul Asal Merawang"
 categories: Peternakan
 date: 2020-11-12 12:49:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ayam_kampung_1230x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ayam_kampung_1230x720.jpg"
 tags:
 - ayam
 - ayam kampung
 - Ayam Merawang
 
 modification_time: 2022-09-24 07:03:54
-blogger_orig_url: http://localhost/mitra/ayam-merawang-ayam-kampung-unggul.html
+blogger_orig_url: "http://localhost/mitra/ayam-merawang-ayam-kampung-unggul.html"
 ---
 
 Butuh ayam kampung dwifungsi, pedaging sekaligus petelur? Ayam merawang tepat jadi pilihan. Unggas asal kepulauan Bangka-Belitung itu cepat gemuk. Pemeliharaan intensif selama 3 bulan berbobot 1-1,2 kg; ayam kampung 800 g. Kelebihan lain ia mampu bertelur 125 butir/tahun. Bandingkan dengan ayam kampung yang hanya 60 butir/tahun.

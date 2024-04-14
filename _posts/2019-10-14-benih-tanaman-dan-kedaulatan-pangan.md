@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Benih Tanaman Dan Kedaulatan Pangan
+title: "Benih Tanaman Dan Kedaulatan Pangan"
 categories: artikel|Pertanian
 date: 2019-10-14 06:26:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/food-sovereignty-.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/food-sovereignty-.jpg"
 tags:
 - benih
 - pangan
@@ -12,7 +12,7 @@ tags:
 - tanaman
 
 modification_time: 2022-10-17 07:21:21
-blogger_orig_url: http://localhost/mitra/kedaulatan-benih-tanaman-guna.html
+blogger_orig_url: "http://localhost/mitra/kedaulatan-benih-tanaman-guna.html"
 ---
 
 Pangan adalah salah satu komoditas paling penting bagi keberlangsungan hidup manusia. Oleh karena itu, kedaulatan pangan sangat penting bagi sebuah negara. Kedaulatan pangan berarti negara memiliki kemampuan untuk memenuhi kebutuhan pangan dalam jumlah yang cukup untuk seluruh penduduknya. Kedaulatan pangan juga berarti bahwa negara memiliki kemampuan untuk mengatur produksi, distribusi, dan konsumsi pangan secara efektif.

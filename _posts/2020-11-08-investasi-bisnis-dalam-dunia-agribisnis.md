@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Investasi bisnis Dalam Dunia Agribisnis
+title: "Investasi bisnis Dalam Dunia Agribisnis"
 categories: artikel
 date: 2020-11-08 11:45:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_agribisnis_1165x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_agribisnis_1165x720.jpg"
 tags:
 - 
 
 modification_time: 2020-11-08 11:45:21
-blogger_orig_url: http://localhost/mitra/investasi-bisnis-dalam-dunia.html
+blogger_orig_url: "http://localhost/mitra/investasi-bisnis-dalam-dunia.html"
 ---
 
 Jumat pertama September 2018. Jalan Veteran III di Desa Banjarsari, Ciawi, Bogor, mendadak ramai. Sekitar 40 mobil memenuhi pelataran parkir kantor operasional PT Larasindo Jaya Agritama (LJA). Lantai 2 gedung bernomor 60 itu tampak dipenuhi peminat Investasi bisnis bagi hasil itu.

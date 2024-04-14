@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kolam taman minimalis depan rumah Penghilang Stress
+title: "Kolam taman minimalis depan rumah Penghilang Stress"
 categories: artikel|hobi
 date: 2020-03-30 07:28:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/kolam_1115x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/kolam_1115x800.jpg"
 tags:
 - kolam
 
 modification_time: 2020-03-30 07:28:57
-blogger_orig_url: http://localhost/mitra/kolam-taman-minimalis-penghilang.html
+blogger_orig_url: "http://localhost/mitra/kolam-taman-minimalis-penghilang.html"
 ---
 
 <em>Setahun terakhir tiada waktu di sore hari terlewatkan Rahmawati Dharmawan tampak duduk di kursi salaman belakang rumah. Ditemani secangkir teh, sepiring kue, dan selembar koran sore, ia berselonjor. Sambil menyeruput teh, mata dan kupingnya tak lepas dari sebidang tembok dengan kolam taman minimalis berbentuk persegi panjang di depannya. Begitu pompa berjalan gemericik air pun sayup-sayup terdengar jelas menyapu tembok sebelum meluncur ke kolam.</em>

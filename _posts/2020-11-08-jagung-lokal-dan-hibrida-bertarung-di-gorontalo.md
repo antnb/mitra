@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Jagung Lokal dan Hibrida Bertarung di Gorontalo
+title: "Jagung Lokal dan Hibrida Bertarung di Gorontalo"
 categories: Tak Berkategori
 date: 2020-11-08 13:03:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ear-of-corn-4473155__340_1280x628.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_ear-of-corn-4473155__340_1280x628.jpg"
 tags:
 - gorontalo
 - hibrida
 - jagung
 
 modification_time: 2020-11-08 13:03:22
-blogger_orig_url: http://localhost/mitra/jagung-lokal-dan-hibrida-bertarung-di.html
+blogger_orig_url: "http://localhost/mitra/jagung-lokal-dan-hibrida-bertarung-di.html"
 ---
 
 Gorontalo saat ini menjadi ajang "pertarungan" benih jagung lokal dan hibrida. Sejak Fadel Muhammad, Gubernur Gorontalo, mencanangkan program Agropolitan Jagung, berbondong-bondong para produsen benih menyerbu provinsi yang ibukotanya ada di Teluk Tomini itu. Mayoritas petani memang masih menanam benih lokal. Namun, benih hibrida "menangangin" lantaran pemerintah daerah menjamin harga beli jagung, asal memakai benih hibrida.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Makassar Koi Show 2019:  Shiro Utsuri Juara
+title: "Makassar Koi Show 2019:  Shiro Utsuri Juara"
 categories: Arsip|hobi|ikan hias
 date: 2020-10-25 13:18:55
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Shiro-Utsuri1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Shiro-Utsuri1.jpg"
 tags:
 - 
 
 modification_time: 2020-10-25 13:18:55
-blogger_orig_url: http://localhost/mitra/makassar-koi-show-2019-shiro.html
+blogger_orig_url: "http://localhost/mitra/makassar-koi-show-2019-shiro.html"
 ---
 
 Putri Sabrina pantas bangga. Shiro utsuri 70 cm-nya dinobatkan sebagai grand champion. Sebuah kemenangan yang sudah bisa diramalkan lantaran dari 5 koi yang bersaing, 3 di antaranya milik Sabrina. Sepuluh koi lain miliknya pun menjuarai berbagai kelas lain.

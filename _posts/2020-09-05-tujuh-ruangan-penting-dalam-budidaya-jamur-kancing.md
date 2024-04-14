@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tujuh Ruangan Penting Dalam Budidaya Jamur kancing
+title: "Tujuh Ruangan Penting Dalam Budidaya Jamur kancing"
 categories: artikel
 date: 2020-09-05 11:55:40
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_champignon_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_champignon_1280x720.jpg"
 tags:
 - jamur
 
 modification_time: 2020-09-05 11:55:40
-blogger_orig_url: http://localhost/mitra/tujuh-ruangan-penting-dalam-budidaya.html
+blogger_orig_url: "http://localhost/mitra/tujuh-ruangan-penting-dalam-budidaya.html"
 ---
 
 <em>Dulu, di Eropa champignon lazim dibudidayakan dalam gua-gua untuk memperoleh kelembapan yang sesuai. Di Indonesia, dataran tinggi dipilih untuk mendapatkan suhu yang cocok bagi jamur kancing itu. Kini kendala iklim itu disiasati dengan penggunaan AC dan boiler.</em>

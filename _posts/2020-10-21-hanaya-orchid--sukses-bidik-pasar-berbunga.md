@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hanaya Orchid  Sukses Bidik Pasar Berbunga
+title: "Hanaya Orchid  Sukses Bidik Pasar Berbunga"
 categories: hobi|tanaman hias
 date: 2020-10-21 12:11:58
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/hobi1_anggrek.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/hobi1_anggrek.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 12:11:58
-blogger_orig_url: http://localhost/mitra/hanaya-orchid-sukses-bidik-pasar.html
+blogger_orig_url: "http://localhost/mitra/hanaya-orchid-sukses-bidik-pasar.html"
 ---
 
 Esa Sirat dengan jeli membidik segmen flowering size sebagai kartu as usaha anggrek. Dari kebun 6.500 m2 setiap bulan ia memproduksi 1.500 pot berbunga. Pemilik Hanaya Orchid itu bisa mematok harga Rp20.000-Rp30.000/pot, karena kualitas pilihan Padahal biaya produksi paling banter Rp5.000/pot. Keuntungan yang diraup mencapai Rp 20-juta bahkan lebih!

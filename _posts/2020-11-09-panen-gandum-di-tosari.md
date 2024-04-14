@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Panen Gandum di Tosari
+title: "Panen Gandum di Tosari"
 categories: artikel|Pertanian
 date: 2020-11-09 09:37:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_gandum1_1081x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_gandum1_1081x720.jpg"
 tags:
 - gandum
 - panen
 
 modification_time: 2020-11-09 09:37:17
-blogger_orig_url: http://localhost/mitra/panen-gandum-di-tosari.html
+blogger_orig_url: "http://localhost/mitra/panen-gandum-di-tosari.html"
 ---
 
 Impor gandum dari Australia, Kanada, dan Amerika Serikat kelak bisa jadi berkurang. Kecamatan Tosari, Pasuruan menjadi titik awalnya. "Dengan gandum tropis diharapkan kita dapat mengurangi impor dan meningkatkan sumber pangan lokal," papar Dr Ir M. Jafar Hafsah, direktur Direktorat Jenderal Tanaman Pangan, saat panen gandum perdana di Tosari pada lahan 7 ha.

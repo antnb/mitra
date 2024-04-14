@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Jagung lamuru FM Jagung Lokal Kualitas Hybrid
+title: "Jagung lamuru FM Jagung Lokal Kualitas Hybrid"
 categories: artikel|perkebunan
 date: 2020-07-24 14:12:09
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/kacang_1144x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/kacang_1144x800.jpg"
 tags:
 - jagung
 
 modification_time: 2020-07-24 14:12:09
-blogger_orig_url: http://localhost/mitra/jagung-lamuru-fm-jagung-lokal-kualitas.html
+blogger_orig_url: "http://localhost/mitra/jagung-lamuru-fm-jagung-lokal-kualitas.html"
 ---
 
 <em>Pada Pameran Pekan Nasional XI KTNA di Tondano, Minahasa, jagung yang dipajang di depan stan Provinsi Gorontalo itu menyedot perhatian pengunjung. Maklum, warna bulir sangat mencolok-kuning merah tua dan mengkilap, enak dipandang. Sosok tongkol pun tak kalah dibanding jagung hibrida. Meski panjang hanya mencapai 15 cm, tongkol bernas dan berukuran seragam.</em>

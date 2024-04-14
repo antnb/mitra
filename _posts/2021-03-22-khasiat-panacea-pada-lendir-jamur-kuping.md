@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Khasiat Panacea pada Lendir Jamur Kuping
+title: "Khasiat Panacea pada Lendir Jamur Kuping"
 categories: artikel|perkebunan
 date: 2021-03-22 16:17:40
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/jamur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/jamur.jpg"
 tags:
 - jamur
 - jamur kuping
@@ -13,7 +13,7 @@ tags:
 - produksi jamur
 
 modification_time: 2021-03-22 16:17:40
-blogger_orig_url: http://localhost/mitra/khasiat-panacea-lendir-jamur-kuping.html
+blogger_orig_url: "http://localhost/mitra/khasiat-panacea-lendir-jamur-kuping.html"
 ---
 
 Pernah menonton Beauty and The Beast? Film kartun itu mengisahkan pangeran buruk rupa yang berhati baik. Penampilan luar tidak selalu mencerminkan "dalamnya". Begitu pula dengan <a href="https://www.mushroomnutrition.com/auricularia-auricula" rel="nofollow noopener">jamur kuping</a>. Sosok fisik yang tak sedap dipandang ternyata menyimpan banyak khasiat.

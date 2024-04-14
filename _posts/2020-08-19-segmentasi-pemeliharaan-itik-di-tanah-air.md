@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Segmentasi Pemeliharaan Itik di Tanah Air
+title: "Segmentasi Pemeliharaan Itik di Tanah Air"
 categories: artikel|Peternakan
 date: 2020-08-19 12:12:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/maxresdefault_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/maxresdefault_1280x720.jpg"
 tags:
 - 
 
 modification_time: 2020-08-19 12:12:05
-blogger_orig_url: http://localhost/mitra/segmentasi-pemeliharaan-itik-di-tanah.html
+blogger_orig_url: "http://localhost/mitra/segmentasi-pemeliharaan-itik-di-tanah.html"
 ---
 
 <em>Di Indonesia para petani umumnya memelihara ayam kampung sebagai sumber protein hewani. Di Taiwan, itiklah yang memegang peran itu. Saking membudayanya pemeliharaan itik di halaman rumah, di Taiwan sampai timbul peluang bisnis yang kait-mengait untuk melayani usaha peritikan nasional.</em>

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Percantik taman depan rumah Dengan Euphorbia
+title: "Percantik taman depan rumah Dengan Euphorbia"
 categories: Gardening|tanaman hias
 date: 2021-01-02 09:37:32
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_euphorbia_.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_euphorbia_.jpg"
 tags:
 - Euphorbia
 - Taman
 
 modification_time: 2022-09-20 08:24:13
-blogger_orig_url: http://localhost/mitra/percantik-taman-rumah-dengan-euphorbia.html
+blogger_orig_url: "http://localhost/mitra/percantik-taman-rumah-dengan-euphorbia.html"
 ---
 
 Taman depan rumah adalah tempat untuk bersantai dan menikmati pemandangan sekitar. Banyak orang beranggapan bahwa taman depan rumah mereka harus indah dan menarik, sehingga seringkali mereka menginvestasikan banyak uang untuk membuatnya sempurna. Padahal, taman depan rumah yang bagus bukanlah yang paling mahal, tapi yang paling sesuai dengan kebutuhan dan gaya hidup Anda. Jadi, sebelum memulai pembangunan taman depan rumah, ada baiknya Anda menentukan dulu tujuan dari taman tersebut.

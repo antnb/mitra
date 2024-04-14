@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Kreasi Buah Pepaya IPB1 Hibrid Unggulan Dari PKBT IPB
+title: "Kreasi Buah Pepaya IPB1 Hibrid Unggulan Dari PKBT IPB"
 categories: artikel|Pertanian
 date: 2020-02-05 11:13:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/pepaya-ipb1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/pepaya-ipb1.jpg"
 tags:
 - IPB
 - pepaya
 - PKBT
 
 modification_time: 2022-09-24 06:38:22
-blogger_orig_url: http://localhost/mitra/pepaya-ipb1-hibrid-unggulan-kreasi.html
+blogger_orig_url: "http://localhost/mitra/pepaya-ipb1-hibrid-unggulan-kreasi.html"
 ---
 
 Pepaya merupakan salah satu jenis buah tropis yang banyak ditanam di Indonesia. Buah pepaya memiliki rasa manis dan segar yang sangat disukai oleh banyak orang. Selain rasanya yang enak, buah pepaya juga kaya akan nutrisi seperti vitamin A, C, dan E serta kandungan antioksidan yang tinggi.

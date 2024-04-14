@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Saat Pamor Halfmoon Kian Menanjak
+title: "Saat Pamor Halfmoon Kian Menanjak"
 categories: hobi|ikan hias
 date: 2020-09-15 12:36:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_972501371_1204x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_972501371_1204x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-15 12:36:35
-blogger_orig_url: http://localhost/mitra/saat-pamor-halfmoon-kian-menanjak.html
+blogger_orig_url: "http://localhost/mitra/saat-pamor-halfmoon-kian-menanjak.html"
 ---
 
 <em>Pantas jika rupiah yang digelontorkan Heri lumayan besar. Maklum puluhan halfmoon yang dikoleksi merupakan varian-varian baru yang tengah naik daun di negeri Siam dan berharga lumayan mahal. Sebut saja jenis halfmoon copper, rose tail, black copper, green mask, dan crane gold halfmoon. Halfmoon copper misalnya dibeli seharga Rp 500.000 per ekor dari penangkar di Jakarta Barat. Padahal untuk jenis yang kini mulai usang itu, Heri setidaknya memiliki 3 pasang.</em>

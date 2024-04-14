@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Pertanyaan seputar memulai usaha jamur dan stroberi
+title: "Pertanyaan seputar memulai usaha jamur dan stroberi"
 categories: Tanya Jawab
 date: 2020-12-11 07:56:39
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/pleurotus-ostreatus-fungo-orecchione.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/pleurotus-ostreatus-fungo-orecchione.jpg"
 tags:
 - jamur tiram
 - strawberry
 
 modification_time: 2020-12-11 07:56:39
-blogger_orig_url: http://localhost/mitra/pertanyaan-seputar-memulai-usaha-jamur.html
+blogger_orig_url: "http://localhost/mitra/pertanyaan-seputar-memulai-usaha-jamur.html"
 ---
 
 Saya baru memulai usaha jamur dan stroberi. Ada beberapa hal yang ingin saya tanyakan:

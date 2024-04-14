@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Dicari! Pekebun Mengkudu
+title: "Dicari! Pekebun Mengkudu"
 categories: perkebunan
 date: 2020-10-23 05:23:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/mengkudu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/mengkudu.jpg"
 tags:
 - 
 
 modification_time: 2020-10-23 05:23:22
-blogger_orig_url: http://localhost/mitra/dicari-pekebun-mengkudu.html
+blogger_orig_url: "http://localhost/mitra/dicari-pekebun-mengkudu.html"
 ---
 
 Mengkudu naik kelas. Buah yang semula tidak dilirik orang kini banyak diburu. Di Jabotabek 30 produsen skala rumah tangga butuh 50 ton buah segar untuk memproduksi 10.000 liter jus mengkudu per bulan, Belum lagi belasan pabrik dengan produksi minimal 10.000 liter/bulan. Semuanya butuh banyak bahan baku. Ini peluang bagi yang ingin mengebunkan.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Efesiensi Kompor Briket Batubara Vs Briket Sekam Padi
+title: "Efesiensi Kompor Briket Batubara Vs Briket Sekam Padi"
 categories: artikel
 date: 2021-04-29 16:15:29
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/04/batubara.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/04/batubara.jpg"
 tags:
 - batubara
 - briket
 - sekam
 
 modification_time: 2021-04-29 16:15:29
-blogger_orig_url: http://localhost/mitra/briket-batubara-di-indonesia-briket.html
+blogger_orig_url: "http://localhost/mitra/briket-batubara-di-indonesia-briket.html"
 ---
 
 Kulit padi yang dipadatkan itu dibakar pada suhu 250 sampai 270°C selama 10 menit. Begitu keluar, panjangnya menyusut tinggal 10 cm. Warnanya juga jadi cokelat Kehitaman. Masyarakat Chitralada memanfaatkannya sebagai bahan bakar memasak. Yang dilakukan Baihaqi Idrus mirip hal itu. Bedanya, pensiunan Departemen Kehakiman itu memanfaatkan batubara sebagai bahan baku briket , bukan sekam padi.

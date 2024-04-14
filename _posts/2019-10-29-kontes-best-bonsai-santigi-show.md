@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kontes Best Bonsai Santigi Show
+title: "Kontes Best Bonsai Santigi Show"
 categories: tanaman hias
 date: 2019-10-29 12:52:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Pemphis-ocidulo.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Pemphis-ocidulo.jpg"
 tags:
 - bonsai
 - kontes
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2019-10-29 12:52:00
-blogger_orig_url: http://localhost/mitra/kontes-best-bonsai-santigi-show.html
+blogger_orig_url: "http://localhost/mitra/kontes-best-bonsai-santigi-show.html"
 ---
 
 <em>Pemphis ocidulo</em> itu tetap tumbuh baik. Batangnya yang meliuk-liuk dengan kulit pecah-pecah, mengelupas, dan keriput menggambarkan umur pohon itu amat tua.

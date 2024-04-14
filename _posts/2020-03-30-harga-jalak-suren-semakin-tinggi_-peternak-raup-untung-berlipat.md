@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Harga Jalak Suren Semakin Tinggi, Peternak Raup Untung Berlipat
+title: "Harga Jalak Suren Semakin Tinggi, Peternak Raup Untung Berlipat"
 categories: hobi|Peternakan
 date: 2020-03-30 04:03:37
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Gracupica_contra.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Gracupica_contra.jpg"
 tags:
 - jalak
 - kicau jalak
 - perawatan jalak suren
 
 modification_time: 2020-03-30 04:03:37
-blogger_orig_url: http://localhost/mitra/omzet-puluhan-juta-rupiah-dari-usaha.html
+blogger_orig_url: "http://localhost/mitra/omzet-puluhan-juta-rupiah-dari-usaha.html"
 ---
 
 Setiap bulan pesanan minimal 50 kali setara 150 pasang burung dari bisnis penangkaran jalak suren yang dikelolanya. Belum lagi pasokan rutin yang mencapai puluhan pasang. Harga jalak suren Rp 1,5-juta per pasang, pria 34 tahun itu meraup <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/sukses-raup-omzet-50-juta-dari.html" id="422">omzet puluhan juta rupiah setiap bulan hanya dari</a> usaha beternak jalak suren.

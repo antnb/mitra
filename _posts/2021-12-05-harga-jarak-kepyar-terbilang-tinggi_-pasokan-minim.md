@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Harga jarak kepyar terbilang tinggi, Pasokan minim
+title: "Harga jarak kepyar terbilang tinggi, Pasokan minim"
 categories: perkebunan
 date: 2021-12-05 07:27:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/Jarak-kepyar.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/Jarak-kepyar.jpg"
 tags:
 - Jarak
 
 modification_time: 2021-12-05 07:27:57
-blogger_orig_url: http://localhost/mitra/harga-jarak-kepyar-terbilang-tinggi.html
+blogger_orig_url: "http://localhost/mitra/harga-jarak-kepyar-terbilang-tinggi.html"
 ---
 
 Pada zaman penjajahan Jepang, masyarakat memanfaatkan minyak kaliki untuk lampu. Kini Jepang mengolah minyak sebagai bahan plastik dan bumper mobil.

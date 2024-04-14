@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Prospek Budidaya Bunga Krisan Di Gowa Sulawesi Selatan
+title: "Prospek Budidaya Bunga Krisan Di Gowa Sulawesi Selatan"
 categories: tanaman hias
 date: 2019-10-29 09:55:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/tanaman-krisan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/tanaman-krisan.jpg"
 tags:
 - bisnis
 - krisan
 - Tanaman Hias
 
 modification_time: 2019-10-29 09:55:00
-blogger_orig_url: http://localhost/mitra/prospek-budidaya-bunga-krisan-di-gowa.html
+blogger_orig_url: "http://localhost/mitra/prospek-budidaya-bunga-krisan-di-gowa.html"
 ---
 
 Mufidah Jusuf Kalla mengunjungi kebun budidaya bunga krisan di Malino, Kecamatan Tinggimoncong, Kabupaten Gowa, Provinsi Sulawesi Selatan.

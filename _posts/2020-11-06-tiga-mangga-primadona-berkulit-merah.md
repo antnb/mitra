@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tiga Mangga Primadona Berkulit Merah
+title: "Tiga Mangga Primadona Berkulit Merah"
 categories: perkebunan
 date: 2020-11-06 08:48:25
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_buahmangga_1080x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_buahmangga_1080x720.jpg"
 tags:
 - Mangga
 
 modification_time: 2020-11-06 08:48:25
-blogger_orig_url: http://localhost/mitra/tiga-mangga-primadona-berkulit-merah.html
+blogger_orig_url: "http://localhost/mitra/tiga-mangga-primadona-berkulit-merah.html"
 ---
 
 Observasi Balitbu, Solok, pada 1996 membuktikan konsumen sekarang lebih suka mangga berkulit merah dan berdaging kuning terang. Perubahan selera itu mendorong pemulia tanaman untuk menghasilkan varietas unggul pang sesuai. Maka lahirlah trio mangga berkulit merah: <a href="#Marifta01">Marifta 01</a>, <a href="#sari315">sari315</a>, dan <a href="#layung">ken layung</a>.

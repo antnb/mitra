@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pengenalan Dasar Pupuk Kimia dan Manfaatnya
+title: "Pengenalan Dasar Pupuk Kimia dan Manfaatnya"
 categories: Pertanian
 date: 2022-12-05 14:21:11
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/12/pupuk1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/12/pupuk1.jpg"
 tags:
 - 
 
 modification_time: 2022-12-05 14:26:18
-blogger_orig_url: http://localhost/mitra/pupuk-kimia.html
+blogger_orig_url: "http://localhost/mitra/pupuk-kimia.html"
 ---
 
 Pupuk kimia adalah pupuk yang berasal dari bahan-bahan kimia yang dibuat di laboratorium. Pupuk kimia diformulasikan untuk memenuhi kebutuhan hara tanaman, yang dapat dilihat dari perbedaan komposisi hara yang terkandung dalam pupuk kimia. Pupuk kimia dapat meningkatkan produktivitas tanaman, mengurangi dampak lingkungan, dan dapat dicampur dengan pupuk organik untuk meningkatkan nutrisi tanaman.

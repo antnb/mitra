@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Khasiat VCO Dan Daun Kecibeling Untuk Penyakit Ginjal
+title: "Khasiat VCO Dan Daun Kecibeling Untuk Penyakit Ginjal"
 categories: artikel|Herbal|kesehatan
 date: 2020-08-16 08:46:24
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/08/ginjal_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/ginjal_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-16 08:46:24
-blogger_orig_url: http://localhost/mitra/khasiat-vco-dan-daun-kecibeling-untuk.html
+blogger_orig_url: "http://localhost/mitra/khasiat-vco-dan-daun-kecibeling-untuk.html"
 ---
 
 <em>Tetangganya membawa Ruhayati ke sebuah klinik di Cibitung, Kabupaten Bekasi. Hasil pemeriksaan dokter, ia menderita maag akut. Dokter menyarankan untuk memperbanyak minum air putih dan menghindari konsumsi satai dan jeroan. Karena berhasrat sembuh, ibu 2 anak itu patuh. Meski begitu, nyeri pinggang sebelah kiri tak kunjung sirna.</em>

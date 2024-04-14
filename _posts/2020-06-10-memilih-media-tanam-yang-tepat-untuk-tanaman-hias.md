@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Memilih Media Tanam Yang Tepat Untuk Tanaman Hias
+title: "Memilih Media Tanam Yang Tepat Untuk Tanaman Hias"
 categories: artikel|Gardening|hobi|tanaman hias
 date: 2020-06-10 07:43:11
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/tanam_843x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/tanam_843x800.jpg"
 tags:
 - Euphorbia
 - Pupuk kandang
 
 modification_time: 2020-06-10 07:43:11
-blogger_orig_url: http://localhost/mitra/memilih-media-tanam-yang-tepat-untuk.html
+blogger_orig_url: "http://localhost/mitra/memilih-media-tanam-yang-tepat-untuk.html"
 ---
 
 <em>Media tanam kerap dianaktirikan. Hobiis <a href="http://127.0.0.1/mitra/tanaman-hias">tanaman hias</a> lebih sering memanfaatkan beragam suplemen dan pupuk supaya penampilan tanaman prima.</em> Padahal pupuk dan suplemen itu tidak bakal bekerja secara optimal jika media yang digunakan tidak sesuai. Pasalnya media menjadi dapur untuk akar sebelum disalurkan ke batang, daun, dan bunga.

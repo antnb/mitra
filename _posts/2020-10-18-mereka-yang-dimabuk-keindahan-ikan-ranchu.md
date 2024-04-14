@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mereka Yang Dimabuk Keindahan Ikan Ranchu
+title: "Mereka Yang Dimabuk Keindahan Ikan Ranchu"
 categories: artikel|ikan hias
 date: 2020-10-18 13:38:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/ranchuone.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/ranchuone.jpg"
 tags:
 - 
 
 modification_time: 2020-10-18 13:38:35
-blogger_orig_url: http://localhost/mitra/mereka-yang-dimabuk-keindahan-ikan.html
+blogger_orig_url: "http://localhost/mitra/mereka-yang-dimabuk-keindahan-ikan.html"
 ---
 
 <p>Kalau saja ranchu bisa disulap, "dibuat" setiap hari, mungkin ia tak kesulitan mendapatkan ranchu terbaiknya. Maklum, ia pesulap illusionist terkenal di Indonesia saat ini. Sayangnya, "Mendapatkan <a href="http://127.0.0.1/mitra/beda-kepala-naga-dan-ranchu-lion.html">ranchu berkualitas</a> tak semudah bermain illusi," papar Yusuf Tirta, sang maestro sulap tersebut. Dia bahkan harus menyambangi satu pameran ke pameran lain di dalam dan luar negeri. </p>

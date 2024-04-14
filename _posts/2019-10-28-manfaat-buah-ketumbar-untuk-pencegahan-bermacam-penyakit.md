@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Manfaat Buah Ketumbar Untuk Pencegahan Bermacam Penyakit
+title: "Manfaat Buah Ketumbar Untuk Pencegahan Bermacam Penyakit"
 categories: kesehatan
 date: 2019-10-28 12:56:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/ketumbar.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/ketumbar.jpg"
 tags:
 - biji
 - ketumbar
@@ -12,7 +12,7 @@ tags:
 - pencernaan
 
 modification_time: 2019-10-28 12:56:00
-blogger_orig_url: http://localhost/mitra/biji-ketumbar-multikhasiat-untuk.html
+blogger_orig_url: "http://localhost/mitra/biji-ketumbar-multikhasiat-untuk.html"
 ---
 
 Buah Ketumbar yang selama ini menjadi bumbu penyedap ternyata ampuh mengatasi beragam penyakit.

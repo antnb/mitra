@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Durian Tong Medaye Si Raja Buah Unggulan Dari Tanah Mataram
+title: "Durian Tong Medaye Si Raja Buah Unggulan Dari Tanah Mataram"
 categories: perkebunan
 date: 2021-09-07 06:40:31
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/durian-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/durian-1.jpg"
 tags:
 - Durian
 - kebun durian
 
 modification_time: 2021-09-07 06:40:31
-blogger_orig_url: http://localhost/mitra/durian-tong-medaye-si-raja-buah.html
+blogger_orig_url: "http://localhost/mitra/durian-tong-medaye-si-raja-buah.html"
 ---
 
 Suatu hari, pada 1800-an, di luar kompleks Istana Narmada, Kerajaan Karangasem Sasak. Raja Anak Agung Gde Ngurah Karangasem menanam 20 biji Durian Tong Medaye hasil perburuan ke India Selatan. Batang-batang Durio zibethinus berjejer rapi dengan jarak tanam 12mxl2 m. Kini setelah lebih dari 110 tahun, kelezatan Durian Tong Medaye salah satu durian terbaik masih bisa dinikmati oleh anak cucu dan rakyat sang raja.

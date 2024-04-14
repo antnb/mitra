@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Panduan bertani Semangka, Perawatan hingga Tahap pemanenan
+title: "Panduan bertani Semangka, Perawatan hingga Tahap pemanenan"
 categories: perkebunan
 date: 2022-09-14 08:09:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/09/buah-semangka.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/09/buah-semangka.jpg"
 tags:
 - semangka
 
 modification_time: 2022-09-14 08:24:25
-blogger_orig_url: http://localhost/mitra/panduan-bertani-semangka.html
+blogger_orig_url: "http://localhost/mitra/panduan-bertani-semangka.html"
 ---
 
 Semangka adalah buah yang populer di seluruh dunia, dan Indonesia adalah salah satu negara penghasil semangka terbesar di dunia. Semangka sangat mudah ditanam dan dibudidayakan, Bertani semangka menawarkan keuntungan yang bagus bagi petani. Ini karena tanaman semangka dapat tumbuh dengan baik di iklim Indonesia dan hasilnya cukup tinggi. Selain itu, biaya untuk menanam dan mengolah semangka tidak terlalu mahal. Oleh karena itu, bertani semangka dapat menguntungkan petani dalam jangka panjang.

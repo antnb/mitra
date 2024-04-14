@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 7 Hal penting dalam Perawatan aglaonema
+title: "7 Hal penting dalam Perawatan aglaonema"
 categories: Gardening|hobi|tanaman hias
 date: 2020-04-06 13:55:15
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/aglaonema2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/aglaonema2.jpg"
 tags:
 - Aglaonema
 - Sri rezeki
 
 modification_time: 2020-04-06 13:55:15
-blogger_orig_url: http://localhost/mitra/7-hal-penting-dalam-merawat-aglaonema.html
+blogger_orig_url: "http://localhost/mitra/7-hal-penting-dalam-merawat-aglaonema.html"
 ---
 
 <em>Aglaonema sang ratu <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a> daun pun mesti dirawat agar tampil ciamik. Minimal ada 7 faktor yang mempengaruhi penampilan tanaman sri rejeki itu. Inilah cara merawat aglaonema ala hobiis di Indonesia dan Thailand.</em>

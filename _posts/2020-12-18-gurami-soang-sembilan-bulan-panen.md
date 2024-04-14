@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Gurami Soang Sembilan Bulan Panen
+title: "Gurami Soang Sembilan Bulan Panen"
 categories: Perikanan
 date: 2020-12-18 08:21:11
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_gurami3_1024x701.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_gurami3_1024x701.jpg"
 tags:
 - benih soang
 - gurame
@@ -12,7 +12,7 @@ tags:
 - kolam pembesaran
 
 modification_time: 2020-12-18 08:21:11
-blogger_orig_url: http://localhost/mitra/gurami-soang-sembilan-bulan-panen.html
+blogger_orig_url: "http://localhost/mitra/gurami-soang-sembilan-bulan-panen.html"
 ---
 
 Tiga bulan lalu Heriyana menebar bibit soang ukuran kaset (125 sampai 150 g) berumur 5 sampai 6 bulan. Artinya, umur 9 bulan soang sudah bisa dipanen untuk konsumsi (0,6 sampai 0,7 kg). "Jika varietas lain, untuk mencapai ukuran itu butuh 1,5 tahun.

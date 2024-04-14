@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Analisa Keuntungan Ternak Itik Dengan Sistim Angon
+title: "Analisa Keuntungan Ternak Itik Dengan Sistim Angon"
 categories: artikel|Peternakan
 date: 2020-08-18 12:19:35
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/bebek.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/bebek.jpeg"
 tags:
 - 
 
 modification_time: 2020-08-18 12:19:35
-blogger_orig_url: http://localhost/mitra/analisa-keuntungan-ternak-itik-dengan.html
+blogger_orig_url: "http://localhost/mitra/analisa-keuntungan-ternak-itik-dengan.html"
 ---
 
 <em>Memelihara itik tanpa memberi pakan? Itulah yang dilakukan para pengembara dan penggembala itik yang berpindah-pindah dari satu daerah ke daerah lain. Mereka hanya memanfaatkan sisa-sisa bulir padi di sawah yang sudah dituai sebagai pakan. Walau demikian produktivitas itik tetap tinggi.</em>

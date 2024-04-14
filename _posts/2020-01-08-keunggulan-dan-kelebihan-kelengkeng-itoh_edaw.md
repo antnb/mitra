@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Keunggulan Dan Kelebihan kelengkeng itoh/Edaw
+title: "Keunggulan Dan Kelebihan kelengkeng itoh/Edaw"
 categories: perkebunan
 date: 2020-01-08 07:39:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/01/lengkeng-2Bedaw_640x376.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/01/lengkeng-2Bedaw_640x376.jpg"
 tags:
 - Buah
 - Kelengkeng
 
 modification_time: 2022-09-13 16:17:49
-blogger_orig_url: http://localhost/mitra/kelebihan-kelengkeng-itoh-edaw.html
+blogger_orig_url: "http://localhost/mitra/kelebihan-kelengkeng-itoh-edaw.html"
 ---
 
 <em>Kelengkeng termasuk dalam keluarga Sapindaceae dan buahnya dapat dikonsumsi baik segar maupun dalam bentuk yang sudah diproses. Daun dan kulit buah kelengkeng juga dapat dimanfaatkan dalam industri farmasi dan kosmetika. Buah kelengkeng memiliki rasa yang manis dan segar, serta kandungan gizi yang cukup tinggi. Kandungan gizi utama buah kelengkeng adalah karbohidrat, vitamin C, dan potasium. Karbohidrat dan vitamin C berperan dalam meningkatkan imunitas tubuh, sedangkan potasium berfungsi untuk menjaga keseimbangan cairan tubuh.</em>

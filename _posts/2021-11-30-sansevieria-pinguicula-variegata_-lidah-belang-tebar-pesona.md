@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sansevieria Pinguicula Variegata: Lidah Belang Tebar Pesona
+title: "Sansevieria Pinguicula Variegata: Lidah Belang Tebar Pesona"
 categories: Gardening|hobi|tanaman hias
 date: 2021-11-30 08:43:48
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/sansieta.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/sansieta.jpg"
 tags:
 - sansevieria
 
 modification_time: 2022-09-09 12:15:50
-blogger_orig_url: http://localhost/mitra/sansevieria-pinguicula-variegata-lidah.html
+blogger_orig_url: "http://localhost/mitra/sansevieria-pinguicula-variegata-lidah.html"
 ---
 
 Ukuran <span class="keyword _ngcontent-luk-101" aria-hidden="false">sansevieria pinguicula variegata</span> hanya seibu jari, tapi dialah anugerah terindah bagi Jessie S. Si jempol itu Sansevieria pinguicula kultivar berdaun panjang atau kerap disebut pinguin long. Menariknya, daun pinguin bermotif belang; lazimnya, polos.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Manajemen Pengolahan Terong: Dari Lahan hingga Olahan Beku
+title: "Manajemen Pengolahan Terong: Dari Lahan hingga Olahan Beku"
 categories: perkebunan|Pertanian
 date: 2021-02-05 16:43:41
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_terong_jepang_1024x761.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_terong_jepang_1024x761.jpg"
 tags:
 - terung
 - terung beku
 - terung jepang
 
 modification_time: 2022-09-19 13:36:22
-blogger_orig_url: http://localhost/mitra/terung-jepang-dari-lahan-hingga.html
+blogger_orig_url: "http://localhost/mitra/terung-jepang-dari-lahan-hingga.html"
 ---
 
 Terung yang terkirim lewat pukul 14.00 harus disegarkan kembali dengan pendingin. Batas waktu itu jadi patokan yang tidak bisa ditawar. Seleksi dan sterilisasi juga sangat ketat. Demikian hati-hatinya PT Mitratani Dua Tujuh memperlakukan terung jepang untuk olahan beku. Sampai-sampai, memasuki ruangan prosesing harus melalui tiga buah kubangan desinfektan. Itulah, konsekuensi mengekspor terung beku ke Jepang.

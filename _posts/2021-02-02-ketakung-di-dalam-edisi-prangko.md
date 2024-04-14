@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ketakung di Dalam Edisi Prangko
+title: "Ketakung di Dalam Edisi Prangko"
 categories: artikel
 date: 2021-02-02 12:26:08
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_prangko_1024x666.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_prangko_1024x666.jpg"
 tags:
 - keanekaragaman hayati
 - Nepenthes
@@ -12,7 +12,7 @@ tags:
 - pt pos indonesia
 
 modification_time: 2021-02-02 12:26:08
-blogger_orig_url: http://localhost/mitra/ketakung-di-dalam-edisi-prangko.html
+blogger_orig_url: "http://localhost/mitra/ketakung-di-dalam-edisi-prangko.html"
 ---
 
 Kantong semar terpilih lantaran sekitar 70% spesies nepenthes di dunia ada di tanah air. Contohnya <i>Nepenthes campanulata</i>, <i>Nepenthes clipeata</i>, <i>Nepenthes spathulata</i>, <i>Nepenthes reinwardtiana</i>, dan <i>Nepenthes danseri</i>.

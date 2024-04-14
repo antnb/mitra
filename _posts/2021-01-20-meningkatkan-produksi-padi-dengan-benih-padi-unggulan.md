@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Meningkatkan Produksi Padi Dengan Benih Padi Unggulan
+title: "Meningkatkan Produksi Padi Dengan Benih Padi Unggulan"
 categories: Pertanian
 date: 2021-01-20 09:50:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_padi_unggul1_796x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_padi_unggul1_796x768.jpg"
 tags:
 - biaya produksi
 - padi
 - petani padi
 
 modification_time: 2022-09-15 13:04:07
-blogger_orig_url: http://localhost/mitra/benih-padi-unggulan-meningkatkan.html
+blogger_orig_url: "http://localhost/mitra/benih-padi-unggulan-meningkatkan.html"
 ---
 
 Keberhasilan Surya Gandamanah tak semata karena kemurahan tanaman padi. Ia tak hanya bertani padi, tetapi melakukan terobosan: membuat <a href="http://127.0.0.1/mitra/index.php/agrise/article/view/178">benih padi unggulan</a> super dan melakukan imunisasi.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Budidaya Maskoki: Empat Lakon YB Hariantono
+title: "Budidaya Maskoki: Empat Lakon YB Hariantono"
 categories: hobi|ikan hias
 date: 2020-12-14 09:36:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_koi_1024x576-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_koi_1024x576-1.jpg"
 tags:
 - budidaya maskoki
 - hobi ikan
@@ -14,7 +14,7 @@ tags:
 - ranchu top
 
 modification_time: 2020-12-14 09:36:29
-blogger_orig_url: http://localhost/mitra/budidaya-maskoki-empat-lakon-yb.html
+blogger_orig_url: "http://localhost/mitra/budidaya-maskoki-empat-lakon-yb.html"
 ---
 
 Sibuk, itulah kata yang tepat untuk menggambarkan aktivitas Hari panggilan akrab YB Hariantono saat menjalani semua Sebut saja ketika berprofesi sebagai juri. "Minggu ini saya diundang menjadi juri kontes maskoki di Surabaya," ucap Hari ketika dihubungi Trubus per telepon sebulan silam. Dua pekan berikutnya, Hari sudah berada di Singapura. Bersama 2 juri lain asal Cina dan Singapura ia menjadi penilai di Fancy Goldfish Contest 2004 di kawasan Sungeitengah.

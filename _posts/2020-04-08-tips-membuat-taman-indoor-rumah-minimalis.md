@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Tips Membuat Taman Indoor rumah minimalis
+title: "Tips Membuat Taman Indoor rumah minimalis"
 categories: Gardening
 date: 2020-04-08 06:43:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Taman-Indoor-.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Taman-Indoor-.jpg"
 tags:
 - indoor
 - minimalis
 - Taman
 
 modification_time: 2020-04-08 06:43:12
-blogger_orig_url: http://localhost/mitra/tips-membuat-taman-indoor-rumah.html
+blogger_orig_url: "http://localhost/mitra/tips-membuat-taman-indoor-rumah.html"
 ---
 
 Rindu suasana bak tamansari itu mungkin yang mengilhami Ari Nababan menghadirkan taman indoor di ruang tamu kediaman di Kota Kembang, Depok. Taman mungil berbentuk persegi panjang berukuran 3 m x 2,5 m tampil cantik di sudut ruangan bersebelahan dengan seperangkat kursi tamu.

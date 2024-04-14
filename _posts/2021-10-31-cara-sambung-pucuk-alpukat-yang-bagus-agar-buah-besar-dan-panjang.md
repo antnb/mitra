@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cara Sambung Pucuk Alpukat Yang Bagus Agar Buah Besar Dan Panjang
+title: "Cara Sambung Pucuk Alpukat Yang Bagus Agar Buah Besar Dan Panjang"
 categories: perkebunan|Pertanian
 date: 2021-10-31 08:10:14
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/10/pucuk.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/pucuk.jpg"
 tags:
 - alpukat
 
 modification_time: 2021-10-31 08:10:14
-blogger_orig_url: http://localhost/mitra/cara-sambung-pucuk-alpukat-yang-bagus.html
+blogger_orig_url: "http://localhost/mitra/cara-sambung-pucuk-alpukat-yang-bagus.html"
 ---
 
 Dibanding Fuerte, alpukat Indonesia lebih baik. Alpukat mentega dan hijau panjang, 2 unggulan kita rasanya gurih dan legit di lidah. buah hasil sambung pucuk alpukat umumnya berukuran lebih besar dan panjang.

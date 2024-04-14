@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Permintaan Peti Kayu Sengon Albasia Tinggi, Pekebun Makin Kewalahan
+title: "Permintaan Peti Kayu Sengon Albasia Tinggi, Pekebun Makin Kewalahan"
 categories: artikel
 date: 2021-11-05 08:11:03
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/11/kayu-sengon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/kayu-sengon.jpg"
 tags:
 - papan
 - sengon
 
 modification_time: 2021-11-05 08:11:03
-blogger_orig_url: http://localhost/mitra/peti-kayu-albasia-dari-pohon-sengon.html
+blogger_orig_url: "http://localhost/mitra/peti-kayu-albasia-dari-pohon-sengon.html"
 ---
 
 Kayu albasia, kayu sengon, jeungjing, atau apapun namanya selalu merujuk pada pohon semak yang banyak dimanfaatkan untuk kemasan buah dan sayuran. Namun, sebetulnya itu bukan produk utama tanaman anggota keluarga Mimosaceae (petai-petaian) tersebut.

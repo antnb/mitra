@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tanaman Sarang Semut Untuk Penyembuhan Kanker Payudara
+title: "Tanaman Sarang Semut Untuk Penyembuhan Kanker Payudara"
 categories: kesehatan
 date: 2019-11-09 17:13:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/myrmecodia1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/myrmecodia1.jpg"
 tags:
 - antibiotik
 - kanker
@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2019-11-09 17:13:00
-blogger_orig_url: http://localhost/mitra/sarang-semut-penangkal-kanker-payudara.html
+blogger_orig_url: "http://localhost/mitra/sarang-semut-penangkal-kanker-payudara.html"
 ---
 
 Tiga purnama berlalu, serangan itu tak kunjung berakhir. Malahan muncul luka di dekat puting payudara kanan. Dari luka itu keluar nanah. Keruan saja ia panik dan bergegas ke Rumah Sakit Dok II Jayapura, Papua.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cara menyilangkan euphorbia
+title: "Cara menyilangkan euphorbia"
 categories: tanaman hias|Tutorial
 date: 2021-01-05 10:25:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_putik_1024x741.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_putik_1024x741.jpg"
 tags:
 - benang sari
 - Euphorbia
 - kepala putik
 
 modification_time: 2021-01-05 10:25:10
-blogger_orig_url: http://localhost/mitra/cara-menyilangkan-euphorbia.html
+blogger_orig_url: "http://localhost/mitra/cara-menyilangkan-euphorbia.html"
 ---
 
 Kang sapaan Kang Chien Chung selektif menggunakan indukan. Tak hanya penampilan bunga yang diperhatikan, pun sifat tanaman. Contohnya untuk mendapatkan sosok tanaman yang kompak, ia memilih indukan small word.

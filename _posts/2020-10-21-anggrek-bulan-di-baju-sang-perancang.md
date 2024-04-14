@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Anggrek bulan di Baju sang Perancang
+title: "Anggrek bulan di Baju sang Perancang"
 categories: hobi|tanaman hias
 date: 2020-10-21 08:42:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/taman.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/taman.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 08:42:03
-blogger_orig_url: http://localhost/mitra/anggrek-bulan-di-baju-sang-perancang.html
+blogger_orig_url: "http://localhost/mitra/anggrek-bulan-di-baju-sang-perancang.html"
 ---
 
 Label Milo's kadung identik dengan busana menawan rancangan Emilio Migliavacca. Hasil karya desainer kondang asal Italia yang kini bermukim di Bali itu jadi incaran wanita penggemar pakaian indah dan eksklusif. Namun, Milo yang satu ini bukan baju malam nan anggun atau kemeja batik berpotongan elegan. Nama itu disematkan untuk sesosok dendrobium berwarna pink dengan antena merah tua. Itu tanda mata dari seorang sahabat yang juga penggemar anggrek di Singapura.

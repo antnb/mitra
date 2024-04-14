@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ekspor Belut: Peluang Pasar Terbentang Luas, Pasokan Kurang
+title: "Ekspor Belut: Peluang Pasar Terbentang Luas, Pasokan Kurang"
 categories: Perikanan
 date: 2020-09-01 11:52:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_6_1080x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_6_1080x800.jpg"
 tags:
 - belut
 - ekspor
 
 modification_time: 2022-09-12 16:50:42
-blogger_orig_url: http://localhost/mitra/ekspor-belut-peluang-pasar-terbentang.html
+blogger_orig_url: "http://localhost/mitra/ekspor-belut-peluang-pasar-terbentang.html"
 ---
 
 <span class="keyword _ngcontent-vqn-100" aria-hidden="false">Ekspor belut</span> belut sebanyak 1 ton/minggu dari Singapura hanya seperempatnya yang dapat dipenuhi oleh Leonardo Han. Itupun harus diburu ke pengepul belut di seluruh Jawa Timur. Permintaan <span class="keyword _ngcontent-vqn-100" aria-hidden="false">ekspor belut</span> memang tinggi, sementara pasokan kurang.

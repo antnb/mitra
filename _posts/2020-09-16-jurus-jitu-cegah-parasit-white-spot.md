@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Jurus Jitu Cegah Parasit White Spot
+title: "Jurus Jitu Cegah Parasit White Spot"
 categories: hobi|ikan hias
 date: 2020-09-16 10:48:57
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_aquarium_1213x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_aquarium_1213x800.jpg"
 tags:
 - parasit
 - surgeon fish
 
 modification_time: 2020-09-16 10:48:57
-blogger_orig_url: http://localhost/mitra/jurus-jitu-cegah-parasit-white-spot.html
+blogger_orig_url: "http://localhost/mitra/jurus-jitu-cegah-parasit-white-spot.html"
 ---
 
 <em>Parasit Cryptocaryon irritans memang biang keladi kematian <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/ikan-hias"  title="ikan hias" data-wpil-keyword-link="linked">ikan hias</a> koleksi Ichwan. Awalnya Ichwan berhasrat untuk segera menikmati kemolekan mereka. Itulah sebabnya 3 hari setelah dekorasi akuarium rampung, pengusaha restoran itu langsung mencemplungkan sejumlah ikan. Sebuah tindakan fatal. Soalnya, ekosistem belum stabil. Keruan saja ikan stres.</em>

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cara mengatasi kandang itik berbau tak sedap
+title: "Cara mengatasi kandang itik berbau tak sedap"
 categories: artikel|Peternakan
 date: 2020-08-19 09:00:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/Kandang-Bebek-dari-Bambu_1084x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Kandang-Bebek-dari-Bambu_1084x800.jpg"
 tags:
 - bebek
 - itik
 - kandang
 
 modification_time: 2022-09-11 01:13:37
-blogger_orig_url: http://localhost/mitra/mengatasi-bau-kandang-itik.html
+blogger_orig_url: "http://localhost/mitra/mengatasi-bau-kandang-itik.html"
 ---
 
 Anda pernah masuk ke kandang itik? Bau kurang sedap pasti menyerang hidung, apalagi saat musim hujan tiba. Ada cara untuk mengurangi munculnya bau kurang sedap, sehingga peternakan itik tidak mengganggu lingkungan sekitar.

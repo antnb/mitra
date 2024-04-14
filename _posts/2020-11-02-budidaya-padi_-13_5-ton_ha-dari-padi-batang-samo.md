@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Budidaya Padi: 13,5 ton/ha dari Padi Batang Samo
+title: "Budidaya Padi: 13,5 ton/ha dari Padi Batang Samo"
 categories: Pertanian
 date: 2020-11-02 09:14:41
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_padi_1201x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_padi_1201x720.jpg"
 tags:
 - padi
 - sawah
 
 modification_time: 2022-09-19 05:24:25
-blogger_orig_url: http://localhost/mitra/budidaya-padi-135-ton-ha-dari-padi.html
+blogger_orig_url: "http://localhost/mitra/budidaya-padi-135-ton-ha-dari-padi.html"
 ---
 
 Januari tahun ini memberikan kebahagiaan tersendiri bagi Sumaji, ketua kelompok tani Mugi Rezeki, Bekonang, Sukoharjo. Sementara petani lain hanya mendapatkan 4-6 ton/ha, pria asal Desa Mojolaban itu mampu mendulang 13,5 ton padi/ha.

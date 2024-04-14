@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Organik dan Hidroponik, Kunci Kemurahan Harga dan Kualitas Makanan di Restoran Joglo Ndeso, Magelang
+title: "Organik dan Hidroponik, Kunci Kemurahan Harga dan Kualitas Makanan di Restoran Joglo Ndeso, Magelang"
 categories: Pertanian
 date: 2019-10-08 11:41:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/hidroponik-organik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/hidroponik-organik.jpg"
 tags:
 - bisnis
 - Hidroponik
@@ -12,7 +12,7 @@ tags:
 - pola pertanian
 
 modification_time: 2022-12-24 08:57:21
-blogger_orig_url: http://localhost/mitra/bisnis-restoran-organik-dengan-pola.html
+blogger_orig_url: "http://localhost/mitra/bisnis-restoran-organik-dengan-pola.html"
 ---
 
 Restoran Joglo Ndeso di Magelang menawarkan makanan berkualitas dengan harga yang bersahabat. Restoran ini menggunakan metode organik dan hidroponik untuk menghasilkan makanan yang segar dan berkualitas. Organik adalah metode yang menggunakan bahan-bahan alami dan tidak menggunakan pestisida atau pupuk kimia dalam proses budidaya. Sementara, hidroponik adalah metode budidaya tanaman tanpa tanah, dan menggunakan air dan nutrisi mineral untuk menghasilkan sayuran dan buah-buahan yang lebih segar dan berkualitas. Dengan menggabungkan metode ini, Restoran Joglo Ndeso berhasil menghasilkan makanan yang lezat dan sehat dengan harga yang terjangkau.

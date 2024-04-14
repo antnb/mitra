@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Nafas Ellindo di Phalaenopsis Taiwan
+title: "Nafas Ellindo di Phalaenopsis Taiwan"
 categories: tanaman hias
 date: 2022-02-28 12:33:41
 author: Mitra
-image: 
+image: ""
 tags:
 - 
 
 modification_time: 2022-02-28 12:33:41
-blogger_orig_url: http://localhost/mitra/nafas-ellindo-di-phalaenopsis-taiwan.html
+blogger_orig_url: "http://localhost/mitra/nafas-ellindo-di-phalaenopsis-taiwan.html"
 ---
 
 Setelah memilah anggrek yang diinginkan, pedagang tinggal pulang. Soal mengemas dan mengantar menjadi urusan Ellindo. Seorang karyawan lantas melapis kardus dengan kapas setebal 5 cm. Anggrek kemudian dibaringkan di atasnya dan dilapisi kapas lagi. Menjelang pameran, intensitas pekerjaan kian meningkat. Musababnya, makin banyak pedagang yang berkunjung untuk belanja anggrek Taiwan di sana.

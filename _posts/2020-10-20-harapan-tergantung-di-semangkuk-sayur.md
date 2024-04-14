@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Harapan Tergantung Di Semangkuk Sayur
+title: "Harapan Tergantung Di Semangkuk Sayur"
 categories: artikel
 date: 2020-10-20 13:51:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/organik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/organik.jpg"
 tags:
 - 
 
 modification_time: 2020-10-20 13:51:07
-blogger_orig_url: http://localhost/mitra/harapan-tergantung-di-semangkuk-sayur.html
+blogger_orig_url: "http://localhost/mitra/harapan-tergantung-di-semangkuk-sayur.html"
 ---
 
 <p>Istirahat siang tak pernah disia-siakan oleh Juniarti. Wakil presiden direktur PT Konimex Indonesia itu biasanya segera meluncur ke kediamannya di bilangan Mesen, Solo. Di sana perempuan 70 tahun yang energik itu tak sekadar mengaso, tetapi menikmati sayuran organik kegemarannya. Sampai saat ini rutinitas ibu 4 anak itu telah berlangsung 7 tahun.</p>

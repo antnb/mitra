@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lobster Top Dari Lembah Baliem
+title: "Lobster Top Dari Lembah Baliem"
 categories: Perikanan
 date: 2021-01-08 11:04:00
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_10296-Crayfish-1_1024x663.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_10296-Crayfish-1_1024x663.jpg"
 tags:
 - huna lobster
 - lobster
@@ -13,7 +13,7 @@ tags:
 - tanaman air
 
 modification_time: 2021-01-08 11:04:00
-blogger_orig_url: http://localhost/mitra/lobster-top-dari-lembah-baliem.html
+blogger_orig_url: "http://localhost/mitra/lobster-top-dari-lembah-baliem.html"
 ---
 
 Tiba di Bogor, setelah melalui 10 jam perjalanan, tialo sebutan lobster di Papua Barat dicemplungkan ke bak berukuran 1 m x 1 m. Masing-masing bak berisi 8—10 ekor. Sejak itu Budi rutin menyambangi Lembah Baliem tiap triwulan untuk memboyong lobster berkulit cokelat gelap.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 2 jenis ikan discus Unggulan Hasil cross breed
+title: "2 jenis ikan discus Unggulan Hasil cross breed"
 categories: hobi|ikan hias
 date: 2020-04-02 13:18:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/cross-breed.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/cross-breed.jpg"
 tags:
 - cross breed
 - discus
 - diskus
 
 modification_time: 2020-04-02 13:18:06
-blogger_orig_url: http://localhost/mitra/2-jenis-ikan-discus-unggulan-hasil.html
+blogger_orig_url: "http://localhost/mitra/2-jenis-ikan-discus-unggulan-hasil.html"
 ---
 
 <em>Perjuangan pemilik Kitti Discus Farm itu memang tidak sia-sia. Keinginan untuk menghasilkan strain-strain baru kembali terwujud. “Saya ingin mendapatkan ikan discus jenis baru dan unik. Makanya saya tidak bosan untuk terus menyilangkan,” kata Kitti. Itu dibuktikan dengan mengeluarkan minimal 3 strain baru setiap tahun. Maklum, bagi mania diskus memiliki strain baru menjadi kebanggaan dan kepuasan.</em>

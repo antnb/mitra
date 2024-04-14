@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Packing Box Ayam Serama Untuk Export
+title: "Packing Box Ayam Serama Untuk Export"
 categories: artikel
 date: 2020-04-09 15:35:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Box-Ayam.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Box-Ayam.jpg"
 tags:
 - ayam
 - ayam hias
@@ -13,7 +13,7 @@ tags:
 - unggas
 
 modification_time: 2020-04-09 15:35:45
-blogger_orig_url: http://localhost/mitra/packing-box-ayam-serama-untuk-export.html
+blogger_orig_url: "http://localhost/mitra/packing-box-ayam-serama-untuk-export.html"
 ---
 
 Albert Tan, eksportir dan pelaku <a href="http://127.0.0.1/mitra/prospek-bisnis-menjanjikan-budidaya.html">Budidaya Ayam Serama</a> di Pulau Penang, Malaysia, mempersiapkan Box Ayam kamar ganda berbahan tripleks. Boks dalam terbagi atas 8 ruang berukuran masing-masing 24 cm x 18 cm x 18 cm. Pintu berupa kawat ram terletak di permukaan atas. Permukaan dinding luar setiap kamar dibuat 3 lubang angin masing-masing berdiameter 1 cm.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tiga jagung manis unggulan: jagung bonanza 9, Asian Honey
+title: "Tiga jagung manis unggulan: jagung bonanza 9, Asian Honey"
 categories: Pertanian
 date: 2019-10-30 04:49:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/asian-honey.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/asian-honey.jpg"
 tags:
 - jagung
 - jagung manis
@@ -12,7 +12,7 @@ tags:
 - tongkol
 
 modification_time: 2019-10-30 04:49:00
-blogger_orig_url: http://localhost/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html
+blogger_orig_url: "http://localhost/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html"
 ---
 
 Anas Ma’ruf lazim memperoleh 3-4 ton <span class="keyword _ngcontent-syc-100" aria-hidden="false">jagung bonanza</span> di lahan jagung seluas 0,5 ha. itu pun melonjak hingga 4-5 ton di lahan yang sama. Artinya produktivitas jagung super jenis jagung manis itu setara 8-10 ton per ha, sebelumnya 6-8 ton per ha.

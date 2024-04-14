@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Keuntungan Budidaya Pisang Bagi Para Pekebun
+title: "Keuntungan Budidaya Pisang Bagi Para Pekebun"
 categories: perkebunan|Pertanian
 date: 2020-01-08 12:11:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/01/buah-pisang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/01/buah-pisang.jpg"
 tags:
 - Buah
 - Pisang
 
 modification_time: 2020-01-08 12:11:00
-blogger_orig_url: http://localhost/mitra/manfaat-dan-keuntungan-budidaya-pisang.html
+blogger_orig_url: "http://localhost/mitra/manfaat-dan-keuntungan-budidaya-pisang.html"
 ---
 
 Bila Anda berbelanja pisang di pasar-pasar di Australia, Amerika Serikat, dan negara-negara Eropa, niscaya satu-dua jenis saja yang dijumpai. Ukuran, warna, dan rasa dijamin seragam. Di pasar tradisional hingga pasar swalayan di Indonesia, jenisnya beragam. Bukan hanya karena beda varietas, tapi juga kualitas.

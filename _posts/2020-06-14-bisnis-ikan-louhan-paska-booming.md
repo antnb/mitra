@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bisnis Ikan louhan Paska Booming
+title: "Bisnis Ikan louhan Paska Booming"
 categories: artikel|hobi|ikan hias
 date: 2020-06-14 15:50:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/ghhg_1084x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/ghhg_1084x800.jpg"
 tags:
 - 
 
 modification_time: 2020-06-14 15:50:05
-blogger_orig_url: http://localhost/mitra/bisnis-ikan-louhan-paska-booming.html
+blogger_orig_url: "http://localhost/mitra/bisnis-ikan-louhan-paska-booming.html"
 ---
 
 Saat berjaya segala jenis ikan louhan termahal seperti <em>cencu</em>, <em>kemalau</em>, hingga <em>kamfa</em> “high class” mengisi 200- 300 akuarium, milik Bensi Asra di Surabaya. Pemilik Virgo Akuarium dijalan Ngagel Tirtosari itu getol mengimpor 10- 15 boks atau setara 500-2.500 ekor ikan lou han dari Pulau Penang, Malaysia. Selain dijual eceran di Surabaya, ia pun melayani permintaan dari Samarinda, Bali, dan Sulawesi yang mencapai 200-300 ekor per bulan.

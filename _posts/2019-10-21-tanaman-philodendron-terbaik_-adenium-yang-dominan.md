@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Tanaman Philodendron Terbaik, Adenium Yang Dominan
+title: "Tanaman Philodendron Terbaik, Adenium Yang Dominan"
 categories: Arsip|hobi|tanaman hias
 date: 2019-10-21 06:10:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/adenium2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/adenium2.jpg"
 tags:
 - philodendron
 - tanaman philodendron
 
 modification_time: 2022-12-28 14:44:19
-blogger_orig_url: http://localhost/mitra/tanaman-philodendron-terbaik-adenium.html
+blogger_orig_url: "http://localhost/mitra/tanaman-philodendron-terbaik-adenium.html"
 ---
 
 Philodendron adalah tanaman yang sangat indah dan menawan. Berasal dari bahasa Yunani, philo (“cinta”) dan dendron (“pohon”), tumbuhan ini sangat populer dijadikan penghias ruangan atau taman. Tanaman ini dapat ditemukan di hutan tropis, seperti Indonesia, dan biasanya tumbuh di tempat-tempat lembap, seperti rawa, pinggir sungai, dan di pinggir jalan. Beberapa spesiesnya hidup merambat dengan bantuan akarnya pada tumbuhan lain. Selain itu, Philodendron juga dapat dibudidayakan dengan cara menanamnya di rumah, yang dapat menambah kesan alami pada ruangan.

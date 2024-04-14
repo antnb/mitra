@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kumbung Jamur Merang Untuk Menjaga Kualitas Jamur Terbaik
+title: "Kumbung Jamur Merang Untuk Menjaga Kualitas Jamur Terbaik"
 categories: perkebunan
 date: 2021-12-03 07:15:43
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/12/jamur3.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/jamur3.jpg"
 tags:
 - jamur
 
 modification_time: 2021-12-03 07:15:43
-blogger_orig_url: http://localhost/mitra/rahasia-menjaga-kualitas-jamur-bermutu.html
+blogger_orig_url: "http://localhost/mitra/rahasia-menjaga-kualitas-jamur-bermutu.html"
 ---
 
 Mutu jamur merang cenderung anjlok pada musim hujan. Sahim mampu mempertahankan kualitas jamur.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Grafting Tomat Untuk Mengendalikan Ralstonia Solanacearum Dan Peningkatan Produktivitas
+title: "Grafting Tomat Untuk Mengendalikan Ralstonia Solanacearum Dan Peningkatan Produktivitas"
 categories: perkebunan
 date: 2021-12-07 07:33:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/grafting-tomat.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/grafting-tomat.jpg"
 tags:
 - Grafting
 - tomat
 
 modification_time: 2022-09-13 09:50:22
-blogger_orig_url: http://localhost/mitra/grafting-tomat-untuk-mengendalikan.html
+blogger_orig_url: "http://localhost/mitra/grafting-tomat-untuk-mengendalikan.html"
 ---
 
 Tomat disambung? Ya, itulah yang dilakukan oleh Dr Mike Nichols, ahli hortikultura Massey University Selandia Baru<a href="#footnote-1">[1]</a>. Teknologi yang lazim diterapkan pada komoditas buah-buahan itu ternyata mendongkrak produksi tomat hingga 50%. Selain itu tanaman juga lebih tahan serangan hama dan penyakit.

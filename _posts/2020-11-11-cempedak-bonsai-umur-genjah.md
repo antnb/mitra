@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cempedak Bonsai Umur Genjah
+title: "Cempedak Bonsai Umur Genjah"
 categories: perkebunan
 date: 2020-11-11 08:48:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cempedak2_1127x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cempedak2_1127x720.jpg"
 tags:
 - cempedak
 
 modification_time: 2020-11-11 08:48:35
-blogger_orig_url: http://localhost/mitra/cempedak-bonsai-umur-genjah.html
+blogger_orig_url: "http://localhost/mitra/cempedak-bonsai-umur-genjah.html"
 ---
 
 Pohon cempedak biasanya tumbuh menjulang hingga lebih dari 15 m. Selain itu, ia lama berbuah. Artocarpus champeden Malaysia yang terkenal genjah pun baru berbuah di umur 5 tahun. Namun, koleksi terbaru Taman Buah Mekarsari, Cileungsi,Bogor, sudah panen meski belum genap berumur 2 tahun. Pohon cuma setinggi 4 m.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Inilah Cara Paprika Cebol di Tanam
+title: "Inilah Cara Paprika Cebol di Tanam"
 categories: hobi
 date: 2020-10-23 07:02:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/paprika2.png
+image: "http://localhost/mitra/wp-content/uploads/2020/10/paprika2.png"
 tags:
 - 
 
 modification_time: 2020-10-23 07:02:47
-blogger_orig_url: http://localhost/mitra/inilah-cara-paprika-cebol-di-tanam.html
+blogger_orig_url: "http://localhost/mitra/inilah-cara-paprika-cebol-di-tanam.html"
 ---
 
 Lantaran sosok yang "cebol", budidaya paprika pax berbeda dengan umumnya. Nutrisi misalnya diberikan lebih sedikit, 400 cc per hari. Pekebun pun harus cermat memilih cabang produksi. Dengan teknologi yang cocok, produktivitas bisa mencapai 2,5-3 kg per tanaman.

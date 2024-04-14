@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Penerbang Rindu Sapu-Sapu
+title: "Penerbang Rindu Sapu-Sapu"
 categories: ikan hias
 date: 2020-12-17 08:26:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ikansapu_1024x665.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ikansapu_1024x665.jpg"
 tags:
 - sapu sapu
 - sapu sapu hias
 - tangkapan alam
 
 modification_time: 2020-12-17 08:26:59
-blogger_orig_url: http://localhost/mitra/penerbang-rindu-sapu-sapu.html
+blogger_orig_url: "http://localhost/mitra/penerbang-rindu-sapu-sapu.html"
 ---
 
 Keindahan pantai Kuta, Bali, tidak mengalihkan perhatian Agung dari sapu-sapu yang ditawarkan Herman Oei tadi. Ia membayangkan ikan belang-belang sepanjang 10—15 cm, itu berenang di akuarium. Maklum ikan itu sudah lama diidam-idamkannya.

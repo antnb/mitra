@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Buah Makasar: Di Sini Ditebang, di Cina Obat Kanker
+title: "Buah Makasar: Di Sini Ditebang, di Cina Obat Kanker"
 categories: Herbal
 date: 2021-01-07 05:40:49
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_makasar_1024x581.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_makasar_1024x581.jpg"
 tags:
 - biji walot
 - brucea javanica
@@ -12,7 +12,7 @@ tags:
 - sel kanker
 
 modification_time: 2021-01-07 05:40:49
-blogger_orig_url: http://localhost/mitra/buah-makasar-di-sini-ditebang-di.html
+blogger_orig_url: "http://localhost/mitra/buah-makasar-di-sini-ditebang-di.html"
 ---
 
 Tersia-sianya buah makasar diungkap oleh Prof Dr Yusuf, pengobat di Sukabumi, Jawa Barat. "Anda jalan saja ke desa-desa di Sukabumi. Pohon walot banyak tumbuh di pinggir jalan menuju hutan," katanya. Tak ada yang mengetahui kegunaan ki padesa.

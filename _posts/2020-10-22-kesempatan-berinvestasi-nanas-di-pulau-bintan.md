@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kesempatan Berinvestasi Nanas di Pulau Bintan
+title: "Kesempatan Berinvestasi Nanas di Pulau Bintan"
 categories: perkebunan
 date: 2020-10-22 16:19:56
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/pineapple2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/pineapple2.jpg"
 tags:
 - 
 
 modification_time: 2020-10-22 16:19:56
-blogger_orig_url: http://localhost/mitra/kesempatan-berinvestasi-nanas-di-pulau.html
+blogger_orig_url: "http://localhost/mitra/kesempatan-berinvestasi-nanas-di-pulau.html"
 ---
 
 "Singapura dan Malaysia butuh nanas dalam jumlah besar" ungkap John Madyautama, direktur PT Mahkota Agro Purbamas. Itulah sebabnya perusahaan investasi di bidang agribisnis itu telah membuka kebun seluas 140 ha di Pulau Bintan, Riau. Seluas 40 ha tengah digarap. Nanas madu asal Subang, Jawa Barat, yang ditanamnya akan dipasarkan dalam bentuk segar.

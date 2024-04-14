@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Dua Varietas Melon Terbaik dari Negeri Jepang
+title: "Dua Varietas Melon Terbaik dari Negeri Jepang"
 categories: perkebunan
 date: 2020-10-19 05:40:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/rockmelon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/rockmelon.jpg"
 tags:
 - jepang
 - melon
 
 modification_time: 2022-09-19 05:40:16
-blogger_orig_url: http://localhost/mitra/karena-buah-melon-rindu-terhapus.html
+blogger_orig_url: "http://localhost/mitra/karena-buah-melon-rindu-terhapus.html"
 ---
 
 Masyarakat jepang sangat menyukai buah yang bercita rasa manis, Buah <a href="http://127.0.0.1/mitra/panduan-bertani-semangka.html">semangka</a> dan melon adalah salah satu buah yang populer di Jepang. Melon Jepang memiliki rasa yang sangat manis dan segar, dan banyak orang menyukainya.

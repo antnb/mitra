@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Nuri Ternate: Si Cantik yang Pintar "Ngomong"
+title: "Nuri Ternate: Si Cantik yang Pintar Ngomong"
 categories: hobi
 date: 2020-09-06 15:36:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_nuri-ternate_826x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_nuri-ternate_826x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 15:36:03
-blogger_orig_url: http://localhost/mitra/nuri-ternate-si-cantik-yang-pintar.html
+blogger_orig_url: "http://localhost/mitra/nuri-ternate-si-cantik-yang-pintar.html"
 ---
 
 <em>"Selamat pagi, selamat pagi," sapa nuri ternate milik Krisno berulang-ulang. Lorius garrulus itu nangkring di telapak tangan. Ia tampak menikmati elusan sang pemilik di tengkuknya. Tak lama kemudian chattering lory itu memanjat ke atas pundak Krisno.</em>

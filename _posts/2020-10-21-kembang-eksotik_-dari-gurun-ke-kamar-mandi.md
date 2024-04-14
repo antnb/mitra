@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kembang Eksotik: Dari Gurun ke Kamar Mandi
+title: "Kembang Eksotik: Dari Gurun ke Kamar Mandi"
 categories: artikel|hobi|tanaman hias
 date: 2020-10-21 08:13:52
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/stric.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/stric.jpg"
 tags:
 - 
 
 modification_time: 2020-10-21 08:13:52
-blogger_orig_url: http://localhost/mitra/kembang-eksotik-dari-gurun-ke-kamar.html
+blogger_orig_url: "http://localhost/mitra/kembang-eksotik-dari-gurun-ke-kamar.html"
 ---
 
 Ada pemandangan tak lazim di kamar mandi salah satu hotel berbintang lima di Singapura. Di atas bath tub dan wastafel berwarna biru tua berderet tilandsia di atas pot kerang dan batu. Bentuk beragam lancip seperti jarum atau melintir mirip rambut ular medusa. Semua itu menimbulkan kesan asri kamar mandi.

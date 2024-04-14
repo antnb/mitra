@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Populasi Turun, Produksi Justru Melambung
+title: "Populasi Turun, Produksi Justru Melambung"
 categories: perkebunan|Pertanian
 date: 2021-03-21 13:46:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/kentang1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/kentang1.jpg"
 tags:
 - Kentang
 - kentang atlantik
@@ -12,7 +12,7 @@ tags:
 - pekebun
 
 modification_time: 2021-03-21 13:46:50
-blogger_orig_url: http://localhost/mitra/populasi-turun-produksi-justru.html
+blogger_orig_url: "http://localhost/mitra/populasi-turun-produksi-justru.html"
 ---
 
 Akibat "salah asuhan" produktivitas kentang atlantik hanya 14 ton per ha. Cara budidaya varietas itu disamakan dengan granola yang lebih dulu dikebunkan di Indonesia. Dengan memperlebar jarak tanam, Masngudi dan H M Subchan di Banjarnegara, memanen atlantik minimal 20 ton per ha

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 3 Jenis Ayam Serama Persilangan: Tiga Rupa nan Istimewa
+title: "3 Jenis Ayam Serama Persilangan: Tiga Rupa nan Istimewa"
 categories: Peternakan
 date: 2021-01-20 13:16:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_1024x701.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_serama_1024x701.jpg"
 tags:
 - Ayam serama
 
 modification_time: 2021-01-20 13:16:53
-blogger_orig_url: http://localhost/mitra/jenis-ayam-serama-persilangan.html
+blogger_orig_url: "http://localhost/mitra/jenis-ayam-serama-persilangan.html"
 ---
 
 Hingga kini <span class="keyword _ngcontent-zht-101" aria-hidden="false">jenis ayam serama</span> hasil persilangan the smallest bantam itu terus dilakukan untuk mendapat keturunan termungil. Generasi baru itu berasal dari silangan berbagai ayam pilihan. "Generasi terbaru berbobot 190 sampai 230 g," kata The Leong Toh, penangkar di Penang, Malaysia. Serama super A ukuran tubuhnya kira-kira setinggi minuman kaleng menjadi buruan hobiis sekarang.

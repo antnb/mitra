@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Wave Gelombang Ke Empat Anthurium gelombang cinta
+title: "Wave Gelombang Ke Empat Anthurium gelombang cinta"
 categories: hobi|tanaman hias
 date: 2020-12-12 12:17:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_waveoflove_1024x691.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_waveoflove_1024x691.jpg"
 tags:
 - Anthurium
 - jenmanii
 - tanaman gelombang cinta
 
 modification_time: 2020-12-12 12:17:07
-blogger_orig_url: http://localhost/mitra/wave-gelombang-ke-empat-anthurium.html
+blogger_orig_url: "http://localhost/mitra/wave-gelombang-ke-empat-anthurium.html"
 ---
 
 Rezeki nomplok itu datang tak sengaja waktu Lukman berkeliling di arena pameran tanaman hias Flora dan Fauna di Lapangan Banteng, Jakarta Pusat. Di salah satu stan, ayah 4 anak itu berjumpa seorang pemain tanaman hias.

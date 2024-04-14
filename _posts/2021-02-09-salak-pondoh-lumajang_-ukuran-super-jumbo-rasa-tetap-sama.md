@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Salak Pondoh Lumajang: Ukuran Super Jumbo Rasa Tetap Sama
+title: "Salak Pondoh Lumajang: Ukuran Super Jumbo Rasa Tetap Sama"
 categories: perkebunan
 date: 2021-02-09 10:57:43
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_pondoh1_1024x695.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_pondoh1_1024x695.jpg"
 tags:
 - pegunungan
 - salak
 
 modification_time: 2021-02-09 10:57:43
-blogger_orig_url: http://localhost/mitra/salak-pondoh-lumajang-super-jumbo.html
+blogger_orig_url: "http://localhost/mitra/salak-pondoh-lumajang-super-jumbo.html"
 ---
 
 Ukuran boleh lebih besar, tapi rasa tetap sama seperti pondoh. Bahkan kerena kadar air lebih tinggi, teksturnya sedikit empuk, dan enak dimakan. Itulah <span class="keyword _ngcontent-gsu-100" aria-hidden="false">salak pondoh lumajang</span> yang mencoba menyaingi popularitas pondoh Sleman.

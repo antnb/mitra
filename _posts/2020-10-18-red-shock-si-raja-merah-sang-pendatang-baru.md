@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Red shock Si Raja Merah Sang Pendatang Baru
+title: "Red shock Si Raja Merah Sang Pendatang Baru"
 categories: artikel|hobi|ikan hias
 date: 2020-10-18 16:08:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/louhan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/louhan.jpg"
 tags:
 - 
 
 modification_time: 2020-10-18 16:08:12
-blogger_orig_url: http://localhost/mitra/red-shock-si-raja-merah-sang.html
+blogger_orig_url: "http://localhost/mitra/red-shock-si-raja-merah-sang.html"
 ---
 
 <p>Sosoknya nyaris sempurna. Kepala nongnong, bermuka lebar, dan ekor mengembang. Yang membuat spesial warna tubuhnya merah menyala bak api membara, membuat siapa saja yang memandangnya terkejut. Itulah <strong>red shock asal Thailand</strong>. Akankah pamor Si Raja Merah begitu hobiis Thailand menyebutnya itu bakal menggeser lou han super merah, red syn?</p>

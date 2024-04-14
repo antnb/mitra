@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jus Mengkudu Perontok Berbagai Macam Penyakit
+title: "Jus Mengkudu Perontok Berbagai Macam Penyakit"
 categories: kesehatan
 date: 2019-10-27 05:44:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/manfaat-jus-mengkudu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/manfaat-jus-mengkudu.jpg"
 tags:
 - Buah
 - diabetes
@@ -13,7 +13,7 @@ tags:
 - Mengkudu
 
 modification_time: 2022-12-28 16:03:49
-blogger_orig_url: http://localhost/mitra/jus-mengkudu-perontok-berbagai-macam.html
+blogger_orig_url: "http://localhost/mitra/jus-mengkudu-perontok-berbagai-macam.html"
 ---
 
 Royasih di Depok, Jawa Barat, punya cara sendiri <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-walet.html" data-wpil-post-to-id="">untuk mengatasi tekanan darah tinggi dan</a> kadar kolesterol darah yang meningkat, la menggunakan mengkudu untuk mengatasi kedua gangguan kardiovaskular itu. Royasih memarut 3 mengkudu matang seukuran kepalan tangan lalu menambahkan setengah gelas air. Setelah itu, ia memeras dan menyaring parutan mengkudu lalu mengonsumsi air perasan itu.

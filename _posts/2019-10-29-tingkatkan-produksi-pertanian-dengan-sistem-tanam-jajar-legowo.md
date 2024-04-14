@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tingkatkan Produksi Pertanian Dengan Sistem Tanam Jajar Legowo
+title: "Tingkatkan Produksi Pertanian Dengan Sistem Tanam Jajar Legowo"
 categories: Pertanian
 date: 2019-10-29 15:40:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/jagung-kering-pipil.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/jagung-kering-pipil.jpg"
 tags:
 - bisnis
 - jagung
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-29 12:14:54
-blogger_orig_url: http://localhost/mitra/sistem-tanam-jajar-legowo-tanaman.html
+blogger_orig_url: "http://localhost/mitra/sistem-tanam-jajar-legowo-tanaman.html"
 ---
 
 Kini, upaya telah dilakukan untuk meningkatkan produksi dan produktivitas, namun hal ini masih belum cukup. Untuk meningkatkan produktivitas padi secara berkelanjutan, diperlukan inovasi teknologi agar usahatani lebih efisien. Salah satu alternatif teknologi yang dapat diterapkan adalah dengan menggunakan sistem tanam jajar legowo. Pada sistem ini, jarak tanam antar rumpun dan antar barisan dikontrol serta pemadatan rumpun padi dalam barisan dilakukan. Selain itu, jarak antar barisan juga melebar sehingga seolah-olah rumpun padi berada di barisan pinggir. Hal ini memberikan manfaat sebagai tanaman pinggir (border effect). Selain itu, teknologi ini juga dapat meningkatkan hasil produksi dengan meminimalisasi kerugian akibat kerusakan hama dan penyakit tanaman.

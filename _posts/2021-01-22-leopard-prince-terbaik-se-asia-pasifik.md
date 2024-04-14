@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Leopard prince Terbaik Se-Asia Pasifik
+title: "Leopard prince Terbaik Se-Asia Pasifik"
 categories: tanaman hias
 date: 2021-01-22 14:50:41
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_angrek_969x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_angrek_969x768.jpg"
 tags:
 - Anggrek
 - anggrek bulan
@@ -15,7 +15,7 @@ tags:
 - taman anggrek
 
 modification_time: 2021-01-22 14:50:41
-blogger_orig_url: http://localhost/mitra/leopard-prince-terbaik-se-asia-pasifik.html
+blogger_orig_url: "http://localhost/mitra/leopard-prince-terbaik-se-asia-pasifik.html"
 ---
 
 Penampilan leopard prince itu amat prima. Sebuah tangkai bercabang 5 dilekati 28 kuntum berbentuk standar dan berukuran 8—9 cm. Seperti turunan Dtps, sun prince x phal. ho’s french fantasia lain, leopard prince itu juga berwarna dasar putih dan bertotol-totol merah tua. Keistimewaan sogo Fl 138, pigura merah muda selebar 0,5— 1 cm melingkari kuntum.

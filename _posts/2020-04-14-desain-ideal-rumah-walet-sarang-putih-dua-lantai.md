@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Desain Ideal Rumah Walet Sarang Putih Dua Lantai
+title: "Desain Ideal Rumah Walet Sarang Putih Dua Lantai"
 categories: artikel|Peternakan
 date: 2020-04-14 08:37:55
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Desain-Ideal-Rumah-Walet.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Desain-Ideal-Rumah-Walet.jpg"
 tags:
 - rumah walet
 - sarang walet
 - walet
 
 modification_time: 2020-04-14 08:37:55
-blogger_orig_url: http://localhost/mitra/desain-ideal-rumah-walet-sarang-putih.html
+blogger_orig_url: "http://localhost/mitra/desain-ideal-rumah-walet-sarang-putih.html"
 ---
 
 Rumah Walet sarang putih milik H Kholil itu unik. Sepintas gedung beratap genteng itu seperti rumah tinggal karena pintu, jendela, dan rolling door yang dulu dipakai sebagai garasi mobil masih ada. Namun, siapa sangka puluhan kilogram <a href="http://127.0.0.1/mitra/budidaya-sarang-walet-bisa-diternakan.html">sarang walet telah dituai</a> dari gedung yang dibangun sejak 1940 itu.

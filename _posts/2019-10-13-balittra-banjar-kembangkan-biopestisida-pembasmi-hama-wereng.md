@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Balittra Banjar Kembangkan Biopestisida Pembasmi Hama Wereng
+title: "Balittra Banjar Kembangkan Biopestisida Pembasmi Hama Wereng"
 categories: Pertanian
 date: 2019-10-13 16:08:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/hama-wereng.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/hama-wereng.jpg"
 tags:
 - hama
 - hama padi
@@ -14,7 +14,7 @@ tags:
 - wereng hijau
 
 modification_time: 2022-10-17 07:19:29
-blogger_orig_url: http://localhost/mitra/biopestisida-pembasmi-hama-wereng.html
+blogger_orig_url: "http://localhost/mitra/biopestisida-pembasmi-hama-wereng.html"
 ---
 
 Serangan hama wereng pada tanaman padi sering terjadi di Indonesia. Hama ini menyerang seluruh bagian tanaman padi, sehingga dapat menurunkan hasil panen. Wereng sendiri adalah hama yang hidup di dalam tanah dan menyebar dengan cara menyarang di dalam tubuh tanaman padi.

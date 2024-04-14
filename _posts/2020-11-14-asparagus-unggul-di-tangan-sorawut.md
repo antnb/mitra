@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Asparagus Unggul di Tangan Sorawut
+title: "Asparagus Unggul di Tangan Sorawut"
 categories: Pertanian
 date: 2020-11-14 09:34:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_asparagus_plantation4_640x470-1.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_asparagus_plantation4_640x470-1.jpeg"
 tags:
 - asparagus
 
 modification_time: 2022-09-24 06:51:23
-blogger_orig_url: http://localhost/mitra/asparagus-unggul-di-tangan-sorawut.html
+blogger_orig_url: "http://localhost/mitra/asparagus-unggul-di-tangan-sorawut.html"
 ---
 
 Wajar saja jika produksi Sorawut menjadi incaran eksportir. Tingkat keseragaman tinggi, sosok panjang, rebung renyah, manis, dan tak berserat. Inilah cara pekebun di Provinsi Rayong, 200 km dari Bangkok itu menangani rebung asparagus.

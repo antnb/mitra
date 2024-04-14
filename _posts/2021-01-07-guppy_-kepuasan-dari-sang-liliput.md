@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Guppy: Kepuasan dari Sang Liliput
+title: "Guppy: Kepuasan dari Sang Liliput"
 categories: hobi|ikan hias
 date: 2021-01-07 15:16:04
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_aquarium_1024x662.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_aquarium_1024x662.jpg"
 tags:
 - berjualan guppy
 - gold albino
@@ -12,7 +12,7 @@ tags:
 - mozaik albino
 
 modification_time: 2021-01-07 15:16:04
-blogger_orig_url: http://localhost/mitra/guppy-kepuasan-dari-sang-liliput.html
+blogger_orig_url: "http://localhost/mitra/guppy-kepuasan-dari-sang-liliput.html"
 ---
 
 Guppy-guppy miliknya memang menawan hati. Dengan corak indah dan proporsi tubuh sempurna, pantaslah jika gelar juara kerap diraih. Keelokan itu hasil rawatan tangan dingin pria asal Tegal ini. Kiprahnya di dunia guppy belum genap seumur jagung, tapi prestasinya patut diacungi jempol. Buktinya deretan piala memenuhi rumah dan farmnya di Bekasi, Jawa Barat.

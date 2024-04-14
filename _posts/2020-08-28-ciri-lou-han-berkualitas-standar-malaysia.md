@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ciri Lou Han Berkualitas Standar Malaysia
+title: "Ciri Lou Han Berkualitas Standar Malaysia"
 categories: artikel|hobi|ikan hias
 date: 2020-08-28 06:59:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-28 06:59:05
-blogger_orig_url: http://localhost/mitra/ciri-lou-han-berkualitas-standar.html
+blogger_orig_url: "http://localhost/mitra/ciri-lou-han-berkualitas-standar.html"
 ---
 
 <em>Dari ribuan ekor anak ikan yang lahir dari seekor betina, paling-paling hanya 2% saja yang berkualitas A. Oleh karena itu setelah besar lou han bermutu harganya ratusan juta rupiah. Syaratnya, ciri-ciri keindahan baik bentuk tubuh, corak, dan warna harus terpenuhi.</em>

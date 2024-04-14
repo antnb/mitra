@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pertanian Jeruk Nipis- Panduan Budidaya, Penanaman, Hama Dan Pemasaran
+title: "Pertanian Jeruk Nipis- Panduan Budidaya, Penanaman, Hama Dan Pemasaran"
 categories: perkebunan
 date: 2022-09-14 04:09:35
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/09/jeruk.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/09/jeruk.jpg"
 tags:
 - Jeruk
 
 modification_time: 2022-09-14 04:14:42
-blogger_orig_url: http://localhost/mitra/pertanian-jeruk-nipis-panduan-budidaya.html
+blogger_orig_url: "http://localhost/mitra/pertanian-jeruk-nipis-panduan-budidaya.html"
 ---
 
 Jeruk nipis merupakan salah satu tanaman yang banyak ditanam oleh petani di Indonesia. Pasalnya, permintaan jeruk nipis selalu tinggi, baik dari pasar domestik maupun ekspor.

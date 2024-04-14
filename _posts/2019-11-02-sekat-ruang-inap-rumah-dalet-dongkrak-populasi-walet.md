@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sekat Ruang Inap Rumah Dalet Dongkrak Populasi Walet
+title: "Sekat Ruang Inap Rumah Dalet Dongkrak Populasi Walet"
 categories: artikel
 date: 2019-11-02 13:34:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/walet7.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/walet7.jpg"
 tags:
 - bisnis
 - kain
@@ -12,7 +12,7 @@ tags:
 - walet
 
 modification_time: 2019-11-02 13:34:00
-blogger_orig_url: http://localhost/mitra/kain-sekat-ruang-inap-rumah-walet.html
+blogger_orig_url: "http://localhost/mitra/kain-sekat-ruang-inap-rumah-walet.html"
 ---
 
 Philip Yamin menggunakan Sekat Ruang Inap Rumah walet miliknya di Sumatera Utara dan Kalimantan Tengah. "Sekat semu berfungsi sebagai pembatas ruangan, pembagi koloni, sekaligus menghalangi sinar matahari," katanya.

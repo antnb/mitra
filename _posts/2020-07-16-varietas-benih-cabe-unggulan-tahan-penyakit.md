@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Varietas Benih Cabe Unggulan Tahan Penyakit
+title: "Varietas Benih Cabe Unggulan Tahan Penyakit"
 categories: perkebunan
 date: 2020-07-16 12:44:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/suryaf1_1280x773.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/suryaf1_1280x773.jpg"
 tags:
 - 
 
 modification_time: 2020-07-16 12:44:33
-blogger_orig_url: http://localhost/mitra/varietas-cabe-unggulan-tahan-penyakit.html
+blogger_orig_url: "http://localhost/mitra/varietas-cabe-unggulan-tahan-penyakit.html"
 ---
 
 <em>Sudah 1 tahun belakangan bapak seorang anak ini bergelut dengan Bibit <a href="http://127.0.0.1/mitra/keunggulan-cabe-keriting-dibandingkan.html">Cabe keriting</a>. Selain perawatannya relatif mudah, keuntungan yang diperoleh pun cukup menggiurkan. Per kilonya bisa laku Rp 11.000. Si Pedas itu ia pasarkan ke Jakarta dan pasar lokal.</em>

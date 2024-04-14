@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ranchu Thailand Dan China Rebut Pasar Lokal
+title: "Ranchu Thailand Dan China Rebut Pasar Lokal"
 categories: hobi|ikan hias
 date: 2020-10-18 11:20:56
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/ranchu1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/ranchu1.jpg"
 tags:
 - 
 
 modification_time: 2020-10-18 11:20:56
-blogger_orig_url: http://localhost/mitra/ranchu-thailand-dan-china-rebut-pasar.html
+blogger_orig_url: "http://localhost/mitra/ranchu-thailand-dan-china-rebut-pasar.html"
 ---
 
 Bandara Baiyun dan Don Muang kian sering disinggahi importir <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/ikan-hias"  title="ikan hias" data-wpil-keyword-link="linked">ikan hias</a>. Selama 6 bulan terakhir mereka mondar-mandir ke Guangzhou, RRCina, dan Thailand untuk berburu ranchu. Sang ratu maskoki itu kini lagi naik daun. Rancu thailand dan cina berebut pasar di sini. Ambil contoh Markus Ahadi. Sejak Mei hingga pertengahan Agustus, ia 4 kali mendatangkan ranchu asal Thailand. Tidak tanggung-tanggung, salah satu yang diboyong ialah pemenang kontes The Majesty Princess Chulaporn Walailak di Mungthong Thani. Sekitar Rp 200-juta tabungannya terkuras untuk ranchu.

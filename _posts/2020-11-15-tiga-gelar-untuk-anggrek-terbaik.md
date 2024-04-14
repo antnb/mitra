@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tiga Gelar untuk Anggrek Terbaik
+title: "Tiga Gelar untuk Anggrek Terbaik"
 categories: hobi|tanaman hias
 date: 2020-11-15 13:03:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Anggrek-Terbaik.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Anggrek-Terbaik.jpg"
 tags:
 - Anggrek
 - Angraecum
@@ -12,7 +12,7 @@ tags:
 - Penentuan grand
 
 modification_time: 2022-09-14 11:07:36
-blogger_orig_url: http://localhost/mitra/tiga-gelar-untuk-anggrek-terbaik.html
+blogger_orig_url: "http://localhost/mitra/tiga-gelar-untuk-anggrek-terbaik.html"
 ---
 
 Ketika gulungan terakhir penilaian juri dibuka Susono Hadinugroho, ketua panitia, menyebut 07. Sontak tepuk tangan membahana mengiringi kemenangan Angraecum euburnum. Koleksi Santy Peeters yang bernomor 07 itu dinobatkan sebagai anggrek terbaik di Surabaya Orchid Show. Ia mengalahkan Phalaenopsis winter kaala x mount kaala, bernomor 212, koleksi Rizal Djaafarer dengan skor 9:4.

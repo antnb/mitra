@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Corak Keemasan di Tubuh Koi Utsuri
+title: "Corak Keemasan di Tubuh Koi Utsuri"
 categories: ikan hias
 date: 2020-09-16 07:22:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_koi_1002x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_koi_1002x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-16 07:22:07
-blogger_orig_url: http://localhost/mitra/corak-keemasan-di-tubuh-koi-utsuri.html
+blogger_orig_url: "http://localhost/mitra/corak-keemasan-di-tubuh-koi-utsuri.html"
 ---
 
 <em>Selama ini hanya 5 varian keluarga hikari-utsurimono yang umum dikenal seperti ki (kuning) utsuri, hi (merah) utsuri, kin (emas) showa, gin showa, dan shiro (putih) utsuri. Beberapa situs internet tentang koi pun lebih sering mencantumkan ke-5 varian itu. Padahal, sebetulnya kehadiran varian kin ki utsuri seumur ke-5 varian itu. Sayang ia sangat sulit didapat. Wajar bila kemudian dikelompokkan sebagai koi langka.</em>

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Halfmoon Generasi Emas dari Thailand
+title: "Halfmoon Generasi Emas dari Thailand"
 categories: ikan hias
 date: 2021-01-07 13:17:54
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lavender1_839x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lavender1_839x768.jpg"
 tags:
 - doubletail halfmoon
 - halfmoon
 - halfmoon gold
 
 modification_time: 2021-01-07 13:17:54
-blogger_orig_url: http://localhost/mitra/halfmoon-generasi-emas-dari-thailand.html
+blogger_orig_url: "http://localhost/mitra/halfmoon-generasi-emas-dari-thailand.html"
 ---
 
 Ketiga pendatang baru itu dibawa oleh Hermanus J Hariyanto, hobiis halfmoon di Tomang, Jakarta Barat. Mereka terbang ke tanah air bersama 20 halfmoon berkualitas lain. Rata-rata nilai transfernya S$120 per ekor setara Rp720-ribu. Harga itu terjangkau karena transaksi dilakukan sebelum turun kontes. “Selepas lomba, nilai transfer jauh berlipat,” kata Hermanus.

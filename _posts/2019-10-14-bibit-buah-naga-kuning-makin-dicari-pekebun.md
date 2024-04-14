@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bibit Buah Naga Kuning Makin Dicari Pekebun
+title: "Bibit Buah Naga Kuning Makin Dicari Pekebun"
 categories: perkebunan
 date: 2019-10-14 11:27:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Pitahaya.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Pitahaya.jpg"
 tags:
 - buah kuning
 - Buah Naga
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-09-24 08:25:26
-blogger_orig_url: http://localhost/mitra/bibit-buah-naga-kuning-hasil-pembiakan.html
+blogger_orig_url: "http://localhost/mitra/bibit-buah-naga-kuning-hasil-pembiakan.html"
 ---
 
 Pekebun di Semboro, Kabupaten Jember, Jawa Timur, Asroful Uswatun, kewalahan melayani permintaan Bibit Buah Naga kuning dan jingga sejak setahun terakhir. Pada tahun lalu Asroful hanya mampu menjual 5.000 pohon buah naga per bulan. Kini ia kelimpungan memenuhi total permintaan 50.000 bibit setiap bulan.

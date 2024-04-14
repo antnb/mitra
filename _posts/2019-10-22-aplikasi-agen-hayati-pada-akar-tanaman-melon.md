@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Aplikasi Agen Hayati Pada Akar Tanaman Melon
+title: "Aplikasi Agen Hayati Pada Akar Tanaman Melon"
 categories: Pertanian
 date: 2019-10-22 14:48:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/melon1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/melon1.jpg"
 tags:
 - hayati
 - melon
@@ -13,7 +13,7 @@ tags:
 - pupuk
 
 modification_time: 2022-09-24 08:02:23
-blogger_orig_url: http://localhost/mitra/aplikasi-agen-hayati-akar-tanaman-melon.html
+blogger_orig_url: "http://localhost/mitra/aplikasi-agen-hayati-akar-tanaman-melon.html"
 ---
 
 Tanaman tetap sehat hingga panen dengan aplikasi agen hayati pada akar tanaman melon, produksi meningkat, dan buah bermutu merupakan harapan bagi setiap pekebun melon. Maklum, jika itu terwujud artinya pendapatan melimpah di depan mata.

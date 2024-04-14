@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Modoinding Sentra Sayuran Terbesar Di Selatan Manado
+title: "Modoinding Sentra Sayuran Terbesar Di Selatan Manado"
 categories: artikel|Pertanian
 date: 2020-03-17 10:06:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Untitled_1280x708.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Untitled_1280x708.jpg"
 tags:
 - Kentang
 - manado
 - sayuran
 
 modification_time: 2022-09-11 06:59:23
-blogger_orig_url: http://localhost/mitra/modoinding-sentra-sayuran-terbesar.html
+blogger_orig_url: "http://localhost/mitra/modoinding-sentra-sayuran-terbesar.html"
 ---
 
 Dengan topografi dataran berombak, berbukit-bukit, dan bergunung, deretan tanaman yang berbaris rapi di lahan-lahan pekebun sungguh mempesona. Dari wilayah seluas 66,44 km2 berpenduduk 11.533 jiwa itulah sebagian besar kebutuhan sayuran masyarakat Sulawesi Utara dipasok.

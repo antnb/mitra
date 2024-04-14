@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Memburu Kenikmatan di Sebatang Cerutu
+title: "Memburu Kenikmatan di Sebatang Cerutu"
 categories: artikel
 date: 2020-09-14 07:11:52
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_cerutu_1132x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_cerutu_1132x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-14 07:11:52
-blogger_orig_url: http://localhost/mitra/memburu-kenikmatan-di-sebatang-cerutu.html
+blogger_orig_url: "http://localhost/mitra/memburu-kenikmatan-di-sebatang-cerutu.html"
 ---
 
 <em>Budi Yuhanto mestinya dapat langsung ke apartemen untuk beristirahat setelah bekerja keras sepanjang hari. Namun, ia lebih memilih ke hotel berbintang di Jakarta Pusat. Untuk mencapai apartemen, mobilnya mesti melewati jalur 3 in 1. Padahal ia hanya berdua dengan sopir. Di sanalah ia menyigar hingga malam merayap perlahan. Ketika kemacetan yang mengular di jalanan ibu kota mulai terurai barulah ia meninggalkan hotel.</em>

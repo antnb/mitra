@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Popularitas Ikan Louhan Di Indonesia Dan Malaysia
+title: "Popularitas Ikan Louhan Di Indonesia Dan Malaysia"
 categories: hobi|ikan hias
 date: 2020-08-27 07:22:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/lou-han_1280x725.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/lou-han_1280x725.jpg"
 tags:
 - 
 
 modification_time: 2020-08-27 07:22:20
-blogger_orig_url: http://localhost/mitra/popularitas-ikan-louhan-di-indonesia.html
+blogger_orig_url: "http://localhost/mitra/popularitas-ikan-louhan-di-indonesia.html"
 ---
 
 <em>"Harganya Rp 1,2-miliar," kata Lim Meng, pengelola Mermaid Explorer di Kualalumpur sambil menunjuk seekor lou ban yang tengah hilir-mudik di akuarium. Siklid berjidat super besar itu bermotif wanita dengan rambut tergerai dan tangan terentang ke atas. Ikan hoki itu kini mewabah di Indonesia, hingga seorang hobiis berani membeli seekor lou ban Rp 160-juta. Berdasarkan lacakan <a href="http://127.0.0.1/mitra"><a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a></a> lou ban itulah yang memegang rekor termahal di tanah air.</em>

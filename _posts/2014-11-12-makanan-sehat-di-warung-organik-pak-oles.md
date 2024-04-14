@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Makanan sehat Di Warung Organik Pak Oles
+title: "Makanan sehat Di Warung Organik Pak Oles"
 categories: artikel
 date: 2014-11-12 10:41:53
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/11/oles.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/oles.jpeg"
 tags:
 - hidangan
 - makanan
@@ -14,7 +14,7 @@ tags:
 - warung
 
 modification_time: 2022-09-23 16:20:17
-blogger_orig_url: http://localhost/mitra/makan-sehat-dan-kenyang-di-warung.html
+blogger_orig_url: "http://localhost/mitra/makan-sehat-dan-kenyang-di-warung.html"
 ---
 
 You are what you eat ungkapan ini menggambarkan bahwa makanan yang kita makan sangat menentukan diri kita.Makan sering hanya dianggap sebagai obat kenyang, tanpa memperhatikan segi kesehatan. Padahal, makan seharusnya tidak hanya asal kenyang tetapi juga mampu memberikan kontribusi bagi kesehatan, memberikan gizi yang baik dan menyehatkan badan. Atas dasar inilah Pak Oles mendirikan Warung Organik, yang menyajikan Makanan Sehat dan aman bagi tubuh.

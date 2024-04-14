@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hindarkan Cabe Anda dari Bahaya Virus Keriting
+title: "Hindarkan Cabe Anda dari Bahaya Virus Keriting"
 categories: artikel|perkebunan
 date: 2020-09-04 09:23:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_virus-keriting_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_virus-keriting_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 09:23:57
-blogger_orig_url: http://localhost/mitra/hindarkan-cabe-anda-dari-bahaya-virus.html
+blogger_orig_url: "http://localhost/mitra/hindarkan-cabe-anda-dari-bahaya-virus.html"
 ---
 
 <em>Keberhasilan budidaya tanaman cabe sangat ditentukan oleh kemampuan petani dalam mengendalikan hama atau penyakit yang menyerang tanaman, disamping juga oleh teknik budidaya yang dipilih.</em>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pisang Mas Kirana Tumpuan Lumajang
+title: "Pisang Mas Kirana Tumpuan Lumajang"
 categories: perkebunan
 date: 2020-12-15 16:31:41
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/PISANG-MAS-KIRANA2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/PISANG-MAS-KIRANA2.jpg"
 tags:
 - pasar swalayan
 - Pisang
@@ -13,7 +13,7 @@ tags:
 - sewu segar
 
 modification_time: 2020-12-15 16:31:41
-blogger_orig_url: http://localhost/mitra/pisang-mas-kirana-tumpuan-lumajang.html
+blogger_orig_url: "http://localhost/mitra/pisang-mas-kirana-tumpuan-lumajang.html"
 ---
 
 Pisang memang bukan mainan baru bagi Sewu Segar. Sebelumnya, produsei buah skala besar itu suksc memasarkan pisang cavendish. Sewu Segar menjual 40 ton cavendish/hari. Kini, pisang mas yang dipasarkan sejak 2 tahun silam pun mendapat respon positif dari konsumen.

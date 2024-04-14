@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Aigoromo Sang Peniru Kohaku
+title: "Aigoromo Sang Peniru Kohaku"
 categories: hobi|ikan hias
 date: 2020-10-25 12:12:31
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/kohaku2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/kohaku2.jpg"
 tags:
 - 
 
 modification_time: 2020-10-25 12:12:31
-blogger_orig_url: http://localhost/mitra/aigoromo-sang-peniru-kohaku.html
+blogger_orig_url: "http://localhost/mitra/aigoromo-sang-peniru-kohaku.html"
 ---
 
 Berawal dari kohaku, berakhir di kohaku. Asumsi yang tumbuh di kalangan hobiis koi itu tak selamanya benar. Setidaknya bagi Denny Santoso. "Sejak kenal koi 8 tahun lalu saya sudah menyukai koromo," kata pengusaha furnitur yang mengisi waktu luang dengan menikmati keindahan koromo.

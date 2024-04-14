@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Budidaya Cabai: Pencegahan Serangan Virus Kuning
+title: "Budidaya Cabai: Pencegahan Serangan Virus Kuning"
 categories: artikel|perkebunan
 date: 2020-11-01 16:35:25
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cabe6_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cabe6_1280x720.jpg"
 tags:
 - cabai
 - hama
 - virus
 
 modification_time: 2020-11-01 16:35:25
-blogger_orig_url: http://localhost/mitra/budidaya-cabai-pencegahan-serangan.html
+blogger_orig_url: "http://localhost/mitra/budidaya-cabai-pencegahan-serangan.html"
 ---
 
 Amati tanaman <em>Capsicum annuum</em> Anda. Bila pucuk tampak cekung mengerut dan berwarna mosaik hijau pucat, berhati-hatilah. Itulah gejala serangan virus kuning. Bagai efek domino, gejala itu berdampak pada mengerutnya daun, menebal, dan daun penuh tonjolan. Akibat lebih lanjut, fotosintesis terganggu. Bila sudah demikian pertumbuhan tanaman terhambat. Penyakit ganas itu kini menyambangi sentra-sentra cabai di lebih dari 10 provinsi.

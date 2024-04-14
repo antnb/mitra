@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Gemerincing Rupiah Berkat Salak Pondoh
+title: "Gemerincing Rupiah Berkat Salak Pondoh"
 categories: perkebunan
 date: 2020-10-20 07:56:43
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/716008_720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/716008_720.jpg"
 tags:
 - 
 
 modification_time: 2020-10-20 07:56:43
-blogger_orig_url: http://localhost/mitra/gemerincing-rupiah-berkat-salak-pondoh.html
+blogger_orig_url: "http://localhost/mitra/gemerincing-rupiah-berkat-salak-pondoh.html"
 ---
 
 <p>Jam menunjukkan pukul 04.00. Beberapa pick up sarat muatan memasuki pelataran pasar salak Banjarnegara. Kedatangan mereka disambut barisan "wakil'' pengepul untuk berebut menawar. Begitu transaksi selesai, mobil lain pang datang-berlanjut hingga pukul 9.00-diperlakukan sama. Total salak masuk mencapai 20 ton. Saat panen raya minimal 100 ton per hari. Dengan harga Rp4.500 per kg, omzet berputar mencapai Rp90-juta-Rp450-juta per hari.</p>

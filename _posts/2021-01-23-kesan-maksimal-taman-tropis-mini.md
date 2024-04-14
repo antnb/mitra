@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kesan Maksimal Taman Tropis Mini
+title: "Kesan Maksimal Taman Tropis Mini"
 categories: Gardening|tanaman hias
 date: 2021-01-23 04:55:18
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_taman1_1024x729.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_taman1_1024x729.jpg"
 tags:
 - gardening tanaman
 - penampilan taman
@@ -12,7 +12,7 @@ tags:
 - taman tropis
 
 modification_time: 2021-01-23 04:55:18
-blogger_orig_url: http://localhost/mitra/taman-tropis-mini.html
+blogger_orig_url: "http://localhost/mitra/taman-tropis-mini.html"
 ---
 
 Pantas Budi, sang pemilik, kini betah berlama-lama duduk di sana. Harmonisasi warna-warni tanaman menawarkan kenyamanan. Di tengah-tengah menyembul kolam mini berpadu dengan deretan aralia dan bakung di pinggirnya. Di sudut-sudut taman tropis tumbuh menjulang pandan bali, palem merah, dan cemara meredam terik matahari.

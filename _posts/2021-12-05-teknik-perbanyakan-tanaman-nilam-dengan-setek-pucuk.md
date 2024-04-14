@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Teknik Perbanyakan Tanaman Nilam Dengan setek pucuk
+title: "Teknik Perbanyakan Tanaman Nilam Dengan setek pucuk"
 categories: perkebunan
 date: 2021-12-05 11:46:27
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/12/Pogostemon-cablin-Benth.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/Pogostemon-cablin-Benth.jpg"
 tags:
 - nilam
 - stek
 
 modification_time: 2021-12-05 11:46:27
-blogger_orig_url: http://localhost/mitra/perbanyakan-setek-pucuk-tanaman-nilam.html
+blogger_orig_url: "http://localhost/mitra/perbanyakan-setek-pucuk-tanaman-nilam.html"
 ---
 
 Teknik baru perbanyakan Patchouli (tanaman nilam) dengan setek pucuk, lebih cepat tumbuh dan produktif.

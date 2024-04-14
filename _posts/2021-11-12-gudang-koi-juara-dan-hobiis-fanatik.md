@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Gudang koi juara dan hobiis fanatik
+title: "Gudang koi juara dan hobiis fanatik"
 categories: hobi|ikan hias
 date: 2021-11-12 08:13:07
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/bekko-koi-fish-champion.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/bekko-koi-fish-champion.jpg"
 tags:
 - ikan koi
 
 modification_time: 2021-11-12 08:13:07
-blogger_orig_url: http://localhost/mitra/gudang-koi-juara-dan-hobiis-fanatik.html
+blogger_orig_url: "http://localhost/mitra/gudang-koi-juara-dan-hobiis-fanatik.html"
 ---
 
 "Jangankan meraih gelar runner up koi champion, masuk peringkat tiga besar di setiap kelas saja sudah prestasi luar biasa," ujar pengusaha itu.

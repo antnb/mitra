@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Quail Farm: Konsep Beternak Secara Kolektif
+title: "Quail Farm: Konsep Beternak Secara Kolektif"
 categories: artikel|Peternakan
 date: 2020-11-08 12:36:28
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/quail.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/quail.jpg"
 tags:
 - PT Global Agromedia
 - puyuh
 - ternak
 
 modification_time: 2020-11-08 12:36:28
-blogger_orig_url: http://localhost/mitra/quail-farm-konsep-beternak-secara.html
+blogger_orig_url: "http://localhost/mitra/quail-farm-konsep-beternak-secara.html"
 ---
 
 Beternak puyuh secara kolektif adalah konsep baru yang diperkenalkan PT Global Agromedia. Peminat agribisnis yang ingin berinvestasi di <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/peternakan"  title="peternakan" data-wpil-keyword-link="linked">peternakan</a> dapat terjun langsung ke bidang ini. Agar berhasil mereka difasilitasi dan dibimbing oleh tenaga berpengalaman dan profesional agar berhasil.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ramuan Rimpang Sebagai Obat Flu Burung Pada Ayam
+title: "Ramuan Rimpang Sebagai Obat Flu Burung Pada Ayam"
 categories: Peternakan
 date: 2021-11-29 16:47:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/rimpang1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/rimpang1.jpg"
 tags:
 - ayam
 
 modification_time: 2022-09-19 06:56:06
-blogger_orig_url: http://localhost/mitra/ramuan-rimpang-pengusir-flu-burung.html
+blogger_orig_url: "http://localhost/mitra/ramuan-rimpang-pengusir-flu-burung.html"
 ---
 
 Tukidi, peternak di Sukoharjo, Jawa Tengah, terpaksa gulung tikar. Hanya dalam semalam 1.000 ayam di farmnya menemui ajal karena serangan flu burung.Serangan flu burung itu datang tiba-tiba dan tidak disadari. Sore hari saat mempersiapkan pengiriman ayam untuk pembeli di Jakarta, Tukidi melihat tanda merah di anus <em>Gollus gallus domesticus</em> itu. "Sore pantatnya merah, pagi harinya ayam mati," kenang Tukidi.

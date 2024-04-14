@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jahe merah: Ijo Royo-royo ala Jakarta Timur
+title: "Jahe merah: Ijo Royo-royo ala Jakarta Timur"
 categories: artikel
 date: 2020-12-10 14:09:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_jahe1_993x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_jahe1_993x768.jpg"
 tags:
 - jahe
 - jahe merah
@@ -12,7 +12,7 @@ tags:
 - suku dinas pertanian
 
 modification_time: 2020-12-10 14:09:36
-blogger_orig_url: http://localhost/mitra/jahe-merah-ijo-royo-royo-ala-jakarta.html
+blogger_orig_url: "http://localhost/mitra/jahe-merah-ijo-royo-royo-ala-jakarta.html"
 ---
 
 Itulah salah satu program suku Dinas Pertanian Jakarta Timur untuk mengubah kota Jakarta yang berpolusi, penuh debu, dan gersang. "Awalnya kami hanya mengikuti instruksi Gubernur DKI, meng-ijo royo-royo-kan Jakarta. Tapi jika hanya itu tujuannya, sulit membuat masyarakat ikut berperan," kata Aswin Saragih, kepala Suku Dinas Pertanian Jakarta Timur. Yang tak kalah penting menurut Aswin program itu harus bisa memberikan tambahan pendapatan.

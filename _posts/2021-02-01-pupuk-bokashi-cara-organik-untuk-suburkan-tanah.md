@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pupuk Bokashi Cara Organik Untuk Suburkan Tanah
+title: "Pupuk Bokashi Cara Organik Untuk Suburkan Tanah"
 categories: perkebunan|Pertanian
 date: 2021-02-01 08:31:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_bokashi_1024x632.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_bokashi_1024x632.jpg"
 tags:
 - bahan organik
 - bokashi
@@ -15,7 +15,7 @@ tags:
 - membuat bokashi
 
 modification_time: 2022-09-19 17:32:30
-blogger_orig_url: http://localhost/mitra/bokashi-pupuk-kandang-resep-sehatkan.html
+blogger_orig_url: "http://localhost/mitra/bokashi-pupuk-kandang-resep-sehatkan.html"
 ---
 
 Sebutan “tanah sakit“ baru muncul 2 dasawarsa terakhir. Julukan itu diberikan pada tanah yang diberi pupuk terus-menerus tapi produksi tetap, bahkan menurun. Prof Go Ban Hong, pakar ilmu tanah Indonesia, menyebut dengan sebutan lebih menyeramkan: “tanah lapar!” Pada tanah seperti itu “Berapa pun pupuk yang diberikan tanah tetap rusak. Kesehatan tanah secara fisik, kimia, dan biologi terganggu,” tutur Dr Dedik Budianta, ahli kesuburan tanah dari Universitas Sriwijaya.

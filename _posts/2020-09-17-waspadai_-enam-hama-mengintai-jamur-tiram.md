@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Waspadai, Enam Hama Mengintai Jamur Tiram
+title: "Waspadai, Enam Hama Mengintai Jamur Tiram"
 categories: artikel|perkebunan
 date: 2020-09-17 07:29:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_baglog_1280x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_baglog_1280x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-17 07:29:34
-blogger_orig_url: http://localhost/mitra/waspadai-enam-hama-mengintai-jamur.html
+blogger_orig_url: "http://localhost/mitra/waspadai-enam-hama-mengintai-jamur.html"
 ---
 
 <em>Akibat serangga kumbang, praktis 20.000 baglog di kumbung 10mx 14mx3 m gagal berproduksi. Semua luluh lantak. Awalnya hanya beberapa baglog yang terserang. “Saya tidak tahu kalau itu hama. Makanya saya biarkan saja,” kata Imam. Ketidaktahuan tentang jenis hama yang menyerang berakibat fatal. Dengan langkah gontai, ia mengamati satu per satu baglog yang terserang hama di atas rak bambu bertingkat. Ia hanya pasrah menatap larva putih berbentuk silindris itu menyantap satu per satu Pleurotus astreatus miliknya.</em>

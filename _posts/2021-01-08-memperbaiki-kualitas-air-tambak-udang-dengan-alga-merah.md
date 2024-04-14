@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Memperbaiki Kualitas Air Tambak Udang Dengan alga merah
+title: "Memperbaiki Kualitas Air Tambak Udang Dengan alga merah"
 categories: Perikanan
 date: 2021-01-08 11:50:18
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_Penaeusmonodon_1024x651.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_Penaeusmonodon_1024x651.jpg"
 tags:
 - udang
 
 modification_time: 2021-01-08 11:50:18
-blogger_orig_url: http://localhost/mitra/kualitas-air-tambak-alga-merah.html
+blogger_orig_url: "http://localhost/mitra/kualitas-air-tambak-alga-merah.html"
 ---
 
 alga merah yang ditanam pada tambak terbukti dapat memperbaiki kualitas air. Itulah kunci lonjakan produksi. Ia meningkatkan kadar oksigen terlarut 14,5%. Akibatnya kejernihan air tercipta hingga pertumbuhan windu meningkat 48%.

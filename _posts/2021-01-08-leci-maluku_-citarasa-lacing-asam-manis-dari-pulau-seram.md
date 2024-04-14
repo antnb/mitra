@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Leci Maluku: Citarasa Lacing Asam Manis Dari Pulau Seram
+title: "Leci Maluku: Citarasa Lacing Asam Manis Dari Pulau Seram"
 categories: perkebunan
 date: 2021-01-08 14:12:17
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_leci_1024x579.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_leci_1024x579.jpg"
 tags:
 - leci
 - leci istimewa
@@ -13,7 +13,7 @@ tags:
 - pulau seram
 
 modification_time: 2021-01-08 14:12:17
-blogger_orig_url: http://localhost/mitra/leci-maluku-citarasa-lacing-asam-manis.html
+blogger_orig_url: "http://localhost/mitra/leci-maluku-citarasa-lacing-asam-manis.html"
 ---
 
 Lacing sampai begitu sebutan masyarakat Maluku untuk leci <i>Litchi sinensis</i> itu Trubus temukan di anjungan Dinas Pertanian Provinsi Maluku pada pameran hortikultura di Jakarta pada Oktober 2004. Dua keranjang bambu dipenuhi Leci Maluku berwarna merah menarik. Waktu dicicipi, rasanya manis sedikit masam.

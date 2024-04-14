@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Siasat Cegah Serangan Koi Herpes virus (KHV)
+title: "Siasat Cegah Serangan Koi Herpes virus (KHV)"
 categories: artikel|ikan hias
 date: 2020-11-07 08:12:28
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_koi_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_koi_1280x720.jpg"
 tags:
 - koi
 - virus
 
 modification_time: 2020-11-07 08:12:28
-blogger_orig_url: http://localhost/mitra/siasat-cegah-serangan-koi-herpesvirus.html
+blogger_orig_url: "http://localhost/mitra/siasat-cegah-serangan-koi-herpesvirus.html"
 ---
 
 Mei 2015 bulan berkabung bagi Hendik Koi-koi di 25 kolam seluas 2 ha mati bergelimpangan. Akibat serangan herpes kerugian pemilik Sarinah Koi itu Rpl50-juta. "Dari 4.000 koi berbagai ukuran hanya 1.500 ekor pang bisa diselamatkan. Serangannya sangat cepat dan mematikan," ujar peternak di Blitar itu.

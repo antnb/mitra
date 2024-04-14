@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Inilah Perbedaan Fisik Ranchu Cina dan Thailand
+title: "Inilah Perbedaan Fisik Ranchu Cina dan Thailand"
 categories: artikel|ikan hias
 date: 2020-10-18 12:14:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/ranchu33.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/ranchu33.jpg"
 tags:
 - 
 
 modification_time: 2020-10-18 12:14:59
-blogger_orig_url: http://localhost/mitra/inilah-perbedaan-fisik-ranchu-cina-dan.html
+blogger_orig_url: "http://localhost/mitra/inilah-perbedaan-fisik-ranchu-cina-dan.html"
 ---
 
 Sama-sama ranchu, tetapi beda cara menikmatinya. Ranchu dari Cina elok dipandangi dari samping, side view. Itu karena corak menyebar ke seluruh tubuh. Ranchu asal Negeri Gajah Putih cantik dilongok dari atas atau top view, karena corak berkumpul di atas punggung dan ekor.

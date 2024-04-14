@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Duo Jambu Sukun, Bangkok Jumbo di Kebun Prakoso
+title: "Duo Jambu Sukun, Bangkok Jumbo di Kebun Prakoso"
 categories: perkebunan
 date: 2021-01-23 08:20:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_jambu_1024x667.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_jambu_1024x667.jpg"
 tags:
 - jambu
 
 modification_time: 2021-01-23 08:20:22
-blogger_orig_url: http://localhost/mitra/jambu-sukun-bangkok-jumbo.html
+blogger_orig_url: "http://localhost/mitra/jambu-sukun-bangkok-jumbo.html"
 ---
 
 Penampilan jambu sukun super jumbo itu memang menggiurkan. Bentuk nyaris persegi panjang dengan diameter bagian tengah setara lengan pria dewasa yang rutin berlatih beban.

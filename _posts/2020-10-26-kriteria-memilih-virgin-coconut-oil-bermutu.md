@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kriteria Memilih Virgin coconut oil Bermutu
+title: "Kriteria Memilih Virgin coconut oil Bermutu"
 categories: artikel|Herbal
 date: 2020-10-26 06:08:49
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/10/Virgin-Coconut-Oil-3.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Virgin-Coconut-Oil-3.jpeg"
 tags:
 - coconut oil
 - vco
 
 modification_time: 2020-10-26 06:08:49
-blogger_orig_url: http://localhost/mitra/kriteria-memilih-virgin-coconut-oil.html
+blogger_orig_url: "http://localhost/mitra/kriteria-memilih-virgin-coconut-oil.html"
 ---
 
 Tiga saudara Kleting Abang, Kleting Ijo, dan Kleting Biru-datang melamar Ande-Ande Lumut. Sayang, untuk mencapai lokasi pertapaan pria tampan itu, mereka menyerahkan keperawanan kepada Yuyu Kangkang. Yuyu berjasa menyeberangkan mereka melalui sebuah sungai. Itulah sebabnya tak satu pun diterima Ande-Ande Lumut. Hanya Kleting Kuning yang datang kemudian tetap perawan sehingga diterima Ande-Ande Lumut sebagai pendamping hidup.

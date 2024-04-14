@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Manfaat Dan Kegunaan Asam laurat
+title: "Manfaat Dan Kegunaan Asam laurat"
 categories: artikel
 date: 2020-08-15 08:43:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/asam-laurat_.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/asam-laurat_.jpg"
 tags:
 - 
 
 modification_time: 2020-08-15 08:43:10
-blogger_orig_url: http://localhost/mitra/manfaat-dan-kegunaan-asam-laurat.html
+blogger_orig_url: "http://localhost/mitra/manfaat-dan-kegunaan-asam-laurat.html"
 ---
 
 <em>Asam laurat, satu jenis asam lemak berantai sedang. Keampuhannya telah dibuktikan oleh banyak periset dunia. Peneliti di Pusat Kontrol Penyakit, g Georgia, Amerika Serikat, jhi mengungkap asam laurat efektif melawan 14 virus dan bakteri seperti influenza, rubella, coronavirus, herpes, Staphylococcus aureus, dan Streptococcus agaltiae.</em>

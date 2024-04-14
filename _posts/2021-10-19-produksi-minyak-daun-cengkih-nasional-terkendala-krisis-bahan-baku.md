@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Produksi Minyak Daun Cengkih Nasional Terkendala Krisis Bahan Baku
+title: "Produksi Minyak Daun Cengkih Nasional Terkendala Krisis Bahan Baku"
 categories: perkebunan
 date: 2021-10-19 07:54:38
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/10/Minyak-Cengkih.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/Minyak-Cengkih.jpg"
 tags:
 - cengkih
 - minyak cengkih
 - pohon cengkih
 
 modification_time: 2022-09-21 05:54:24
-blogger_orig_url: http://localhost/mitra/produksi-minyak-daun-cengkih.html
+blogger_orig_url: "http://localhost/mitra/produksi-minyak-daun-cengkih.html"
 ---
 
 Minyak daun cengkeh merupakan minyak yang diperoleh dari daun cengkeh. Cengkeh adalah pohon yang tumbuh di daerah tropis dan subtropis. Cengkeh memiliki daun yang lebar dan berwarna hijau tua. Minyak daun cengkeh berwarna coklat tua dan memiliki aroma yang kuat. Minyak daun cengkeh digunakan sebagai obat herbal dalam pengobatan tradisional. Minyak daun cengkeh juga digunakan dalam industri parfum, kosmetik, dan obat-obatan.

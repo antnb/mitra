@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Pestisida Nabati Berbahan Kentang Pembasmi Hama Wereng Secara Alami
+title: "Pestisida Nabati Berbahan Kentang Pembasmi Hama Wereng Secara Alami"
 categories: artikel|perkebunan|Pertanian
 date: 2021-12-03 11:16:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/wereng.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/wereng.jpg"
 tags:
 - Kentang
 - pestisida
 - wereng
 
 modification_time: 2021-12-03 11:16:34
-blogger_orig_url: http://localhost/mitra/pestisida-nabati-organik-hama-wereng.html
+blogger_orig_url: "http://localhost/mitra/pestisida-nabati-organik-hama-wereng.html"
 ---
 
 Pestisida Nabati berbahan kentang terbukti manjur untuk membasmi beragam hama dan penyakit seperti hama wereng dan hawar daun secara alami.

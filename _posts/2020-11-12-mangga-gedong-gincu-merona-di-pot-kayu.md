@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Mangga Gedong Gincu Merona di Pot Kayu
+title: "Mangga Gedong Gincu Merona di Pot Kayu"
 categories: hobi|perkebunan
 date: 2020-11-12 10:35:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_tabulampot_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_tabulampot_1280x720.jpg"
 tags:
 - Mangga
 - Tabulampot
 
 modification_time: 2022-09-16 07:33:29
-blogger_orig_url: http://localhost/mitra/gedong-gincu-merona-di-pot-kayu.html
+blogger_orig_url: "http://localhost/mitra/gedong-gincu-merona-di-pot-kayu.html"
 ---
 
 Elok benar tabulampot itu. Limabelas buah kuning bersemburat merah di bagian pantat menggelayuti pohon setinggi 2 m. Kontras dengan daun runcing berwarna hijau tua. Lantaran penampilan eksotis itu gedong gincu jadi buruan nomor satu penggemar tabulampot.

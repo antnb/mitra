@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cabe gunung: Varietas Cabai Dataran Tinggi
+title: "Cabe gunung: Varietas Cabai Dataran Tinggi"
 categories: perkebunan
 date: 2021-01-20 10:59:10
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_cabe_1024x745.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_cabe_1024x745.jpg"
 tags:
 - cabai
 - Cabai Adipati
 - west seed
 
 modification_time: 2021-01-20 10:59:10
-blogger_orig_url: http://localhost/mitra/cabe-gunung-varietas-cabai-dataran.html
+blogger_orig_url: "http://localhost/mitra/cabe-gunung-varietas-cabai-dataran.html"
 ---
 
 Provost, varietas cabe gunung yang diteliti Asep Harpenas dari PT East West Seed Indonesia itu bersosok tinggi. Daun hijau segar berukuran 8 cm x 5 cm. Ruas-ruas batang bergaris ungu.

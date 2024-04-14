@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Khasiat Dan Manfaat Bawang Putih Untuk Beragam Penyakit
+title: "Khasiat Dan Manfaat Bawang Putih Untuk Beragam Penyakit"
 categories: artikel|Herbal|kesehatan
 date: 2020-09-04 06:15:55
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Allium-sativum_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Allium-sativum_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 06:15:55
-blogger_orig_url: http://localhost/mitra/khasiat-dan-manfaat-bawang-putih-untuk.html
+blogger_orig_url: "http://localhost/mitra/khasiat-dan-manfaat-bawang-putih-untuk.html"
 ---
 
 <em>Bawang putih <strong>Allium sativum</strong> bukan sekadar bumbu dapur. Garlic itu mampu menyembuhkan berbagai penyakit, seperti hipertensi, kolestrol tinggi, diabetes mellitus, dan jantung koroner. Ia juga mengurangi kecenderungan penggumpalan darah.</em>

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Langsat Tanjung: Sekali Cicip Langsung Ketagihan
+title: "Langsat Tanjung: Sekali Cicip Langsung Ketagihan"
 categories: perkebunan
 date: 2021-12-03 06:39:56
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/12/Langsat-Tanjung.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/Langsat-Tanjung.jpg"
 tags:
 - langsat
 
 modification_time: 2022-09-19 17:58:05
-blogger_orig_url: http://localhost/mitra/langsat-tanjung-sekali-cicip.html
+blogger_orig_url: "http://localhost/mitra/langsat-tanjung-sekali-cicip.html"
 ---
 
 Langsat adalah salah satu jenis buah yang banyak ditanam di Indonesia. Buah langsat memiliki rasa yang segar dan manis, sehingga banyak digemari oleh masyarakat. Selain itu, langsat juga kaya akan vitamin C, sehingga banyak dijadikan sebagai obat alami untuk meningkatkan imunitas tubuh.

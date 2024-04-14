@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pisang Sepatu Amora Tanpa Jantung, Tahan Hama Penyakit
+title: "Pisang Sepatu Amora Tanpa Jantung, Tahan Hama Penyakit"
 categories: perkebunan
 date: 2021-09-04 10:06:17
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/pisang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/pisang.jpg"
 tags:
 - Pisang
 
 modification_time: 2021-09-04 10:06:17
-blogger_orig_url: http://localhost/mitra/pisang-sepatu-amora-tanpa-jantung.html
+blogger_orig_url: "http://localhost/mitra/pisang-sepatu-amora-tanpa-jantung.html"
 ---
 
 Di sebuah kebun di Amorang, Sulawesi Utara. Belasan batang <span class="keyword _ngcontent-uuo-101" aria-hidden="false">pisang sepatu</span> tampak berbuah lebat. Namun, tidak terlihat jantung yang menjuntai di ujung tandan seperti lazimnya. Itulah sepatu amora. Pisang manis dan lezat tanpa jantung itu tahan layu bakteri dan penyakit darah.

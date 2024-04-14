@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Batang Durian Kokoh di 3 Kaki
+title: "Batang Durian Kokoh di 3 Kaki"
 categories: perkebunan
 date: 2021-01-24 02:45:32
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_duren_1024x655.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_duren_1024x655.jpg"
 tags:
 - batang durian
 - kaki tiga
@@ -15,7 +15,7 @@ tags:
 - tunas baru
 
 modification_time: 2021-01-24 02:45:32
-blogger_orig_url: http://localhost/mitra/batang-durian-kokoh-di-3-kaki.html
+blogger_orig_url: "http://localhost/mitra/batang-durian-kokoh-di-3-kaki.html"
 ---
 
 Peremajaan (recovery) durian hal biasa di kebun Bernard. Banyak durian lokal di kebun itu tidak berproduksi maksimal diganti dengan varietas monthong. Pohon tidak dibongkar habis hingga ke akar. Melainkan disisakan tunggul batang sampai ketinggian 1,5 sampai 2 m di atas permukaan tanah.

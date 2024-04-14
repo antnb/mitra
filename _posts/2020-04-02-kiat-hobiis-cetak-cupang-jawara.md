@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Kiat Hobiis Cetak Cupang Jawara
+title: "Kiat Hobiis Cetak Cupang Jawara"
 categories: hobi|ikan hias
 date: 2020-04-02 14:49:39
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/cupang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/cupang.jpg"
 tags:
 - cupang
 - ikan cupang
 - serit
 
 modification_time: 2020-04-02 14:49:39
-blogger_orig_url: http://localhost/mitra/kiat-hobiis-cetak-cupang-jawara.html
+blogger_orig_url: "http://localhost/mitra/kiat-hobiis-cetak-cupang-jawara.html"
 ---
 
 Cahaya kemenangan bagi cupang andalan seakan tak pernah redup. Di penghujung Agustus 2019, di Bandung, Cupang Jawara milik Irwan kembali menyabet gelar grand champion di kelas senior. Kisah sukses itu ternyata belum berakhir. Kontes di Pelepah Mas, Kelapagading memperebutkan Piala Walikota Jakarta Utara awal September 2019 menjadi pembuktian. Cupang maskot berserit merah kombinasi biru metalik berhasil meraih grand champion di kelas senior. Kebahagiaan dan kebanggaan semakin lengkap saat maskot junior pun menuai gelar yang sama.

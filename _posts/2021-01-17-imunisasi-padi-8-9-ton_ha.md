@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Imunisasi Padi 8-9 ton/ha
+title: "Imunisasi Padi 8-9 ton/ha"
 categories: Pertanian
 date: 2021-01-17 05:06:55
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_padi_1024x679-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_padi_1024x679-1.jpg"
 tags:
 - padi
 - persemaian
 - pertanian padi
 
 modification_time: 2021-01-17 05:06:55
-blogger_orig_url: http://localhost/mitra/imunisasi-padi-8-9-ton-ha.html
+blogger_orig_url: "http://localhost/mitra/imunisasi-padi-8-9-ton-ha.html"
 ---
 
 Inovasi yang dilakukan Sarnadi dan Surya layak diacungi jempol. Pasalnya, cara itu istimewa dan baru. Beragam pestisida disemprotkan sejak anggota keluarga Gramineae dalam persemaian. Tujuannya agar bibit yang dihasilkan sehat dan bebas penyakit. "Hasil padi tak mungkin maksimal bila bibit sudah terserang hama dan penyakit. Karena itu kuncinya di persemaian," kata Sarnadi.

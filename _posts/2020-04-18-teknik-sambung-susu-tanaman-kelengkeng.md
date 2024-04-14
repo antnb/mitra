@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Teknik sambung susu tanaman kelengkeng
+title: "Teknik sambung susu tanaman kelengkeng"
 categories: perkebunan
 date: 2020-04-18 11:03:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/lengkeng-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/lengkeng-1.jpg"
 tags:
 - Kelengkeng
 
 modification_time: 2020-04-18 11:03:50
-blogger_orig_url: http://localhost/mitra/teknik-sambung-susu-tanaman-kelengkeng.html
+blogger_orig_url: "http://localhost/mitra/teknik-sambung-susu-tanaman-kelengkeng.html"
 ---
 
 <em>Seorang penangkar di Kreo, Ciledug, memilih sambung susu untuk memperbanyak lengkeng pinpong. Dengan cara itu tingkat keberhasilan mencapai 95%. “Perbanyakan dengan mencangkok kurang cocok untuk varietas pingpong,” katanya.</em>

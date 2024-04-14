@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sayuran Segar Dan Tahan Lama Dari Kota Musim Semi Abadi
+title: "Sayuran Segar Dan Tahan Lama Dari Kota Musim Semi Abadi"
 categories: perkebunan
 date: 2021-09-11 06:28:40
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/sayuran.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/sayuran.jpg"
 tags:
 - sayuran
 
 modification_time: 2022-09-21 06:17:39
-blogger_orig_url: http://localhost/mitra/usaha-sayuran-segar-dari-kota-musim.html
+blogger_orig_url: "http://localhost/mitra/usaha-sayuran-segar-dari-kota-musim.html"
 ---
 
 Pagi itu sinar matahari malu-malu menerobos masuk di antara dahan-dahan pohon pinus. Kabut putih melapang tipis memeluk deretan bukit-bukit hijau di Langbian Lam Vien, dalam bahasa Vietnam bagian dari dataran tinggi Cao Nguyen. Di sebuah rumah makan sederhana, semangkuk sup sayuran segar menghangatkan tubuh yang menggigil digigit udara dingin mirip Lembang, Bandung.

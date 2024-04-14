@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Teknik Packing Lobster Hidup Dengan Pembiusan Alami
+title: "Teknik Packing Lobster Hidup Dengan Pembiusan Alami"
 categories: artikel
 date: 2020-08-16 14:41:44
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/yabby_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/yabby_1067x800.jpg"
 tags:
 - lobster
 - packing
 - pengiriman
 
 modification_time: 2020-08-16 14:41:44
-blogger_orig_url: http://localhost/mitra/teknik-packing-lobster-hidup-dengan.html
+blogger_orig_url: "http://localhost/mitra/teknik-packing-lobster-hidup-dengan.html"
 ---
 
 Belakang teknik Packing lobster hidup untuk pengiriman jarak jauh itu dimodifikasi. Musababnya kematian mencapai 50% akibat bocor tertusuk capit red claw,menguap sia-sia. “Ini kelemahan jika mengemas lobster dengan teknik basah,” ujar pemilik Bintaro Fish Center yang menuai rugi hingga Rp 3-juta-Rp 4-juta itu.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kontes Perdana Serama Terujinya sang Juara
+title: "Kontes Perdana Serama Terujinya sang Juara"
 categories: Arsip
 date: 2020-12-28 09:39:28
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_serama1_773x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_serama1_773x768.jpg"
 tags:
 - serama di indonesia
 
 modification_time: 2020-12-28 09:39:28
-blogger_orig_url: http://localhost/mitra/kontes-perdana-serama-terujinya-sang.html
+blogger_orig_url: "http://localhost/mitra/kontes-perdana-serama-terujinya-sang.html"
 ---
 
 Serama milik Ajong memang pantas juara. Dada menonjol ke depan dan sayap lurus searah tubuh. Kombinasi bulu cokelat, hitam merah, dan ekor hitam terlihat mengkilap, bersih, dan terawat. Ia pun jinak dan penurut. Langkahnya gagah dan elok, bak peragawan. “Kecantikannya utuh. Tak ada nilai pengurang sama sekali.

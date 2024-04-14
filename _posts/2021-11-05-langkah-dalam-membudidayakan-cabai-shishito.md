@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Langkah Dalam Membudidayakan Cabai shishito
+title: "Langkah Dalam Membudidayakan Cabai shishito"
 categories: perkebunan
 date: 2021-11-05 08:49:07
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/11/shisito-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/shisito-1.jpg"
 tags:
 - cabai
 - Shishito
 
 modification_time: 2021-11-05 08:49:07
-blogger_orig_url: http://localhost/mitra/kiat-sukses-bertanam-shisito-peppers.html
+blogger_orig_url: "http://localhost/mitra/kiat-sukses-bertanam-shisito-peppers.html"
 ---
 
 Muhammad Saputro, pekebun asal Cipanas tak tertarik lagi bertanam Cabai shishito. Meski harga relatif stabil dan tinggi, ia sudah lama tak membudidayakan sayuran asal Jepang ini. "Tak mudah menanamnya, Cabai shishito amat peka lingkungan," keluhnya. Padahal jika tahu kuncinya, tentu pekebun bisa mengusahakannya dengan hasil optimum.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Durian emas kalimantan: buah lai Kalimantan Cocok untuk Pasar Eropa
+title: "Durian emas kalimantan: buah lai Kalimantan Cocok untuk Pasar Eropa"
 categories: perkebunan
 date: 2020-08-24 10:03:03
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/Durian-Lai-Mas_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Durian-Lai-Mas_1067x800.jpg"
 tags:
 - Durian
 - kalimantan
 
 modification_time: 2020-08-24 10:03:03
-blogger_orig_url: http://localhost/mitra/durian-lai-mas-cocok-untuk-pasar.html
+blogger_orig_url: "http://localhost/mitra/durian-lai-mas-cocok-untuk-pasar.html"
 ---
 
 <em>Bila tak doyan buah lay kalimantan dengan aroma yang berbau menyengat, durian yang satu ini boleh dicoba. rasa buah lai dan aromanya tidak "menggigit" seperti durian lokal biasa. Dagingnya jingga menggiurkan. Potensial untuk pasar Eropa.</em>

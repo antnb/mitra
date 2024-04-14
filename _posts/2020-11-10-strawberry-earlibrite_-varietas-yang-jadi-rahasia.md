@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Strawberry Earlibrite: Varietas yang Jadi Rahasia
+title: "Strawberry Earlibrite: Varietas yang Jadi Rahasia"
 categories: perkebunan
 date: 2020-11-10 11:44:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_packing_strawberry2_978x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_packing_strawberry2_978x720.jpg"
 tags:
 - strawberry
 
 modification_time: 2020-11-10 11:44:21
-blogger_orig_url: http://localhost/mitra/strawberry-earlibrite-varietas-yang.html
+blogger_orig_url: "http://localhost/mitra/strawberry-earlibrite-varietas-yang.html"
 ---
 
 Pria itu mencermati barang-barang yang terus berputar di atas conveyor belt di bandara Ngurah Rai, Denpasar. Begitu kardus cokelat melintas di depannya, pegawai PT Mustika Nusantara Abadi itu langsung menenteng. Setelah mengecat label kardus, ia segera meluncur ke Pancasari, Bedugul, 80 km dari Denpasar, lokasi farm stroberi. Di sana setelah stolon varietas baru dikeluarkan, kardus segera dibakar. Varietas (baru) sebuah rahasia perusahaan yang dijaga ketat.

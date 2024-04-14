@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Buah Manggis Ungulan dari Rejanglebong
+title: "Buah Manggis Ungulan dari Rejanglebong"
 categories: perkebunan
 date: 2020-10-26 08:43:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/manggis-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/manggis-1.jpg"
 tags:
 - manggis
 - manggis Indonesia
 
 modification_time: 2020-10-26 08:43:00
-blogger_orig_url: http://localhost/mitra/buah-manggis-ungulan-dari-rejanglebong.html
+blogger_orig_url: "http://localhost/mitra/buah-manggis-ungulan-dari-rejanglebong.html"
 ---
 
 Bukan hanya Jawal, peneliti manggis dari Balai Penelitian Tanaman Buah (Balitbu), Solok, yang memuji manggis rejanglebong. Saat si cantik itu dikirim ke markas <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> oleh Suhardi, kepala Balai Pengawasan dan Sertifikasi Benih Tanaman Pangan dan Hortikultura (BPSB-TPH), Bengkulu, belasan awak redaksi langsung mengerumuninya dan terkagum-kagum. "Cakep banget, warna ungunya bersih mengkilap. Seperti pakai body lotion" kata Evy Syariefa, redaktur buah <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a>.

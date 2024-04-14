@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Prospek Jangka Panjang Bisnis Sarang Burung Walet
+title: "Prospek Jangka Panjang Bisnis Sarang Burung Walet"
 categories: artikel
 date: 2020-08-17 09:20:15
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/ternak-sarang-burung-walet-sriti_1244x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/ternak-sarang-burung-walet-sriti_1244x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-17 09:20:15
-blogger_orig_url: http://localhost/mitra/prospek-jangka-panjang-bisnis-sarang.html
+blogger_orig_url: "http://localhost/mitra/prospek-jangka-panjang-bisnis-sarang.html"
 ---
 
 <em>Harga sarang walet terus menurun. Dua tahun lalu LJharga. sekilo mencapai Rp l6-juta; kini Rp l2-juta/kg. S V Penyusutan nilai itu tidak lepas dari produksi melimpah dari negara produsen. Bagi pemain baru kenyataan ini seperti mimpi buruk. Sebaliknya gejolak harga itu tidak sampai membuat pemain lama harus menyetop bisnis liur emas itu karena merugi. Maklum overhead cost memelihara walet tetap sangat rendah.</em>

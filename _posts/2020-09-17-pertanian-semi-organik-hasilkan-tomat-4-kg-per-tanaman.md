@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Pertanian semi organik Hasilkan Tomat 4 kg per Tanaman
+title: "Pertanian semi organik Hasilkan Tomat 4 kg per Tanaman"
 categories: artikel|perkebunan
 date: 2020-09-17 08:35:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_organik_1182x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_organik_1182x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-17 08:35:04
-blogger_orig_url: http://localhost/mitra/pertanian-semi-organik-hasilkan-tomat.html
+blogger_orig_url: "http://localhost/mitra/pertanian-semi-organik-hasilkan-tomat.html"
 ---
 
 Deretan tanaman di lahan 20 hektar digelayuti puluhan buah ranum, bersemburat jingga dan hijau. Tanaman itu doyong lantaran sarat buah. Sepasang ajir setinggi 2 m tak sanggup menopang batang tanaman anggota famili <em>Solanaceace</em> itu. Itulah panorama Pertanian semi organik milik Arief Darmono di Undrusbinangun, Selabintana, Sukabumi.

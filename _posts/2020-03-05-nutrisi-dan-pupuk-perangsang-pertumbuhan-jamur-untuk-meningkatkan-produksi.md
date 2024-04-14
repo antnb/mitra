@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Nutrisi Dan Pupuk Perangsang Pertumbuhan Jamur Untuk Meningkatkan Produksi
+title: "Nutrisi Dan Pupuk Perangsang Pertumbuhan Jamur Untuk Meningkatkan Produksi"
 categories: perkebunan|Pertanian
 date: 2020-03-05 15:41:59
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/jamur-kuping_884x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/jamur-kuping_884x800.jpg"
 tags:
 - jamur
 - jamur kuping
 
 modification_time: 2020-03-05 15:41:59
-blogger_orig_url: http://localhost/mitra/pupuk-perangsang-pertumbuhan-jamur.html
+blogger_orig_url: "http://localhost/mitra/pupuk-perangsang-pertumbuhan-jamur.html"
 ---
 
 Serupa tapi tak sama, di Sragen, Jawa Tengah, juga ada jamur kuping berukuran ekstra besar lantaran rutin disuntik nutrisi jamur tambahan berupa pupuk perangsang pertumbuhan jamur. Bukan dengan silikon tapi dengan ekstrak campuran tetes tebu dan kecambah kacang hijau.

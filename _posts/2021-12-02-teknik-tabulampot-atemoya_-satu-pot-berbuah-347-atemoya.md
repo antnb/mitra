@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Teknik Tabulampot Atemoya: Satu Pot Berbuah 347 Atemoya
+title: "Teknik Tabulampot Atemoya: Satu Pot Berbuah 347 Atemoya"
 categories: artikel|perkebunan
 date: 2021-12-02 08:08:06
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/12/chirimorinon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/12/chirimorinon.jpg"
 tags:
 - Atemoya
 - Tabulampot
 
 modification_time: 2021-12-02 08:08:06
-blogger_orig_url: http://localhost/mitra/teknik-tabulampot-atemoya-satu-pot.html
+blogger_orig_url: "http://localhost/mitra/teknik-tabulampot-atemoya-satu-pot.html"
 ---
 
 Sebanyak 347 helai tali rafia merah sepanjang 10 cm diikatkan pada tangkai-tangkai buah atemoya. Sebanyak itu pula lah jumlah buah chirimorinon yang muncul.

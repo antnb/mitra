@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Trend Aquascape Tinggi, Permintaan Akuarium Aquascape Makin Meningkat
+title: "Trend Aquascape Tinggi, Permintaan Akuarium Aquascape Makin Meningkat"
 categories: hobi
 date: 2021-05-29 06:14:31
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/05/aquascape-4.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/aquascape-4.jpg"
 tags:
 - aquascape
 
 modification_time: 2021-05-29 06:14:31
-blogger_orig_url: http://localhost/mitra/tanaman-air-akuarium-aquascape.html
+blogger_orig_url: "http://localhost/mitra/tanaman-air-akuarium-aquascape.html"
 ---
 
 Di pusat jajan itu, sambil menikmati ayam goreng atau masakan jepang, panorama hutan dari sepasang akuarium aquascape akan melonggarkan urat saraf. Demam aquascape kini sudah menjalar hingga ke fasilitas umum.

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Cara Budidaya Rebung Bambu Taiwan 8 Bulan Bisa Panen
+title: "Cara Budidaya Rebung Bambu Taiwan 8 Bulan Bisa Panen"
 categories: perkebunan
 date: 2021-11-10 06:49:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/Bambu-Taiwan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/Bambu-Taiwan.jpg"
 tags:
 - bambu
 - rebung
 
 modification_time: 2021-11-10 06:49:42
-blogger_orig_url: http://localhost/mitra/cara-budidaya-rebung-bambu-taiwan-8.html
+blogger_orig_url: "http://localhost/mitra/cara-budidaya-rebung-bambu-taiwan-8.html"
 ---
 
 Dalam waktu 8 bulan rebung bambu taiwan sudah dapat dipanen. Bandingkan dengan bambu betung yang perlu waktu tiga tahun untuk dipetik rebungnya. Selain genjah, bambu taiwan produktivitasnya tinggi dan mudah dipelihara.

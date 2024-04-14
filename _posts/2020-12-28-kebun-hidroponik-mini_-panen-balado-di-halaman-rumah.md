@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kebun Hidroponik Mini: Panen Balado di Halaman Rumah
+title: "Kebun Hidroponik Mini: Panen Balado di Halaman Rumah"
 categories: perkebunan
 date: 2020-12-28 07:09:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_hidro1_1024x749.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_hidro1_1024x749.jpg"
 tags:
 - Hidroponik
 - kebun hidroponik
@@ -14,7 +14,7 @@ tags:
 - pupuk
 
 modification_time: 2020-12-28 07:09:50
-blogger_orig_url: http://localhost/mitra/kebun-hidroponik-mini-panen-balado-di.html
+blogger_orig_url: "http://localhost/mitra/kebun-hidroponik-mini-panen-balado-di.html"
 ---
 
 Kebun hidroponik mini itu bisa disaksikan di halaman rumah Daniel Laurente, ekspatriat asal Filipina. Semula ia hanya bermaksud memanfaatkan garasi kosongnya untuk bertanam sayur. Kini, halaman rumput juga terdesak oleh sayur buah kesenangan keluarga.

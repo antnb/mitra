@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Budidaya Lobster Air Tawar Dan Minimnya Pasokan
+title: "Budidaya Lobster Air Tawar Dan Minimnya Pasokan"
 categories: Perikanan
 date: 2020-04-04 04:57:21
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/yabby.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/yabby.jpg"
 tags:
 - lobster
 - lobster air tawar
 
 modification_time: 2020-04-04 04:57:21
-blogger_orig_url: http://localhost/mitra/budidaya-lobster-air-tawar-dan.html
+blogger_orig_url: "http://localhost/mitra/budidaya-lobster-air-tawar-dan.html"
 ---
 
 Alih alih berharap mendapatkan laba dari <span class="keyword _ngcontent-boh-101" aria-hidden="false">harga lobster air tawar per kg</span> senilai Rp 200-ribu-Rp 300-ribu per kg ke restoran Jepang itu sirna sudah. Bagi mantan karyawan PT Bina Swadaya di Jakarta itu.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ubi daluga : Alternatif Pangan Selain Padi
+title: "Ubi daluga : Alternatif Pangan Selain Padi"
 categories: artikel
 date: 2020-09-17 09:16:19
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_daluga.jpg6__1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_daluga.jpg6__1280x720.jpg"
 tags:
 - 
 
 modification_time: 2020-09-17 09:16:19
-blogger_orig_url: http://localhost/mitra/ubi-daluga-alternatif-pangan-selain.html
+blogger_orig_url: "http://localhost/mitra/ubi-daluga-alternatif-pangan-selain.html"
 ---
 
 <em>Keheranan itu tercermin dari ujaran Ir Lusiana Sigilipu seolah mewakili orang-orang yang berkerumun di sana. “Baru kali ini saya melihat ubi daluga sebesar ini,” kata pegawai Badan Ketahanan Pangan dan Penyuluhan <a class="wpil_keyword_link" href="http://127.0.0.1/mitra/pertanian"   title="Pertanian" data-wpil-keyword-link="linked">Pertanian</a> Kabupaten Poso, Sulawesi Tengah. Sebuah kekaguman yang wajar. Jangankan dari luar daerah, masyarakat Sulawesi Utara pun banyak yang belum mengenal ubi berbentuk kerucut itu.</em>

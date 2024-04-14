@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Keistimewaan buah sawo manila Dari Pare
+title: "Keistimewaan buah sawo manila Dari Pare"
 categories: perkebunan
 date: 2020-04-18 02:09:48
 author: Yudianto
-image: 
+image: ""
 tags:
 - Achras zapota L
 - sawo
 
 modification_time: 2020-04-18 02:09:48
-blogger_orig_url: http://localhost/mitra/keistimewaan-sawo-manila-dari-pare.html
+blogger_orig_url: "http://localhost/mitra/keistimewaan-sawo-manila-dari-pare.html"
 ---
 
 <em>Pantas saja peneliti buah-buahan pada Balai Pengkajian Teknologi Pertanian (BPTP) Malang, Jawa Timur berkomentar seperti itu. mitrausahatani mencicipi sendiri manisnya sawo manila asal Kecamatan Pare, Kabupaten Kediri, saat berkunjung ke daerah sentra pada penghujung Juni.</em>

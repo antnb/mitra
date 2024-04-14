@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tobat Sambal Para Pekebun Cabai
+title: "Tobat Sambal Para Pekebun Cabai"
 categories: artikel|perkebunan
 date: 2020-08-21 12:06:18
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/Pekebun-Cabai_1194x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/Pekebun-Cabai_1194x800.jpg"
 tags:
 - cabai
 
 modification_time: 2022-09-17 10:00:56
-blogger_orig_url: http://localhost/mitra/tobat-sambal-para-pekebun-cabai.html
+blogger_orig_url: "http://localhost/mitra/tobat-sambal-para-pekebun-cabai.html"
 ---
 
 <em>Para pekebun cabai ibarat makan sambal. Ketika harga menukik tajam mereka kapok, ya seperti makan sambal kepedasan. Namun, saat harga membaik mereka kembali tergoda untuk menanam. Padahal mengebunkan cabai harus siap mental untuk merugi.</em>

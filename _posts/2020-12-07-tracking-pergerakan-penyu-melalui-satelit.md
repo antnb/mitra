@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tracking Pergerakan Penyu melalui satelit
+title: "Tracking Pergerakan Penyu melalui satelit"
 categories: artikel
 date: 2020-12-07 08:50:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sea-turtle-tag-2_1024x676.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sea-turtle-tag-2_1024x676.jpg"
 tags:
 - penyu hijau
 - penyu sisik
@@ -12,7 +12,7 @@ tags:
 - transmiter
 
 modification_time: 2020-12-07 08:50:01
-blogger_orig_url: http://localhost/mitra/tracking-pergerakan-penyu-melalui.html
+blogger_orig_url: "http://localhost/mitra/tracking-pergerakan-penyu-melalui.html"
 ---
 
 Laut Mindanau yang menghampar luas itu beriak pelan. Sang surya yang baru meninggi di ufuk barat laut di Filipina itu menyisakan gumpalan awan cerah. Pagi itu, 26 Juli 2006, di tengah lautan luas yang biru, sebuah titik hitam muncul di atas permukaan laut. Titik bertahan selama beberapa detik sebelum menghilang.

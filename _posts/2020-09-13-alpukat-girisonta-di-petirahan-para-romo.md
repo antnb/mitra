@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Alpukat Girisonta di Petirahan Para Romo
+title: "Alpukat Girisonta di Petirahan Para Romo"
 categories: artikel
 date: 2020-09-13 10:04:24
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_alpukat_1124x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_alpukat_1124x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-13 10:04:24
-blogger_orig_url: http://localhost/mitra/alpukat-girisonta-di-petirahan-para.html
+blogger_orig_url: "http://localhost/mitra/alpukat-girisonta-di-petirahan-para.html"
 ---
 
 <em>Bagi Rudi yang penggemar alpukat, Persea americana asal Seminari Novisiat Girisonta, Karangjati, Ungaran, itu memang istimewa. Dari puluhan yang dibawa, paling kecil berbobot 850 g. Terbesar mencapai 1,8 kg. Lazimnya <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/alpukat"  title="alpukat" data-wpil-keyword-link="linked">alpukat</a> berbobot 300-500 g per buah. “Kalau yang biasa 2 atau 3 buah habis sekali makan, tapi yang ini belum habis setengah, perut sudah kenyang,” ucap pengusaha pupuk itu.</em>

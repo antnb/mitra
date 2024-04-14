@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sehari Jadi Petani Stroberi
+title: "Sehari Jadi Petani Stroberi"
 categories: artikel
 date: 2020-11-11 05:05:57
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_wisata_1280x646.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_wisata_1280x646.jpg"
 tags:
 - kebun strawberry
 - strawberry
 
 modification_time: 2020-11-11 05:05:57
-blogger_orig_url: http://localhost/mitra/sehari-jadi-petani-stroberi.html
+blogger_orig_url: "http://localhost/mitra/sehari-jadi-petani-stroberi.html"
 ---
 
 Pagi itu Palupi sebut saja namanya begitu membuka pintu kayu di beranda depan. Mentari baru saja merekah di ufuk timur. Di antara embusan angin dingin, ia melangkah menuju deretan perdu berdaun hijau di atas bedengan bermulsa plastik. Jaraknya sekitar 20 m dari rumah itu. Setiba di sana tangan mungilnya dengan cekatan memetik <a class="wpil_keyword_link " title="buah merah" href="http://127.0.0.1/mitra/topik/buah-merah" data-wpil-keyword-link="linked">buah merah</a> nan ranum yang menyembul di sela-sela daun. Dalam sekejap keranjang plastik yang dibawa penuh stroberi buah merah itu.

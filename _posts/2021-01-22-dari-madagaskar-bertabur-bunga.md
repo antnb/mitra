@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dari Madagaskar Bertabur Bunga
+title: "Dari Madagaskar Bertabur Bunga"
 categories: tanaman hias
 date: 2021-01-22 15:13:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_euphorbia1_1024x707.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_euphorbia1_1024x707.jpg"
 tags:
 - berbunga
 - Euphorbia
@@ -13,7 +13,7 @@ tags:
 - tumbuh sempurna
 
 modification_time: 2021-01-22 15:13:05
-blogger_orig_url: http://localhost/mitra/dari-madagaskar-bertabur-bunga.html
+blogger_orig_url: "http://localhost/mitra/dari-madagaskar-bertabur-bunga.html"
 ---
 
 Sang tamu diajak naik ke dak lantai tiga rumahnya. Ketakjubannya sulit dibendung begitu melihat hamparan euphorbia semarak bunga. Begitulah banyak orang yang terkesima melihat penampilan euphorbia koleksi Soeroso. Hobiis di Pondok Indah, Jakarta Selatan, itu mempunyai teknik membungakan sukulen berbunga elok.

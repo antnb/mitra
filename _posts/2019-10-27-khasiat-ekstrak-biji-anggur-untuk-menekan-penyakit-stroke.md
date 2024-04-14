@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Khasiat ekstrak biji anggur Untuk Menekan Penyakit Stroke
+title: "Khasiat ekstrak biji anggur Untuk Menekan Penyakit Stroke"
 categories: Herbal|kesehatan
 date: 2019-10-27 10:53:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/manfaat-buah-anggur.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/manfaat-buah-anggur.jpg"
 tags:
 - Anggur
 - biji
@@ -12,7 +12,7 @@ tags:
 - stroke
 
 modification_time: 2022-12-30 09:34:07
-blogger_orig_url: http://localhost/mitra/khasiat-ekstrak-biji-anggur-untuk.html
+blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-biji-anggur-untuk.html"
 ---
 
 Anggur (Vitis vinifera) merupakan salah satu buah yang paling populer dan dikonsumsi di seluruh dunia. Selain rasanya yang enak, anggur sangat kaya akan nutrisi, vitamin, dan serat yang sangat bermanfaat untuk kesehatan tubuh. Komponen aktif lain yang terkandung dalam anggur adalah polyphenols yang terdapat di kulit dan biji anggur. Polyphenols ini juga memiliki banyak manfaat bagi kesehatan, sehingga banyak ilmuwan yang tertarik untuk melakukan penelitian lebih lanjut tentang anggur.

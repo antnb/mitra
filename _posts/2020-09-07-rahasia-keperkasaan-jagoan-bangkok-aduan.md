@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Rahasia Keperkasaan Jagoan Bangkok Aduan
+title: "Rahasia Keperkasaan Jagoan Bangkok Aduan"
 categories: artikel
 date: 2020-09-07 04:56:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_ayam-bangkok-aduan_1280x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_ayam-bangkok-aduan_1280x768.jpg"
 tags:
 - 
 
 modification_time: 2020-09-07 04:56:51
-blogger_orig_url: http://localhost/mitra/rahasia-keperkasaan-jagoan-bangkok.html
+blogger_orig_url: "http://localhost/mitra/rahasia-keperkasaan-jagoan-bangkok.html"
 ---
 
 <em><strong>Ayam bangkok</strong> kesohor sebagai petarung andal. Ia begitu tangguh hingga lawan sulit melumpuhkan. Tak pelak hobiis Indonesia pun mengimpornya dari Thailand. Salah satu rahasia keperkasaannya adalah jejamuan yang rutin diberikan oleh penangkar di sana.</em>

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Panen Dragon fruit 3 Kali Setahun
+title: "Panen Dragon fruit 3 Kali Setahun"
 categories: perkebunan
 date: 2021-01-10 07:13:17
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buahnaga_1024x710.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buahnaga_1024x710.jpg"
 tags:
 - Buah Naga
 - dragon fruit
 - tiang pemupukan
 
 modification_time: 2021-01-10 07:13:17
-blogger_orig_url: http://localhost/mitra/panen-dragon-fruit-3-kali-setahun.html
+blogger_orig_url: "http://localhost/mitra/panen-dragon-fruit-3-kali-setahun.html"
 ---
 
 Kebanyakan pekebun dragon fruit di Jawa Timur dan Jawa Tengah panen raya pada Desember sampai Januari. Namun di tempat Djoko, buah naga "diatur" supaya keluar pada Oktober, Desember, dan Januari.

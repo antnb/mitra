@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sistim Filter Kolam Koi Sederhana
+title: "Sistim Filter Kolam Koi Sederhana"
 categories: hobi|ikan hias
 date: 2020-06-13 06:20:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/06/index_1032x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/06/index_1032x800.jpg"
 tags:
 - filter
 - ikan koi
@@ -12,7 +12,7 @@ tags:
 - kolam koi
 
 modification_time: 2020-06-13 06:20:00
-blogger_orig_url: http://localhost/mitra/sistim-filter-kolam-koi-sederhana.html
+blogger_orig_url: "http://localhost/mitra/sistim-filter-kolam-koi-sederhana.html"
 ---
 
 Kolam yang dibangun di kawasan Bumi Serpong Damai, Tangerang itu mirip kolam pamer di Negeri Sakura. Dibangun di dalam ruangan berukuran 12 m x 36 m. Di sana terdapat 17 kolam. Ada 12 kolam berukuran 2 m x 5 m dan 5 kolam berukuran 5,5 m x 10 m. Semua berbaris rapi di sisi kiri dan kanan ruangan secara paralel. Total jenderal air yang dibutuhkan untuk mengisi kolam itu mencapai 800 ton.

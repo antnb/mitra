@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Prospek Bisnis Menjanjikan Budidaya Ayam Seramah
+title: "Prospek Bisnis Menjanjikan Budidaya Ayam Seramah"
 categories: hobi|Peternakan
 date: 2020-04-09 04:25:40
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Budidaya-Ayam-Serama.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Budidaya-Ayam-Serama.jpg"
 tags:
 - ayam hias
 - serama
 - unggas
 
 modification_time: 2020-04-09 04:25:40
-blogger_orig_url: http://localhost/mitra/prospek-bisnis-menjanjikan-budidaya.html
+blogger_orig_url: "http://localhost/mitra/prospek-bisnis-menjanjikan-budidaya.html"
 ---
 
 Sejak mengenal <strong>ayam serama</strong> pada awal 2019 Johan langsung tergila-gila. Beberapa ayam mungil itu dibelinya dari pedagang di Durensawit, Jakarta Timur. Namun, "Saya kurang puas karena di negeri asalnya, Malaysia, sosok Ayam serama jauh lebih kecil hanya 250-300 g," ungkapnya. Yang ia beli di Jakarta berbobot 500 g. Karyawan di sebuah instansi pemerintahan di Jakarta itu lalu mencoba menghubungi beberapa penangkar di Malaysia.

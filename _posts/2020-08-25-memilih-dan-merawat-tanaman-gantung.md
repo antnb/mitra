@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Memilih Dan Merawat Tanaman Gantung
+title: "Memilih Dan Merawat Tanaman Gantung"
 categories: artikel|tanaman hias
 date: 2020-08-25 07:58:55
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/gantung_1280x672.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/gantung_1280x672.jpg"
 tags:
 - 
 
 modification_time: 2020-08-25 07:58:55
-blogger_orig_url: http://localhost/mitra/memilih-dan-merawat-tanaman-gantung.html
+blogger_orig_url: "http://localhost/mitra/memilih-dan-merawat-tanaman-gantung.html"
 ---
 
 <em>Hati Eva Yanti masygul. Tanaman hias gantung di rumah yang dikontrakkanny merana. Padahal, Mila Nasir, penyewa  berjanji akan merawat tanaman itu.</em>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Adenium Bonggol Besar Pilihan Para Kolektor
+title: "Adenium Bonggol Besar Pilihan Para Kolektor"
 categories: Gardening|tanaman hias
 date: 2019-10-29 10:05:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/adenium.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/adenium.jpg"
 tags:
 - Adenium
 - arabicum adenium
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2019-10-29 10:05:00
-blogger_orig_url: http://localhost/mitra/adenium-bonggol-besar-pilihan-para.html
+blogger_orig_url: "http://localhost/mitra/adenium-bonggol-besar-pilihan-para.html"
 ---
 
 <a class="wpil_keyword_link " title="Adenium" href="http://127.0.0.1/mitra/topik/adenium" data-wpil-keyword-link="linked">Adenium</a> Bonggol Besar spesial itu milik sebuah nurseri di Jerman.tanaman adenium itu diperkirakan berumur 10 tahun. Dalam lelang yang berlangsung pada Januari awal tahun, Sugita bersaing dengan peserta dari seluruh dunia. Lantaran tak ingin tanaman idaman itu jatuh ke tangan kolektor lain, ia memberikan penawaran terbaik. Pehobi kaktus dan sukulen di Surabaya, Jawa Timur, itu berhasil menjadi pemenang.

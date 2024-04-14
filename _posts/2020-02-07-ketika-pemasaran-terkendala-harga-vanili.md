@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Ketika Pemasaran Terkendala Harga Vanili
+title: "Ketika Pemasaran Terkendala Harga Vanili"
 categories: perkebunan|Pertanian
 date: 2020-02-07 12:27:22
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/02/vanili.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/02/vanili.jpg"
 tags:
 - Papua
 - vanili
 - Vanilla tahitiensis
 
 modification_time: 2022-12-29 14:38:14
-blogger_orig_url: http://localhost/mitra/pemasaran-terkendala-harga-vanili.html
+blogger_orig_url: "http://localhost/mitra/pemasaran-terkendala-harga-vanili.html"
 ---
 
 Harga vanili kering yang ditawarkan hanya Rp 500.000 per kg kering. Buntutnya, 3 ton vanili asal provinsi paling timur Indonesia itu teronggok di gudang.

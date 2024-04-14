@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 3 Varietas Cabai Rawit Terbaik Dari Minahasa
+title: "3 Varietas Cabai Rawit Terbaik Dari Minahasa"
 categories: perkebunan
 date: 2020-10-21 05:39:58
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/rawit.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/rawit.jpg"
 tags:
 - cabai
 - minahasa
 
 modification_time: 2022-09-19 05:55:40
-blogger_orig_url: http://localhost/mitra/rawit-rawit-penguasa-pasar.html
+blogger_orig_url: "http://localhost/mitra/rawit-rawit-penguasa-pasar.html"
 ---
 
 "Masyarakat Minahasa terkenal doyan pedas,” papar Dr Ir Lucky Longdong MEd, wakil kepala Dinas Pertanian Provinsi Sulawesi Utara. Tak heran jika rawit menjadi pilihan konsumen ketimbang cabai besar. Tiga jenis di antaranya cabai sirop, cabai jarum, dan cabai banggai

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Tabulampot Srikaya Merah Untuk Koleksi Kebun Rumah
+title: "Tabulampot Srikaya Merah Untuk Koleksi Kebun Rumah"
 categories: perkebunan
 date: 2021-10-31 04:04:01
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/10/buah-srikaya.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/10/buah-srikaya.jpg"
 tags:
 - srikaya
 
 modification_time: 2022-09-20 06:39:04
-blogger_orig_url: http://localhost/mitra/srikaya-merah-untuk-koleksi-anda.html
+blogger_orig_url: "http://localhost/mitra/srikaya-merah-untuk-koleksi-anda.html"
 ---
 
 Buah srikaya merah atau yang juga dikenal sebagai Annona squamosa adalah salah satu buah tropis yang berasal dari Asia Tenggara. Buah ini memiliki bentuk hampir mirip seperti buah naga, dengan warna dagingnya yang berwarna merah cerah. Daging buah srikaya merupakan sumber kandungan gula tinggi, sehingga rasanya manis dan sangat enak dimakan. Selain itu buah srikaya juga mengandung senyawa antioksidan yang baik untuk kesehatan.

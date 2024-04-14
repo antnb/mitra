@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Di Bali Ikan Pembawa Hoki Menuju Puncak
+title: "Di Bali Ikan Pembawa Hoki Menuju Puncak"
 categories: artikel|hobi|ikan hias
 date: 2020-11-18 08:32:38
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_lohan1_1024x668-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_lohan1_1024x668-1.jpg"
 tags:
 - akuarium
 - hewan peliharaan
@@ -14,7 +14,7 @@ tags:
 - tropis
 
 modification_time: 2020-11-18 08:32:38
-blogger_orig_url: http://localhost/mitra/di-bali-ikan-pembawa-hoki-menuju.html
+blogger_orig_url: "http://localhost/mitra/di-bali-ikan-pembawa-hoki-menuju.html"
 ---
 
 Masyarakat Bali tengah gandrung lou han. Kelompok pencinta lou han dibentuk, kontes perdana digelar, dan volume penjualan ikan hias pembawa hoki itu melambung hingga 100%. Pedagang bermunculan di sana sampai sini. Di pulau seribu pura itu lou han tengah menuju puncak tren.

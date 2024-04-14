@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Panen Rezeki dari Selembar Daun
+title: "Panen Rezeki dari Selembar Daun"
 categories: tanaman hias
 date: 2021-01-05 06:25:49
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_agaolema_894x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_agaolema_894x768.jpg"
 tags:
 - bisnis tanaman
 - helai daun
 - kolektor tanaman hias
 
 modification_time: 2021-01-05 06:25:49
-blogger_orig_url: http://localhost/mitra/panen-rezeki-dari-selembar-daun.html
+blogger_orig_url: "http://localhost/mitra/panen-rezeki-dari-selembar-daun.html"
 ---
 
 Setahun terakhir minimal 1.500 lembar daun terjual dalam sebulan kecuali <i>donna carmen</i>, aglaonema dijual per lembar daun.

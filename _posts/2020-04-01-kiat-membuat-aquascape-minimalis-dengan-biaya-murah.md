@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Kiat membuat Aquascape Minimalis Dengan Biaya murah
+title: "Kiat membuat Aquascape Minimalis Dengan Biaya murah"
 categories: hobi
 date: 2020-04-01 14:27:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Aquascape.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Aquascape.jpg"
 tags:
 - 
 
 modification_time: 2020-04-01 14:27:24
-blogger_orig_url: http://localhost/mitra/kiat-membuat-aquascape-minimalis.html
+blogger_orig_url: "http://localhost/mitra/kiat-membuat-aquascape-minimalis.html"
 ---
 
 Selama ini aquascape kondang sebagai <a href="http://127.0.0.1/mitra/hobi">hobi</a> mahal. Bayangkan pembuatan aquascape minimalis dengan 90% bahan impor menelan biaya sekitar Rp 3,5-juta per m2. Subsitusi dengan bahan lokal sekitar 50% tetap menyedot biaya tak sedikit, Rp 2-juta-Rp 2,5-juta per m2.

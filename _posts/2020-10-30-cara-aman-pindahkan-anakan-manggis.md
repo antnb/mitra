@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cara Aman Pindahkan Anakan Manggis
+title: "Cara Aman Pindahkan Anakan Manggis"
 categories: artikel
 date: 2020-10-30 07:46:01
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/maxresdefault.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/maxresdefault.jpg"
 tags:
 - manggis
 
 modification_time: 2020-10-30 07:46:01
-blogger_orig_url: http://localhost/mitra/cara-aman-pindahkan-anakan-manggis.html
+blogger_orig_url: "http://localhost/mitra/cara-aman-pindahkan-anakan-manggis.html"
 ---
 
 <p>pemandangan langka itu dapat kita Temui di kebun manggis milik Jackson Kennedy Tarigan, eksportir manggis di Batusangkar. Letaknya di Jorongbalubus, Nagari Sungaitalang, Kecamatan Gugua, Kabupaten Limapuluhkoto, Sumatera Barat. Tepatnya, di kaki bukit Cyndi, sebuah bukit yang amat terkenal di daerah itu karena di sekitarnya banyak ditemukan batuan megalithikum.</p>

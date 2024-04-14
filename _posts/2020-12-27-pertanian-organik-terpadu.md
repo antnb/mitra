@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pertanian Organik Terpadu
+title: "Pertanian Organik Terpadu"
 categories: artikel|Pertanian
 date: 2020-12-27 08:04:10
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_organic_farming3_1024x686.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_organic_farming3_1024x686.jpg"
 tags:
 - pertanian organik
 - pertanian padi
@@ -12,7 +12,7 @@ tags:
 - pupuk kimia
 
 modification_time: 2020-12-27 08:04:10
-blogger_orig_url: http://localhost/mitra/pertanian-organik-terpadu.html
+blogger_orig_url: "http://localhost/mitra/pertanian-organik-terpadu.html"
 ---
 
 Bagaimana pekebun bisa pensiun? Pertanyaan itu memerlukan jawaban yang kreatif. Berbeda dengan pegawai negeri atau swasta, pensiun bagi pekebun bentuknya lebih bervariasi. Secara konvensional melalui menabung atau ikut asuransi dana pensiun, bisa juga dengan pertanian organik terpadu.

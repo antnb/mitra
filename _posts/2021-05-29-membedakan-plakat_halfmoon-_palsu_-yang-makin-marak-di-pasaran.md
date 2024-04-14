@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Membedakan Plakat/Halfmoon "Palsu" Yang Makin Marak Di Pasaran
+title: "Membedakan Plakat/Halfmoon Palsu Yang Makin Marak Di Pasaran"
 categories: hobi|ikan hias
 date: 2021-05-29 08:12:10
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/05/Halfmoon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/Halfmoon.jpg"
 tags:
 - cupang adu
 - plakat asli
@@ -12,7 +12,7 @@ tags:
 - plakat platinum
 
 modification_time: 2021-05-29 08:12:10
-blogger_orig_url: http://localhost/mitra/membedakan-plakat-halfmoon-palsu.html
+blogger_orig_url: "http://localhost/mitra/membedakan-plakat-halfmoon-palsu.html"
 ---
 
 Kelas plakat di kontes cupang di Cengkareng, Jakarta Barat, medio tahun lalu berakhir kisruh. Musababnya, plakat asli terpental setelah kalah dari plakat "palsu" hasil guntingan. Akibat ketidaktahuan juri?

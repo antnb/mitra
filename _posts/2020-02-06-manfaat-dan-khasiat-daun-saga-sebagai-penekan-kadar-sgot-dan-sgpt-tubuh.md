@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Manfaat Dan Khasiat Daun Saga Sebagai Penekan Kadar SGOT dan SGPT Tubuh
+title: "Manfaat Dan Khasiat Daun Saga Sebagai Penekan Kadar SGOT dan SGPT Tubuh"
 categories: Herbal|kesehatan
 date: 2020-02-06 13:15:46
 author: Anton N
-image: 
+image: ""
 tags:
 - daun saga
 - hepatitis C
 
 modification_time: 2020-02-06 13:15:46
-blogger_orig_url: http://localhost/mitra/air-rebusan-daun-saga-obat-hepatitis.html
+blogger_orig_url: "http://localhost/mitra/air-rebusan-daun-saga-obat-hepatitis.html"
 ---
 
 Derita Ida diawali dengan tubuh yang sering lemas. Karena seabrek kesibukan sebagai Inspektur Lembaga Pendidikan Menengah Yayasan Sahid Jaya, Jakarta, dan melatih pelajar yang akan berangkat ke luar negeri, gejala itu tak dirasa. Apalagi hampir setiap bulan ia berdinas ke luar kota. . Hasil tes laboratorium menunjukkan angka SGOT dan SGPT melonjak. "Anda kena gejala hepatitis C, saat ini belum ada antivirusnya," ucap dokter pribadinya. Sontak perempuan itu kaget bukan kepalang. Berkat <strong>minum air rebusan daun saga</strong>, wanita 72 tahun itu kini tetap segar bugar.

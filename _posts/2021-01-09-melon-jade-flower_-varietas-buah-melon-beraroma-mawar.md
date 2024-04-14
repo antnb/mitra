@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Melon Jade Flower: Varietas Buah Melon Beraroma Mawar
+title: "Melon Jade Flower: Varietas Buah Melon Beraroma Mawar"
 categories: perkebunan
 date: 2021-01-09 13:30:41
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_melon_1024x623.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_melon_1024x623.jpg"
 tags:
 - golden light
 - jade flower
@@ -12,7 +12,7 @@ tags:
 - melon
 
 modification_time: 2021-01-09 13:30:41
-blogger_orig_url: http://localhost/mitra/melon-jade-flower-varietas-buah-melon.html
+blogger_orig_url: "http://localhost/mitra/melon-jade-flower-varietas-buah-melon.html"
 ---
 
 Si telur angsa itulah nama lain buah melon jade flower menjadi primadona di wisata petik melon. "Hampir semua pengunjung mencari jade flower," ujar AF Margianasari, kepala Bagian Produksi Buah TWM. Aromanya wangi bak mawar.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Inovasi Pemasaran Sayuran Organik Hidroponik: Dari Teknik Tanam Bebas Pestisida sampai Kusuma Agrowisata
+title: "Inovasi Pemasaran Sayuran Organik Hidroponik: Dari Teknik Tanam Bebas Pestisida sampai Kusuma Agrowisata"
 categories: perkebunan|Pertanian
 date: 2019-10-03 07:43:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/hidroponik-vegetable.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/hidroponik-vegetable.jpg"
 tags:
 - bisnis
 - Hidroponik
@@ -15,7 +15,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-24 08:47:35
-blogger_orig_url: http://localhost/mitra/strategi-pemasaran-sayuran-organik.html
+blogger_orig_url: "http://localhost/mitra/strategi-pemasaran-sayuran-organik.html"
 ---
 
 Inovasi pemasaran sayuran organik hidroponik adalah salah satu cara untuk memasarkan produk sayuran organik dengan lebih baik. Teknik tanam bebas pestisida, seperti menggunakan pupuk organik, digunakan untuk menghasilkan sayuran yang sehat dan berkualitas. Selain itu, proyek Kusuma Agrowisata telah berhasil memasarkan produk sayuran organik dengan cara yang inovatif.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: leci Istimewa dari Tembok Samudera
+title: "leci Istimewa dari Tembok Samudera"
 categories: perkebunan
 date: 2021-01-08 12:57:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lecche1_640x360.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lecche1_640x360.jpg"
 tags:
 - leci
 - leci dataran rendah
 - samut songkhram
 
 modification_time: 2021-01-08 12:57:47
-blogger_orig_url: http://localhost/mitra/leci-istimewa-dari-tembok-samudera.html
+blogger_orig_url: "http://localhost/mitra/leci-istimewa-dari-tembok-samudera.html"
 ---
 
 Jangan bayangkan suasana di sana seperti Chiang Mai atau Chiang Rai. Dua sentra Litchi sinensis di Thailand bagian utara itu berudara sejuk. Maklum posisinya di daerah subtropik pada 17 sampai 21° lintang utara dan ketinggian 500 m dpi. Saat leci panen raya pada musim panas sekitar April Mei, suhu rata-rata cuma 29,9°C.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sejuta Manfaat Dan Khasiat Sarang Semut Untuk Pengobatan
+title: "Sejuta Manfaat Dan Khasiat Sarang Semut Untuk Pengobatan"
 categories: Herbal|kesehatan
 date: 2019-11-11 16:24:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/11/sarang-semut.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/11/sarang-semut.jpg"
 tags:
 - hutan
 - myrmecodia
@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2019-11-11 16:24:00
-blogger_orig_url: http://localhost/mitra/sejuta-manfaat-dan-khasiat-sarang.html
+blogger_orig_url: "http://localhost/mitra/sejuta-manfaat-dan-khasiat-sarang.html"
 ---
 
 Bagi suku-suku di barat Jayawijaya, Papua, seperti suku Njali dan suku Dani, sarang semut tidak banyak memberi sumbangsih. "khasiat sarang semut dipakai sebagai obat rematik. Itu pun jarang," ujar Kumoro Kwerkwa asal suku Njali.

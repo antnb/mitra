@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Yang Unik Berharga Jutaan Rupiah
+title: "Yang Unik Berharga Jutaan Rupiah"
 categories: tanaman hias
 date: 2021-01-01 11:31:25
 author: Mitra
-image: 
+image: ""
 tags:
 - unik
 
 modification_time: 2021-01-01 11:31:25
-blogger_orig_url: http://localhost/mitra/yang-unik-berharga-jutaan-rupiah.html
+blogger_orig_url: "http://localhost/mitra/yang-unik-berharga-jutaan-rupiah.html"
 ---
 
 Memiliki tanaman unik memang kebanggaan tersendiri bagi kolektor. “Bentuk dan warna tanaman itu ngga lazim,” ujar Thomas Aquinas W. Santoso, kolektor di Puri Indah, Jakarta Barat. Dahulu ia kerap didatangi pedagang yang menawarkan tanaman-tanaman aneh. Namun kini, “Cari tanaman unik susah,“ kata dokter gigi itu.

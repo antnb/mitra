@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Bisnis Sayuran Dan Kendala Pasokan Yang Makin Sedikit
+title: "Bisnis Sayuran Dan Kendala Pasokan Yang Makin Sedikit"
 categories: perkebunan|Pertanian
 date: 2021-11-10 10:34:38
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/komoditas.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/komoditas.jpg"
 tags:
 - pasar
 - sayuran
 
 modification_time: 2022-09-19 08:14:07
-blogger_orig_url: http://localhost/mitra/persoalan-mahalnya-harga-sayuran-dan.html
+blogger_orig_url: "http://localhost/mitra/persoalan-mahalnya-harga-sayuran-dan.html"
 ---
 
 Indonesia adalah negara dengan berbagai macam sayuran yang tersedia. Oleh karena itu, bisnis sayuran di Indonesia sangat menjanjikan. Tidak hanya dalam negeri, bisnis sayuran di Indonesia juga telah mendapat pengakuan internasional.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Perbanyakan aglaonema dengan cara setek mini
+title: "Perbanyakan aglaonema dengan cara setek mini"
 categories: tanaman hias
 date: 2020-12-14 14:55:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Aglaonema1_847x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Aglaonema1_847x768.jpg"
 tags:
 - Aglaonema
 - cara setek
@@ -12,7 +12,7 @@ tags:
 - stek
 
 modification_time: 2020-12-14 14:55:19
-blogger_orig_url: http://localhost/mitra/perbanyakan-aglaonema-dengan-cara.html
+blogger_orig_url: "http://localhost/mitra/perbanyakan-aglaonema-dengan-cara.html"
 ---
 
 Bandingkan bila Songgo menunggu anakan hotlady muncul alami. Dengan perawatan intensif, jumlah 10 anakan didapat dalam 1 tahun. “Perbanyakan dengan cara setek mini begitu istilahnya seperti ini waktu produksi lebih cepat dan hasilnya banyak,” tutur pria yang mendalami ilmu keuangan semasa kuliah itu. Terbukti dalam 5 menit, didapat 7 individu baru. Jumlah itu bakal membengkak jadi 10 anakan dalam 3 bulan.

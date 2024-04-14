@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sang Ratu Buah Ditunggu Pasar Mancanegara
+title: "Sang Ratu Buah Ditunggu Pasar Mancanegara"
 categories: perkebunan|Pertanian
 date: 2021-03-26 01:38:21
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/03/buahmanggis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/buahmanggis.jpg"
 tags:
 - buah buahan
 - buah segar
@@ -16,7 +16,7 @@ tags:
 - permintaan pasar
 
 modification_time: 2021-03-26 01:38:21
-blogger_orig_url: http://localhost/mitra/sang-ratu-buah-ditunggu-pasar.html
+blogger_orig_url: "http://localhost/mitra/sang-ratu-buah-ditunggu-pasar.html"
 ---
 
 Deru mesin motor itu berujung di halaman gudang milik Sunardi di bilangan Nglegok, Blitar. Setelah mesin dimatikan, 2 keranjang berisi manggis diturunkan dari jok.

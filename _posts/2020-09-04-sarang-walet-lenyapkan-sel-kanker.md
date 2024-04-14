@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sarang Walet Lenyapkan Sel Kanker
+title: "Sarang Walet Lenyapkan Sel Kanker"
 categories: artikel|Herbal|kesehatan
 date: 2020-09-04 06:39:43
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Sarang-Walet_1043x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Sarang-Walet_1043x800.jpg"
 tags:
 - 
 
 modification_time: 2020-09-04 06:39:43
-blogger_orig_url: http://localhost/mitra/sarang-walet-lenyapkan-sel-kanker.html
+blogger_orig_url: "http://localhost/mitra/sarang-walet-lenyapkan-sel-kanker.html"
 ---
 
 <em>Tangisan Ny. Ngkweklan kian keras dan menyayat. Ia kalut menghadapi kanker ganas yang menggerogoti kedua belah payudaranya. Upaya mengangkat payudara dilakukan, tapi sel kanker terus tumbuh dan tumbuh. Biopsi seorang ahli malah menunjukkan kanker mulai menjalar ke leher. "Hampir tak ada harapan hidup lagi bila tidak mengkonsumsi sarang walet," ungkapnya</em>

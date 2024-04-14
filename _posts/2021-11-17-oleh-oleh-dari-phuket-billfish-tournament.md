@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Oleh-oleh dari Phuket Billfish Tournament
+title: "Oleh-oleh dari Phuket Billfish Tournament"
 categories: hobi
 date: 2021-11-17 06:53:50
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/11/Phuket-Tournament.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/Phuket-Tournament.jpg"
 tags:
 - Memancing
 
 modification_time: 2021-11-17 06:53:50
-blogger_orig_url: http://localhost/mitra/oleh-oleh-dari-phuket-billfish.html
+blogger_orig_url: "http://localhost/mitra/oleh-oleh-dari-phuket-billfish.html"
 ---
 
 Marlin Fishing Club (MFC) dengan tim MFC I dan MFC II mengukir prestasi dalam Phuket Internasional Sport Fishing Classic. Meski dicurangi tim lawan, MFC I berhasil meraih gelar runner up at second day dengan nilai 547.

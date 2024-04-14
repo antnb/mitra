@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Borobudur All Breed Dog Show Contest
+title: "Borobudur All Breed Dog Show Contest"
 categories: artikel|hobi
 date: 2020-03-19 14:41:14
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/dogshow1_1126x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/dogshow1_1126x800.jpg"
 tags:
 - anjing hias
 
 modification_time: 2020-03-19 14:41:14
-blogger_orig_url: http://localhost/mitra/borobudur-all-breed-dog-show-contest.html
+blogger_orig_url: "http://localhost/mitra/borobudur-all-breed-dog-show-contest.html"
 ---
 
 Keturunan <em>Int Ch Odo von Der Flugscheise</em> dan Bessy vom Haus itu bukan pendatang baru di arena kontes. Segudang prestasi di kontes internasional direbut anjing kelahiran 20 Februari 2018 itu. Tak heran bila puluhan piala best of breed atau best in show dikoleksinya.

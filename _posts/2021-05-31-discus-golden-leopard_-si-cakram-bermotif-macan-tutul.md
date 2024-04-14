@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Discus Golden Leopard: Si Cakram Bermotif Macan Tutul
+title: "Discus Golden Leopard: Si Cakram Bermotif Macan Tutul"
 categories: hobi|ikan hias
 date: 2021-05-31 04:42:24
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/05/cakram.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/cakram.jpg"
 tags:
 - diskus
 - golden leopard
 - macan tutul
 
 modification_time: 2021-05-31 04:42:24
-blogger_orig_url: http://localhost/mitra/golden-leopard-diskus-si-cakram.html
+blogger_orig_url: "http://localhost/mitra/golden-leopard-diskus-si-cakram.html"
 ---
 
 Motif macan tutul menghiasi tubuh nan pipih. Corak merah itu membungkus seluruh tubuh hingga ke sirip. Lalu warna keemasan menyapu permukaan diskus baru. Itulah Discus Golden Leopard eksotis yang gemulainya begitu mempesona.

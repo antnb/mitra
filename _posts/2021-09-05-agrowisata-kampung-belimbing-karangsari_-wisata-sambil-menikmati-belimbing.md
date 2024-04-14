@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Agrowisata kampung belimbing karangsari, Wisata Sambil Menikmati belimbing
+title: "Agrowisata kampung belimbing karangsari, Wisata Sambil Menikmati belimbing"
 categories: perkebunan
 date: 2021-09-05 15:05:00
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/09/blimbing.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/09/blimbing.jpg"
 tags:
 - Belimbing
 - Buah
 - varietas
 
 modification_time: 2021-09-05 15:05:00
-blogger_orig_url: http://localhost/mitra/sebuah-kampung-belimbing-bernama.html
+blogger_orig_url: "http://localhost/mitra/sebuah-kampung-belimbing-bernama.html"
 ---
 
 Tanyalah kepada warga <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span>, apa yang paling pas menjadi oleh-oleh dari Blitar? Bumbu pecel pasti salah satu jawabannya. Maklum kota kelahiran Proklamator RI, Ir Soekarno, itu memang produsen penganan khas Jawa itu. Kini, selain bumbu pecel, warga Blitar dengan bangga menyodorkan <a class="wpil_keyword_link " title="belimbing" href="http://127.0.0.1/mitra/topik/belimbing" data-wpil-keyword-link="linked">belimbing</a> karangsari sebagai buah tangan para pelancong.

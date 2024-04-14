@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Strawberry Varietas Unggulan Dari Australia
+title: "Strawberry Varietas Unggulan Dari Australia"
 categories: artikel
 date: 2020-10-30 04:19:20
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Alpine-berries-cropped2-Small.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Alpine-berries-cropped2-Small.jpg"
 tags:
 - strawberry
 
 modification_time: 2020-10-30 04:19:20
-blogger_orig_url: http://localhost/mitra/strawberry-varietas-unggulan-dari.html
+blogger_orig_url: "http://localhost/mitra/strawberry-varietas-unggulan-dari.html"
 ---
 
 Datanglah ke salah satu toko buah besar di seputaran Jakarta. Niscaya Anda akan menemukan boks-boks plastik berisi temptation. Sebut saja di Total Buah Segar di kawasan Slipi, Jakarta Barat. Di sana ada si penggoda dari . California, Amerika Serikat. Menurut Takim, menejer toko,

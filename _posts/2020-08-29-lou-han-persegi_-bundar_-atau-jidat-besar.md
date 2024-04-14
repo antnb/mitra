@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Lou Han Persegi, Bundar, atau Jidat Besar
+title: "Lou Han Persegi, Bundar, atau Jidat Besar"
 categories: hobi|ikan hias
 date: 2020-08-29 10:49:26
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-29 10:49:26
-blogger_orig_url: http://localhost/mitra/lou-han-persegi-bundar-atau-jidat.html
+blogger_orig_url: "http://localhost/mitra/lou-han-persegi-bundar-atau-jidat.html"
 ---
 
 <em>Lantaran masih bergantung pada sedikit sumber, jangan heran kalau bentuk lou han di Indonesia relatif sama. Padahal, di negeri asalnya Malaysia, bentuk lou han beragam. Mulai dari berjidat super besar, badan persegi, sampai bundar. Di negeri jiran itu ada 3 nama besar lou han: flower horn, mermaid fish, dan flower leopard. Masing-masing punya ciri khas.</em>

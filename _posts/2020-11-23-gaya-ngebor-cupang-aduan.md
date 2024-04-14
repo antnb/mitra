@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Gaya Ngebor Cupang Aduan
+title: "Gaya Ngebor Cupang Aduan"
 categories: Arsip|hobi|ikan hias
 date: 2020-11-23 11:56:07
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/cupang1234.png
+image: "http://localhost/mitra/wp-content/uploads/2020/11/cupang1234.png"
 tags:
 - Betta Fish
 - bony fish
 - ikan cupang
 
 modification_time: 2020-11-23 11:56:07
-blogger_orig_url: http://localhost/mitra/gaya-ngebor-cupang-aduan.html
+blogger_orig_url: "http://localhost/mitra/gaya-ngebor-cupang-aduan.html"
 ---
 
 Goyang ngebor Inul Daratista ditiru oleh cupang adu. Dengan gaya serang nombak ngebor, pangkal ekor dan muka lawan diserbu. Gayanya mirip pukulan mbrebet, tapi ia tidak disertai dorongan, melainkan seperti orang sedang ngebor sumur pompa.

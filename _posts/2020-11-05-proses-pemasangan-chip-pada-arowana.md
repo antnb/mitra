@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Proses Pemasangan Chip Pada Arowana
+title: "Proses Pemasangan Chip Pada Arowana"
 categories: artikel|hobi|ikan hias
 date: 2020-11-05 15:53:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_microchip_1277x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_microchip_1277x720.jpg"
 tags:
 - Arwana
 - chip
 
 modification_time: 2020-11-05 15:53:16
-blogger_orig_url: http://localhost/mitra/proses-pemasangan-chip-pada-arowana.html
+blogger_orig_url: "http://localhost/mitra/proses-pemasangan-chip-pada-arowana.html"
 ---
 
 Reader yang dipegang petugas Balai Konservasi Sumber Daya Alam (BKSDA) diarahkan ke tengkuk arwana. Tombol "on" alat bantu baca berbentuk mirip setrika itu ditekan. Dalam waktu singkat di alat itu muncul angka terdiri atas 10 digit. Satu per satu Scleropages formosus yang akan dikemas dicek sebelum petugas BKSDA mengeluarkan Berita Acara Pemeriksaan.

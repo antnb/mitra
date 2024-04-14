@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Teknik Sambung Tempel Euphorbia Milii
+title: "Teknik Sambung Tempel Euphorbia Milii"
 categories: artikel|hobi|tanaman hias
 date: 2021-05-31 11:49:37
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/euphorbia-1-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/euphorbia-1-1.jpg"
 tags:
 - Euphorbia
 
 modification_time: 2021-05-31 11:49:37
-blogger_orig_url: http://localhost/mitra/teknik-sambung-tempel-euphorbia-milii.html
+blogger_orig_url: "http://localhost/mitra/teknik-sambung-tempel-euphorbia-milii.html"
 ---
 
 Ujung batang Euphorbia milii itu dipangkas 2 cm. Ketika getah putih segar masih mengalir ia langsung ditempel dengan E. milii jenis lain. <span class="keyword _ngcontent-boq-103" aria-hidden="false">teknik sambung</span> itu menggunakan Seutas tali rafia menyatukan kedua batang berduri itu. Kurang dari 1 menit Slamet, staf Godong ijo Nursery selesai menyambung euphorbia. Praktis dan efisien karena tidak ada batang yang terbuang.

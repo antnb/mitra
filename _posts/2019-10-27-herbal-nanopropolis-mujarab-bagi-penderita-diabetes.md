@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Herbal Nanopropolis Mujarab bagi penderita diabetes
+title: "Herbal Nanopropolis Mujarab bagi penderita diabetes"
 categories: kesehatan
 date: 2019-10-27 13:41:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Nano-Propolis.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Nano-Propolis.jpg"
 tags:
 - darah
 - diabetes
@@ -12,7 +12,7 @@ tags:
 - propolis
 
 modification_time: 2019-10-27 13:41:00
-blogger_orig_url: http://localhost/mitra/herbal-nanopropolis-mujarab-untuk.html
+blogger_orig_url: "http://localhost/mitra/herbal-nanopropolis-mujarab-untuk.html"
 ---
 
 Ir Guntur Sutopo tak kuasa membayangkan kehilangan telapak kaki jika ia memenuhi saran dokter spesialis orthopedi di sebuah rumahsakit di Yogyakarta. Dokter menyarankan amputasi telapak kaki kiri pada awal tahun. Itu karena luka di tumit kaki tak kunjung sembuh pasca kecelakaan. Luka itu membengkak dan menimbulkan nyeri berkepanjangan. Sejatinya luka itu muncul pada 1997, 14 tahun sebelum Guntur menerima saran amputasi.

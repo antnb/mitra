@@ -1,15 +1,15 @@
 ---
 layout: post
-title: PT East West Seed Indonesia Selenggarakan Festival Labu Nusantara Tahunan
+title: "PT East West Seed Indonesia Selenggarakan Festival Labu Nusantara Tahunan"
 categories: artikel|Pertanian
 date: 2019-10-13 16:31:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/festival-labu.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/festival-labu.jpg"
 tags:
 - labu
 
 modification_time: 2022-12-28 14:32:48
-blogger_orig_url: http://localhost/mitra/pt-east-west-seed-indonesia.html
+blogger_orig_url: "http://localhost/mitra/pt-east-west-seed-indonesia.html"
 ---
 
 Pertanian di Indonesia berkembang pesat dalam beberapa dekade terakhir berkat PT East West Seed Indonesia (EWINDO). EWINDO adalah perusahaan benih sayuran pertama di Indonesia yang memiliki komitmen sebagai Sahabat Petani yang paling baik. Mereka menggunakan teknologi canggih dan berpengalaman dalam bidang pemuliaan tanaman dan perbenihan untuk menghasilkan benih sayuran berkualitas terbaik.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Panen Raya Ikan Sungai
+title: "Panen Raya Ikan Sungai"
 categories: artikel|Perikanan
 date: 2020-11-15 05:12:02
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_salmon_640x360.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_salmon_640x360.jpg"
 tags:
 - Danau
 - ikan
@@ -15,7 +15,7 @@ tags:
 - Salmon
 
 modification_time: 2020-11-15 05:12:02
-blogger_orig_url: http://localhost/mitra/panen-raya-ikan-sungai.html
+blogger_orig_url: "http://localhost/mitra/panen-raya-ikan-sungai.html"
 ---
 
 Di tepi Sungai Batanghari, kata harian Kompas di satu pagi Mei 2003, sedikitnya terpasang 7000 unit keramba. Itulah yang terpantau dari sebagian pertanian sungai di seputar kota Jambi. Para “petani sungai” memanfaatkan jaring apung dan aliran sungai untuk budidaya ikan nila. Bagaimana di sungai sungai lain di seluruh Indonesia?

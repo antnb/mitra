@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Super Merah Jawara di Formosa
+title: "Super Merah Jawara di Formosa"
 categories: artikel|hobi|ikan hias
 date: 2020-11-06 05:50:38
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_arwanaq_1280x708.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_arwanaq_1280x708.jpg"
 tags:
 - Arwana
 - super red
 
 modification_time: 2020-11-06 05:50:38
-blogger_orig_url: http://localhost/mitra/super-merah-jawara-di-formosa.html
+blogger_orig_url: "http://localhost/mitra/super-merah-jawara-di-formosa.html"
 ---
 
 Gedung World Trade Center Taipeh, Taiwan, pukul 10.00. Di lantai dasar bangunan megah siang itu tampak hening ketika 5 juri memasuki deretan 60 akuarium yang berjajar rapi. Sesekali telunjuk tangan kanan yang dibengkokkan mirip angka 7 diketuk-ketukkan di dinding akuarium. Dari balik kaca arwana super red itu meliuk-liuk mempertontonkan keindahan tubuh.

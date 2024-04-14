@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Periuk Monyet: Dari Lahan Gambut Pindah ke Pot
+title: "Periuk Monyet: Dari Lahan Gambut Pindah ke Pot"
 categories: Tutorial
 date: 2021-01-05 07:42:55
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_1024px-Nepenthes_densiflora_Mount_Kemiri_1024x683.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_1024px-Nepenthes_densiflora_Mount_Kemiri_1024x683.jpg"
 tags:
 - kantong semar
 
 modification_time: 2021-01-05 07:42:55
-blogger_orig_url: http://localhost/mitra/periuk-monyet-dari-lahan-gambut.html
+blogger_orig_url: "http://localhost/mitra/periuk-monyet-dari-lahan-gambut.html"
 ---
 
 Dua tahun lalu, <i lang="la">Nepenthes gracilis</i> asal lahan gambut Kalimantan itu " hanya ada sebuah. Namun kini tanaman yang lebih dikenal sebagai kantong semar itu sudah beranak-pinak. Hasil perbanyakan dengan setek batang. Tak terkira rasa senang yang timbul tiap melihat kantong mini keluar dari ujung daun lanset itu. Maklum, si periuk monyet ini baru memamerkan kantong-kantongnya setelah 3 bulan ditanam. Kantong atas ditopang oleh sulur kecil, sedangkan kantong bawah tumbuh di atas media pot.

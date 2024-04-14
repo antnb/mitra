@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Manfaat Gamat Untuk Pengobatan Bermacam Penyakit
+title: "Manfaat Gamat Untuk Pengobatan Bermacam Penyakit"
 categories: artikel|Herbal|kesehatan
 date: 2020-08-10 02:23:46
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/08/gamat_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/gamat_1200x800.jpg"
 tags:
 - diabetes
 
 modification_time: 2020-08-10 02:23:46
-blogger_orig_url: http://localhost/mitra/manfaat-gamat-untuk-pengobatan.html
+blogger_orig_url: "http://localhost/mitra/manfaat-gamat-untuk-pengobatan.html"
 ---
 
 <em>Penderitaan itu seperti merampas kebahagiaan Dewi Anggraeni yang baru saja menikah. Delapan purnama seperti bergulir lebih cepat ketika ia lemas, pegal, lambung perih, sering muntah, serta kehilangan keseimbangan. Ia mengira masuk angin, sehingga hanya membeli obat yang dijual bebas.</em>

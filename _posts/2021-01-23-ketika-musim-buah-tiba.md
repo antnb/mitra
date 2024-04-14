@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ketika Musim Buah Tiba
+title: "Ketika Musim Buah Tiba"
 categories: artikel
 date: 2021-01-23 06:14:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buah1_1024x715.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buah1_1024x715.jpg"
 tags:
 - Durian
 - Mangga
 
 modification_time: 2021-01-23 06:14:53
-blogger_orig_url: http://localhost/mitra/ketika-musim-buah-tiba.html
+blogger_orig_url: "http://localhost/mitra/ketika-musim-buah-tiba.html"
 ---
 
 Empat kata di awal itu bak mantra pemikat dari penyihir sakti. Begitu kata-kata itu diteriakkan sejenak rutinitas keredaksian ditinggalkan. Bukan tanpa alasan “para tamu kehormatan” itu mendapatkan perhatian penuh. Dari kantor redaksi, buah mesti segera ditimbang dan difoto. Lalu didistribusikan kepada para juri yang berdomisili di Bogor dan Jakarta untuk dinilai. Agar tak terjadi perubahan kualitas, ia tak boleh lama-lama parkir.

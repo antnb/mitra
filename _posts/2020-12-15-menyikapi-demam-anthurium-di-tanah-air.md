@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Menyikapi Demam Anthurium Di Tanah Air
+title: "Menyikapi Demam Anthurium Di Tanah Air"
 categories: tanaman hias
 date: 2020-12-15 08:16:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anthurium_1024x678.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anthurium_1024x678.jpg"
 tags:
 - Anthurium
 - Anthurium jenmanii
@@ -12,7 +12,7 @@ tags:
 - perawatan anthurium
 
 modification_time: 2020-12-15 08:16:34
-blogger_orig_url: http://localhost/mitra/menyikapi-demam-anthurium-di-tanah-air.html
+blogger_orig_url: "http://localhost/mitra/menyikapi-demam-anthurium-di-tanah-air.html"
 ---
 
 Sungguh luar biasa anthurium. Sepanjang "karier" saya sebagai pencinta <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/tanaman-hias"  title="tanaman hias" data-wpil-keyword-link="linked">tanaman hias</a>, baru sekali ini ada tanaman hias daun berharga aduhai. Saat tulisan ini dibuat, harga selembar daun Anthurium jenmanii "kobra" selebar piring makan dihitung Rpl5-juta. Maka, pecah sudah rekor yang dipegang <a class="wpil_keyword_link " title="aglaonema" href="http://127.0.0.1/mitra/topik/aglaonema" data-wpil-keyword-link="linked">aglaonema</a> harlequeen hasil karya Gregori Garnadi Hambali, pemulia di Bogor, yang sebelumnya pernah dinilai Rp 11-juta per daun.

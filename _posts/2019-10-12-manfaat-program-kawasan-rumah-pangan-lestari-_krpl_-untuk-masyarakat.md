@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Manfaat Program Kawasan Rumah Pangan Lestari (KRPL) Untuk Masyarakat
+title: "Manfaat Program Kawasan Rumah Pangan Lestari (KRPL) Untuk Masyarakat"
 categories: artikel|Pertanian
 date: 2019-10-12 11:27:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/Kawasan-Rumah-Pangan-Lestari.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/Kawasan-Rumah-Pangan-Lestari.jpg"
 tags:
 - bandung
 - bisnis
@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-28 14:24:20
-blogger_orig_url: http://localhost/mitra/manfaat-program-kawasan-rumah-pangan.html
+blogger_orig_url: "http://localhost/mitra/manfaat-program-kawasan-rumah-pangan.html"
 ---
 
 Ketersediaan pangan yang cukup sepanjang waktu adalah prioritas utama pembangunan pertanian nasional. Kementerian Pertanian telah menginisiasi Rumah Pangan Lestari (RPL) untuk memaksimalkan pemanfaatan pekarangan melalui konsep yang ramah lingkungan.

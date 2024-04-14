@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kala Sang Ranchu Mencuri Hati
+title: "Kala Sang Ranchu Mencuri Hati"
 categories: hobi|ikan hias
 date: 2021-01-30 04:25:25
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_koi_885x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_koi_885x768.jpg"
 tags:
 - black ranchu
 - ikan mas
@@ -13,7 +13,7 @@ tags:
 - ranchu bermutu
 
 modification_time: 2021-01-30 04:25:25
-blogger_orig_url: http://localhost/mitra/kala-sang-ranchu-mencuri-hati.html
+blogger_orig_url: "http://localhost/mitra/kala-sang-ranchu-mencuri-hati.html"
 ---
 
 Sejak tiga bulan lalu Ever menyulap rumah menjadi kolam <i>Carassius auratus</i>. Alumnus Universitas Kristen Maranatha, Bandung itu memilih ranchu sebagai satwa klangenan. Kelahiran Bogor 25 tahun lalu itu memburu ranchu dengan mengunjungi importir di Jakarta.

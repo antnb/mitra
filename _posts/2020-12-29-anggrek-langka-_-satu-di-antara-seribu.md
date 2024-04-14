@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Anggrek Langka : Satu di Antara Seribu
+title: "Anggrek Langka : Satu di Antara Seribu"
 categories: tanaman hias
 date: 2020-12-29 04:54:37
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/12/anggrek.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/anggrek.jpg"
 tags:
 - Anggrek
 
 modification_time: 2020-12-29 04:54:37
-blogger_orig_url: http://localhost/mitra/anggrek-langka-satu-di-antara.html
+blogger_orig_url: "http://localhost/mitra/anggrek-langka-satu-di-antara.html"
 ---
 
 Sosok anggrek boneka itu sepintas sama dengan oncidium lain. Bunga kuning lebat, berukuran 1,5 cm. Bila diperhatikan saksama, lidahnya kuning bertabur titik-titik cokelat. Itu hasil silangan pemulia terkenal, Moling Simardjo di Prigen, Pasuruan.

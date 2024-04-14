@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Puring Daun Berpilin Bernama Croton
+title: "Puring Daun Berpilin Bernama Croton"
 categories: hobi|tanaman hias
 date: 2020-11-18 09:20:05
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_puring_1024x685.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_puring_1024x685.jpg"
 tags:
 - croton
 - daun
@@ -15,7 +15,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2020-11-18 09:20:05
-blogger_orig_url: http://localhost/mitra/puring-daun-berpilin-bernama-croton.html
+blogger_orig_url: "http://localhost/mitra/puring-daun-berpilin-bernama-croton.html"
 ---
 
 Pantas bila nara pirom namanya, diambildari nama kanal didaulat jadi juara. Penampilannya paling atraktif di antara peserta lain. Daun berpilin jarang ditemukan pada puring. Paduan warnanya pun berbeda. Suarsak Uamprig, sang empunya, menanam dari biji setahun lalu. Biji didapat dari hasil perkawinan induk-induk croton sebutan puring yang dikoleksi di kebun di Bang Kruei, Nonthaburi. Hasil silangan berkali-kali dengan induk berbeda menghasilkan nara pirom, si daun berpilin.

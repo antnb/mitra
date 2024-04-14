@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Memilih Indukan Cucak Rawa Berkualitas Kontes
+title: "Memilih Indukan Cucak Rawa Berkualitas Kontes"
 categories: hobi
 date: 2021-11-16 11:56:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/cucak-rawa2.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/cucak-rawa2.jpg"
 tags:
 - cucak rawa
 
 modification_time: 2022-09-19 07:25:32
-blogger_orig_url: http://localhost/mitra/memilih-indukan-cucak-rawa-berkualitas.html
+blogger_orig_url: "http://localhost/mitra/memilih-indukan-cucak-rawa-berkualitas.html"
 ---
 
 Burung Cucakrawa merupakan spesies burung dari famili Cuculidae. Burung ini berasal dari daerah Tropika Asia, dan telah diintroduksikan ke sejumlah negara di seluruh dunia. Cucakrawa biasanya berwarna hijau, dengan beberapa variasi warna lain seperti hitam, biru, dan putih.

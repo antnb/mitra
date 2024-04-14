@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tabulampot Kelengkeng: Puan Raja Si Genjah Baru
+title: "Tabulampot Kelengkeng: Puan Raja Si Genjah Baru"
 categories: perkebunan
 date: 2020-12-15 11:53:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_pingpong1_1024x721.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_pingpong1_1024x721.jpg"
 tags:
 - berbiji besar
 - bibit puang rai
@@ -14,7 +14,7 @@ tags:
 - lengkeng dataran rendah
 
 modification_time: 2020-12-15 11:53:16
-blogger_orig_url: http://localhost/mitra/tabulampot-kelengkeng-puan-raja-si.html
+blogger_orig_url: "http://localhost/mitra/tabulampot-kelengkeng-puan-raja-si.html"
 ---
 
 Hadirnya tabulampot puang rai di Pameran Flora dan Fauna, Lapangan Banteng, Jakarta Pusat, itu memang menyedot perhatian hobiis buah.

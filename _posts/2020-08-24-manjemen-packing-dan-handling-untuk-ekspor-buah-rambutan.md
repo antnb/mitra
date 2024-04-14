@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Manjemen Packing Dan Handling Untuk Ekspor Buah Rambutan
+title: "Manjemen Packing Dan Handling Untuk Ekspor Buah Rambutan"
 categories: perkebunan
 date: 2020-08-24 12:04:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/pkg_1203x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/pkg_1203x800.jpg"
 tags:
 - ekspor
 - rambutan
 
 modification_time: 2020-08-24 12:04:33
-blogger_orig_url: http://localhost/mitra/ekspor-buah-rambutan.html
+blogger_orig_url: "http://localhost/mitra/ekspor-buah-rambutan.html"
 ---
 
 <span class="keyword _ngcontent-jqi-98" aria-hidden="false">Ekspor buah</span> Rambutan harus dilakukan Maksimal 7 hari setelah panen rambutan harus sudah tiba di tangan konsumen. Ketepatan waktu petik dan penanganan pascapanen yang benar dapat mempertahankan penampilan agar layak <span class="keyword _ngcontent-jqi-98" aria-hidden="false">ekspor buah</span>.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jamur Merang: Harga Jamur Merang Tinggi Pasar Terkendala Pasokan
+title: "Jamur Merang: Harga Jamur Merang Tinggi Pasar Terkendala Pasokan"
 categories: perkebunan
 date: 2021-05-24 10:55:22
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2021/05/Jamur-Merang.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/Jamur-Merang.jpg"
 tags:
 - budidaya jamur
 - jamur
@@ -12,7 +12,7 @@ tags:
 - kumbung jamur
 
 modification_time: 2022-09-19 13:13:09
-blogger_orig_url: http://localhost/mitra/harga-jamur-merang-terkendala-pasokan.html
+blogger_orig_url: "http://localhost/mitra/harga-jamur-merang-terkendala-pasokan.html"
 ---
 
 <span class="keyword _ngcontent-zht-101" aria-hidden="false">Harga jamur merang</span> yang terus merangkak akhir akhir ini membuat Jari jari tangan Basuki Rachmat, manajer PT Lestari Hayati Mutuprima, terlihat serius menekan tombol tombol di telepon selulernya. Setiap akhir pekan kesibukan pemasok jamur merang di Bandung itu bertambah.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hamparan Lahan kebun sayur Jepang di Kaki Gunung Burangrang
+title: "Hamparan Lahan kebun sayur Jepang di Kaki Gunung Burangrang"
 categories: perkebunan|Pertanian
 date: 2021-03-24 14:20:33
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/03/jepang1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/03/jepang1.jpg"
 tags:
 - ekstrak daun
 - Greenhouse
@@ -15,7 +15,7 @@ tags:
 - ulat kubis
 
 modification_time: 2021-03-24 14:20:33
-blogger_orig_url: http://localhost/mitra/kebun-sayur-jepang-di-kaki-gunung.html
+blogger_orig_url: "http://localhost/mitra/kebun-sayur-jepang-di-kaki-gunung.html"
 ---
 
 Kabut tipis baru saja tersingkap. Nun jauh di kaki Gunung Burangrang, di ketinggian 1.150 m dpi, piman, shisito, comatsuna, dan shironegi terhampar bernaung greenhouse. sayur jepang eklusif khas negeri Sakura itu tertata rapi sesuai kontur lahan.

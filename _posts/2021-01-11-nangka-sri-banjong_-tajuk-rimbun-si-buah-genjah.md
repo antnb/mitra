@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Nangka Sri Banjong, Tajuk Rimbun Si Buah Genjah
+title: "Nangka Sri Banjong, Tajuk Rimbun Si Buah Genjah"
 categories: perkebunan
 date: 2021-01-11 08:32:34
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_nangka2_942x768.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_nangka2_942x768.jpg"
 tags:
 - nangka
 
 modification_time: 2021-01-11 08:32:34
-blogger_orig_url: http://localhost/mitra/nangka-sri-banjong.html
+blogger_orig_url: "http://localhost/mitra/nangka-sri-banjong.html"
 ---
 
 Bukan itu saja keistimewaan Nangka Sri Banjong. Nangka kebanggaan masyarakat Thailand itu berdaging tebal, tekstur halus, dan berwarna kuning menarik. Jumlah dami sedikit sehingga nyamplung gampang dilepas.

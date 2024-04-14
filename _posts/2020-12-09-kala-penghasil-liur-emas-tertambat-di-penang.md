@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kala Penghasil Liur Emas Tertambat di Penang
+title: "Kala Penghasil Liur Emas Tertambat di Penang"
 categories: artikel
 date: 2020-12-09 11:23:51
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Birdnest1_1024x678-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_Birdnest1_1024x678-1.jpg"
 tags:
 - bukit mertajam
 - liur emas
@@ -13,7 +13,7 @@ tags:
 - walet di penang
 
 modification_time: 2020-12-09 11:23:51
-blogger_orig_url: http://localhost/mitra/kala-penghasil-liur-emas-tertambat-di.html
+blogger_orig_url: "http://localhost/mitra/kala-penghasil-liur-emas-tertambat-di.html"
 ---
 
 Pantas Kang Chun Heng tak pernah mengenal <em>yen che</em> sebutan walet di Penang. Walet baru masuk pulau di sebelah barat mainland Malaysia itu pada 1997. "Mereka pindahan dari Indonesia. Mungkin terusir karena kebakaran yang melanda hutan Sumatera dan Kalimantan pada saat itu," kata Teh Chin Chai, pengusaha Tionghoa yang bergerak di bidang otomotif.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Di Taiwan Budidaya Belimbing Dirambatkan
+title: "Di Taiwan Budidaya Belimbing Dirambatkan"
 categories: perkebunan
 date: 2020-10-19 13:01:23
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/belimbing.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/belimbing.jpg"
 tags:
 - 
 
 modification_time: 2020-10-19 13:01:23
-blogger_orig_url: http://localhost/mitra/di-taiwan-budidaya-belimbing.html
+blogger_orig_url: "http://localhost/mitra/di-taiwan-budidaya-belimbing.html"
 ---
 
 <p>Menyusuri kebun-kebun belimbing di Pingtung seperti memasuki tenda hijau dihiasi warna kuning dan oranye. "Terpal” tenda berupa daun, cabang, dan dahan yang dibiarkan merambat di para-para berketinggian 2,50-2,75 m. Hiasan berwarna kuning oranye sejatinya buah bintang masak yang menggantung di bawah para-para.</p>

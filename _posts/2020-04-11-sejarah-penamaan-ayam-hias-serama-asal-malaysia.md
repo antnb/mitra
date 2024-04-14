@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sejarah Penamaan Ayam Hias Serama Asal Malaysia
+title: "Sejarah Penamaan Ayam Hias Serama Asal Malaysia"
 categories: hobi
 date: 2020-04-11 09:24:04
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/Serama-Malaysia.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Serama-Malaysia.jpg"
 tags:
 - ayam
 - malaysia
@@ -12,7 +12,7 @@ tags:
 - serama di malaysia
 
 modification_time: 2020-04-11 09:24:04
-blogger_orig_url: http://localhost/mitra/sejarah-penamaan-ayam-hias-serama-asal.html
+blogger_orig_url: "http://localhost/mitra/sejarah-penamaan-ayam-hias-serama-asal.html"
 ---
 
 Salah seorang penonton wayang kulit yang di gelar semalam suntuk di Kampung Cina, Kota Baru, Kelantan, pada 1990-an itu takjub dengan sifat Sri Rama yang anggun, berwibawa, dan perkasa. Pebisnis <a href="http://127.0.0.1/mitra/prospek-bisnis-menjanjikan-budidaya.html">ternak ayam serama</a> sekaligus penyilang ayam hias itu-Wee Yean Een-serta merta menyemat sang tokoh wayang itu untuk sebutan klangenan baru hasil silangan selama 15 tahun. Namun, selama perjalanan waktu, <em>pengucapan lafal sri rama sering terpeleset menjadi serama Personifikasi serama dengan Sri Rama dianggap tepat</em>. “Serama bertingkah seperti raja, anggun, dan gagah,” ujar Albert Tan.

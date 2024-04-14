@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Infiltrasi Cacing Emas di Bisnis Bibit Kentang
+title: "Infiltrasi Cacing Emas di Bisnis Bibit Kentang"
 categories: perkebunan
 date: 2020-11-14 07:19:16
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kentang_123_577x480.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_kentang_123_577x480.jpg"
 tags:
 - hama
 - Kentang
 - petani
 
 modification_time: 2020-11-14 07:19:16
-blogger_orig_url: http://localhost/mitra/infiltrasi-cacing-emas-di-bisnis-bibit.html
+blogger_orig_url: "http://localhost/mitra/infiltrasi-cacing-emas-di-bisnis-bibit.html"
 ---
 
 Gara-gara <em>golden cyst nematode</em>, pemerintah memperketat prosedur impor bibit kentang. Akibatnya, PT Mandiri Alam Lestari (MAL), importir di Jakarta rugi ratusan juta rupiah. Order 125 ton bibit kentang atlantik atau sekitar 5 kontainer belum bisa terkirim ke tanah air. Sebanyak 75 ton lagi belum bisa masuk pelabuhan Tanjungpriok, Jakarta. Namun, beberapa importir lain malah adem-ayem, belum merasakan efek kehadiran cacing emas itu.

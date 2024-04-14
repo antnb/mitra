@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Cara Membasmi Rumput Liar (Gulma) Dengan Herbisida Organik
+title: "Cara Membasmi Rumput Liar (Gulma) Dengan Herbisida Organik"
 categories: artikel|perkebunan|Pertanian
 date: 2021-02-06 15:44:28
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_gulma31_1024x690.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_gulma31_1024x690.jpg"
 tags:
 - gulma
 - herbisida
 
 modification_time: 2021-02-06 15:44:28
-blogger_orig_url: http://localhost/mitra/cara-membasmi-rumput-liar-gulma-organik.html
+blogger_orig_url: "http://localhost/mitra/cara-membasmi-rumput-liar-gulma-organik.html"
 ---
 
 Mati satu tumbuh seribu. Adagium itu pas buat menggambarkan keuletan hidup gulma. Satu gulma dicabut, sesaat kemudian puluhan lainnya muncul. Celakanya, kehadirannya selalu menurunkan produktivitas. cara membasmi rumput liar dengan herbisida Bubuk jagung dapat diandalkan untuk menanggulanginya.

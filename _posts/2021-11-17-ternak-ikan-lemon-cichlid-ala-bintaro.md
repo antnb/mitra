@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Ternak Ikan Lemon Cichlid Ala Bintaro
+title: "Ternak Ikan Lemon Cichlid Ala Bintaro"
 categories: hobi|ikan hias
 date: 2021-11-17 18:21:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/Lemon-Siklid.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/Lemon-Siklid.jpg"
 tags:
 - Lemon Siklid
 - siklid
 
 modification_time: 2021-11-17 18:21:00
-blogger_orig_url: http://localhost/mitra/ternak-ikan-lemon-cichlid-ala-bintaro.html
+blogger_orig_url: "http://localhost/mitra/ternak-ikan-lemon-cichlid-ala-bintaro.html"
 ---
 
 Ikan lemon cichlid lagi naik daun. Ikan kecil berwarna kuning jeruk ini sedang digandrungi di luar negeri. Ia bisa diperbanyak di akuarium.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Sapu Sapu Dari Ciliwung dan Amazon: Nama Sama, Nasib Beda
+title: "Sapu Sapu Dari Ciliwung dan Amazon: Nama Sama, Nasib Beda"
 categories: hobi|ikan hias
 date: 2020-12-09 08:02:49
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sapusapu1_1024x593.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_sapusapu1_1024x593.jpg"
 tags:
 - hypancitrus zebra
 - sapu sapu
 - sapu sapu hias
 
 modification_time: 2020-12-09 08:02:49
-blogger_orig_url: http://localhost/mitra/sapu-sapu-dari-ciliwung-dan-amazon.html
+blogger_orig_url: "http://localhost/mitra/sapu-sapu-dari-ciliwung-dan-amazon.html"
 ---
 
 <i lang="la">Hypostomus</i> pernah tren di era 1980-an. Sayang coraknya yang melulu hitam, ditambah membeludaknya populasi membuat hypostomus bernasib mengenaskan, dibuang ke kali Di kali Ciliwung mereka hidup soliter atau berkelompok. Di sana para pelahap lumut itu diburu untuk dicacah dan diberikan ke itik sebagai menu pakan.

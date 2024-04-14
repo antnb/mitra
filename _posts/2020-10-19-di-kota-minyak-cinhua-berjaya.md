@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Di Kota Minyak Cinhua Berjaya
+title: "Di Kota Minyak Cinhua Berjaya"
 categories: hobi|ikan hias
 date: 2020-10-19 04:48:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/champ.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/champ.jpg"
 tags:
 - 
 
 modification_time: 2020-10-19 04:48:36
-blogger_orig_url: http://localhost/mitra/di-kota-minyak-cinhua-berjaya.html
+blogger_orig_url: "http://localhost/mitra/di-kota-minyak-cinhua-berjaya.html"
 ---
 
 Ketegangan terpancar di wajah peserta dan penonton di Patra Graha Pertamina ketika pemilihan grand champion berlangsung. Lima juri tampak mondar-mandir menyambangi ikan juara setiap kelas. Lima belas menit berselang, juri akhirnya menyematkan 5 pita merah ke akuarium CH B-8. Penghuninya, cinhua milik Housen asal Wonosobo dinobatkan sebagai lou han terbaik di kontes bertajuk Bupati Cilacap Lou Han Contest, akhir Juli 2013.

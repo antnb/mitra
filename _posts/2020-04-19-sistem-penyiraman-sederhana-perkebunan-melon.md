@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Sistem penyiraman Sederhana Perkebunan Melon
+title: "Sistem penyiraman Sederhana Perkebunan Melon"
 categories: artikel|perkebunan
 date: 2020-04-19 13:58:11
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/04/tanaman-melon.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/tanaman-melon.jpg"
 tags:
 - irigasi
 - melon
 - penyiraman
 
 modification_time: 2020-04-19 13:58:11
-blogger_orig_url: http://localhost/mitra/sistem-penyiraman-sederhana-perkebunan.html
+blogger_orig_url: "http://localhost/mitra/sistem-penyiraman-sederhana-perkebunan.html"
 ---
 
 <em>Sutrisno tidak berangan-angan. Sebab, “Uji coba pada cabai menunjukkan peningkatan hasil hingga 50%,” papar Direktur Direktorat Tanaman Sayuran dan Biofarmaka, Departemen Pertanian itu. Di kebunnya ia membandingkan pertumbuhan melon yang disiram secara manual dan dengan sistem pipa PVC. <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> melihat, penampilan tanaman dengan irigasi PVC jauh lebih baik. Tanaman yang disiram manual baru setinggi 20-30 cm pada umur sama. Padahal, pemupukan dilakukan dengan jenis dan dosis yang sama.</em>

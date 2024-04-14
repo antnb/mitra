@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Sang Jawara Kontes Festival Hortikultura Indonesia
+title: "Sang Jawara Kontes Festival Hortikultura Indonesia"
 categories: tanaman hias
 date: 2020-04-07 15:51:36
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/04/bunga-euphorbia-cristata-1-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/bunga-euphorbia-cristata-1-1.jpg"
 tags:
 - Euphorbia
 - philodendron
 
 modification_time: 2020-04-07 15:51:36
-blogger_orig_url: http://localhost/mitra/anthurium-andraeanum-sang-jawara.html
+blogger_orig_url: "http://localhost/mitra/anthurium-andraeanum-sang-jawara.html"
 ---
 
 Pesona <a class="wpil_keyword_link " title="anthurium" href="http://127.0.0.1/mitra/topik/anthurium" data-wpil-keyword-link="linked">anthurium</a> hibrida itu memang tampak menonjol. Pantas ketiga juri Festival Hortikultura Greg Hambali, Anshori, dan Thanachai Charusom-sepakat mengganjar peserta bernomor 75 itu sebagai jawara pertama. "Pola variegata rata di seluruh permukaan daun. Daun yang bergelombang nilai lebih lainnya. Semua ujung daun juga sempurna menandakan tanaman dirawat dengan baik," ujar Greg Hambali.

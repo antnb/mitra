@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Jamur Shitake: Pembibitan Dan Penyimpanan Log
+title: "Jamur Shitake: Pembibitan Dan Penyimpanan Log"
 categories: perkebunan
 date: 2020-08-22 06:49:12
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/jamur-shitake_1280x720.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/jamur-shitake_1280x720.jpg"
 tags:
 - 
 
 modification_time: 2020-08-22 06:49:12
-blogger_orig_url: http://localhost/mitra/jamur-shitake-pembibitan-dan.html
+blogger_orig_url: "http://localhost/mitra/jamur-shitake-pembibitan-dan.html"
 ---
 
 Untuk pengusahaan jamur shitake di kayu gelondong, jenis dan perlakuan pada bibit sedikit berbeda ketimbang biasanya. Cara penyiapan log sampai siap tanam pun harus melalui perlakuan khusus. Persiapan dan perlakuan yang tepat niscaya akan meningkatkan keberhasilan <a class="wpil_keyword_link" href="http://127.0.0.1/mitra/pertanian"   title="pertanaman" data-wpil-keyword-link="linked">pertanaman</a> shiitake pada kayu gelondongan.

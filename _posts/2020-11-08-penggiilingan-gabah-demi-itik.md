@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Penggiilingan Gabah Demi Itik
+title: "Penggiilingan Gabah Demi Itik"
 categories: artikel
 date: 2020-11-08 05:52:52
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/ternak.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/ternak.jpg"
 tags:
 - bebek
 - gabah
@@ -12,7 +12,7 @@ tags:
 - padi
 
 modification_time: 2020-11-08 05:52:52
-blogger_orig_url: http://localhost/mitra/penggiilingan-gabah-demi-itik.html
+blogger_orig_url: "http://localhost/mitra/penggiilingan-gabah-demi-itik.html"
 ---
 
 Add Farm identik dengan peternakan itik. Maklum perusahan itu mempu mengelola dana 3.000 investor yang menanamkan modal. Bandingkan ketika memulai usaha pada 1995, hanya ratusan investor.

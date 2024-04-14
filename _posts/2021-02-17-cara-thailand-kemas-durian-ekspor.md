@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cara Thailand Kemas Durian Ekspor
+title: "Cara Thailand Kemas Durian Ekspor"
 categories: artikel|perkebunan
 date: 2021-02-17 07:13:14
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/02/duren56.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/duren56.jpg"
 tags:
 - Durian
 - durian ekspor
@@ -13,7 +13,7 @@ tags:
 - pongge
 
 modification_time: 2021-02-17 07:13:14
-blogger_orig_url: http://localhost/mitra/cara-thailand-kemas-durian-ekspor.html
+blogger_orig_url: "http://localhost/mitra/cara-thailand-kemas-durian-ekspor.html"
 ---
 
 Urusan ekspor buah, Thailand memang jagonya. Durian salah satu andalan ekspor negeri Gajah Putih itu sejak 1984 ke Malaysia dan Singapura. Kini ekspor Thailand merambah ke Cina, Amerika Serikat, Kanada, Perancis, dan Australia. Berikut cara Thailand mengemas beragam bentuk durian ekspor.

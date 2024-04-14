@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Lomba Terbang Merpati Pos 900 km
+title: "Lomba Terbang Merpati Pos 900 km"
 categories: hobi
 date: 2021-01-22 03:08:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_merpati_1024x576.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/01/Gambar_merpati_1024x576.jpg"
 tags:
 - adu cepat
 - lomba terbang
 - merpati pos
 
 modification_time: 2021-01-22 03:08:19
-blogger_orig_url: http://localhost/mitra/lomba-terbang-merpati-pos-900-km.html
+blogger_orig_url: "http://localhost/mitra/lomba-terbang-merpati-pos-900-km.html"
 ---
 
 Tepat pukul 11.15, Henry tiba di Barakuda Bird Farm, Taman Kopo Indah, Bandung, Jawa Barat. Seorang perawat burung menyambut kedatangan paket itu. Begitu kardus berukuran 20 cm x 30 cm dibuka tampak 2 piyik umur sebulan. Satu per satu diangkat, lalu dicek kelengkapan organ tubuh dan kesehatannya. Identitas setiap burung dicatat: nomor ring dan warna bulu. Columbidae sp itu peserta terakhir yang harus masuk ke kandang nasional.

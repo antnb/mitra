@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Sistim Hidroponik Talang Bertingkat
+title: "Sistim Hidroponik Talang Bertingkat"
 categories: artikel|perkebunan
 date: 2020-09-06 12:18:13
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_talang_1280x798.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_talang_1280x798.jpg"
 tags:
 - 
 
 modification_time: 2020-09-06 12:18:13
-blogger_orig_url: http://localhost/mitra/sistim-hidroponik-talang-bertingkat.html
+blogger_orig_url: "http://localhost/mitra/sistim-hidroponik-talang-bertingkat.html"
 ---
 
 <em>Dari sekadar iseng-iseng seorang hobiis hidroponik mampu memasarkan beragam sayuran daun ke pasar swalayan. Makin lama permintaan terus bertambah. Sayangnya, ia tak bisa memenuhi lantaran keterbatasan lahan. Padahal produksi bisa dilipatgandakan bila ia menggunakan sistem hidroponik bertingkat.</em>

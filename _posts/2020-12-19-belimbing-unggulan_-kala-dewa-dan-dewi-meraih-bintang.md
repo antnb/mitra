@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Belimbing Unggulan: Kala Dewa dan Dewi Meraih Bintang
+title: "Belimbing Unggulan: Kala Dewa dan Dewi Meraih Bintang"
 categories: perkebunan
 date: 2020-12-19 00:48:53
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_belimbing_1024x634.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_belimbing_1024x634.jpg"
 tags:
 - Belimbing
 - daging buah
 
 modification_time: 2020-12-19 00:48:53
-blogger_orig_url: http://localhost/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html
+blogger_orig_url: "http://localhost/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html"
 ---
 
 Penampilan belimbing koleksi Mubin Usman, penangkar di Depok, itu memang begitu meyakinkan. Sosok buah besar, rata-rata berbobot 300 sampai 350 g atau sekilo berisi 3 buah. Yang dikirimkan ke panitia LBUN 2003 malah mencapai 380 g. Kulit buah oranye terang, mulus, dan mengkilap. Bentuk blimbingan seperti segitiga gemuk dan padat dihiasi lingir berwarna senada.

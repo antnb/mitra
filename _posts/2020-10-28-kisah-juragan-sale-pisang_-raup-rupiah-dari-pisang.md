@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kisah Juragan Sale Pisang, Raup Rupiah Dari Pisang
+title: "Kisah Juragan Sale Pisang, Raup Rupiah Dari Pisang"
 categories: artikel
 date: 2020-10-28 13:02:17
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/Gambar_usaha_keripik_pisang_rumahan2_1280x720-1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/Gambar_usaha_keripik_pisang_rumahan2_1280x720-1.jpg"
 tags:
 - Pisang
 - sale
 
 modification_time: 2020-10-28 13:02:17
-blogger_orig_url: http://localhost/mitra/kisah-juragan-sale-pisang-raup-rupiah.html
+blogger_orig_url: "http://localhost/mitra/kisah-juragan-sale-pisang-raup-rupiah.html"
 ---
 
 Sebutlah nama Ani panggilan akrab Kasrih Andayani bila Anda datang ke Desa Burno, Kecamatan Senduro, Lumajang. Anda pasti langsung diantarkan ke pabrik pembuatan sale milik perempuan 40 tahun itu. Buat penduduk setempat terutama kaum ibu Ani bak pahlawan.

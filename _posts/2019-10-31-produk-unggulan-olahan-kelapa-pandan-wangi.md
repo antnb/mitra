@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Produk unggulan Olahan kelapa pandan wangi
+title: "Produk unggulan Olahan kelapa pandan wangi"
 categories: perkebunan|Pertanian
 date: 2019-10-31 08:29:00
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2019/10/pandan-wangi.jpg
+image: "http://localhost/mitra/wp-content/uploads/2019/10/pandan-wangi.jpg"
 tags:
 - bisnis
 - kelapa
 
 modification_time: 2019-10-31 08:29:00
-blogger_orig_url: http://localhost/mitra/produk-olahan-kelapa-pandan-wangi.html
+blogger_orig_url: "http://localhost/mitra/produk-olahan-kelapa-pandan-wangi.html"
 ---
 
 Selama dua generasi, K-Fresh hanya mengekspor kelapa pandan wangi segar dan utuh. Keterbatasan pasokan dari pekebun serta kendala teknologi membuat mereka tidak punya pilihan lain.

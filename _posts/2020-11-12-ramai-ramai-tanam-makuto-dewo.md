@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ramai-ramai Tanam Makuto Dewo
+title: "Ramai-ramai Tanam Makuto Dewo"
 categories: Herbal|perkebunan
 date: 2020-11-12 09:06:19
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/11/makuto_dewo.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/makuto_dewo.jpg"
 tags:
 - Makuto Dewo
 
 modification_time: 2020-11-12 09:06:19
-blogger_orig_url: http://localhost/mitra/ramai-ramai-tanam-makuto-dewo.html
+blogger_orig_url: "http://localhost/mitra/ramai-ramai-tanam-makuto-dewo.html"
 ---
 
 Siapa sangka buah si malakama itu bakal mencuat namanya di awal abad ini? Buah nan cantik mirip apel merah impor itu dulu tidak dilirik orang. Mendekati pohonnya saja ada yang tak berani karena takut keracunan. Kini, ia malah diburu orang.

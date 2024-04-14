@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mensiasati Maraknya Aksi Pencurian Tanaman Hias
+title: "Mensiasati Maraknya Aksi Pencurian Tanaman Hias"
 categories: artikel|hobi|tanaman hias
 date: 2020-08-06 11:35:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/08/aglaonema_1104x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/aglaonema_1104x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-06 11:35:32
-blogger_orig_url: http://localhost/mitra/mensiasati-maraknya-aksi-pencurian.html
+blogger_orig_url: "http://localhost/mitra/mensiasati-maraknya-aksi-pencurian.html"
 ---
 
 <em>Munaedi, karyawan bagian perawatan tanaman t nurseri Art Garden, segera memanggil rekan-rekannya. Mendapat laporan pencurian, Gunawan Widjaya, pemilik nurseri, bergegas meninggalkan rumahnya di bilangan Pejaten, Jakarta Selatan. Mobilnya meluncur ke lokasi kebun di Sentul, Kabupaten Bogor. “Pencurinya tahu <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/aglaonema"  title="aglaonema" data-wpil-keyword-link="linked">aglaonema</a>. Mungkin dia sudah lama mengincarnya,” ujar Gunawan getir.</em>

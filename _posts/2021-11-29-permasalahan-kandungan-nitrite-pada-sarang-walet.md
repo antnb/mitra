@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Permasalahan Kandungan Nitrite Pada Sarang Walet
+title: "Permasalahan Kandungan Nitrite Pada Sarang Walet"
 categories: artikel
 date: 2021-11-29 16:22:30
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/11/sarang-walet4.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/11/sarang-walet4.jpg"
 tags:
 - walet
 
 modification_time: 2022-09-20 06:07:06
-blogger_orig_url: http://localhost/mitra/kandungan-nitrite-pada-sarang-walet.html
+blogger_orig_url: "http://localhost/mitra/kandungan-nitrite-pada-sarang-walet.html"
 ---
 
 Bisnis sarang walet atau apung-apung telah berkembang pesat di Indonesia dan sekitarnya selama beberapa tahun terakhir. Hal ini sebagian disebabkan oleh semakin banyaknya penelitian yang menunjukkan manfaat sarang walet bagi kesehatan, seperti menurunkan tekanan darah, mencegah demensia, dan lain-lain.

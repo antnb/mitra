@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Kemenangan (Nyaris) Sempurna Duku Rasuan
+title: "Kemenangan (Nyaris) Sempurna Duku Rasuan"
 categories: perkebunan
 date: 2021-05-04 13:02:16
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2021/05/duku-4.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/05/duku-4.jpg"
 tags:
 - buah buahan
 - duku
 
 modification_time: 2021-05-04 13:02:16
-blogger_orig_url: http://localhost/mitra/kemenangan-nyaris-sempurna-duku.html
+blogger_orig_url: "http://localhost/mitra/kemenangan-nyaris-sempurna-duku.html"
 ---
 
 Serupa tapi tak sama, kemenangan duku rasuan dalam Lomba Buah Unggul Nasional 2003 nyaris sempurna. Para juri sepakat Lancium domesticum itu layak sebagai yang terbaik menyisihkan 8 rivalnya.

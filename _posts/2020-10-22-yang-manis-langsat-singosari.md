@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Yang Manis Langsat Singosari
+title: "Yang Manis Langsat Singosari"
 categories: artikel|perkebunan
 date: 2020-10-22 06:44:50
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/10/langsat1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/10/langsat1.jpg"
 tags:
 - langsat
 
 modification_time: 2020-10-22 06:44:50
-blogger_orig_url: http://localhost/mitra/yang-manis-langsat-singosari.html
+blogger_orig_url: "http://localhost/mitra/yang-manis-langsat-singosari.html"
 ---
 
 Anda mungkin pernah kecewa saat membeli duku rasanya tak seragam. Suapan pertama rasa manis masih menggoyang lidah, tapi berikutnya Anda menyeringai karena buah asam. Itu lantaran pada tumpukan duku dicampur langsat yang biasanya asam. Lain halnya kalau langsat singosari yang dimasukkan. Dijamin tak rugi karena ia tak kalah manis dibanding duku.

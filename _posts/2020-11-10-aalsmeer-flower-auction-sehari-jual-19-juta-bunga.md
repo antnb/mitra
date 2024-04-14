@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Aalsmeer Flower Auction Sehari Jual 19-Juta Bunga
+title: "Aalsmeer Flower Auction Sehari Jual 19-Juta Bunga"
 categories: artikel|tanaman hias
 date: 2020-11-10 08:08:45
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_AalsmeerFlowerAuction_1039x720.jpeg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_AalsmeerFlowerAuction_1039x720.jpeg"
 tags:
 - Aalsmeer
 - auction
 - flower
 
 modification_time: 2020-11-10 08:08:45
-blogger_orig_url: http://localhost/mitra/aalsmeer-flower-auction-sehari-jual.html
+blogger_orig_url: "http://localhost/mitra/aalsmeer-flower-auction-sehari-jual.html"
 ---
 
 Rangkaian rak bunga berhenti. Petugas lelang mengambil seikat bunga matahari produksi Israel dan menjelaskan spesifikasinya. Greg Van Lottum, peserta no 1.889 memenangkan lelang karena menekan bel paling dahulu. Ia berani menawar bunga matahari itu 55 euro. Lewat mikrofon, ia memesan 10 ikat @ 50 tangkai. Proses transaksi bunga itu hanya berlangsung 4 detik.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Potensi budidaya perikanan di indonesia
+title: "Potensi budidaya perikanan di indonesia"
 categories: artikel|Perikanan
 date: 2020-03-19 09:52:29
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/03/Keramba_Jaring_Apung_1200x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/03/Keramba_Jaring_Apung_1200x800.jpg"
 tags:
 - 
 
 modification_time: 2020-03-19 09:52:29
-blogger_orig_url: http://localhost/mitra/potensi-budidaya-perikanan-di.html
+blogger_orig_url: "http://localhost/mitra/potensi-budidaya-perikanan-di.html"
 ---
 
 Dasar anak ikan!” itulah kata-kata yang tercetus sebelum terbentuknya Pulau Samosir. Mendengar anaknya dimarahi seperti itu, ibunya menangis, hingga air matanya tergenang menjadi danau. Maka jangan heran kalau Anda sering melihat bangunan berbentuk ikan di dusun-dusun seputar Danau Toba Na Uli, yang indah! Konon, anak-anak Tapanuli yang cerdas dan berani itu dilahirkan oleh seekor ikan. Itulah tanda bakti anak-anak Sumatera Utara, menghormati ikan sebagai awal kehidupan.

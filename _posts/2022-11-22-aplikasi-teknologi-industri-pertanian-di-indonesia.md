@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Aplikasi Teknologi Industri Pertanian Di Indonesia
+title: "Aplikasi Teknologi Industri Pertanian Di Indonesia"
 categories: Pertanian
 date: 2022-11-22 11:03:32
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2022/11/teknologi-industri-pertanian.jpg
+image: "http://localhost/mitra/wp-content/uploads/2022/11/teknologi-industri-pertanian.jpg"
 tags:
 - hama
 - pupuk
 - sawah
 
 modification_time: 2022-11-22 11:03:55
-blogger_orig_url: http://localhost/mitra/teknologi-pertanian.html
+blogger_orig_url: "http://localhost/mitra/teknologi-pertanian.html"
 ---
 
 Indonesia merupakan negara agraris yang memiliki potensi pertanian yang luar biasa. Teknologi <a class="wpil_keyword_link" href="http://127.0.0.1/mitra/pertanian"   title="pertanian" data-wpil-keyword-link="linked">pertanian</a> di Indonesia telah berkembang sejak zaman dahulu, namun seiring dengan perkembangan jaman, teknologi pertanian di Indonesia juga semakin canggih dan maju.

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bisnis Bibit Kentang : Terganjal Faktor kebiasaan
+title: "Bisnis Bibit Kentang : Terganjal Faktor kebiasaan"
 categories: artikel|perkebunan
 date: 2020-08-21 15:37:39
 author: Mitra
-image: http://localhost/mitra/wp-content/uploads/2020/08/bibit-kentang_1067x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/08/bibit-kentang_1067x800.jpg"
 tags:
 - 
 
 modification_time: 2020-08-21 15:37:39
-blogger_orig_url: http://localhost/mitra/bisnis-bibit-kentang-terganjal.html
+blogger_orig_url: "http://localhost/mitra/bisnis-bibit-kentang-terganjal.html"
 ---
 
 <em>Bisnis bibit kentang sebenarnya berprospek cerah untuk dikembangkan. Jika harga kentang umumnya berkisar r Rp  1.500-Rp 2.000 per kg, harga bibit F2 bisa mencapai 4-6 kali lipatnya. Dari 1 kg bibit F1 impor bisa dihasilkan 17,5 kg bibit F2. Penyusutannya hanya berkisar 20%-25% saja. Sayangnya pasar bibit kentang yang terjamin kualitasnya belum terbuka luas. Petani cenderung membibitkannya sendiri. Padahal bibit yang dihasilkan tak terjamin mutunya.</em>

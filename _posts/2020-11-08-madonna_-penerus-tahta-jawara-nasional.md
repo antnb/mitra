@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Madonna, Penerus Tahta Jawara Nasional
+title: "Madonna, Penerus Tahta Jawara Nasional"
 categories: artikel|hobi
 date: 2020-11-08 06:23:42
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_perkutut1_1280x719.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_perkutut1_1280x719.jpg"
 tags:
 - kontes
 - perkutut
 
 modification_time: 2020-11-08 06:23:42
-blogger_orig_url: http://localhost/mitra/madonna-penerus-tahta-jawara-nasional.html
+blogger_orig_url: "http://localhost/mitra/madonna-penerus-tahta-jawara-nasional.html"
 ---
 
 Lomba nasional HUT RI Cup di Pluit, Jakarta Utara, medio Agustus 2002 menobatkan Madonna sebagai perkutut jawara baru. Burung milik Andre Andrianto itu menyingkirkan 285 kandidat dari berbagai daerah. Di ajang bergengsi itu Madonna bakal meneruskan tahta kebesaran yang selama ini dipegang Misteri Bahari, Mysteri Cinta, Turbo III, Euro 2000, dan Susi Susanti.

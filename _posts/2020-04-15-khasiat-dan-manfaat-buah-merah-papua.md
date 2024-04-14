@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Khasiat Dan Manfaat Buah Merah Papua
+title: "Khasiat Dan Manfaat Buah Merah Papua"
 categories: artikel|Herbal|kesehatan
 date: 2020-04-15 04:12:32
 author: Anton N
-image: http://localhost/mitra/wp-content/uploads/2020/04/Buah-Merah-Papua1.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/04/Buah-Merah-Papua1.jpg"
 tags:
 - Buah merah
 - Papua
 
 modification_time: 2020-04-15 04:12:32
-blogger_orig_url: http://localhost/mitra/khasiat-dan-manfaat-buah-merah-papua.html
+blogger_orig_url: "http://localhost/mitra/khasiat-dan-manfaat-buah-merah-papua.html"
 ---
 
 <em>Tiga puluh lima kali penyinaran tak juga mampu menjinakkan sel tumor yang tumbuh di jaringan otak Hamid. Malah, jaringan liar itu terus membesar. Hari-hari pun harus dilalui dengan penuh derita.</em>

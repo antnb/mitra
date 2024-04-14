@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mereka Yang Tersihir Anthurium
+title: "Mereka Yang Tersihir Anthurium"
 categories: artikel|tanaman hias
 date: 2021-02-01 15:38:19
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2021/02/Gambar_anthurium_1024x755.jpg
+image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_anthurium_1024x755.jpg"
 tags:
 - Anthurium
 - Anthurium jenmanii
@@ -13,7 +13,7 @@ tags:
 - mengoleksi anthurium
 
 modification_time: 2021-02-01 15:38:19
-blogger_orig_url: http://localhost/mitra/mereka-yang-tersihir-anthurium.html
+blogger_orig_url: "http://localhost/mitra/mereka-yang-tersihir-anthurium.html"
 ---
 
 Anthurium-anthurium koleksinya tertata rapi di halaman rumahnya bergaya joglo di Muntilan, Magelang. Tanaman hias daun itu tumbuh di pot raksasa berdiameter 1 meter. Jenisnya didominasi Anthurium jenmanii. Salah satunya berdaun hijau solid berbentuk mangkuk sehingga disebut jenmanii mangkuk. Di tanahair, tak lebih 10 orang yang mempunyai jenis itu.

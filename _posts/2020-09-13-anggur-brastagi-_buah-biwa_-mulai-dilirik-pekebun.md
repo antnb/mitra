@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Anggur Brastagi (Buah Biwa) Mulai Dilirik Pekebun
+title: "Anggur Brastagi (Buah Biwa) Mulai Dilirik Pekebun"
 categories: perkebunan
 date: 2020-09-13 10:24:47
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/09/Gambar_biwa_1280x777.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_biwa_1280x777.jpg"
 tags:
 - 
 
 modification_time: 2020-09-13 10:24:47
-blogger_orig_url: http://localhost/mitra/anggur-brastagi-buah-biwa-mulai.html
+blogger_orig_url: "http://localhost/mitra/anggur-brastagi-buah-biwa-mulai.html"
 ---
 
 <em>Pasokan biwa memang terbatas. Di Indonesia ia hanya tumbuh di beberapa daerah: Karo, Tapanuli Utara, Simalungun, Toba Samosir, Brastagi, dan Dairi (Sumatera Utara). Beberapa biwa juga ditemukan di Cibodas, Jawa Barat dan Tondano, Sulawesi Utara. Namun, di 2 tempat yang disebut terakhir, kualitas biwa berbeda dengan yang tumbuh di Sumatera Utara. Di tempat lain manisnya agak kurang,” kata Frits Silalahi, kepala Kebun Percobaan Tanaman Buah (KPTB), Brastagi.</em>

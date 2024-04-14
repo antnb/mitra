@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lengkeng sang Jenderal "Berlian" Berdaging Kering
+title: "Lengkeng sang Jenderal Berlian Berdaging Kering"
 categories: artikel|perkebunan
 date: 2020-12-07 12:19:26
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_idoh_1024x726.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_idoh_1024x726.jpg"
 tags:
 - berdaging kering
 - daging buah
@@ -13,7 +13,7 @@ tags:
 - lengkeng
 
 modification_time: 2020-12-07 12:19:26
-blogger_orig_url: http://localhost/mitra/lengkeng-sang-jenderal-berlian.html
+blogger_orig_url: "http://localhost/mitra/lengkeng-sang-jenderal-berlian.html"
 ---
 
 Pantas Prayitno memberanikan diri menelpon redaksi. Sudah 3,5 tahun mantan penasehat militer Menteri Pertahanan RI era Matori Abdul Djalil itu merawat lengkeng. Prayitno tak pernah berharap bakal memanen buah cepat. “Selama ini ada anggapan lengkeng berbuah saat berumur puluhan tahun. Itu pun mesti lebih dari 2 pohon (ada bunga jantan dan betina, red). Saya ditertawakan teman-teman di Angkatan Udara waktu membawa 1 bibit lengkeng dari Thailand,” tuturnya.

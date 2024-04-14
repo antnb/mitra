@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Provinsi Gorontalo Dan Pengembangan Kawasan Agropolitan
+title: "Provinsi Gorontalo Dan Pengembangan Kawasan Agropolitan"
 categories: artikel
 date: 2020-11-06 09:22:58
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/11/agropolitan.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/11/agropolitan.jpg"
 tags:
 - 
 
 modification_time: 2020-11-06 09:22:58
-blogger_orig_url: http://localhost/mitra/pengembangan-kawasan-agropolitan.html
+blogger_orig_url: "http://localhost/mitra/pengembangan-kawasan-agropolitan.html"
 ---
 
 Trend Kawasan Agropolitan yang menyita perhatian pemerintah di seluruh dunia ialah munculnya parity. Sistem produksi,pelayanan, dan teknologi menjadi sangat mudah ditiru. Jadi, tampil dengan suatu kelebihan kini kian sulit.

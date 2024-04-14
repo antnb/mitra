@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Fafue Dae Dan Rapok Kacang Varietas Unggul Dari Nusa Tenggara Timur
+title: "Fafue Dae Dan Rapok Kacang Varietas Unggul Dari Nusa Tenggara Timur"
 categories: perkebunan
 date: 2020-07-24 13:49:27
 author: Yudianto
-image: http://localhost/mitra/wp-content/uploads/2020/07/kacang_977x800.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/07/kacang_977x800.jpg"
 tags:
 - 
 
 modification_time: 2020-07-24 13:49:27
-blogger_orig_url: http://localhost/mitra/fafue-dae-dan-rapok-kacang-varietas.html
+blogger_orig_url: "http://localhost/mitra/fafue-dae-dan-rapok-kacang-varietas.html"
 ---
 
 <em>Di Belanda kacang rote tak sekadar camilan. Anggota famili Leguminoceae itu ternyata dibawa ke laboratorium. Wisatawan yang ilmuwan itu mungkin penasaran terhadap kelezatan polong nan bernas. Hasilnya, “Kadar lemak kacang rote amat rendah,” kata Ir Subdarma Siprianus dari Dinas Tanaman Pangan dan Hortikultura NTT.</em>

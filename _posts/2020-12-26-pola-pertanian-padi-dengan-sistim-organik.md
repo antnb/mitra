@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pola Pertanian Padi Dengan Sistim Organik
+title: "Pola Pertanian Padi Dengan Sistim Organik"
 categories: Pertanian
 date: 2020-12-26 13:28:43
 author: adisucipto
-image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ornaik_padi_1024x617.jpg
+image: "http://localhost/mitra/wp-content/uploads/2020/12/Gambar_ornaik_padi_1024x617.jpg"
 tags:
 - musim tanam
 - pertanian organik
@@ -14,7 +14,7 @@ tags:
 - sawah organik
 
 modification_time: 2020-12-26 13:28:43
-blogger_orig_url: http://localhost/mitra/pola-pertanian-padi-dengan-sistim.html
+blogger_orig_url: "http://localhost/mitra/pola-pertanian-padi-dengan-sistim.html"
 ---
 
 Bukan karena sentimentil bila pria paruh baya itu melongok ke masa silam. Empat tahun lalu, jangan harap menemukan belut dan cacing yang gemar bersembunyi di lumpur sawah. Tak ada lagi ikan yang bisa ikut ditangkap begitu padi berumur 3 sampai 4 bulan dituai. “Penggunaan pupuk dan pestisida kimia membuat mikroba alami sawah menghilang,” ujar pekebun berpengalaman puluhan fahun itu.
