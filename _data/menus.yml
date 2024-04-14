@@ -21,12 +21,17 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
+- title: about
+  url: "about/"
+
+- title: cookie
+  url: "cookie/"
+
+- title: disclaimer
+  url: "disclaimer/"
+  
+- title: privacy policy
   url: "privacy-policy/"
-
+  
 - title: Contact
-  url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
+  url: "Contact/"
