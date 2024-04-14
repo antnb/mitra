@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Agrowisata kampung belimbing karangsari, Wisata Sambil Menikmati belimbing"
+title: 'Agrowisata kampung belimbing karangsari, Wisata Sambil Menikmati belimbing'
 categories: perkebunan
 date: 2021-09-05 15:05:00
 author: Mitra
-image: "http://localhost/mitra/wp-content/uploads/2021/09/blimbing.jpg"
+image: media/blimbing.jpg
 tags:
 - Belimbing
 - Buah
@@ -14,28 +14,111 @@ modification_time: 2021-09-05 15:05:00
 blogger_orig_url: "http://localhost/mitra/sebuah-kampung-belimbing-bernama.html"
 ---
 
-Tanyalah kepada warga <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span>, apa yang paling pas menjadi oleh-oleh dari Blitar? Bumbu pecel pasti salah satu jawabannya. Maklum kota kelahiran Proklamator RI, Ir Soekarno, itu memang produsen penganan khas Jawa itu. Kini, selain bumbu pecel, warga Blitar dengan bangga menyodorkan <a class="wpil_keyword_link " title="belimbing" href="http://127.0.0.1/mitra/topik/belimbing" data-wpil-keyword-link="linked">belimbing</a> karangsari sebagai buah tangan para pelancong.
-Puluhan pohon belimbing dipenuhi buah matang terbungkus plastik bening di masing-masing halaman rumah penduduk <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> jadi pemandangan lazim begitu memasuki Kelurahan Karangsari, Kecamatan Sukorejo, Blitar. Maklum dari 800 kepala keluarga di sana lebih dari setengahnya menanam Averrhoa carambola itu. Total populasi saat ini mencapai 28.000 tanaman yang rata-rata sudah berproduksi.
-Tanaman yang menjulang setinggi minimal 3 m dengan tajuk cukup rimbun membuat udara Blitar yang pennap menjadi sejuk.. Di beberapa tempat terlihat pemilik pohon membungkus buah-buah pentil dengan plastik bening agar terhindar serangan lalat buah. Warga telaten merawat lantaran anggota famili Oxalidaceae itu jadi salah satu pintu rezeki.
-<h2 id="Penjualan">Omzet dari Penjualan belimbing mencapai 10 miliar</h2>
-Bayangkan saja. Pohon belimbing mulai belajar berbuah pada umur 1 tahun. Saat berumur di atas 5 tahun produksi buah mencapai 50 kg per panen. Yang berumur lebih dari 15 tahun, 100 sampai 150 kg per panen. Padahal panen raya belimbing karangsari 3 sampai 4 kali setahun. Harga saat ini di tingkat pekebun Rp3.000 per kg.
-Anggap saja belimbing dipanen 3 kali setahun dengan produksi per panen 50 kg. Dengan rata-rata kepemilikan 20 pohon per keluarga, berarti diperoleh tambahan pendapatan Rp9-juta per tahun. Padahal biaya perawatan nyaris tidak ada. Pantas dengan “bermodal” 200 pohon H Imam Surani mampu membiayai pendidikan putra-putrinya hingga perguruan tinggi.
-Buah bintang itu pun jadi sumber pendapatan <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span>. Dari populasi di seluruh Karangsari sebanyak 28.000 tanaman, 80% sudah berproduksi. Dengan asumsi sama, berarti setiap tahun dituai 3.360 ton. Itu setara dengan omzet Rp10 miliar per tahun! Nilai itu masih bisa membengkak lantaran harga ditingkat pekebun dapat mencapai Rp5.000 per kg.
-Belimbing hasil panen dari <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> ditampung para pengepul, seperti Imam Surani.
-Di tangan mereka star fruit itu disortir. Yang kelas super dan A berbobot di atas 500 g dan berpenampilan Mulus sampai nantinya Dikirim ke pasar swalayan. Buah dibersihkan dengan lap, kemudian satu per satu dibnngkus kantong plastik sehingga tampilannya lebih cantik. Sisanya, kelas B dan C, masuk ke pasar tradisional.
-[caption id="attachment_13911" align="aligncenter" width="1511"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/09/belimbing.jpg"><img class="wp-image-13911 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/belimbing.jpg" alt="Belimbing unggulan dari kampung belimbing" width="1511" height="850" /></a> Belimbing super[/caption]
-<h2 id="Juara">Juara lomba Buah</h2>
-Pemasarannya tak melulu di Blitar. Belimbing karangsari sudah menembus pasar-pasar swalayan di Malang, Surabaya, Solo, Yogyakarta, dan Jakarta. Pada setiap musim panen pengiriman ke pelanggan luar kota mencapai 5 ton per minggu. Di sana harganya berlipat menjadi Rp7.500 sampai Rp8.500 per kg. Penjualan pun laris-manis.
-Maklum ma-fuang nama di Thailand karangsari memang istimewa. Buah berwarna kuning-jingga terang mengkilap dengan lingir hijau. Ukuran besar berbobot 350 sampai 600 g per buah, manis segar dengan tingkat kemanisan mencapai 9 sampai 10° brix, kadar air tinggi, dan daya simpan lama mencapai lebih dari 7 hari. Lagipula tercium aroma harum pada buah matang optimal.
-Dari hasil kajian Balai Pengkajian Teknologi Pertanian (BPTP) Jawa Timur, kebanggaan warga Blitar itu mengandung asam oksalat, asam sitrat, kaya potasium, vitamin C dan A. Komposisi kandungan dalam 100 g bahan yaitu air (90 g), protein (0,75 g), gula total (3,5 - 11 g), serat (0,7 g), vitamin A (170 SI), vitamin C (35 mg), dan energi (36 kkal).
-Dengan semua kelebihan itu pantas bila belimbing karangsari menggondol gelar juara pada kontes buah tropis yang diselenggarakan BPTP Jawa Timur pada pertengahan tahun. Sebuah piagam penghargaan dari Gubernur Imam Utomo S, jadi buktinya. Sayang, kala dikirim pada panitian Lomba Buah Unggul Nasional Trubus, ia urung menjadi juara lantaran buah rusak di perjalanan.
-<h2 id="working">Belimbing Top working</h2>
-Keistimewaan lain, belimbing karangsari tak putus berproduksi hingga tanaman berumur 20-Tahun. Sosok tanaman pun tidak terlalu tinggi sehingga memudahkan pemanenan. Wajar bila warga <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> yang sebelumnya menanam beragam varietas, kini warga <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> hanya menanam belimbing yang diusulkan menjadi varietas unggul nasional itu. Caranya dengan men-top-working varietas awal dengan pucuk belimbing karangsari. Dengan begitu pekebun tak perlu lama-lama menanti buah bintang andalan itu dituai.
-Pohon-pohon dari kebun penduduk <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> menjadi sumber entres. Ketua KTNA Kota Blitar itu memang pelopor penanaman belimbing karangsari. Di halaman rumahnya terdapat 15 pohon berumur di atas 17 tahun yang dijadikan induk.
-Belimbing Karangsari diseleksi dari 19 jenis hasil perbanyakan biji varietas bangkok 23 tahun silam. Hasil uji DNA oleh BPTP Jawa Timur pun menunjukkan perbedaan tetua antara belimbing karangsari, demak, kunir, dan dewi. Lagipula secara fisik, karangsari berbeda dengan ketiga varietas itu dengan penciri lingir yang hijau.
-[caption id="attachment_13912" align="aligncenter" width="457"]<img class="wp-image-13912 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/belimbing1.jpg" alt="belimbing karangsari" width="457" height="700" /> Imam Surani, pelopor belimbing karangsari[/caption]
-<a href="http://127.0.0.1/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html">Jenis unggul</a> itu lantas diperbanyak dengan cara okulasi dan ditanam oleh hampir seluruh warga <span class="keyword _ngcontent-jqi-98" aria-hidden="false">kampung belimbing</span> karangsari. Malah kini bibitnya sudah menyebar hingga Tulungagung, Trenggalek, Kediri, Nganjuk, Malang, Batu, Bondowoso, Jember, dan beberapa kota di luar Jawa. Menurut catatan Imam Surani pada periode 1990 sampai 2002 telah tersebar 53.000 bibit.
-<h2 id="Tabulampot">Tabulampot Belimbing</h2>
-Seiring dengan kian <a href="http://127.0.0.1/mitra/di-taiwan-budidaya-belimbing.html">meningkatnya permintaan</a> pelanggan, warga mulai mengebunkan belimbing karangsari di lahan-lahan sawah. Kini sekitar 3.000 pohon yang ditanam di luar pekarangan. Iseng-iseng, karangsari pun dipotkan. Penampilannya memang menarik dengan buah besar-besar bergelayutan di batang utama tabulampot setinggi 1 sampai 1,5 m.
-Teknik penanaman di kebun diintensifkan agar dituai buah-buah berkualitas. Sebut saja pembungkusan buah dengan kantong plastik sejak sebulan setelah penyerbukan bunga. Sambil membrongsong, pekebun merompes buah dengan bentuk tidak sempurna atau yang terkena serangan hama dan penyakit.
-Untuk mengatasi lalat buah dipergunakan zat atraktan methyl-eugenol, tanaman perangkap misal selasih, musuh alami, dan pemakaian insektisida kimia maupun nabati. Dengan begitu buah-buah bintang berwarna kuning terang bergelantungan di kampung belimbing bernama Karangsari. (Mitra)
+Tanyalah kepada warga kampung belimbing, apa yang paling pas menjadi oleh-oleh
+dari Blitar? Bumbu pecel pasti salah satu jawabannya. Maklum kota kelahiran
+Proklamator RI, Ir Soekarno, itu memang produsen penganan khas Jawa itu. Kini,
+selain bumbu pecel, warga Blitar dengan bangga menyodorkan
+[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") karangsari
+sebagai buah tangan para pelancong. Puluhan pohon belimbing dipenuhi buah
+matang terbungkus plastik bening di masing-masing halaman rumah penduduk
+kampung belimbing jadi pemandangan lazim begitu memasuki Kelurahan Karangsari,
+Kecamatan Sukorejo, Blitar. Maklum dari 800 kepala keluarga di sana lebih dari
+setengahnya menanam Averrhoa carambola itu. Total populasi saat ini mencapai
+28.000 tanaman yang rata-rata sudah berproduksi. Tanaman yang menjulang
+setinggi minimal 3 m dengan tajuk cukup rimbun membuat udara Blitar yang
+pennap menjadi sejuk.. Di beberapa tempat terlihat pemilik pohon membungkus
+buah-buah pentil dengan plastik bening agar terhindar serangan lalat buah.
+Warga telaten merawat lantaran anggota famili Oxalidaceae itu jadi salah satu
+pintu rezeki.
+
+## Omzet dari Penjualan belimbing mencapai 10 miliar
+
+Bayangkan saja. Pohon belimbing mulai belajar berbuah pada umur 1 tahun. Saat
+berumur di atas 5 tahun produksi buah mencapai 50 kg per panen. Yang berumur
+lebih dari 15 tahun, 100 sampai 150 kg per panen. Padahal panen raya belimbing
+karangsari 3 sampai 4 kali setahun. Harga saat ini di tingkat pekebun Rp3.000
+per kg. Anggap saja belimbing dipanen 3 kali setahun dengan produksi per panen
+50 kg. Dengan rata-rata kepemilikan 20 pohon per keluarga, berarti diperoleh
+tambahan pendapatan Rp9-juta per tahun. Padahal biaya perawatan nyaris tidak
+ada. Pantas dengan “bermodal” 200 pohon H Imam Surani mampu membiayai
+pendidikan putra-putrinya hingga perguruan tinggi. Buah bintang itu pun jadi
+sumber pendapatan kampung belimbing. Dari populasi di seluruh Karangsari
+sebanyak 28.000 tanaman, 80% sudah berproduksi. Dengan asumsi sama, berarti
+setiap tahun dituai 3.360 ton. Itu setara dengan omzet Rp10 miliar per tahun!
+Nilai itu masih bisa membengkak lantaran harga ditingkat pekebun dapat
+mencapai Rp5.000 per kg. Belimbing hasil panen dari kampung belimbing
+ditampung para pengepul, seperti Imam Surani. Di tangan mereka star fruit itu
+disortir. Yang kelas super dan A berbobot di atas 500 g dan berpenampilan
+Mulus sampai nantinya Dikirim ke pasar swalayan. Buah dibersihkan dengan lap,
+kemudian satu per satu dibnngkus kantong plastik sehingga tampilannya lebih
+cantik. Sisanya, kelas B dan C, masuk ke pasar tradisional. [caption
+id="attachment_13911" align="aligncenter" width="1511"][![Belimbing unggulan
+dari kampung belimbing](http://127.0.0.1/mitra/wp-
+content/uploads/2021/09/belimbing.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/09/belimbing.jpg) Belimbing super[/caption]
+
+## Juara lomba Buah
+
+Pemasarannya tak melulu di Blitar. Belimbing karangsari sudah menembus pasar-
+pasar swalayan di Malang, Surabaya, Solo, Yogyakarta, dan Jakarta. Pada setiap
+musim panen pengiriman ke pelanggan luar kota mencapai 5 ton per minggu. Di
+sana harganya berlipat menjadi Rp7.500 sampai Rp8.500 per kg. Penjualan pun
+laris-manis. Maklum ma-fuang nama di Thailand karangsari memang istimewa. Buah
+berwarna kuning-jingga terang mengkilap dengan lingir hijau. Ukuran besar
+berbobot 350 sampai 600 g per buah, manis segar dengan tingkat kemanisan
+mencapai 9 sampai 10° brix, kadar air tinggi, dan daya simpan lama mencapai
+lebih dari 7 hari. Lagipula tercium aroma harum pada buah matang optimal. Dari
+hasil kajian Balai Pengkajian Teknologi Pertanian (BPTP) Jawa Timur,
+kebanggaan warga Blitar itu mengandung asam oksalat, asam sitrat, kaya
+potasium, vitamin C dan A. Komposisi kandungan dalam 100 g bahan yaitu air (90
+g), protein (0,75 g), gula total (3,5 - 11 g), serat (0,7 g), vitamin A (170
+SI), vitamin C (35 mg), dan energi (36 kkal). Dengan semua kelebihan itu
+pantas bila belimbing karangsari menggondol gelar juara pada kontes buah
+tropis yang diselenggarakan BPTP Jawa Timur pada pertengahan tahun. Sebuah
+piagam penghargaan dari Gubernur Imam Utomo S, jadi buktinya. Sayang, kala
+dikirim pada panitian Lomba Buah Unggul Nasional Trubus, ia urung menjadi
+juara lantaran buah rusak di perjalanan.
+
+## Belimbing Top working
+
+Keistimewaan lain, belimbing karangsari tak putus berproduksi hingga tanaman
+berumur 20-Tahun. Sosok tanaman pun tidak terlalu tinggi sehingga memudahkan
+pemanenan. Wajar bila warga kampung belimbing yang sebelumnya menanam beragam
+varietas, kini warga kampung belimbing hanya menanam belimbing yang diusulkan
+menjadi varietas unggul nasional itu. Caranya dengan men-top-working varietas
+awal dengan pucuk belimbing karangsari. Dengan begitu pekebun tak perlu lama-
+lama menanti buah bintang andalan itu dituai. Pohon-pohon dari kebun penduduk
+kampung belimbing menjadi sumber entres. Ketua KTNA Kota Blitar itu memang
+pelopor penanaman belimbing karangsari. Di halaman rumahnya terdapat 15 pohon
+berumur di atas 17 tahun yang dijadikan induk. Belimbing Karangsari diseleksi
+dari 19 jenis hasil perbanyakan biji varietas bangkok 23 tahun silam. Hasil
+uji DNA oleh BPTP Jawa Timur pun menunjukkan perbedaan tetua antara belimbing
+karangsari, demak, kunir, dan dewi. Lagipula secara fisik, karangsari berbeda
+dengan ketiga varietas itu dengan penciri lingir yang hijau. [caption
+id="attachment_13912" align="aligncenter" width="457"]![belimbing
+karangsari](http://127.0.0.1/mitra/wp-content/uploads/2021/09/belimbing1.jpg)
+Imam Surani, pelopor belimbing karangsari[/caption] [Jenis
+unggul](http://127.0.0.1/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html) itu
+lantas diperbanyak dengan cara okulasi dan ditanam oleh hampir seluruh warga
+kampung belimbing karangsari. Malah kini bibitnya sudah menyebar hingga
+Tulungagung, Trenggalek, Kediri, Nganjuk, Malang, Batu, Bondowoso, Jember, dan
+beberapa kota di luar Jawa. Menurut catatan Imam Surani pada periode 1990
+sampai 2002 telah tersebar 53.000 bibit.
+
+## Tabulampot Belimbing
+
+Seiring dengan kian [meningkatnya permintaan](http://127.0.0.1/mitra/di-
+taiwan-budidaya-belimbing.html) pelanggan, warga mulai mengebunkan belimbing
+karangsari di lahan-lahan sawah. Kini sekitar 3.000 pohon yang ditanam di luar
+pekarangan. Iseng-iseng, karangsari pun dipotkan. Penampilannya memang menarik
+dengan buah besar-besar bergelayutan di batang utama tabulampot setinggi 1
+sampai 1,5 m. Teknik penanaman di kebun diintensifkan agar dituai buah-buah
+berkualitas. Sebut saja pembungkusan buah dengan kantong plastik sejak sebulan
+setelah penyerbukan bunga. Sambil membrongsong, pekebun merompes buah dengan
+bentuk tidak sempurna atau yang terkena serangan hama dan penyakit. Untuk
+mengatasi lalat buah dipergunakan zat atraktan methyl-eugenol, tanaman
+perangkap misal selasih, musuh alami, dan pemakaian insektisida kimia maupun
+nabati. Dengan begitu buah-buah bintang berwarna kuning terang bergelantungan
+di kampung belimbing bernama Karangsari. (Mitra)
+
+

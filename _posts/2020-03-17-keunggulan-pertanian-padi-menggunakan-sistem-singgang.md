@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Keunggulan Pertanian Padi Menggunakan Sistem Singgang"
+title: 'Keunggulan Pertanian Padi Menggunakan Sistem Singgang'
 categories: Pertanian
 date: 2020-03-17 15:50:23
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/03/Singgang_1023x800.jpg"
+image: media/Singgang_1023x800.jpg
 tags:
 - padi
 
@@ -12,61 +12,123 @@ modification_time: 2022-09-15 13:01:05
 blogger_orig_url: "http://localhost/mitra/pertanian-padi-menggunakan-sistem.html"
 ---
 
-Dari lahan seluas 2.000 nr'itu,sebelum menerapkan Pertanian Padi Sistem Singgang di sawah nya Ngadiono mendapat hasil 500 kg padi, setara 2,5 ton per ha. Itu hanya setengah dari jumlah panen sebelumnya, 5-6 ton per ha.
+Dari lahan seluas 2.000 nr'itu,sebelum menerapkan Pertanian Padi Sistem
+Singgang di sawah nya Ngadiono mendapat hasil 500 kg padi, setara 2,5 ton per
+ha. Itu hanya setengah dari jumlah panen sebelumnya, 5-6 ton per ha. Walau
+hasil panen kedua lebih sedikit daripada panen pertama, keceriaan laki-laki
+paruh baya itu tak berkurang. Pasalnya, biaya produksi jauh lebih kecil. Ia
+tak perlu mengolah tanah secara intensif dan membeli benih.
 
-Walau hasil panen kedua lebih sedikit daripada panen pertama, keceriaan laki-laki paruh baya itu tak berkurang. Pasalnya, biaya produksi jauh lebih kecil. Ia tak perlu mengolah tanah secara intensif dan membeli benih.
-<h2>Sistem singggang</h2>
-<span data-offset-key="2fg6s-20-0">S</span><span data-offset-key="2fg6s-21-0">ist</span><span data-offset-key="2fg6s-22-0">em</span><span data-offset-key="2fg6s-23-0"> sing</span><span data-offset-key="2fg6s-24-0">gang</span><span data-offset-key="2fg6s-25-0"> ad</span><span data-offset-key="2fg6s-26-0">al</span><span data-offset-key="2fg6s-27-0">ah</span><span data-offset-key="2fg6s-28-0"> su</span><span data-offset-key="2fg6s-29-0">atu</span><span data-offset-key="2fg6s-30-0"> s</span><span data-offset-key="2fg6s-31-0">ist</span><span data-offset-key="2fg6s-32-0">em</span><span data-offset-key="2fg6s-33-0"> pert</span><span data-offset-key="2fg6s-34-0">anian</span><span data-offset-key="2fg6s-35-0"> y</span><span data-offset-key="2fg6s-36-0">ang</span><span data-offset-key="2fg6s-37-0"> men</span><span data-offset-key="2fg6s-38-0">g</span><span data-offset-key="2fg6s-39-0">k</span><span data-offset-key="2fg6s-40-0">omb</span><span data-offset-key="2fg6s-41-0">inas</span><span data-offset-key="2fg6s-42-0">ikan</span><span data-offset-key="2fg6s-43-0"> pen</span><span data-offset-key="2fg6s-44-0">an</span><span data-offset-key="2fg6s-45-0">aman</span><span data-offset-key="2fg6s-46-0"> p</span><span data-offset-key="2fg6s-47-0">adi</span><span data-offset-key="2fg6s-48-0"> den</span><span data-offset-key="2fg6s-49-0">gan</span><span data-offset-key="2fg6s-50-0"> pen</span><span data-offset-key="2fg6s-51-0">an</span><span data-offset-key="2fg6s-52-0">aman</span><span data-offset-key="2fg6s-53-0"> j</span><span data-offset-key="2fg6s-54-0">ag</span><span data-offset-key="2fg6s-55-0">ung</span><span data-offset-key="2fg6s-56-0">.</span><span data-offset-key="2fg6s-57-0"> S</span><span data-offset-key="2fg6s-58-0">ist</span><span data-offset-key="2fg6s-59-0">em</span><span data-offset-key="2fg6s-60-0"> in</span><span data-offset-key="2fg6s-61-0">i</span><span data-offset-key="2fg6s-62-0"> d</span><span data-offset-key="2fg6s-63-0">ap</span><span data-offset-key="2fg6s-64-0">at</span><span data-offset-key="2fg6s-65-0"> d</span><span data-offset-key="2fg6s-66-0">iter</span><span data-offset-key="2fg6s-67-0">ap</span><span data-offset-key="2fg6s-68-0">kan</span><span data-offset-key="2fg6s-69-0"> p</span><span data-offset-key="2fg6s-70-0">ada</span><span data-offset-key="2fg6s-71-0"> da</span><span data-offset-key="2fg6s-72-0">er</span><span data-offset-key="2fg6s-73-0">ah</span><span data-offset-key="2fg6s-74-0"> den</span><span data-offset-key="2fg6s-75-0">gan</span><span data-offset-key="2fg6s-76-0"> cur</span><span data-offset-key="2fg6s-77-0">ah</span><span data-offset-key="2fg6s-78-0"> h</span><span data-offset-key="2fg6s-79-0">u</span><span data-offset-key="2fg6s-80-0">jan</span><span data-offset-key="2fg6s-81-0"> y</span><span data-offset-key="2fg6s-82-0">ang</span><span data-offset-key="2fg6s-83-0"> sed</span><span data-offset-key="2fg6s-84-0">ang</span><span data-offset-key="2fg6s-85-0">,</span><span data-offset-key="2fg6s-86-0"> se</span><span data-offset-key="2fg6s-87-0">pert</span><span data-offset-key="2fg6s-88-0">i</span><span data-offset-key="2fg6s-89-0"> di</span><span data-offset-key="2fg6s-90-0"> J</span><span data-offset-key="2fg6s-91-0">awa</span><span data-offset-key="2fg6s-92-0"> T</span><span data-offset-key="2fg6s-93-0">eng</span><span data-offset-key="2fg6s-94-0">ah</span><span data-offset-key="2fg6s-95-0">.</span><span data-offset-key="2fg6s-96-0"> S</span><span data-offset-key="2fg6s-97-0">ist</span><span data-offset-key="2fg6s-98-0">em</span><span data-offset-key="2fg6s-99-0"> sing</span><span data-offset-key="2fg6s-100-0">gang</span><span data-offset-key="2fg6s-101-0"> d</span><span data-offset-key="2fg6s-102-0">ap</span><span data-offset-key="2fg6s-103-0">at</span><span data-offset-key="2fg6s-104-0"> men</span><span data-offset-key="2fg6s-105-0">ing</span><span data-offset-key="2fg6s-106-0">kat</span><span data-offset-key="2fg6s-107-0">kan</span><span data-offset-key="2fg6s-108-0"> produ</span><span data-offset-key="2fg6s-109-0">ks</span><span data-offset-key="2fg6s-110-0">i</span><span data-offset-key="2fg6s-111-0"> p</span><span data-offset-key="2fg6s-112-0">adi</span><span data-offset-key="2fg6s-113-0"> dan</span><span data-offset-key="2fg6s-114-0"> j</span><span data-offset-key="2fg6s-115-0">ag</span><span data-offset-key="2fg6s-116-0">ung</span><span data-offset-key="2fg6s-117-0">,</span><span data-offset-key="2fg6s-118-0"> se</span><span data-offset-key="2fg6s-119-0">hing</span><span data-offset-key="2fg6s-120-0">ga</span><span data-offset-key="2fg6s-121-0"> d</span><span data-offset-key="2fg6s-122-0">ap</span><span data-offset-key="2fg6s-123-0">at</span><span data-offset-key="2fg6s-124-0"> men</span><span data-offset-key="2fg6s-125-0">ing</span><span data-offset-key="2fg6s-126-0">kat</span><span data-offset-key="2fg6s-127-0">kan</span><span data-offset-key="2fg6s-128-0"> pend</span><span data-offset-key="2fg6s-129-0">ap</span><span data-offset-key="2fg6s-130-0">atan</span><span data-offset-key="2fg6s-131-0"> pet</span><span data-offset-key="2fg6s-132-0">ani</span><span data-offset-key="2fg6s-133-0">.</span>
+## Sistem singggang
 
-<span data-offset-key="13e-19-0">Sesuai dengan namanya, </span><span data-offset-key="13e-32-0"> s</span><span data-offset-key="13e-33-0">ist</span><span data-offset-key="13e-34-0">em</span><span data-offset-key="13e-35-0"> pert</span><span data-offset-key="13e-36-0">anian</span><span data-offset-key="13e-37-0"> ini</span><span data-offset-key="13e-39-0"> men</span><span data-offset-key="13e-40-0">gg</span><span data-offset-key="13e-41-0">un</span><span data-offset-key="13e-42-0">ak</span><span data-offset-key="13e-43-0">an</span><span data-offset-key="13e-44-0"> te</span><span data-offset-key="13e-45-0">kn</span><span data-offset-key="13e-46-0">ik</span><span data-offset-key="13e-47-0"> pen</span><span data-offset-key="13e-48-0">an</span><span data-offset-key="13e-49-0">aman</span><span data-offset-key="13e-50-0"> sing</span><span data-offset-key="13e-51-0">gang</span><span data-offset-key="13e-52-0">.</span><span data-offset-key="13e-53-0"> Tek</span><span data-offset-key="13e-54-0">nik</span><span data-offset-key="13e-55-0"> in</span><span data-offset-key="13e-56-0">i</span><span data-offset-key="13e-57-0"> mem</span><span data-offset-key="13e-58-0">ung</span><span data-offset-key="13e-59-0">k</span><span data-offset-key="13e-60-0">ink</span><span data-offset-key="13e-61-0">an</span><span data-offset-key="13e-62-0"> pet</span><span data-offset-key="13e-63-0">ani</span><span data-offset-key="13e-64-0"> unt</span><span data-offset-key="13e-65-0">uk</span><span data-offset-key="13e-66-0"> men</span><span data-offset-key="13e-67-0">an</span><span data-offset-key="13e-68-0">am</span><span data-offset-key="13e-69-0"> se</span><span data-offset-key="13e-70-0">j</span><span data-offset-key="13e-71-0">um</span><span data-offset-key="13e-72-0">lah</span><span data-offset-key="13e-73-0"> bes</span><span data-offset-key="13e-74-0">ar</span><span data-offset-key="13e-75-0"> tan</span><span data-offset-key="13e-76-0">aman</span><span data-offset-key="13e-77-0"> p</span><span data-offset-key="13e-78-0">ada</span><span data-offset-key="13e-79-0"> l</span><span data-offset-key="13e-80-0">ahan</span><span data-offset-key="13e-81-0"> y</span><span data-offset-key="13e-82-0">ang</span><span data-offset-key="13e-83-0"> relat</span><span data-offset-key="13e-84-0">if</span><span data-offset-key="13e-85-0"> ke</span><span data-offset-key="13e-86-0">cil</span><span data-offset-key="13e-87-0">.</span><span data-offset-key="13e-88-0"> Sing</span><span data-offset-key="13e-89-0">gang</span><span data-offset-key="13e-90-0"> j</span><span data-offset-key="13e-91-0">uga</span><span data-offset-key="13e-92-0"> d</span><span data-offset-key="13e-93-0">ap</span><span data-offset-key="13e-94-0">at</span><span data-offset-key="13e-95-0"> men</span><span data-offset-key="13e-96-0">ing</span><span data-offset-key="13e-97-0">kat</span><span data-offset-key="13e-98-0">kan</span><span data-offset-key="13e-99-0"> has</span><span data-offset-key="13e-100-0">il</span><span data-offset-key="13e-101-0"> pert</span><span data-offset-key="13e-102-0">anian</span><span data-offset-key="13e-103-0"> den</span><span data-offset-key="13e-104-0">gan</span><span data-offset-key="13e-105-0"> men</span><span data-offset-key="13e-106-0">gur</span><span data-offset-key="13e-107-0">ang</span><span data-offset-key="13e-108-0">i</span><span data-offset-key="13e-109-0"> bi</span><span data-offset-key="13e-110-0">aya</span><span data-offset-key="13e-111-0"> produ</span><span data-offset-key="13e-112-0">ks</span><span data-offset-key="13e-113-0">i</span><span data-offset-key="13e-114-0">.</span>
+Sistem singgang adalah suatu sistem pertanian yang mengkombinasikan penanaman
+padi dengan penanaman jagung. Sistem ini dapat diterapkan pada daerah dengan
+curah hujan yang sedang, seperti di Jawa Tengah. Sistem singgang dapat
+meningkatkan produksi padi dan jagung, sehingga dapat meningkatkan pendapatan
+petani. Sesuai dengan namanya,  sistem pertanian ini menggunakan teknik
+penanaman singgang. Teknik ini memungkinkan petani untuk menanam sejumlah
+besar tanaman pada lahan yang relatif kecil. Singgang juga dapat meningkatkan
+hasil pertanian dengan mengurangi biaya produksi. Pertanian Padi Sistem
+Singgang Padi menawarkan beberapa keuntungan yang sangat besar bagi petani
+padi di Indonesia. Ini adalah salah satu sistem pertanian yang paling efisien
+dan efektif yang pernah ada, dan banyak petani telah mengalami peningkatan
+yang signifikan dalam hasil mereka sejak menggunakannya. Sistem ini
+menyediakan alat yang diperlukan untuk menanam dan mengolah padi dengan cara
+yang lebih efisien, sehingga petani dapat menghasilkan lebih banyak padi dalam
+waktu yang singkat. Alat-alat ini juga dapat digunakan untuk meningkatkan
+kualitas padi yang dihasilkan, sehingga petani dapat memasarkan hasilnya
+dengan harga yang lebih tinggi. Sistem Singgang juga memberikan petani akses
+ke teknologi dan pengetahuan yang diperlukan untuk meningkatkan hasil
+pertanian mereka. Petani yang menggunakan sistem ini dapat mengakses informasi
+tentang cara terbaik untuk menanam dan mengolah padi, sehingga mereka dapat
+meningkatkan hasil pertanian mereka secara keseluruhan. Sistem ini juga
+memberikan petani akses ke peralatan dan bahan yang diperlukan untuk pertanian
+yang lebih efisien. Alat-alat ini akan membantu petani untuk meningkatkan
+hasil pertanian mereka, sehingga mereka dapat menghasilkan lebih banyak padi
+dalam waktu yang singkat. Pertanian Padi singgang adalah salah satu sistem
+pertanian yang paling efisien dan efektif yang pernah ada, dan telah
+memberikan petani padi di Indonesia keuntungan yang sangat besar. Banyak
+petani telah mengalami peningkatan yang signifikan dalam hasil mereka sejak
+menggunakan sistem ini, dan akan terus meningkatkan hasil pertanian mereka
+dengan menggunakan sistem ini.  
 
-Pertanian Padi Sistem Singgang Padi menawarkan beberapa keuntungan yang sangat besar bagi petani padi di Indonesia. Ini adalah salah satu sistem pertanian yang paling efisien dan efektif yang pernah ada, dan banyak petani telah mengalami peningkatan yang signifikan dalam hasil mereka sejak menggunakannya.
+## Biaya produksi pertanian padi menjadi lebih hemat
 
-Sistem ini menyediakan alat yang diperlukan untuk menanam dan mengolah padi dengan cara yang lebih efisien, sehingga petani dapat menghasilkan lebih banyak padi dalam waktu yang singkat. Alat-alat ini juga dapat digunakan untuk meningkatkan kualitas padi yang dihasilkan, sehingga petani dapat memasarkan hasilnya dengan harga yang lebih tinggi.
+Total biaya produksi Pertanian Padi yang dapat dihemat mencapai 50-60% dari Rp
+250-ribu. Masa produksi pun jauh lebih pendek, 45-50 hari. Dengan sistem biasa
+umur padi mencapai 70-80 hari. "Dihitung-hitung untung juga. Daripada lahan
+dibiarkan menganggur," ujarnya. Dengan harga Rp 1.500 per kg kering giling, ia
+memperoleh pendapatan Rp 750-ribu. Harga itu jauh lebih tinggi karena padi
+singgang dianggap semi organik oleh pengepul di Yogyakarta. Pertanian Padi
+biasa hanya Rp 1.250 per kg. Setelah dikurangi biaya produksi, laba yang
+diraih mencapai Rp 625-ribu. Yang juga istimewa, Pertanian Padi sistem
+singgang jauh lebih enak. "Lebih pulen dan legit," ujar Robert Heruatmaja,
+praktikus pertanian di Yogyakarta. Walau begitu, secara fisik butir padi lebih
+kecil seolah ia tumbuh liar. Itu bisa disebabkan malainya pun jauh lebih
+pendek dibanding [malai padi](http://127.0.0.1/mitra/topik/padi) yang
+dibudidayakan secara konvensional. Karena sifatnya yang mirip padi liar, ia
+mempunyai daya adaptasi tinggi. Butir padi yang dijadikan benih jauh lebih
+baik dibanding [benih padi
+unggul](http://127.0.0.1/mitra/index.php/agrise/article/view/178) yang berasal
+padi biasa. "Waktu kami coba di Gamping, benih dari Pertanian Padi singgang
+anakannya lebih banyak. Daun tumbuh tegak. Mungkin karena /benihnya lebih
+murmi," ujar Heru. ![Pertanian Padi Menggunakan Sistem
+Singgang](http://127.0.0.1/mitra/wp-
+content/uploads/2020/03/Singgang_879x800-300x273.jpg)
 
-Sistem Singgang juga memberikan petani akses ke teknologi dan pengetahuan yang diperlukan untuk meningkatkan hasil pertanian mereka. Petani yang menggunakan sistem ini dapat mengakses informasi tentang cara terbaik untuk menanam dan mengolah padi, sehingga mereka dapat meningkatkan hasil pertanian mereka secara keseluruhan.
+### Tentang Sistem singgang
 
-Sistem ini juga memberikan petani akses ke peralatan dan bahan yang diperlukan untuk pertanian yang lebih efisien. Alat-alat ini akan membantu petani untuk meningkatkan hasil pertanian mereka, sehingga mereka dapat menghasilkan lebih banyak padi dalam waktu yang singkat.
+Menurut Agus Nugroho Setiawan, dosen Fakultas Pertanian Universitas
+Muhammadiyah Yogyakarta, singgang adalah tunas yang tumbuh dari mata tunas
+yang terdapat pada ketiak daun. [Mitra Usaha Tani](http://127.0.0.1/mitra)\-
+sebutan untuk tunas di Jawa Tengah-itu tumbuh menjadi batang sekunder,
+tersier, dan seterusnya. "Pada padi proses tumbuhnya tunas itu disebut
+pembentukan anakan," ujarnya. Proses itu sebenarnya juga terjadi pada tanaman
+anggota keluarga Gramineae lainnya, seperti tebu, jagung, dan rumput gajah.
+Tidak ada yang tahu pasti penemu sistem singgang. Agus menduga, pada awalnya
+sistem pertanian singgang berkembang karena penanganan pasca panen di sawah
+yang tidak baik. Bekas lahan padi yang menyisakan pangkal jerami dibiarkan
+begitu saja tanpa ada penanganan. Ternyata pangkal jerami itu tumbuh dan
+berkembang menjadi tanaman padi utuh. Kemudian tanaman itu juga menghasilkan
+bulir padi. Selanjutnya cara itu berkembang secara terbatas di Thailand, Cina,
+India, dan Indonesia. Ia digunakan terutama untuk mengatasi kendala alam yaitu
+kurangnya air yang dibutuhkan selama budidaya padi. "Dengan sistem singgang,
+padi tidak butuh digenangi air. Cukup dibasahi sampai tanah lembap," ujar
+Heru.
 
-Pertanian Padi singgang adalah salah satu sistem pertanian yang paling efisien dan efektif yang pernah ada, dan telah memberikan petani padi di Indonesia keuntungan yang sangat besar. Banyak petani telah mengalami peningkatan yang signifikan dalam hasil mereka sejak menggunakan sistem ini, dan akan terus meningkatkan hasil pertanian mereka dengan menggunakan sistem ini.
+## Budidaya Padi Tiru Petani Thailand
 
-&nbsp;
-<h2>Biaya produksi pertanian padi menjadi lebih hemat</h2>
-Total biaya produksi Pertanian Padi yang dapat dihemat mencapai 50-60% dari Rp 250-ribu. Masa produksi pun jauh lebih pendek, 45-50 hari. Dengan sistem biasa umur padi mencapai 70-80 hari. "Dihitung-hitung untung juga. Daripada lahan dibiarkan menganggur," ujarnya.
+Walau sistem Pertanian Padi singgang banyak sisi positif, ia juga mempunyai
+kelemahan. Penampilan tanaman tidak sebagus yang ditanam dari bibit, jumlah
+anakan lebih sedikit, dan hasil gabah lebih rendah. Karena alasan itulah,
+pekebun di Karawang, Jawa Barat, menolak sistem singgang yang diusulkan Imam
+Churmen dari Komisi III DPR RI dan Pemerintah Daerah Karawang. Pada 2003,
+daerah lumbung beras itu menderita kekeringan akibat kemarau dan menurunnya
+debit air di Waduk Jatiluhur. Menurut Agus, penolakan itu mestinya tidak
+terjadi bila kita bisa meniru pengalaman pekebun di Thailand. Di negeri Gajah
+Putih itu sistem pertanian singgang telah dimodifikasi dengan cara perebahan.
 
-Dengan harga Rp 1.500 per kg kering giling, ia memperoleh pendapatan Rp 750-ribu. Harga itu jauh lebih tinggi karena padi singgang dianggap semi organik oleh pengepul di Yogyakarta. Pertanian Padi biasa hanya Rp 1.250 per kg. Setelah dikurangi biaya produksi, laba yang diraih mencapai Rp 625-ribu.
+## Pertanian Padi Sistem Rebah
 
-Yang juga istimewa, Pertanian Padi sistem singgang jauh lebih enak. "Lebih pulen dan legit," ujar Robert Heruatmaja, praktikus pertanian di Yogyakarta. Walau begitu, secara fisik butir padi lebih kecil seolah ia tumbuh liar. Itu bisa disebabkan malainya pun jauh lebih pendek dibanding <a href="http://127.0.0.1/mitra/topik/padi">malai padi</a> yang dibudidayakan secara konvensional.
+Cara itu ternyata mampu menghasilkan panen lebih tinggi dibanding dengan sebar
+benih, baik musim hujan maupun kemarau. Hasil penelitian Departemen Pertanian
+Thailand, sistem perebahan singgang menghasilkan 5-5,6 ton per ha. Saat ini
+pengembangan sistem singgang di Thailand mencapai 23.853 ha. Secara teknis, di
+negeri yang tak pernah dijajah itu, Pertanian Padi dengan sistem singgang
+sudah dipersiapkan menjelang panen pertama dengan cara biasa. Sepuluh hari
+sebelum padi dipanen lahan dikeringkan. Selanjutnya gabah dipanen dan jerami
+dibiarkan. Tiga hari setelah itu batang jerami dirobohkan agar kandungan air
+dalam jerami meningkat dan menekan pertumbuhan gulma. Pada saatnya, jerami
+yang lama akan membusuk menjadi bahan organik. Di pihak lain mata-mata tunas
+akan memunculkan tunas. Jerami yang sudah rebah diratakan permukaannya dengan
+traktor. Biasanya 10-15 hari kemudian singgang sudah tumbuh 2-3 helai daun.
+Pada saat itu air mulai dialirkan, tapi jangan sampai tergenang. Cukup sampai
+tanah lembap. Lakukan pemupukan pertama NPK 93- 125 kg/ha. Lima hari kemudian
+lahan diairi kembali setinggi 5 cm. Tambahkan NPK dengan dosis yang sama pada
+hari ke-30 setelah perebahan. Biasanya dengan 2 kali pemupukan itu padi sudah
+tumbuh baik, bila tidak, perlu pemupukan ketiga. Bila cara Thailand itu bisa
+kita tiru dan dimodifikasi sesuai lokasi, bukan tidak mungkin wajah pekebun
+bisa seperti Ngadiono. Tetap tersenyum meski di musim kemarau.
+<https://id.wikipedia.org/wiki/Singgang>
 
-Karena sifatnya yang mirip padi liar, ia mempunyai daya adaptasi tinggi. Butir padi yang dijadikan benih jauh lebih baik dibanding <a href="http://127.0.0.1/mitra/index.php/agrise/article/view/178">benih padi unggul</a> yang berasal padi biasa. "Waktu kami coba di Gamping, benih dari Pertanian Padi singgang anakannya lebih banyak. Daun tumbuh tegak. Mungkin karena /benihnya lebih murmi," ujar Heru.
-<img class="aligncenter wp-image-448 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2020/03/Singgang_879x800-300x273.jpg" alt="Pertanian Padi Menggunakan Sistem Singgang" width="300" height="273" />
-<h3>Tentang Sistem singgang</h3>
-Menurut Agus Nugroho Setiawan, dosen Fakultas Pertanian Universitas Muhammadiyah Yogyakarta, singgang adalah tunas yang tumbuh dari mata tunas yang terdapat pada ketiak daun. <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a>- sebutan untuk tunas di Jawa Tengah-itu tumbuh menjadi batang sekunder, tersier, dan seterusnya.
 
-"Pada padi proses tumbuhnya tunas itu disebut pembentukan anakan," ujarnya. Proses itu sebenarnya juga terjadi pada tanaman anggota keluarga Gramineae lainnya, seperti tebu, jagung, dan rumput gajah.
-
-Tidak ada yang tahu pasti penemu sistem singgang. Agus menduga, pada awalnya sistem pertanian singgang berkembang karena penanganan pasca panen di sawah yang tidak baik.
-
-Bekas lahan padi yang menyisakan pangkal jerami dibiarkan begitu saja tanpa ada penanganan. Ternyata pangkal jerami itu tumbuh dan berkembang menjadi tanaman padi utuh. Kemudian tanaman itu juga menghasilkan bulir padi.
-
-Selanjutnya cara itu berkembang secara terbatas di Thailand, Cina, India, dan Indonesia. Ia digunakan terutama untuk mengatasi kendala alam yaitu kurangnya air yang dibutuhkan selama budidaya padi. "Dengan sistem singgang, padi tidak butuh digenangi air. Cukup dibasahi sampai tanah lembap," ujar Heru.
-<h2>Budidaya Padi Tiru Petani Thailand</h2>
-Walau sistem Pertanian Padi singgang banyak sisi positif, ia juga mempunyai kelemahan. Penampilan tanaman tidak sebagus yang ditanam dari bibit, jumlah anakan lebih sedikit, dan hasil gabah lebih rendah.
-
-Karena alasan itulah, pekebun di Karawang, Jawa Barat, menolak sistem singgang yang diusulkan Imam Churmen dari Komisi III DPR RI dan Pemerintah Daerah Karawang. Pada 2003, daerah lumbung beras itu menderita kekeringan akibat kemarau dan menurunnya debit air di Waduk Jatiluhur.
-
-Menurut Agus, penolakan itu mestinya tidak terjadi bila kita bisa meniru pengalaman pekebun di Thailand. Di negeri Gajah Putih itu sistem pertanian singgang telah dimodifikasi dengan cara perebahan.
-<h2>Pertanian Padi Sistem Rebah</h2>
-Cara itu ternyata mampu menghasilkan panen lebih tinggi dibanding dengan sebar benih, baik musim hujan maupun kemarau. Hasil penelitian Departemen Pertanian Thailand, sistem perebahan singgang menghasilkan 5-5,6 ton per ha. Saat ini pengembangan sistem singgang di Thailand mencapai 23.853 ha.
-
-Secara teknis, di negeri yang tak pernah dijajah itu, Pertanian Padi dengan sistem singgang sudah dipersiapkan menjelang panen pertama dengan cara biasa. Sepuluh hari sebelum padi dipanen lahan dikeringkan. Selanjutnya gabah dipanen dan jerami dibiarkan.
-
-Tiga hari setelah itu batang jerami dirobohkan agar kandungan air dalam jerami meningkat dan menekan pertumbuhan gulma. Pada saatnya, jerami yang lama akan membusuk menjadi bahan organik. Di pihak lain mata-mata tunas akan memunculkan tunas.
-
-Jerami yang sudah rebah diratakan permukaannya dengan traktor. Biasanya 10-15 hari kemudian singgang sudah tumbuh 2-3 helai daun. Pada saat itu air mulai dialirkan, tapi jangan sampai tergenang. Cukup sampai tanah lembap. Lakukan pemupukan pertama NPK 93- 125 kg/ha.
-
-Lima hari kemudian lahan diairi kembali setinggi 5 cm. Tambahkan NPK dengan dosis yang sama pada hari ke-30 setelah perebahan.
-
-Biasanya dengan 2 kali pemupukan itu padi sudah tumbuh baik, bila tidak, perlu pemupukan ketiga. Bila cara Thailand itu bisa kita tiru dan dimodifikasi sesuai lokasi, bukan tidak mungkin wajah pekebun bisa seperti Ngadiono. Tetap tersenyum meski di musim kemarau.
-
-<a href="https://id.wikipedia.org/wiki/Singgang">https://id.wikipedia.org/wiki/Singgang</a>

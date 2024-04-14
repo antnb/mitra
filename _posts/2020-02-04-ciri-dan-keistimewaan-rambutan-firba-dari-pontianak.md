@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Ciri Dan Keistimewaan Rambutan Firba Dari Pontianak"
+title: 'Ciri Dan Keistimewaan Rambutan Firba Dari Pontianak'
 categories: Pertanian
 date: 2020-02-04 08:12:02
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/02/Firba.jpg"
+image: media/Firba.jpg
 tags:
 - Pontianak
 - rambutan
@@ -13,36 +13,78 @@ modification_time: 2022-09-13 10:38:06
 blogger_orig_url: "http://localhost/mitra/ciri-dan-keistimewaan-rambutan-firba.html"
 ---
 
-Setiap Juli-Agustus lautan merah menyala menjadi pemandangan lumrah di sudut-sudut kota Pontianak. Namun jangan salah, itu bukan merahnya bendera untuk menyambut hari kemerdekaan. Saat itu Rambutan Firba, rambutan yang banyak di tanam di Kalimantan Barat sedang panen raya.
+Setiap Juli-Agustus lautan merah menyala menjadi pemandangan lumrah di sudut-
+sudut kota Pontianak. Namun jangan salah, itu bukan merahnya bendera untuk
+menyambut hari kemerdekaan. Saat itu Rambutan Firba, rambutan yang banyak di
+tanam di Kalimantan Barat sedang panen raya. Kalau diperhatikan dengan
+seksama, di antara dominasi merah [dari onggokan
+buah](http://127.0.0.1/mitra/buah-gitaan-komoditas-dari-borneo.html) berambut
+agak panjang itu tersembul warna hijau kekuningan. Itulah **ciri khas rambutan
+firba**. Meski matang, ujung-ujung rambut tetap hijau.
 
-Kalau diperhatikan dengan seksama, di antara dominasi merah <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/buah-gitaan-komoditas-dari-borneo.html" data-wpil-post-to-id="">dari onggokan buah</a> berambut agak panjang itu tersembul warna hijau kekuningan. Itulah <strong>ciri khas rambutan firba</strong>. Meski matang, ujung-ujung rambut tetap hijau.
-<h2>Rambutan Firba</h2>
-<span data-offset-key="4q9ro-17-0">R</span><span data-offset-key="4q9ro-18-0">amb</span><span data-offset-key="4q9ro-19-0">utan</span><span data-offset-key="4q9ro-20-0"> Fir</span><span data-offset-key="4q9ro-21-0">ba</span><span data-offset-key="4q9ro-22-0"> ad</span><span data-offset-key="4q9ro-23-0">al</span><span data-offset-key="4q9ro-24-0">ah</span><span data-offset-key="4q9ro-25-0"> se</span><span data-offset-key="4q9ro-26-0">bu</span><span data-offset-key="4q9ro-27-0">ah</span><span data-offset-key="4q9ro-28-0"> bu</span><span data-offset-key="4q9ro-29-0">ah</span><span data-offset-key="4q9ro-30-0"> y</span><span data-offset-key="4q9ro-31-0">ang</span><span data-offset-key="4q9ro-32-0"> ber</span><span data-offset-key="4q9ro-33-0">as</span><span data-offset-key="4q9ro-34-0">al</span><span data-offset-key="4q9ro-35-0"> d</span><span data-offset-key="4q9ro-36-0">ari</span><span data-offset-key="4q9ro-37-0"> da</span><span data-offset-key="4q9ro-38-0">er</span><span data-offset-key="4q9ro-39-0">ah</span><span data-offset-key="4q9ro-40-0"> trop</span><span data-offset-key="4q9ro-41-0">is</span><span data-offset-key="4q9ro-42-0">.</span><span data-offset-key="4q9ro-43-0"> Bu</span><span data-offset-key="4q9ro-44-0">ah</span><span data-offset-key="4q9ro-45-0"> in</span><span data-offset-key="4q9ro-46-0">i</span><span data-offset-key="4q9ro-47-0"> mem</span><span data-offset-key="4q9ro-48-0">il</span><span data-offset-key="4q9ro-49-0">iki</span><span data-offset-key="4q9ro-50-0"> k</span><span data-offset-key="4q9ro-51-0">ul</span><span data-offset-key="4q9ro-52-0">it</span><span data-offset-key="4q9ro-53-0"> y</span><span data-offset-key="4q9ro-54-0">ang</span><span data-offset-key="4q9ro-55-0"> dil</span><span data-offset-key="4q9ro-56-0">ap</span><span data-offset-key="4q9ro-57-0">isi</span><span data-offset-key="4q9ro-58-0"> den</span><span data-offset-key="4q9ro-59-0">gan</span><span data-offset-key="4q9ro-60-0"> se</span><span data-offset-key="4q9ro-61-0">bu</span><span data-offset-key="4q9ro-62-0">ah</span><span data-offset-key="4q9ro-63-0"> lap</span><span data-offset-key="4q9ro-64-0">isan</span><span data-offset-key="4q9ro-65-0"> tip</span><span data-offset-key="4q9ro-66-0">is</span><span data-offset-key="4q9ro-67-0"> nan</span><span data-offset-key="4q9ro-68-0"> le</span><span data-offset-key="4q9ro-69-0">mb</span><span data-offset-key="4q9ro-70-0">ut</span><span data-offset-key="4q9ro-71-0"> y</span><span data-offset-key="4q9ro-72-0">ang</span><span data-offset-key="4q9ro-73-0"> ber</span><span data-offset-key="4q9ro-74-0">w</span><span data-offset-key="4q9ro-75-0">arna</span><span data-offset-key="4q9ro-76-0"> mer</span><span data-offset-key="4q9ro-77-0">ah</span><span data-offset-key="4q9ro-78-0"> m</span><span data-offset-key="4q9ro-79-0">uda</span><span data-offset-key="4q9ro-80-0">.</span><span data-offset-key="4q9ro-81-0"> Di</span><span data-offset-key="4q9ro-82-0"> d</span><span data-offset-key="4q9ro-83-0">alam</span><span data-offset-key="4q9ro-84-0"> bu</span><span data-offset-key="4q9ro-85-0">ah</span><span data-offset-key="4q9ro-86-0"> r</span><span data-offset-key="4q9ro-87-0">amb</span><span data-offset-key="4q9ro-88-0">utan</span><span data-offset-key="4q9ro-89-0"> fir</span><span data-offset-key="4q9ro-90-0">ba</span><span data-offset-key="4q9ro-91-0">,</span><span data-offset-key="4q9ro-92-0"> ter</span><span data-offset-key="4q9ro-93-0">d</span><span data-offset-key="4q9ro-94-0">ap</span><span data-offset-key="4q9ro-95-0">at</span><span data-offset-key="4q9ro-96-0"> se</span><span data-offset-key="4q9ro-97-0">bu</span><span data-offset-key="4q9ro-98-0">ah</span><span data-offset-key="4q9ro-99-0"> b</span><span data-offset-key="4q9ro-100-0">iji</span><span data-offset-key="4q9ro-101-0"> y</span><span data-offset-key="4q9ro-102-0">ang</span><span data-offset-key="4q9ro-103-0"> ber</span><span data-offset-key="4q9ro-104-0">w</span><span data-offset-key="4q9ro-105-0">arna</span><span data-offset-key="4q9ro-106-0"> put</span><span data-offset-key="4q9ro-107-0">ih</span><span data-offset-key="4q9ro-108-0">.</span><span data-offset-key="4q9ro-109-0"> Bu</span><span data-offset-key="4q9ro-110-0">ah</span><span data-offset-key="4q9ro-111-0"> in</span><span data-offset-key="4q9ro-112-0">i</span><span data-offset-key="4q9ro-113-0"> sang</span><span data-offset-key="4q9ro-114-0">at</span><span data-offset-key="4q9ro-115-0"> popul</span><span data-offset-key="4q9ro-116-0">er</span><span data-offset-key="4q9ro-117-0"> di</span><span data-offset-key="4q9ro-118-0"> da</span><span data-offset-key="4q9ro-119-0">er</span><span data-offset-key="4q9ro-120-0">ah</span><span data-offset-key="4q9ro-121-0"> Indonesia</span><span data-offset-key="4q9ro-122-0"> dan</span><span data-offset-key="4q9ro-123-0"> Malaysia</span><span data-offset-key="4q9ro-124-0">.</span><span data-offset-key="4q9ro-125-0"> R</span><span data-offset-key="4q9ro-126-0">amb</span><span data-offset-key="4q9ro-127-0">utan</span><span data-offset-key="4q9ro-128-0"> fir</span><span data-offset-key="4q9ro-129-0">ba</span><span data-offset-key="4q9ro-130-0"> sang</span><span data-offset-key="4q9ro-131-0">at</span><span data-offset-key="4q9ro-132-0"> coc</span><span data-offset-key="4q9ro-133-0">ok</span><span data-offset-key="4q9ro-134-0"> unt</span><span data-offset-key="4q9ro-135-0">uk</span><span data-offset-key="4q9ro-136-0"> d</span><span data-offset-key="4q9ro-137-0">ik</span><span data-offset-key="4q9ro-138-0">ons</span><span data-offset-key="4q9ro-139-0">ums</span><span data-offset-key="4q9ro-140-0">i</span><span data-offset-key="4q9ro-141-0"> se</span><span data-offset-key="4q9ro-142-0">gar</span><span data-offset-key="4q9ro-143-0">,</span><span data-offset-key="4q9ro-144-0"> n</span><span data-offset-key="4q9ro-145-0">am</span><span data-offset-key="4q9ro-146-0">un</span><span data-offset-key="4q9ro-147-0"> j</span><span data-offset-key="4q9ro-148-0">uga</span><span data-offset-key="4q9ro-149-0"> b</span><span data-offset-key="4q9ro-150-0">isa</span><span data-offset-key="4q9ro-151-0"> d</span><span data-offset-key="4q9ro-152-0">iol</span><span data-offset-key="4q9ro-153-0">ah</span><span data-offset-key="4q9ro-154-0"> men</span><span data-offset-key="4q9ro-155-0">j</span><span data-offset-key="4q9ro-156-0">adi</span><span data-offset-key="4q9ro-157-0"> ber</span><span data-offset-key="4q9ro-158-0">bag</span><span data-offset-key="4q9ro-159-0">ai</span><span data-offset-key="4q9ro-160-0"> mac</span><span data-offset-key="4q9ro-161-0">am</span><span data-offset-key="4q9ro-162-0"> j</span><span data-offset-key="4q9ro-163-0">us</span><span data-offset-key="4q9ro-164-0"> dan</span><span data-offset-key="4q9ro-165-0"> min</span><span data-offset-key="4q9ro-166-0">uman</span><span data-offset-key="4q9ro-167-0">.</span>
+## Rambutan Firba
 
-Mirip seperti warna-warni rambut trendi gaya nge-punk. Karena rambut yang tetap hijau para pedagang mempunyai kesempatan menjual lebih lama. "Rambutan lain dalam 2 hari bulu-bulunya menghitam, tapi firba bisa tahan sampai empat hari," kata salah satu pedagang di Jl. Gajah Mada, Pontianak.
+Rambutan Firba adalah sebuah buah yang berasal dari daerah tropis. Buah ini
+memiliki kulit yang dilapisi dengan sebuah lapisan tipis nan lembut yang
+berwarna merah muda. Di dalam buah rambutan firba, terdapat sebuah biji yang
+berwarna putih. Buah ini sangat populer di daerah Indonesia dan Malaysia.
+Rambutan firba sangat cocok untuk dikonsumsi segar, namun juga bisa diolah
+menjadi berbagai macam jus dan minuman. Mirip seperti warna-warni rambut
+trendi gaya nge-punk. Karena rambut yang tetap hijau para pedagang mempunyai
+kesempatan menjual lebih lama. "Rambutan lain dalam 2 hari bulu-bulunya
+menghitam, tapi firba bisa tahan sampai empat hari," kata salah satu pedagang
+di Jl. Gajah Mada, Pontianak. Sejalan dengan bertambahnya waktu rambut-rambut
+memerah sebelum akhirnya menghitam. "Jika rambut memerah rasanya kurang enak,
+walau masih bisa dimakan," kata Anton Kamaruddin, staf perbenihan Dinas
+Pertanian [Tanaman Pangan](http://127.0.0.1/mitra/kedaulatan-benih-tanaman-
+guna.html) Provinsi Kalimantan Barat. Makanya pekebun memanen firba saat kulit
+bersemburat kuning. Kala itu manisnya sudah optimal. Selain penampilan fisik
+sangat menarik firba manis luar biasa. "Ibarat gadis, firba cantik luar
+dalam," puji Anton.
 
-Sejalan dengan bertambahnya waktu rambut-rambut memerah sebelum akhirnya menghitam. "Jika rambut memerah rasanya kurang enak, walau masih bisa dimakan," kata Anton Kamaruddin, staf perbenihan Dinas Pertanian <a class="" style="width: auto !important;" href="http://127.0.0.1/mitra/kedaulatan-benih-tanaman-guna.html" data-wpil-post-to-id="">Tanaman Pangan</a> Provinsi Kalimantan Barat.
+## Buah Cenderung Koplak
 
-Makanya pekebun memanen firba saat kulit bersemburat kuning. Kala itu manisnya sudah optimal. Selain penampilan fisik sangat menarik firba manis luar biasa. "Ibarat gadis, firba cantik luar dalam," puji Anton.
-<h2>Buah Cenderung Koplak</h2>
-Bentuk buah lonjong, besarnya seperti binjai, sekitar 40 g/buah. Kulitnya tipis, tampak daging putih kristal mengkilap ketika dibuka. Daging buah kering dengan ketebalan 0,5-0,7 cm. Saat digigit terasa bunyi kres, kres, kres.
-"Teksturnya memang renyah dan lembut. Ini sangat berbeda dengan rambutan-rambutan lain di Kalimantan Barat yang berkadar air tinggi," ucap Abubakar, pemilik pohon sekaligus pengepul.
+Bentuk buah lonjong, besarnya seperti binjai, sekitar 40 g/buah. Kulitnya
+tipis, tampak daging putih kristal mengkilap ketika dibuka. Daging buah kering
+dengan ketebalan 0,5-0,7 cm. Saat digigit terasa bunyi kres, kres, kres.
+"Teksturnya memang renyah dan lembut. Ini sangat berbeda dengan rambutan-
+rambutan lain di Kalimantan Barat yang berkadar air tinggi," ucap Abubakar,
+pemilik pohon sekaligus pengepul. Kesempurnaan Rambutan Firba seakan lengkap
+dengan daging yang nglotok. Tanpa digigit daging lepas dari biji. Di antara
+biji dengan daging buah ada rongga udara sebagai pemisah. Mereka
+mengistilahkan koplak-biji berbunyi saat buah digoyang-goyang. Kekhawatiran
+terbawanya kulit biji saat dimakan bisa dihindari. Biji berukuran kecil,
+bahkan sebagian besar kisut. "Kadang-kadang pembeli menggoyang-goyangkan buah
+di dekat telinga untuk memastikan koplak atau tidak. Anggapan mereka yang
+koplak lebih enak," tutur Abubakar. Berdasarkan pengalaman Anton kualitas
+firba relatif seragam. Penampilan fisik dan rasa buah yang dipanen dari lahan
+gambut dan lahan biasa sama. Namun, mahasiswa pascasarjana IPB itu tak
+menjamin konsistensi genetik jika ditanam di luar provinsi. Alasannya,
+rambutan garuda yang ditanam di Pontianak ukurannya menjadi kecil dan masam.
+Demikian lebak bulus dan antalagi, asamnya lebih banyak bila dibandingkan
+dengan yang di Jawa. [![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/02/Rambutan-
+Firba-300x169.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/02/Rambutan-Firba.jpg)
 
-Kesempurnaan Rambutan Firba seakan lengkap dengan daging yang nglotok. Tanpa digigit daging lepas dari biji. Di antara biji dengan daging buah ada rongga udara sebagai pemisah.
+## Harga Jual Rambutan Firba Rp 500/ikat
 
-Mereka mengistilahkan koplak-biji berbunyi saat buah digoyang-goyang. Kekhawatiran terbawanya kulit biji saat dimakan bisa dihindari. Biji berukuran kecil, bahkan sebagian besar kisut. "Kadang-kadang pembeli menggoyang-goyangkan buah di dekat telinga untuk memastikan koplak atau tidak. Anggapan mereka yang koplak lebih enak," tutur Abubakar.
+Nama firba tak bermakna apapun. Ia bukan varietas baru, melainkan sudah
+dikembangkan sejak 1950-an. Penyebarannya hampir di seluruh Kalimantan Barat.
+Mulai dari kota Pontianak hingga Paritbaru di Sungairaya-perjalanan 3 jam dari
+Pontianak. Sayang hingga kini belum ada yang mengebunkan intensif. Rambutan
+Firba masih sebagai tanaman pekarangan, per rumah paling 1-2 pohon. Memang ada
+yang menanam 10-20 pohon di kebun-kebun tumpangsari dengan durian dan duku.
+Masyarakat menyenangi rambutan bertajuk rindang itu lantaran produktif. Setiap
+tahun tanaman berbuah dengan produksi tinggi. Ia mulai berproduksi umur 2
+tahun dari bibit cangkok. Dari pohon berumur 7-8 tahun bisa dituai 2 kuintal.
+Buah relatif bebas serangan hama dan penyakit, seperti kutu putih dan
+penggerek buah. Sebenarnya di Bumi Khatulistiwa tak hanya ada firba. Namun,
+rambutan varietas lain tidak ngelotok. Varietas kalimantan misalnya, daging
+tipis dan kurang ngelotok. Padahal rambutan berkulit merah cerah itu sudah
+manis sejak muda dan juicy. Tak aneh kala panen raya tiba, ke mana mata
+memandang rambutan firba yang terlihat. Saat itu harganya hanya Rp 500/ ikat
+isi 15-20 buah. Sebaliknya di musim selang harga melambung hingga Rp 3.000/
+ikat.
 
-Berdasarkan pengalaman Anton kualitas firba relatif seragam. Penampilan fisik dan rasa buah yang dipanen dari lahan gambut dan lahan biasa sama. Namun, mahasiswa pascasarjana IPB itu tak menjamin konsistensi genetik jika ditanam di luar provinsi.
 
-Alasannya, rambutan garuda yang ditanam di Pontianak ukurannya menjadi kecil dan masam. Demikian lebak bulus dan antalagi, asamnya lebih banyak bila dibandingkan dengan yang di Jawa.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Rambutan-Firba.jpg"><img class="aligncenter wp-image-18601 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Rambutan-Firba-300x169.jpg" alt="" width="300" height="169" /></a>
-<h2>Harga Jual Rambutan Firba Rp 500/ikat</h2>
-Nama firba tak bermakna apapun. Ia bukan varietas baru, melainkan sudah dikembangkan sejak 1950-an. Penyebarannya hampir di seluruh Kalimantan Barat. Mulai dari kota Pontianak hingga Paritbaru di Sungairaya-perjalanan 3 jam dari Pontianak.
-
-Sayang hingga kini belum ada yang mengebunkan intensif. Rambutan Firba masih sebagai tanaman pekarangan, per rumah paling 1-2 pohon. Memang ada yang menanam 10-20 pohon di kebun-kebun tumpangsari dengan durian dan duku.
-
-Masyarakat menyenangi rambutan bertajuk rindang itu lantaran produktif. Setiap tahun tanaman berbuah dengan produksi tinggi. Ia mulai berproduksi umur 2 tahun dari bibit cangkok. Dari pohon berumur 7-8 tahun bisa dituai 2 kuintal. Buah relatif bebas serangan hama dan penyakit, seperti kutu putih dan penggerek buah.
-
-Sebenarnya di Bumi Khatulistiwa tak hanya ada firba. Namun, rambutan varietas lain tidak ngelotok. Varietas kalimantan misalnya, daging tipis dan kurang ngelotok. Padahal rambutan berkulit merah cerah itu sudah manis sejak muda dan juicy.
-
-Tak aneh kala panen raya tiba, ke mana mata memandang rambutan firba yang terlihat. Saat itu harganya hanya Rp 500/ ikat isi 15-20 buah. Sebaliknya di musim selang harga melambung hingga Rp 3.000/ ikat.

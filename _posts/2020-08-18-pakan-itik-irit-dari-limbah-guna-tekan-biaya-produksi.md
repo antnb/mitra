@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Pakan Itik Irit Dari Limbah Guna Tekan Biaya Produksi"
+title: 'Pakan Itik Irit Dari Limbah Guna Tekan Biaya Produksi'
 categories: artikel|Peternakan
 date: 2020-08-18 14:20:01
 author: Mitra
-image: "http://localhost/mitra/wp-content/uploads/2020/08/180609171648-573_1280x738.jpg"
+image: media/180609171648-573_1280x738.jpg
 tags:
 - 
 
@@ -12,16 +12,77 @@ modification_time: 2020-08-18 14:20:01
 blogger_orig_url: "http://localhost/mitra/pakan-itik-irit-dari-limbah-guna.html"
 ---
 
-<em>H. Hibatullah cukup menggunakan campuran roti bekas, nasi kering, dan dedak untuk 700 ekor itiknya. Sebagai tambahan gizi, diberikan pakan alami segar keong mas atau ikan rucah. Produktivitas bisa 60%-70%. Padahal kalau dihitung harga pakan hanya sekitar Rp 750/kg, jauh lebih irit dibanding pakan pabrik.</em>
-Bertumbangannya peternak itik 2 tahun lalu gara-gara tak bisa menjangkau harga pakan. <strong>Rasanya, sekarang pun peternak itik hanya akan menanggung rugi jika tergantung pada pakan pabrik</strong>. Pasalnya, pakan menempati porsi biaya variabel terbesar dari usaha itik, mencapai 60%- 70%. Wajar bila keberhasilan usaha itik ditentukan oleh kemampuan peternak menekan biaya pakan. Itu terjadi bila peternak mengolah pakan sendiri. Atau, <strong>memanfaatkan bahan-bahan pakan murah yang tersedia di lingkungan sekitar tapi berkualitas</strong>.
-<h2>Solusi Harga Pakan Yang Serba naik</h2>
-Sebagian besar peternak itik selama ini memang sudah tidak menggunakan pakan mumi dari pabrik. Mereka hanya membeli konsentrat yang berkadar protein tinggi lalu dioplos dengan dedak bermenir dan jagung pecah. Komposisinya beragam, ada yang menerapkan 5:3:1 untuk dedak, jagung dan konsentrat. Ada juga 4:1:1, dengan alasan jagung tergantikan menir yang ada pada dedak. Sebagian peternak lagi hanya memakai konsentrat dan dedak dengan perbandingan 1:4, tapi masih menambahkan keong mas atau bekicot.
-Kandungan gizi beragam komposisi itu mungkin tidak memenuhi ketentuan. Namun, dari segi biaya jelas teijadi penurunan. Mereka bisa mendapatkan bahan-bahan pakan yang murah. Misal di Palembang, harga dedak cuma Rp 200- Rp 250/kg; di tempat lain berkisar Rp 400-Rp 700/kg. Demikian jagung, jika bisa membeli di sentranya seperti di Metro, Madura, atau NTT, pasti harganya terpaut jauh. Bahkan roti atau mie BS, dan nasi kering di Jakarta bisa diperoleh secara gratis.
-“Dulu pihak pabrik senang sekali kalau kita mengambil roti atau mie basah,” tutur Hibatullah, peternak di Kelurahan Sukapura, Cilincing, Jakarta Utara. Sebab, bagi mereka barang tersebut dianggap limbah yang harus dibuang. Dengan diambil oleh para peternak, pihak pabrik merasa terbantu. Apalagi saat pengambilan sambil memberikan beberapa butir telur kepada petugasnya. Nasi-nasi bekas pun menurutnya bisa dengan mudah diperoleh di hotel-hotel, rumah makan, warteg, atau perkantoran. Caranya, setiap hari peternak menaruh karung atau ember, lalu setelah penuh tinggal diambil.
-Sekarang bahan-bahan pakan yang dianggap limbah itu harus dibeli karena semakin banyak yang membutuhkan. “Pertamanya cuma Rp 200/kg, naik menjadi Rp 400, dan belakangan setiap kilogram nasi kering Rp 750, roti serta mie BS masing-masing Rp 600,” rinci lelaki bermur 54 tahun itu. Itupun harus antri, 2-3 hari sekali. Sementara keong mas masih bisa dibeli dari anak-anak yang biasa mengumpulkan dengan harga Rp 200/kg.
-[caption id="attachment_1436" align="aligncenter" width="590"]<img class="wp-image-1436" src="http://127.0.0.1/mitra/wp-content/uploads/2020/08/pakan-bebek-a_1280x661.jpg" alt="Pakan bebek" width="590" height="398" /> Pakan dari limbah tak mengurangi tingkat produksi[/caption]
-<h3>Tekan Total Biaya Pengeluaran</h3>
-“Kalau saya sama sekali tak menggunakan pakan pabrik. Semua dari bahan pakan yang di peroleh dari sekitar Jakarta Utara sini,” tegas H. Hibatullah. Komposisi pakan itiknya terdiri dari nasi kering/sisa 25%, roti BS 25%, dan dedak 50%. Untuk menambah kadar protein, secara terpisah diberikan keong mas atau ikan rucah. Jumlahnya cukup 5kg untuk setiap 100 ekor itik. “Jatuhnya per kilogram pakan hanya sekitar Rp 750. Jadi dengan tingkat produksi 20% pun mencapai titik impas,” jelasnya.
-Itu pula yang dilakukan Daniel B. Adriant. peternak yang mengolah sendiri bahan bakunya, “Lebih irit biaya pakan tidak lebih dari Rp l83/kg. Karenanya, dengan tingkat produksi di atas 30% saya sudah bisa untung”. Daniel yang kini memiliki sekitar 15.000 itik di Serang mengelola <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/peternakan"  title="peternakan" data-wpil-keyword-link="linked">peternakan</a> secara terpadu. Kebutuhan tepung ikan dipasok dari perusahaan penangkapannya, dan jagung sebagian besar dari hasil kebun sendiri. “Skala besar tak mungkin mengandalkan bahan-bahan pakan dari luar. Bisa bangkrut jika tiba-tiba di pasaran harga pakan meningkat,” kata Daniel.
-Diakui Daniel, kualitas pakan olahannya lebih bagus. Kadar protein 54%, sebab tepung ikan yang digunakan betul-betul berasal dari ikan segar dan berkualitas. Pakan dibuat dari campuran tepung ikan 20%, jagung 35%, dedak 35%, dan selebihnya mineral dan vitamin. “<strong>Mineral penting untuk membentuk cangkang, dan vitamin membuat telur berukuran lebih besar</strong>,” jawabnya. Dengan pakan seperti ini, tingkat produksi telur 65%.
-“Kandungan protein sebetulnya tidak perlu tinggi, karena kebanyakan pun akan terbuang. Bahkan dampaknya kurang baik, itik kegemukan sehingga malas bertelur,” ungkap Yusin, peternak berpengalaman di Losari, Jawa Barat. Memang, sebagimana dikemukakan para peneliti, pakan itik sebaiknya mengandung 16%-18% protein, 2.800 kkal/gr energi metabolis, 8% serat kasar, 3,5%-4% kalsium, dan 0,7%-0,9% fosfor.
+_H. Hibatullah cukup menggunakan campuran roti bekas, nasi kering, dan dedak
+untuk 700 ekor itiknya. Sebagai tambahan gizi, diberikan pakan alami segar
+keong mas atau ikan rucah. Produktivitas bisa 60%-70%. Padahal kalau dihitung
+harga pakan hanya sekitar Rp 750/kg, jauh lebih irit dibanding pakan pabrik._
+Bertumbangannya peternak itik 2 tahun lalu gara-gara tak bisa menjangkau harga
+pakan. **Rasanya, sekarang pun peternak itik hanya akan menanggung rugi jika
+tergantung pada pakan pabrik**. Pasalnya, pakan menempati porsi biaya variabel
+terbesar dari usaha itik, mencapai 60%- 70%. Wajar bila keberhasilan usaha
+itik ditentukan oleh kemampuan peternak menekan biaya pakan. Itu terjadi bila
+peternak mengolah pakan sendiri. Atau, **memanfaatkan bahan-bahan pakan murah
+yang tersedia di lingkungan sekitar tapi berkualitas**.
+
+## Solusi Harga Pakan Yang Serba naik
+
+Sebagian besar peternak itik selama ini memang sudah tidak menggunakan pakan
+mumi dari pabrik. Mereka hanya membeli konsentrat yang berkadar protein tinggi
+lalu dioplos dengan dedak bermenir dan jagung pecah. Komposisinya beragam, ada
+yang menerapkan 5:3:1 untuk dedak, jagung dan konsentrat. Ada juga 4:1:1,
+dengan alasan jagung tergantikan menir yang ada pada dedak. Sebagian peternak
+lagi hanya memakai konsentrat dan dedak dengan perbandingan 1:4, tapi masih
+menambahkan keong mas atau bekicot. Kandungan gizi beragam komposisi itu
+mungkin tidak memenuhi ketentuan. Namun, dari segi biaya jelas teijadi
+penurunan. Mereka bisa mendapatkan bahan-bahan pakan yang murah. Misal di
+Palembang, harga dedak cuma Rp 200- Rp 250/kg; di tempat lain berkisar Rp
+400-Rp 700/kg. Demikian jagung, jika bisa membeli di sentranya seperti di
+Metro, Madura, atau NTT, pasti harganya terpaut jauh. Bahkan roti atau mie BS,
+dan nasi kering di Jakarta bisa diperoleh secara gratis. “Dulu pihak pabrik
+senang sekali kalau kita mengambil roti atau mie basah,” tutur Hibatullah,
+peternak di Kelurahan Sukapura, Cilincing, Jakarta Utara. Sebab, bagi mereka
+barang tersebut dianggap limbah yang harus dibuang. Dengan diambil oleh para
+peternak, pihak pabrik merasa terbantu. Apalagi saat pengambilan sambil
+memberikan beberapa butir telur kepada petugasnya. Nasi-nasi bekas pun
+menurutnya bisa dengan mudah diperoleh di hotel-hotel, rumah makan, warteg,
+atau perkantoran. Caranya, setiap hari peternak menaruh karung atau ember,
+lalu setelah penuh tinggal diambil. Sekarang bahan-bahan pakan yang dianggap
+limbah itu harus dibeli karena semakin banyak yang membutuhkan. “Pertamanya
+cuma Rp 200/kg, naik menjadi Rp 400, dan belakangan setiap kilogram nasi
+kering Rp 750, roti serta mie BS masing-masing Rp 600,” rinci lelaki bermur 54
+tahun itu. Itupun harus antri, 2-3 hari sekali. Sementara keong mas masih bisa
+dibeli dari anak-anak yang biasa mengumpulkan dengan harga Rp 200/kg. [caption
+id="attachment_1436" align="aligncenter" width="590"]![Pakan
+bebek](http://127.0.0.1/mitra/wp-content/uploads/2020/08/pakan-bebek-
+a_1280x661.jpg) Pakan dari limbah tak mengurangi tingkat produksi[/caption]
+
+### Tekan Total Biaya Pengeluaran
+
+“Kalau saya sama sekali tak menggunakan pakan pabrik. Semua dari bahan pakan
+yang di peroleh dari sekitar Jakarta Utara sini,” tegas H. Hibatullah.
+Komposisi pakan itiknya terdiri dari nasi kering/sisa 25%, roti BS 25%, dan
+dedak 50%. Untuk menambah kadar protein, secara terpisah diberikan keong mas
+atau ikan rucah. Jumlahnya cukup 5kg untuk setiap 100 ekor itik. “Jatuhnya per
+kilogram pakan hanya sekitar Rp 750. Jadi dengan tingkat produksi 20% pun
+mencapai titik impas,” jelasnya. Itu pula yang dilakukan Daniel B. Adriant.
+peternak yang mengolah sendiri bahan bakunya, “Lebih irit biaya pakan tidak
+lebih dari Rp l83/kg. Karenanya, dengan tingkat produksi di atas 30% saya
+sudah bisa untung”. Daniel yang kini memiliki sekitar 15.000 itik di Serang
+mengelola [peternakan](http://127.0.0.1/mitra/peternakan "peternakan") secara
+terpadu. Kebutuhan tepung ikan dipasok dari perusahaan penangkapannya, dan
+jagung sebagian besar dari hasil kebun sendiri. “Skala besar tak mungkin
+mengandalkan bahan-bahan pakan dari luar. Bisa bangkrut jika tiba-tiba di
+pasaran harga pakan meningkat,” kata Daniel. Diakui Daniel, kualitas pakan
+olahannya lebih bagus. Kadar protein 54%, sebab tepung ikan yang digunakan
+betul-betul berasal dari ikan segar dan berkualitas. Pakan dibuat dari
+campuran tepung ikan 20%, jagung 35%, dedak 35%, dan selebihnya mineral dan
+vitamin. “**Mineral penting untuk membentuk cangkang, dan vitamin membuat
+telur berukuran lebih besar** ,” jawabnya. Dengan pakan seperti ini, tingkat
+produksi telur 65%. “Kandungan protein sebetulnya tidak perlu tinggi, karena
+kebanyakan pun akan terbuang. Bahkan dampaknya kurang baik, itik kegemukan
+sehingga malas bertelur,” ungkap Yusin, peternak berpengalaman di Losari, Jawa
+Barat. Memang, sebagimana dikemukakan para peneliti, pakan itik sebaiknya
+mengandung 16%-18% protein, 2.800 kkal/gr energi metabolis, 8% serat kasar,
+3,5%-4% kalsium, dan 0,7%-0,9% fosfor.
+
+

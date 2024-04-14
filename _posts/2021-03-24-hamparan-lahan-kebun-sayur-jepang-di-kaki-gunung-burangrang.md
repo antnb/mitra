@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hamparan Lahan kebun sayur Jepang di Kaki Gunung Burangrang"
+title: 'Hamparan Lahan kebun sayur Jepang di Kaki Gunung Burangrang'
 categories: perkebunan|Pertanian
 date: 2021-03-24 14:20:33
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2021/03/jepang1.jpg"
+image: media/jepang1.jpg
 tags:
 - ekstrak daun
 - Greenhouse
@@ -18,30 +18,97 @@ modification_time: 2021-03-24 14:20:33
 blogger_orig_url: "http://localhost/mitra/kebun-sayur-jepang-di-kaki-gunung.html"
 ---
 
-Kabut tipis baru saja tersingkap. Nun jauh di kaki Gunung Burangrang, di ketinggian 1.150 m dpi, piman, shisito, comatsuna, dan shironegi terhampar bernaung greenhouse. sayur jepang eklusif khas negeri Sakura itu tertata rapi sesuai kontur lahan.
-Kebun sayur jepang milik pasangan muda Acep dan Shirley Gunawan itu sepintas memang tak jauh beda dengan sekitarnya. Berada sekitar 25 km dari pusat kota Bandung, warga setempat mengenal hamparan itu sebagai kebun melon. Padahal ketika Trubus menyisir kebun, 32 greenhouse lebih didominasi sayuran khas Jepang.
-Saat pengawas <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> membunyikan potongan besi, dentang nyaring itu tanda aktivitas kebun siap dimulai. Merawat kebun, memetik hasil, sortir, pengepakan, hingga siap angkut ke konsumen itu dilakukan dari pukul 08.00 sampai pukul 16.00. "Saya selalu mengawali dan mengakhiri aktivitas kebun dengan berdoa, serta evaluasi," ujar Acep.
-<h2 id="Jepang">Sayur Khas Jepang Ekspatriat Jepang</h2>
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sayuran-2.jpg"><img class="aligncenter size-full wp-image-8372" src="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sayuran-2.jpg" alt="" width="1511" height="850" /></a>Acep Gunawan memang membidik komunitas masyarakat Jepang di Indonesia. Pantas jika komoditas sayur jepang yang dipilih menyesuaikan selera konsumen negeri matahari terbit itu.
-Pilihan komoditas yang tepat dan berkualitas, disertai perkenalannya dengan beberapa orang Jepang pun membuka jalan bagi Valda Nakagawa farm untuk berkembang pesat. "Tanggapan orang-orang Jepang itu sangat antusias. Bagi mereka untuk kualitas sayur jepang yang diinginkan harga mahal tidak jadi masalah," ungkap pria 37 tahun itu.
-Tiga tahun terakhir, kebun di kawasan Cimahi Utara itu mulai mendatangkan hasil. Ranch, Kamome,Papaya, Sogo, dan Cosmo supermarket khusus ekspatriat Jepang di Jakarta pun rutin meminta sayuran berlabel VNG Farm. Itu belum termasuk pesanan langsung.
-"Nyonya Miyazaki, Ismazu, Ogawa, dan Kawakami adalah pelanggan fanatik di Bandung dan Jakarta yang rutin seminggu sekali memesan kepada kami," ucap Shirley.
-Menurutnya berangkat dari pelanggan perorangan inilah nama VNG dikenal dari mulut ke mulut oleh komunitas Jepang di Indonesia. Kini minimal 2 sampai 3 kali/ minggu ia rutin memasok. Volume per pengiriman 200 sampai 500 kg momotaro, 200 kg melon, 100 kg kyurii, dan 30 sampai 50 kg piman.
-<h2 id="Pestisida"><span class="keyword _ngcontent-fph-101" aria-hidden="false">Kebun Sayur Menggunakan Pestisida Alami
-</span></h2>
-[caption id="attachment_8375" align="aligncenter" width="2089"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sayuran11.jpg"><img class="wp-image-8375 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sayuran11.jpg" alt="" width="2089" height="1157" /></a> Hamparan greenhouse, dominan dari kejauhan[/caption]
-Agar produksi berkesinambungan, Acep mengatur interval penanaman sayur jepang setiap 2 pekan. Itulah sebabnya ia menyemai beragam benih di greenhouse, kurang lebih 50 m2. Sebulan kemudian bibit pun siap berpindah ke tempat yang lebih besar. Dirawat hingga siap panen dengan sistem tanam sayur jepang hidroponik bermedia arang sekam.
-Produk VNG senantiasa dinanti pasar. "Ini semua karena sesuai dengan standar kualitas yang mereka minta," kata Acep. Bahkan, karena sosok dan rasa mirip di Jepang, kyurii menjadi santapan favorit Miyazaki. Daging putih, tidak terlalu berair, renyah, serta kulit berwarna hijau tua ditumbuhi duri-duri lunak.
-Demikian pula shironegi sebagai bahan penyedap hidangan barbeque ala Jepang. Batang kerabat bawang daun ini lebih padat dan besar dibandingkan jenis lokal. Ketika dipotong dadu, ditusuk dan dibakar bersama daging layaknya satai, tetap utuh serta tahan pecah. Hal ini jauh beda dibandingkan bawang daun lokal.
-Momotaro dan melon (varietas musk dan mocca) disukai karena lebih manis, masing-masing mencapai 5 sampai 6% dan 17 sampai 19%. "Bahkan lebih tinggi dibandingkan yang pernah ditanam oleh PT Takii selaku pemasok benih," ungkap pekebun kelahiran Cimahi itu.
-Tak hanya rasa, jaminan bebas bahan pembasmi hama anorganik juga diterapkan. Selain jadi syarat utama bagi konsumen, jaminan itu merupakan wujud "balas dendam" atas pengalaman buruk pemilik <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> terhadap dampak pestisida sintetis.
-"Bronchitis menggerogoti paru-paru saat saya pelatihan di Shikoku, Jepang. Dampaknya terasa hingga sekarang," ucap lulusan SPMA Palembang pada 1986 itu mengenang.
-Wujudnya kini tiap minggu ia dan karyawan rutin membuat dan meracik pestisida organik. Puluhan jerigen disiapkan untuk menampung ekstrak daun cengkih, sirih, jarak, dan umbi bawang putih. Tidak berbahaya bagi manusia, tetapi ampuh mengusir organisme pengganggu.
-<h2 id="Efisiensi">Efisiensi lahan kebun sayur</h2>
-[caption id="attachment_8371" align="aligncenter" width="1511"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sawi.jpg"><img class="wp-image-8371 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/03/sawi.jpg" alt="" width="1511" height="850" /></a> sayuran bebas pestisida anorganik[/caption]
-Dari lahan <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> jepang yang tersedia, 90% untuk komoditas utama seperti momotaro, melon, kyurii, dan piman di dalam greenhouse. Sisanya untuk komoditas sampingan yang juga punya nilai jual.
-Lahan antar greenhouse selebar 3 m ditanami asparagus, terung jepang, sungiku, sweet corn, dan kabocha. Padahal, VNG mengelola 32 greenhouse, sehingga lahan sisa <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> semakin luas. Sedangkan, di sisi greenhouse berbatasan dengan sengkedan serta di bawah rak anggrek koleksi Shirley, jajaran shironegi dan comatsuna pun tumbuh terawat.
-Menurut Acep pemanfaatan lahan sisa <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> itu juga ditujukan sebagai produk sampingan sekaligus perangkap hama. "Sebelum kena produk utama di dalam greenhouse, setidaknya kutu kebul, ulat kubis, dan trips menyerang tanaman sampingan dulu," tuturnya.
-Kalaupun produk utama terserang, penanganannya relatif dini. Pengalaman, serangan ulat kubis dapat rontok dalam setengah hari menggunakan semprotan ekstrak daun cengkih.
-Meskipun dengan lahan <span class="keyword _ngcontent-fph-101" aria-hidden="false">kebun sayur</span> jepang yang ada omzet VNG Farm kini mencapai Rp30 sampai 40-juta/bulan, rencana perluasan lahan tetap dicanangkan. "Ini karena akhir-akhir ini permintaan cukup tinggi," tutur bapak 2 anak itu.
-Dengan komoditas-komoditas andalan, kebun bermodal awal Rp600-juta itu kini relatif sepi pesaing. Di samping benih yang memang sulit diperoleh dan mahal. Berkebun seperti Acep Gunawan ini harus mengetahui kemauan pasar yang dituju.
+Kabut tipis baru saja tersingkap. Nun jauh di kaki Gunung Burangrang, di
+ketinggian 1.150 m dpi, piman, shisito, comatsuna, dan shironegi terhampar
+bernaung greenhouse. sayur jepang eklusif khas negeri Sakura itu tertata rapi
+sesuai kontur lahan. Kebun sayur jepang milik pasangan muda Acep dan Shirley
+Gunawan itu sepintas memang tak jauh beda dengan sekitarnya. Berada sekitar 25
+km dari pusat kota Bandung, warga setempat mengenal hamparan itu sebagai kebun
+melon. Padahal ketika Trubus menyisir kebun, 32 greenhouse lebih didominasi
+sayuran khas Jepang. Saat pengawas kebun sayur membunyikan potongan besi,
+dentang nyaring itu tanda aktivitas kebun siap dimulai. Merawat kebun, memetik
+hasil, sortir, pengepakan, hingga siap angkut ke konsumen itu dilakukan dari
+pukul 08.00 sampai pukul 16.00. "Saya selalu mengawali dan mengakhiri
+aktivitas kebun dengan berdoa, serta evaluasi," ujar Acep.
+
+## Sayur Khas Jepang Ekspatriat Jepang
+
+[![](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sayuran-2.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sayuran-2.jpg)Acep Gunawan memang membidik komunitas
+masyarakat Jepang di Indonesia. Pantas jika komoditas sayur jepang yang
+dipilih menyesuaikan selera konsumen negeri matahari terbit itu. Pilihan
+komoditas yang tepat dan berkualitas, disertai perkenalannya dengan beberapa
+orang Jepang pun membuka jalan bagi Valda Nakagawa farm untuk berkembang
+pesat. "Tanggapan orang-orang Jepang itu sangat antusias. Bagi mereka untuk
+kualitas sayur jepang yang diinginkan harga mahal tidak jadi masalah," ungkap
+pria 37 tahun itu. Tiga tahun terakhir, kebun di kawasan Cimahi Utara itu
+mulai mendatangkan hasil. Ranch, Kamome,Papaya, Sogo, dan Cosmo supermarket
+khusus ekspatriat Jepang di Jakarta pun rutin meminta sayuran berlabel VNG
+Farm. Itu belum termasuk pesanan langsung. "Nyonya Miyazaki, Ismazu, Ogawa,
+dan Kawakami adalah pelanggan fanatik di Bandung dan Jakarta yang rutin
+seminggu sekali memesan kepada kami," ucap Shirley. Menurutnya berangkat dari
+pelanggan perorangan inilah nama VNG dikenal dari mulut ke mulut oleh
+komunitas Jepang di Indonesia. Kini minimal 2 sampai 3 kali/ minggu ia rutin
+memasok. Volume per pengiriman 200 sampai 500 kg momotaro, 200 kg melon, 100
+kg kyurii, dan 30 sampai 50 kg piman.
+
+## Kebun Sayur Menggunakan Pestisida Alami
+
+[caption id="attachment_8375" align="aligncenter"
+width="2089"][![](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sayuran11.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sayuran11.jpg) Hamparan greenhouse, dominan dari
+kejauhan[/caption] Agar produksi berkesinambungan, Acep mengatur interval
+penanaman sayur jepang setiap 2 pekan. Itulah sebabnya ia menyemai beragam
+benih di greenhouse, kurang lebih 50 m2. Sebulan kemudian bibit pun siap
+berpindah ke tempat yang lebih besar. Dirawat hingga siap panen dengan sistem
+tanam sayur jepang hidroponik bermedia arang sekam. Produk VNG senantiasa
+dinanti pasar. "Ini semua karena sesuai dengan standar kualitas yang mereka
+minta," kata Acep. Bahkan, karena sosok dan rasa mirip di Jepang, kyurii
+menjadi santapan favorit Miyazaki. Daging putih, tidak terlalu berair, renyah,
+serta kulit berwarna hijau tua ditumbuhi duri-duri lunak. Demikian pula
+shironegi sebagai bahan penyedap hidangan barbeque ala Jepang. Batang kerabat
+bawang daun ini lebih padat dan besar dibandingkan jenis lokal. Ketika
+dipotong dadu, ditusuk dan dibakar bersama daging layaknya satai, tetap utuh
+serta tahan pecah. Hal ini jauh beda dibandingkan bawang daun lokal. Momotaro
+dan melon (varietas musk dan mocca) disukai karena lebih manis, masing-masing
+mencapai 5 sampai 6% dan 17 sampai 19%. "Bahkan lebih tinggi dibandingkan yang
+pernah ditanam oleh PT Takii selaku pemasok benih," ungkap pekebun kelahiran
+Cimahi itu. Tak hanya rasa, jaminan bebas bahan pembasmi hama anorganik juga
+diterapkan. Selain jadi syarat utama bagi konsumen, jaminan itu merupakan
+wujud "balas dendam" atas pengalaman buruk pemilik kebun sayur terhadap dampak
+pestisida sintetis. "Bronchitis menggerogoti paru-paru saat saya pelatihan di
+Shikoku, Jepang. Dampaknya terasa hingga sekarang," ucap lulusan SPMA
+Palembang pada 1986 itu mengenang. Wujudnya kini tiap minggu ia dan karyawan
+rutin membuat dan meracik pestisida organik. Puluhan jerigen disiapkan untuk
+menampung ekstrak daun cengkih, sirih, jarak, dan umbi bawang putih. Tidak
+berbahaya bagi manusia, tetapi ampuh mengusir organisme pengganggu.
+
+## Efisiensi lahan kebun sayur
+
+[caption id="attachment_8371" align="aligncenter"
+width="1511"][![](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sawi.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/03/sawi.jpg) sayuran bebas pestisida anorganik[/caption]
+Dari lahan kebun sayur jepang yang tersedia, 90% untuk komoditas utama seperti
+momotaro, melon, kyurii, dan piman di dalam greenhouse. Sisanya untuk
+komoditas sampingan yang juga punya nilai jual. Lahan antar greenhouse selebar
+3 m ditanami asparagus, terung jepang, sungiku, sweet corn, dan kabocha.
+Padahal, VNG mengelola 32 greenhouse, sehingga lahan sisa kebun sayur semakin
+luas. Sedangkan, di sisi greenhouse berbatasan dengan sengkedan serta di bawah
+rak anggrek koleksi Shirley, jajaran shironegi dan comatsuna pun tumbuh
+terawat. Menurut Acep pemanfaatan lahan sisa kebun sayur itu juga ditujukan
+sebagai produk sampingan sekaligus perangkap hama. "Sebelum kena produk utama
+di dalam greenhouse, setidaknya kutu kebul, ulat kubis, dan trips menyerang
+tanaman sampingan dulu," tuturnya. Kalaupun produk utama terserang,
+penanganannya relatif dini. Pengalaman, serangan ulat kubis dapat rontok dalam
+setengah hari menggunakan semprotan ekstrak daun cengkih. Meskipun dengan
+lahan kebun sayur jepang yang ada omzet VNG Farm kini mencapai Rp30 sampai
+40-juta/bulan, rencana perluasan lahan tetap dicanangkan. "Ini karena akhir-
+akhir ini permintaan cukup tinggi," tutur bapak 2 anak itu. Dengan komoditas-
+komoditas andalan, kebun bermodal awal Rp600-juta itu kini relatif sepi
+pesaing. Di samping benih yang memang sulit diperoleh dan mahal. Berkebun
+seperti Acep Gunawan ini harus mengetahui kemauan pasar yang dituju.
+
+

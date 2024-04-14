@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Old Crack-nya Minyak Cengkeh Banyumas"
+title: 'Old Crack-nya Minyak Cengkeh Banyumas'
 categories: artikel|perkebunan
 date: 2020-11-09 11:47:29
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_cengkeh_1084x720.jpg"
+image: media/Gambar_cengkeh_1084x720.jpg
 tags:
 - cengkeh
 - minyak cengkih
@@ -13,20 +13,90 @@ modification_time: 2020-11-09 11:47:29
 blogger_orig_url: "http://localhost/mitra/old-crack-nya-minyak-cengkeh-banyumas.html"
 ---
 
-Julukan old crack-jago tua-pantas disandang Haji Soenarjo Soebagyo dari Desa Dawuanwetan, Kecamatan Kedung Banteng, Banyumas. Betapa tidak, jungkir balik bisnis minyak daun cengkeh sudah kenyang dilakoni puluhan tahun. Terjungkir akibat belasan ton minyak tak terjual sampai terbalik di zaman BPPC pernah dikecapnya. Toh, kerikil-kerikil itu pantang mengerem roda bisnisnya. Justru berbekal pengalaman itu ia sekarang menangguk laba bersih Rpl 5-juta /bulan.
-Kesibukan mengepak menemani <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> saat berkunjung di kediaman Soenarjo. Si empunya sibuk mengawasi sambil sesekali memerintah pegawainya. Satu persatu drum volume 1001 minyak cengkeh mulai menyesaki bak truk diesel berukuran sedang. Semua segera dikirim ke Jakarta.
-Eksportir asal India di ibukota setahun belakangan rutin meminta Soenarjo memasok 4 ton/bulan minyak cengkeh. Dengan kapasitas produksi 100 kg/hari, ia hanya sanggup mengisi kebutuhan eksportir itu sebanyak 40%. Itu diperoleh dari 4 unit ketel penyulingan yang terus bekerja siang-malam di Desa Kedungwuluh, Banjarpatoman dan Kecamatan Pameumpeuk, Kabupaten Garut.
-Kedua lokasi penyulingan itu baru beroperasi sejak krisis moneter menimpa. Tempat itu dipilih karena merupakan sentra cengkeh. “ Itu siasat agar bahan baku mudah diperoleh,” tutur Soenarjo. Sebab, guguran daun cengkeh di kebun 5 ha diGrumbul Mudai, Purwokerto dan pasokan dari pengepul daun dirasakan sudah tidak mencukupi. Dengan modal RplOO-juta pada 1998 ia membangun base camp di lokasi baru itu. Seluruh unit-unit ketel yang ada di Dawuanwetan ikut dimutasi
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-Minyak-Cengkeh.jpg"><img class="aligncenter wp-image-20604 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-Minyak-Cengkeh.jpg" alt="" width="1511" height="850" /></a>
-<h2 id="ditolak">Sempat ditolak</h2>
-Suami Hajjah Munipah itu tertarik mengusahakan minyak cengkeh sejak pertengahan 1973. la terpikat keberhasilan CV Asiri, eksportir di desanya. Belasan truk hilir mudik setiap bulaft mengangkut sulingan minyak. “Pegawainya makmur-makmur. Tukang jemur saja dikasih bronpit (motor, red),” ucap bapak 5 putera itu.
-Bermodalkan Rp5-juta, Soenarjo kemudian mencoba mengadu peruntungan. Sebuah ketel berdiameter 180 cm dibuat. Modelnya persis meniru ketel CV Asiri. Namun, saat berproduksi sedikit sekali tetesan minyak yang dihasilkan. “Dari 3 kuintal daun cuma dapat 5 kg minyak cengkeh. Normalnya 25 kg,” papar pria yang tetap kelihatan segar di usia senja itu. Atas saran keponakan yang ahli mesin di Yogyakarta, ia memperbaiki cara kerja ketel. Terbukti selang sebulan ketel bertambah satu lagi.
-Pekan-pekan di awal 1974, ketel-ketel itu mengucurkan 350 kg minyak cengkeh. Sayang, kesuksesan itu tak berjalan seiring dengan keberhasilan menggaet pasar. Total 15 ton minyak menumpuk di gudang. Karena alasan kualitas CV Asiri menolak menampung. Pintu rezekinya terkuak saat pengepul minyak di Pasar Wage, Banyumas bersedia menampung meski volumenya sedikit, sekitar 100 kg. Dengan harga sekilo Rp 1.200, Soenarjo meraih omzet pertama Rp 120.000
-Pendapatan tamatan SMP itu melambung pada 1975 setelah PT Djasulawangi, eksportir minyak, asiri minta dipasok. Setiap bulan sekitar 4 ton rutin dikirim. Djasulawangi membeli sekilo minyak cengkeh Rp2.000. Karena menjanjikan, pria yang akrab disebut Bagyo itu berancang-ancang meningkatkan volume produksi. Pasalnya, “Berapapun jumlah minyak yang ada pasti diterima,” katanya. Enam ketel baru pun buru-buru dibuatnya.
-Untuk periode 1975-1979 pasokan ke Djasulawangi meningkat hingga 1,4 ton/minggu. Dewi fortuna pun enggan berpaling. Sepulang menunaikan ibadah haji pada 1980, seorang eksportir asiri, rekan akrabnya dari Bandung, memberi suntikan dana Rp40-juta/bulan. Tujuannya agar Soenarjo membeli minyak dari seluruh penyuling di desanya. Hasilnya sekitar 30 ton/bulan minyak cengkeh rutin dipasok ke Bandung. Dengan harga jual Rp3.000/kg, setiap bulan Soenarjo bisa meraup pendapatan Rp50-juta setelah dipotong dana pinjaman.
-[caption id="attachment_20605" align="aligncenter" width="1511"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-Cengkeh.jpg"><img class="wp-image-20605 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-Cengkeh.jpg" alt="" width="1511" height="850" /></a> Soenarjo Juragan minyak daun cengkeh[/caption]
-<h3 id="BPPC">Terpuruk karena BPPC</h3>
-Pepatah bijak hidup tak selalu di atas sempat menghampiri pria berusia 61 tahun itu. Akibat monopoli tata niaga cengkeh oleh BPPC pada 1981 banyak penyuling, termasuk Soenarjo, goyah. Karena harga jual terlalu rendah banyak pekebun rela membumihanguskan tanaman. Itulah awal petaka kelangkaan bahan baku.
-Saking sulit memperoleh daun sekitar 150 ketel penyulingan di Dawuanwetan dan sekitarnya serempak berhenti. Soenarjo pun kena getahnya. Pasokan dari penyuling mitra praktis terhenti. Ia sendiri hanya mampu berproduksi 150 kg/minggu dari 1 ketel penyulingan. Itu pun mengandalkan bahan baku dari 800 cengkeh di kebunnya. Sembilan ketel lain terbengkalai. Penghasilannya merosot drastis. Setiap pekan ia hanya meraih Rp600.000. “Habis untuk gaji pegawai saja,” ucap bapak kelahiran Purwokerto itu.
-Derita itu berlangsung sampai memasuki 1985. Untung situasi berangsur-angsur pulih menjelang 1986. Modal Rp20-juta kembali dirogoh Bagyo dari saku agar bisa mengoperasikan ketel-ketel penyulingan. Namun, dari 10 ketel yang ada hanya 4 saja yang laik beroperasi. Sisanya rusak lantaran tak terurus.
-Dari 4 ketel itu semenjak 1987 sekitar 700 kuintal/minggu minyak cengkeh rutin diproduksi. Semua itu diperuntukan pelanggan lama yang setia menampung. Kapasitas produksi itu terus dipertahankan hingga sekarang karena mengantisipasi ketersediaan bahan baku. Meski demikian rupiah yang diterima kian menggelembung karena per kg minyak cengkeh naik mengikuti nilai tukar dolar. “Kalau pada 1987 sebulan hanya dapat Rp5,6-juta, sekarang sih Rpl5-juta,” urai peraih penghargaan pengusaha kecil minyak asiri pada tahun 1976 itu
+Julukan old crack-jago tua-pantas disandang Haji Soenarjo Soebagyo dari Desa
+Dawuanwetan, Kecamatan Kedung Banteng, Banyumas. Betapa tidak, jungkir balik
+bisnis minyak daun cengkeh sudah kenyang dilakoni puluhan tahun. Terjungkir
+akibat belasan ton minyak tak terjual sampai terbalik di zaman BPPC pernah
+dikecapnya. Toh, kerikil-kerikil itu pantang mengerem roda bisnisnya. Justru
+berbekal pengalaman itu ia sekarang menangguk laba bersih Rpl 5-juta /bulan.
+Kesibukan mengepak menemani [Mitra Usaha Tani](http://127.0.0.1/mitra) saat
+berkunjung di kediaman Soenarjo. Si empunya sibuk mengawasi sambil sesekali
+memerintah pegawainya. Satu persatu drum volume 1001 minyak cengkeh mulai
+menyesaki bak truk diesel berukuran sedang. Semua segera dikirim ke Jakarta.
+Eksportir asal India di ibukota setahun belakangan rutin meminta Soenarjo
+memasok 4 ton/bulan minyak cengkeh. Dengan kapasitas produksi 100 kg/hari, ia
+hanya sanggup mengisi kebutuhan eksportir itu sebanyak 40%. Itu diperoleh dari
+4 unit ketel penyulingan yang terus bekerja siang-malam di Desa Kedungwuluh,
+Banjarpatoman dan Kecamatan Pameumpeuk, Kabupaten Garut. Kedua lokasi
+penyulingan itu baru beroperasi sejak krisis moneter menimpa. Tempat itu
+dipilih karena merupakan sentra cengkeh. “ Itu siasat agar bahan baku mudah
+diperoleh,” tutur Soenarjo. Sebab, guguran daun cengkeh di kebun 5 ha
+diGrumbul Mudai, Purwokerto dan pasokan dari pengepul daun dirasakan sudah
+tidak mencukupi. Dengan modal RplOO-juta pada 1998 ia membangun base camp di
+lokasi baru itu. Seluruh unit-unit ketel yang ada di Dawuanwetan ikut dimutasi
+[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-Minyak-
+Cengkeh.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-
+Minyak-Cengkeh.jpg)
+
+## Sempat ditolak
+
+Suami Hajjah Munipah itu tertarik mengusahakan minyak cengkeh sejak
+pertengahan 1973. la terpikat keberhasilan CV Asiri, eksportir di desanya.
+Belasan truk hilir mudik setiap bulaft mengangkut sulingan minyak. “Pegawainya
+makmur-makmur. Tukang jemur saja dikasih bronpit (motor, red),” ucap bapak 5
+putera itu. Bermodalkan Rp5-juta, Soenarjo kemudian mencoba mengadu
+peruntungan. Sebuah ketel berdiameter 180 cm dibuat. Modelnya persis meniru
+ketel CV Asiri. Namun, saat berproduksi sedikit sekali tetesan minyak yang
+dihasilkan. “Dari 3 kuintal daun cuma dapat 5 kg minyak cengkeh. Normalnya 25
+kg,” papar pria yang tetap kelihatan segar di usia senja itu. Atas saran
+keponakan yang ahli mesin di Yogyakarta, ia memperbaiki cara kerja ketel.
+Terbukti selang sebulan ketel bertambah satu lagi. Pekan-pekan di awal 1974,
+ketel-ketel itu mengucurkan 350 kg minyak cengkeh. Sayang, kesuksesan itu tak
+berjalan seiring dengan keberhasilan menggaet pasar. Total 15 ton minyak
+menumpuk di gudang. Karena alasan kualitas CV Asiri menolak menampung. Pintu
+rezekinya terkuak saat pengepul minyak di Pasar Wage, Banyumas bersedia
+menampung meski volumenya sedikit, sekitar 100 kg. Dengan harga sekilo Rp
+1.200, Soenarjo meraih omzet pertama Rp 120.000 Pendapatan tamatan SMP itu
+melambung pada 1975 setelah PT Djasulawangi, eksportir minyak, asiri minta
+dipasok. Setiap bulan sekitar 4 ton rutin dikirim. Djasulawangi membeli sekilo
+minyak cengkeh Rp2.000. Karena menjanjikan, pria yang akrab disebut Bagyo itu
+berancang-ancang meningkatkan volume produksi. Pasalnya, “Berapapun jumlah
+minyak yang ada pasti diterima,” katanya. Enam ketel baru pun buru-buru
+dibuatnya. Untuk periode 1975-1979 pasokan ke Djasulawangi meningkat hingga
+1,4 ton/minggu. Dewi fortuna pun enggan berpaling. Sepulang menunaikan ibadah
+haji pada 1980, seorang eksportir asiri, rekan akrabnya dari Bandung, memberi
+suntikan dana Rp40-juta/bulan. Tujuannya agar Soenarjo membeli minyak dari
+seluruh penyuling di desanya. Hasilnya sekitar 30 ton/bulan minyak cengkeh
+rutin dipasok ke Bandung. Dengan harga jual Rp3.000/kg, setiap bulan Soenarjo
+bisa meraup pendapatan Rp50-juta setelah dipotong dana pinjaman. [caption
+id="attachment_20605" align="aligncenter"
+width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-
+Cengkeh.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-
+Cengkeh.jpg) Soenarjo Juragan minyak daun cengkeh[/caption]
+
+### Terpuruk karena BPPC
+
+Pepatah bijak hidup tak selalu di atas sempat menghampiri pria berusia 61
+tahun itu. Akibat monopoli tata niaga cengkeh oleh BPPC pada 1981 banyak
+penyuling, termasuk Soenarjo, goyah. Karena harga jual terlalu rendah banyak
+pekebun rela membumihanguskan tanaman. Itulah awal petaka kelangkaan bahan
+baku. Saking sulit memperoleh daun sekitar 150 ketel penyulingan di
+Dawuanwetan dan sekitarnya serempak berhenti. Soenarjo pun kena getahnya.
+Pasokan dari penyuling mitra praktis terhenti. Ia sendiri hanya mampu
+berproduksi 150 kg/minggu dari 1 ketel penyulingan. Itu pun mengandalkan bahan
+baku dari 800 cengkeh di kebunnya. Sembilan ketel lain terbengkalai.
+Penghasilannya merosot drastis. Setiap pekan ia hanya meraih Rp600.000. “Habis
+untuk gaji pegawai saja,” ucap bapak kelahiran Purwokerto itu. Derita itu
+berlangsung sampai memasuki 1985. Untung situasi berangsur-angsur pulih
+menjelang 1986. Modal Rp20-juta kembali dirogoh Bagyo dari saku agar bisa
+mengoperasikan ketel-ketel penyulingan. Namun, dari 10 ketel yang ada hanya 4
+saja yang laik beroperasi. Sisanya rusak lantaran tak terurus. Dari 4 ketel
+itu semenjak 1987 sekitar 700 kuintal/minggu minyak cengkeh rutin diproduksi.
+Semua itu diperuntukan pelanggan lama yang setia menampung. Kapasitas produksi
+itu terus dipertahankan hingga sekarang karena mengantisipasi ketersediaan
+bahan baku. Meski demikian rupiah yang diterima kian menggelembung karena per
+kg minyak cengkeh naik mengikuti nilai tukar dolar. “Kalau pada 1987 sebulan
+hanya dapat Rp5,6-juta, sekarang sih Rpl5-juta,” urai peraih penghargaan
+pengusaha kecil minyak asiri pada tahun 1976 itu
+
+

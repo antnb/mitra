@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Tepung Cabai Tambang Rupiah Mustari"
+title: 'Tepung Cabai Tambang Rupiah Mustari'
 categories: artikel|Pertanian
 date: 2020-09-04 11:01:26
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/09/Gambar_Tepung-Cabai_1208x800.jpg"
+image: media/Gambar_Tepung-Cabai_1208x800.jpg
 tags:
 - 
 
@@ -12,19 +12,79 @@ modification_time: 2020-09-04 11:01:26
 blogger_orig_url: "http://localhost/mitra/tepung-cabai-tambang-rupiah-mustari.html"
 ---
 
-<em>Rp 20-juta mengisi kocek Mustari Anies dari penjualan 3,5 ton tepung cabai per bulan. Dengan teknologi sederhana, alumnus sebuah STM di Padang itu mengolah cabai untuk memenuhi permintaan restoran korea dan jepang, pasar swalayan, produsen mi instan, serta produsen esens.</em>
-Cabai itu diolah dengan mesin penggiling di ruang sederhana berukuran 4 m x 3 m. Ia memproduksi 2 macam kocukaro alias tepung cabai. Kualitas A yang dijual Rp 60.000 per kg berasal dari cabai tanpa tangkai dan tanpa biji. Sementara yang B diproses dari cabai plus biji dijual Rp 40.000 per kg. Produknya bermerek Mitra Samba sekarang mudah ditemukan di beberapa pasar swalayan seperti Sogo, Diamond, Makro, Carrefour, dan Goro.
-Menurut Mustari tak semua varietas sesuai ditepungkan. Bahan baku yang cocok, berukuran besar, warna merah mencolok, dan rasa cukup pedas. Yang memenuhi syarat itu antara lain, hot beauty dan TW alias taiwan. Ayah 3 anak itu biasanya berburu cabai ke Lombok Tengah, Nusa Tenggara Barat, saat panen raya sekitar September. Harga Rp  18.000- Rp 20.000 per kg kering.
-<h2>Restoran</h2>
-Selain itu ia membeli bahan baku dari importir di bilangan Glodok dan Senen, keduanya di Jakarta. Mereka mengimpor cabai kering dari India dan Cina. Mustari membeli Rp lO.OOO-Rp l2.000 per kg kering. Sumber bahan baku lain, pekebun di Brebes, Jawa Tengah. Ketika panen raya biasanya harga jatuh sehingga mereka mengeringkan si pedas. Satu kilogram cabai kering berasal dari 5-6 kg basah. Sementara untuk menghasilkan 1 kg tepung diperlukan 2 kg cabai kering.
-Bahan baku itu kemudian dibersihkan setelah tiba di gudang di Cibubur, Jakarta Timur. Biaya membersihkan buah dari tangkai Rp 20.000 per 25 kg dan Rp 3.000 per kg sebagai upah membuang biji. Mantan pekerja bangunan itu mesti merogoh kocek lagi sebagai ongkos penggilingan, Rp l.000 per kg. Menurut perhitungannya, biaya produksi per kg kocukaro Rp 40.000 untuk kualitas A dan B Rp 20.000.
-Hasil penggilingan itu dipasarkan ke restoran korea dan jepang, pasar swalayan, dan produsen mi. Khusus untuk produsen esens, tepung diradiasi agar steril. Biaya penyinaran Rp 2.500 ditanggung konsumen yang meminta 500 kg per bulan. Dari penjualan itu ia menangguk omzet Rp 20-juta per bulan.
-<h3>Modal pinjaman</h3>
-Kelahiran Padang 23 Juni 1962 itu menempuh jalan panjang dan berliku sebelum menikmati jerih payahnya. Untuk memulai usaha itu ia meminjam modal Rp 200.000. Dana dimanfaatkan untuk membeli 20 kg cabai di Pasar Induk Kramatjati, Jakarta, dan ongkos penggilingan. Maklum, “Saya tak memperoleh pesangon ketika berhenti kerja di perusahaan distribusi alat tulis kantor,” katanya.
-Cabai kemudian digiling di Pasar Induk Kramatjati dan dijemur 7 hari. “Saat ditawari paman untuk membuat tepung cabai, saya tak mempunyai gambaran seperti apa bentuk kocukaro. Yang saya tahu, cabai seperti di dapur yang dibuat sambal,” kata pria berperawakan sedang itu.
-Namun, setelah itu olahan menggumpal sehingga digiling ulang. Tepung 10 kg itu ditawarkan kepada Restoran Seoul. Pada awal 1990 kocukaro impor sangat mahal sehingga restoran di bilangan Tanahabang, Jakarta, itu mencari substitusi berupa tepung cabai lokal. Gayung pun bersambut, produksi Mustari diterima. Sejak saat itulah ia rutin memasok Restoran Seoul.
-<h4>Jajaki ekspor</h4>
-Hari-hari Mustari disibukkan dengan mencari bahan baku, menjemur, menggiling, dan mengemas tepung. Dengan menumpang bus kota ayah 3 anak itu mengantarkan kocukaro ke restoran. Seperti karakter masyarakat Minang pada umumnya, demikian pula Mustari. Ia menawarkan produknya ke beberapa pasar swalayan. Bukan main senangnya, ketika Sogo-pasar swalayan terkemuka di jantung Jakarta-menerima tepung cabainya. Pada tahun pertama volume produksi rata-rata 100-150 kg per bulan.
-Berpalingnya Restoran Seoul ke produk lokal, diikuti restoran lain. Setidaknya 33 restoran korea dan jepang memesan kocukaro sehingga Mustari kebanjiran pesanan. Tiga tahun kemudian ia mendirikan PT Ganesha Abaditama yang menaungi usaha pengolahan cabai. Malahan saat ini tak kurang dari 8 rempah-rempah ditepungkan sebagai bentuk diversifikasi usaha.
-Menurut Mustari, peluang tepung cabai cukup bagus. Soalnya, cabai merupakan bumbu masak yang banyak dibutuhkan konsumen. Apalagi, “Dengan tepung mereka lebih mudah menggunakan. Bagi wanita karier yang sibuk, sangat praktis,” kata Mustari. Namun, ia tak puas jika hanya memasok pasar lokal. Pasar mancanegara seperti negara-negara Timur Tengah dan Selandia Baru kini tengah dijajaki.
-Cabai bagi Mustari terbukti menjadi tambang rupiah dan mengubah kehidupan. Sekarang ia tak lagi mengantar sendiri aneka produk olahan ke konsumen. Dua belas karyawan membantu mendistribusikan dengan mobil khusus. Demikian pula Mustari ke mana-mana tak lagi bergelantungan di bus kota. Sebuah mobil dikendarainya. (Sardhi Duryatmo)
+_Rp 20-juta mengisi kocek Mustari Anies dari penjualan 3,5 ton tepung cabai
+per bulan. Dengan teknologi sederhana, alumnus sebuah STM di Padang itu
+mengolah cabai untuk memenuhi permintaan restoran korea dan jepang, pasar
+swalayan, produsen mi instan, serta produsen esens._ Cabai itu diolah dengan
+mesin penggiling di ruang sederhana berukuran 4 m x 3 m. Ia memproduksi 2
+macam kocukaro alias tepung cabai. Kualitas A yang dijual Rp 60.000 per kg
+berasal dari cabai tanpa tangkai dan tanpa biji. Sementara yang B diproses
+dari cabai plus biji dijual Rp 40.000 per kg. Produknya bermerek Mitra Samba
+sekarang mudah ditemukan di beberapa pasar swalayan seperti Sogo, Diamond,
+Makro, Carrefour, dan Goro. Menurut Mustari tak semua varietas sesuai
+ditepungkan. Bahan baku yang cocok, berukuran besar, warna merah mencolok, dan
+rasa cukup pedas. Yang memenuhi syarat itu antara lain, hot beauty dan TW
+alias taiwan. Ayah 3 anak itu biasanya berburu cabai ke Lombok Tengah, Nusa
+Tenggara Barat, saat panen raya sekitar September. Harga Rp 18.000- Rp 20.000
+per kg kering.
+
+## Restoran
+
+Selain itu ia membeli bahan baku dari importir di bilangan Glodok dan Senen,
+keduanya di Jakarta. Mereka mengimpor cabai kering dari India dan Cina.
+Mustari membeli Rp lO.OOO-Rp l2.000 per kg kering. Sumber bahan baku lain,
+pekebun di Brebes, Jawa Tengah. Ketika panen raya biasanya harga jatuh
+sehingga mereka mengeringkan si pedas. Satu kilogram cabai kering berasal dari
+5-6 kg basah. Sementara untuk menghasilkan 1 kg tepung diperlukan 2 kg cabai
+kering. Bahan baku itu kemudian dibersihkan setelah tiba di gudang di Cibubur,
+Jakarta Timur. Biaya membersihkan buah dari tangkai Rp 20.000 per 25 kg dan Rp
+3.000 per kg sebagai upah membuang biji. Mantan pekerja bangunan itu mesti
+merogoh kocek lagi sebagai ongkos penggilingan, Rp l.000 per kg. Menurut
+perhitungannya, biaya produksi per kg kocukaro Rp 40.000 untuk kualitas A dan
+B Rp 20.000. Hasil penggilingan itu dipasarkan ke restoran korea dan jepang,
+pasar swalayan, dan produsen mi. Khusus untuk produsen esens, tepung diradiasi
+agar steril. Biaya penyinaran Rp 2.500 ditanggung konsumen yang meminta 500 kg
+per bulan. Dari penjualan itu ia menangguk omzet Rp 20-juta per bulan.
+
+### Modal pinjaman
+
+Kelahiran Padang 23 Juni 1962 itu menempuh jalan panjang dan berliku sebelum
+menikmati jerih payahnya. Untuk memulai usaha itu ia meminjam modal Rp
+200.000. Dana dimanfaatkan untuk membeli 20 kg cabai di Pasar Induk
+Kramatjati, Jakarta, dan ongkos penggilingan. Maklum, “Saya tak memperoleh
+pesangon ketika berhenti kerja di perusahaan distribusi alat tulis kantor,”
+katanya. Cabai kemudian digiling di Pasar Induk Kramatjati dan dijemur 7 hari.
+“Saat ditawari paman untuk membuat tepung cabai, saya tak mempunyai gambaran
+seperti apa bentuk kocukaro. Yang saya tahu, cabai seperti di dapur yang
+dibuat sambal,” kata pria berperawakan sedang itu. Namun, setelah itu olahan
+menggumpal sehingga digiling ulang. Tepung 10 kg itu ditawarkan kepada
+Restoran Seoul. Pada awal 1990 kocukaro impor sangat mahal sehingga restoran
+di bilangan Tanahabang, Jakarta, itu mencari substitusi berupa tepung cabai
+lokal. Gayung pun bersambut, produksi Mustari diterima. Sejak saat itulah ia
+rutin memasok Restoran Seoul.
+
+#### Jajaki ekspor
+
+Hari-hari Mustari disibukkan dengan mencari bahan baku, menjemur, menggiling,
+dan mengemas tepung. Dengan menumpang bus kota ayah 3 anak itu mengantarkan
+kocukaro ke restoran. Seperti karakter masyarakat Minang pada umumnya,
+demikian pula Mustari. Ia menawarkan produknya ke beberapa pasar swalayan.
+Bukan main senangnya, ketika Sogo-pasar swalayan terkemuka di jantung Jakarta-
+menerima tepung cabainya. Pada tahun pertama volume produksi rata-rata 100-150
+kg per bulan. Berpalingnya Restoran Seoul ke produk lokal, diikuti restoran
+lain. Setidaknya 33 restoran korea dan jepang memesan kocukaro sehingga
+Mustari kebanjiran pesanan. Tiga tahun kemudian ia mendirikan PT Ganesha
+Abaditama yang menaungi usaha pengolahan cabai. Malahan saat ini tak kurang
+dari 8 rempah-rempah ditepungkan sebagai bentuk diversifikasi usaha. Menurut
+Mustari, peluang tepung cabai cukup bagus. Soalnya, cabai merupakan bumbu
+masak yang banyak dibutuhkan konsumen. Apalagi, “Dengan tepung mereka lebih
+mudah menggunakan. Bagi wanita karier yang sibuk, sangat praktis,” kata
+Mustari. Namun, ia tak puas jika hanya memasok pasar lokal. Pasar mancanegara
+seperti negara-negara Timur Tengah dan Selandia Baru kini tengah dijajaki.
+Cabai bagi Mustari terbukti menjadi tambang rupiah dan mengubah kehidupan.
+Sekarang ia tak lagi mengantar sendiri aneka produk olahan ke konsumen. Dua
+belas karyawan membantu mendistribusikan dengan mobil khusus. Demikian pula
+Mustari ke mana-mana tak lagi bergelantungan di bus kota. Sebuah mobil
+dikendarainya. (Sardhi Duryatmo)
+
+

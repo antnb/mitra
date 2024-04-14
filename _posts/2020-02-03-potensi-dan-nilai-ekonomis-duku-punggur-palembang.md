@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Potensi Dan Nilai Ekonomis Duku Punggur Palembang"
+title: 'Potensi Dan Nilai Ekonomis Duku Punggur Palembang'
 categories: Pertanian
 date: 2020-02-03 06:51:03
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/02/Duku.jpg"
+image: media/Duku.jpg
 tags:
 - Buah
 - duku
@@ -14,62 +14,139 @@ modification_time: 2022-09-13 10:59:12
 blogger_orig_url: "http://localhost/mitra/potensi-dan-nilai-ekonomis-duku.html"
 ---
 
-Sang pemilik jongko setengah berteriak menawarkan dagangannya. "Punggurnya pak? " Tanpa ba bi bu pasangan suami istri yang turun dari mobil itu langsung meminta 5 kg. Uang sebanyak Rp 40.000 pun berpindah tangan.
-Nama punggur memang jaminan duku enak di Pontianak, sehingga konsumen berani membeli dengan harga tinggi. Tak aneh banyak pedagang mencatut namanya. Lacakan <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> ke beberapa pedagang di Singkawang-berjarak 100 km dari Pontianak-semua menyebut punggur untuk duku yang dijual.
+Sang pemilik jongko setengah berteriak menawarkan dagangannya. "Punggurnya
+pak? " Tanpa ba bi bu pasangan suami istri yang turun dari mobil itu langsung
+meminta 5 kg. Uang sebanyak Rp 40.000 pun berpindah tangan. Nama punggur
+memang jaminan duku enak di Pontianak, sehingga konsumen berani membeli dengan
+harga tinggi. Tak aneh banyak pedagang mencatut namanya. Lacakan [Mitra Usaha
+Tani](http://127.0.0.1/mitra) ke beberapa pedagang di Singkawang-berjarak 100
+km dari Pontianak-semua menyebut punggur untuk duku yang dijual. Padahal
+menurut Anton Kamaruddin SP, staf Dinas Pertanian Provinsi Kalimantan Barat,
+ada beberapa varietas langsat punggur pontianak yang berkembang di Bumi
+Khatulistiwa. "Duku punggur mempunyai rasa istimewa: berair dan lebih manis.
+Sedangkan varietas lain agak masam," kata Anton. Sayangnya secara fisik satu
+sama lain sulit dibedakan. Kulit yang kuning keputihan sama-sama mulus. Namun,
+waktu kulit yang tipis dikupas, daging punggur bening. Menurut Anton kesamaan
+warna kulit lantaran duku-duku lain diduga varian dari punggur. Lokasi
+penanaman berbeda menyebabkan kualitas rasa beragam.
 
-Padahal menurut Anton Kamaruddin SP, staf Dinas Pertanian Provinsi Kalimantan Barat, ada beberapa varietas langsat punggur pontianak yang berkembang di Bumi Khatulistiwa. "Duku punggur mempunyai rasa istimewa: berair dan lebih manis. Sedangkan varietas lain agak masam," kata Anton. Sayangnya secara fisik satu sama lain sulit dibedakan. Kulit yang kuning keputihan sama-sama mulus.
+## Duku punggur
 
-Namun, waktu kulit yang tipis dikupas, daging punggur bening. Menurut Anton kesamaan warna kulit lantaran duku-duku lain diduga varian dari punggur. Lokasi penanaman berbeda menyebabkan kualitas rasa beragam.
-<h2><span data-offset-key="38k9h-24-0">D</span><span data-offset-key="38k9h-25-0">uku</span><span data-offset-key="38k9h-26-0"> pun</span><span data-offset-key="38k9h-27-0">gg</span><span data-offset-key="38k9h-28-0">ur</span></h2>
-<span data-offset-key="38k9h-20-0">D</span><span data-offset-key="38k9h-21-0">uku</span><span data-offset-key="38k9h-22-0"> at</span><span data-offset-key="38k9h-23-0">au</span><span data-offset-key="38k9h-24-0"> d</span><span data-offset-key="38k9h-25-0">uku</span><span data-offset-key="38k9h-26-0"> pun</span><span data-offset-key="38k9h-27-0">gg</span><span data-offset-key="38k9h-28-0">ur</span><span data-offset-key="38k9h-29-0"> (</span><span data-offset-key="38k9h-30-0">L</span><span data-offset-key="38k9h-31-0">ans</span><span data-offset-key="38k9h-32-0">ium</span><span data-offset-key="38k9h-33-0"> domestic</span><span data-offset-key="38k9h-34-0">um</span><span data-offset-key="38k9h-35-0">)</span><span data-offset-key="38k9h-36-0"> ad</span><span data-offset-key="38k9h-37-0">al</span><span data-offset-key="38k9h-38-0">ah</span><span data-offset-key="38k9h-39-0"> se</span><span data-offset-key="38k9h-40-0">jen</span><span data-offset-key="38k9h-41-0">is</span><span data-offset-key="38k9h-42-0"> bu</span><span data-offset-key="38k9h-43-0">ah</span><span data-offset-key="38k9h-44-0"> trop</span><span data-offset-key="38k9h-45-0">is</span><span data-offset-key="38k9h-46-0"> y</span><span data-offset-key="38k9h-47-0">ang</span><span data-offset-key="38k9h-48-0"> ber</span><span data-offset-key="38k9h-49-0">as</span><span data-offset-key="38k9h-50-0">al</span><span data-offset-key="38k9h-51-0"> d</span><span data-offset-key="38k9h-52-0">ari</span><span data-offset-key="38k9h-53-0"> da</span><span data-offset-key="38k9h-54-0">er</span><span data-offset-key="38k9h-55-0">ah</span><span data-offset-key="38k9h-56-0"> Malaysia</span><span data-offset-key="38k9h-57-0">,</span><span data-offset-key="38k9h-58-0"> Indonesia</span><span data-offset-key="38k9h-59-0">,</span><span data-offset-key="38k9h-60-0"> dan</span><span data-offset-key="38k9h-61-0"> Brune</span><span data-offset-key="38k9h-62-0">i</span><span data-offset-key="38k9h-63-0">.</span><span data-offset-key="38k9h-64-0"> D</span><span data-offset-key="38k9h-65-0">uku</span><span data-offset-key="38k9h-66-0"> pun</span><span data-offset-key="38k9h-67-0">gg</span><span data-offset-key="38k9h-68-0">ur</span><span data-offset-key="38k9h-69-0"> ter</span><span data-offset-key="38k9h-70-0">g</span><span data-offset-key="38k9h-71-0">ol</span><span data-offset-key="38k9h-72-0">ong</span><span data-offset-key="38k9h-73-0"> ke</span><span data-offset-key="38k9h-74-0"> d</span><span data-offset-key="38k9h-75-0">alam</span><span data-offset-key="38k9h-76-0"> ke</span><span data-offset-key="38k9h-77-0">lu</span><span data-offset-key="38k9h-78-0">arg</span><span data-offset-key="38k9h-79-0">a</span><span data-offset-key="38k9h-80-0"> Mel</span><span data-offset-key="38k9h-81-0">ast</span><span data-offset-key="38k9h-82-0">om</span><span data-offset-key="38k9h-83-0">at</span><span data-offset-key="38k9h-84-0">aceae</span><span data-offset-key="38k9h-85-0"> dan</span><span data-offset-key="38k9h-86-0"> term</span><span data-offset-key="38k9h-87-0">as</span><span data-offset-key="38k9h-88-0">uk</span><span data-offset-key="38k9h-89-0"> d</span><span data-offset-key="38k9h-90-0">alam</span><span data-offset-key="38k9h-91-0"> genus</span><span data-offset-key="38k9h-92-0"> Lans</span><span data-offset-key="38k9h-93-0">ium</span><span data-offset-key="38k9h-94-0">.</span><span data-offset-key="38k9h-95-0"> D</span><span data-offset-key="38k9h-96-0">uku</span><span data-offset-key="38k9h-97-0"> pun</span><span data-offset-key="38k9h-98-0">gg</span><span data-offset-key="38k9h-99-0">ur</span><span data-offset-key="38k9h-100-0"> um</span><span data-offset-key="38k9h-101-0">um</span><span data-offset-key="38k9h-102-0">ny</span><span data-offset-key="38k9h-103-0">a</span><span data-offset-key="38k9h-104-0"> t</span><span data-offset-key="38k9h-105-0">umb</span><span data-offset-key="38k9h-106-0">uh</span><span data-offset-key="38k9h-107-0"> di</span><span data-offset-key="38k9h-108-0"> da</span><span data-offset-key="38k9h-109-0">er</span><span data-offset-key="38k9h-110-0">ah</span><span data-offset-key="38k9h-111-0"> den</span><span data-offset-key="38k9h-112-0">gan</span> <span data-offset-key="38k9h-114-0">ik</span><span data-offset-key="38k9h-115-0">lim</span><span data-offset-key="38k9h-116-0"> trop</span><span data-offset-key="38k9h-117-0">is</span><span data-offset-key="38k9h-118-0"> dan</span><span data-offset-key="38k9h-119-0"> subt</span><span data-offset-key="38k9h-120-0">rop</span><span data-offset-key="38k9h-121-0">is</span><span data-offset-key="38k9h-122-0">.</span> <span data-offset-key="38k9h-125-0">D</span><span data-offset-key="38k9h-126-0">uku</span><span data-offset-key="38k9h-127-0"> pun</span><span data-offset-key="38k9h-128-0">gg</span><span data-offset-key="38k9h-129-0">ur</span><span data-offset-key="38k9h-130-0"> mem</span><span data-offset-key="38k9h-131-0">il</span><span data-offset-key="38k9h-132-0">iki</span><span data-offset-key="38k9h-133-0"> bu</span><span data-offset-key="38k9h-134-0">ah</span><span data-offset-key="38k9h-135-0"> y</span><span data-offset-key="38k9h-136-0">ang</span><span data-offset-key="38k9h-137-0"> ber</span><span data-offset-key="38k9h-138-0">w</span><span data-offset-key="38k9h-139-0">arna</span><span data-offset-key="38k9h-140-0"> hij</span><span data-offset-key="38k9h-141-0">au</span><span data-offset-key="38k9h-142-0"> dan</span><span data-offset-key="38k9h-143-0"> ber</span><span data-offset-key="38k9h-144-0">bent</span><span data-offset-key="38k9h-145-0">uk</span><span data-offset-key="38k9h-146-0"> bul</span><span data-offset-key="38k9h-147-0">at</span><span data-offset-key="38k9h-148-0">.</span>
+Duku atau duku punggur (Lansium domesticum) adalah sejenis buah tropis yang
+berasal dari daerah Malaysia, Indonesia, dan Brunei. Duku punggur tergolong ke
+dalam keluarga Melastomataceae dan termasuk dalam genus Lansium. Duku punggur
+umumnya tumbuh di daerah dengan iklim tropis dan subtropis. Duku punggur
+memiliki buah yang berwarna hijau dan berbentuk bulat. Buah duku punggur
+berisi beberapa biji yang berwarna putih. Biji-bijinya terasa manis dan segar.
+Buah duku punggur dapat dikonsumsi secara langsung atau diolah menjadi aneka
+jenis makanan dan minuman, seperti jus, sirup, jam, dan sebagainya. Duku
+punggur kaya akan kandungan gizi, seperti vitamin C, kalsium, fosfor, dan zat
+besi. Kandungan gizi tersebut membuat buah duku punggur sangat baik untuk
+dikonsumsi oleh siapa saja, khususnya oleh anak-anak dan ibu hamil. Duku
+punggur juga dikenal memiliki sifat anti-bakteri dan anti-jamur, sehingga
+dapat digunakan sebagai obat alami untuk mengatasi berbagai macam penyakit.
 
-<span data-offset-key="38k9h-149-0">Bu</span><span data-offset-key="38k9h-150-0">ah</span><span data-offset-key="38k9h-151-0"> d</span><span data-offset-key="38k9h-152-0">uku</span><span data-offset-key="38k9h-153-0"> pun</span><span data-offset-key="38k9h-154-0">gg</span><span data-offset-key="38k9h-155-0">ur</span><span data-offset-key="38k9h-156-0"> ber</span><span data-offset-key="38k9h-157-0">isi</span><span data-offset-key="38k9h-158-0"> be</span><span data-offset-key="38k9h-159-0">ber</span><span data-offset-key="38k9h-160-0">apa</span><span data-offset-key="38k9h-161-0"> b</span><span data-offset-key="38k9h-162-0">iji</span><span data-offset-key="38k9h-163-0"> y</span><span data-offset-key="38k9h-164-0">ang</span><span data-offset-key="38k9h-165-0"> ber</span><span data-offset-key="38k9h-166-0">w</span><span data-offset-key="38k9h-167-0">arna</span><span data-offset-key="38k9h-168-0"> put</span><span data-offset-key="38k9h-169-0">ih</span><span data-offset-key="38k9h-170-0">.</span><span data-offset-key="38k9h-171-0"> B</span><span data-offset-key="38k9h-172-0">iji</span><span data-offset-key="38k9h-173-0">-</span><span data-offset-key="38k9h-174-0">b</span><span data-offset-key="38k9h-175-0">ij</span><span data-offset-key="38k9h-176-0">iny</span><span data-offset-key="38k9h-177-0">a</span><span data-offset-key="38k9h-178-0"> ter</span><span data-offset-key="38k9h-179-0">asa</span><span data-offset-key="38k9h-180-0"> man</span><span data-offset-key="38k9h-181-0">is</span><span data-offset-key="38k9h-182-0"> dan</span><span data-offset-key="38k9h-183-0"> se</span><span data-offset-key="38k9h-184-0">gar</span><span data-offset-key="38k9h-185-0">.</span><span data-offset-key="38k9h-186-0"> Bu</span><span data-offset-key="38k9h-187-0">ah</span><span data-offset-key="38k9h-188-0"> d</span><span data-offset-key="38k9h-189-0">uku</span><span data-offset-key="38k9h-190-0"> pun</span><span data-offset-key="38k9h-191-0">gg</span><span data-offset-key="38k9h-192-0">ur</span><span data-offset-key="38k9h-193-0"> d</span><span data-offset-key="38k9h-194-0">ap</span><span data-offset-key="38k9h-195-0">at</span><span data-offset-key="38k9h-196-0"> d</span><span data-offset-key="38k9h-197-0">ik</span><span data-offset-key="38k9h-198-0">ons</span><span data-offset-key="38k9h-199-0">ums</span><span data-offset-key="38k9h-200-0">i</span><span data-offset-key="38k9h-201-0"> sec</span><span data-offset-key="38k9h-202-0">ara</span><span data-offset-key="38k9h-203-0"> lang</span><span data-offset-key="38k9h-204-0">sung</span><span data-offset-key="38k9h-205-0"> at</span><span data-offset-key="38k9h-206-0">au</span><span data-offset-key="38k9h-207-0"> d</span><span data-offset-key="38k9h-208-0">iol</span><span data-offset-key="38k9h-209-0">ah</span><span data-offset-key="38k9h-210-0"> men</span><span data-offset-key="38k9h-211-0">j</span><span data-offset-key="38k9h-212-0">adi</span><span data-offset-key="38k9h-213-0"> an</span><span data-offset-key="38k9h-214-0">eka</span><span data-offset-key="38k9h-215-0"> j</span><span data-offset-key="38k9h-216-0">en</span><span data-offset-key="38k9h-217-0">is</span><span data-offset-key="38k9h-218-0"> m</span><span data-offset-key="38k9h-219-0">ak</span><span data-offset-key="38k9h-220-0">anan</span><span data-offset-key="38k9h-221-0"> dan</span><span data-offset-key="38k9h-222-0"> min</span><span data-offset-key="38k9h-223-0">uman</span><span data-offset-key="38k9h-224-0">,</span><span data-offset-key="38k9h-225-0"> se</span><span data-offset-key="38k9h-226-0">pert</span><span data-offset-key="38k9h-227-0">i</span><span data-offset-key="38k9h-228-0"> j</span><span data-offset-key="38k9h-229-0">us</span><span data-offset-key="38k9h-230-0">,</span><span data-offset-key="38k9h-231-0"> sir</span><span data-offset-key="38k9h-232-0">up</span><span data-offset-key="38k9h-233-0">,</span><span data-offset-key="38k9h-234-0"> jam</span><span data-offset-key="38k9h-235-0">,</span><span data-offset-key="38k9h-236-0"> dan</span><span data-offset-key="38k9h-237-0"> se</span><span data-offset-key="38k9h-238-0">b</span><span data-offset-key="38k9h-239-0">again</span><span data-offset-key="38k9h-240-0">ya</span><span data-offset-key="38k9h-241-0">.</span>
+## Keistimewaan Duku Punggur
 
-<span data-offset-key="38k9h-244-0">D</span><span data-offset-key="38k9h-245-0">uku</span><span data-offset-key="38k9h-246-0"> pun</span><span data-offset-key="38k9h-247-0">gg</span><span data-offset-key="38k9h-248-0">ur</span><span data-offset-key="38k9h-249-0"> k</span><span data-offset-key="38k9h-250-0">aya</span><span data-offset-key="38k9h-251-0"> a</span><span data-offset-key="38k9h-252-0">kan</span><span data-offset-key="38k9h-253-0"> k</span><span data-offset-key="38k9h-254-0">and</span><span data-offset-key="38k9h-255-0">un</span><span data-offset-key="38k9h-256-0">gan</span><span data-offset-key="38k9h-257-0"> g</span><span data-offset-key="38k9h-258-0">iz</span><span data-offset-key="38k9h-259-0">i</span><span data-offset-key="38k9h-260-0">,</span><span data-offset-key="38k9h-261-0"> se</span><span data-offset-key="38k9h-262-0">pert</span><span data-offset-key="38k9h-263-0">i</span><span data-offset-key="38k9h-264-0"> vitamin</span><span data-offset-key="38k9h-265-0"> C</span><span data-offset-key="38k9h-266-0">,</span><span data-offset-key="38k9h-267-0"> k</span><span data-offset-key="38k9h-268-0">als</span><span data-offset-key="38k9h-269-0">ium</span><span data-offset-key="38k9h-270-0">,</span><span data-offset-key="38k9h-271-0"> f</span><span data-offset-key="38k9h-272-0">os</span><span data-offset-key="38k9h-273-0">for</span><span data-offset-key="38k9h-274-0">,</span><span data-offset-key="38k9h-275-0"> dan</span><span data-offset-key="38k9h-276-0"> z</span><span data-offset-key="38k9h-277-0">at</span><span data-offset-key="38k9h-278-0"> bes</span><span data-offset-key="38k9h-279-0">i</span><span data-offset-key="38k9h-280-0">.</span><span data-offset-key="38k9h-281-0"> Kand</span><span data-offset-key="38k9h-282-0">un</span><span data-offset-key="38k9h-283-0">gan</span><span data-offset-key="38k9h-284-0"> g</span><span data-offset-key="38k9h-285-0">iz</span><span data-offset-key="38k9h-286-0">i</span><span data-offset-key="38k9h-287-0"> ter</span><span data-offset-key="38k9h-288-0">se</span><span data-offset-key="38k9h-289-0">but</span><span data-offset-key="38k9h-290-0"> mem</span><span data-offset-key="38k9h-291-0">bu</span><span data-offset-key="38k9h-292-0">at</span><span data-offset-key="38k9h-293-0"> bu</span><span data-offset-key="38k9h-294-0">ah</span><span data-offset-key="38k9h-295-0"> d</span><span data-offset-key="38k9h-296-0">uku</span><span data-offset-key="38k9h-297-0"> pun</span><span data-offset-key="38k9h-298-0">gg</span><span data-offset-key="38k9h-299-0">ur</span><span data-offset-key="38k9h-300-0"> sang</span><span data-offset-key="38k9h-301-0">at</span><span data-offset-key="38k9h-302-0"> ba</span><span data-offset-key="38k9h-303-0">ik</span><span data-offset-key="38k9h-304-0"> unt</span><span data-offset-key="38k9h-305-0">uk</span><span data-offset-key="38k9h-306-0"> d</span><span data-offset-key="38k9h-307-0">ik</span><span data-offset-key="38k9h-308-0">ons</span><span data-offset-key="38k9h-309-0">ums</span><span data-offset-key="38k9h-310-0">i</span><span data-offset-key="38k9h-311-0"> o</span><span data-offset-key="38k9h-312-0">le</span><span data-offset-key="38k9h-313-0">h</span><span data-offset-key="38k9h-314-0"> si</span><span data-offset-key="38k9h-315-0">apa</span><span data-offset-key="38k9h-316-0"> sa</span><span data-offset-key="38k9h-317-0">ja</span><span data-offset-key="38k9h-318-0">,</span><span data-offset-key="38k9h-319-0"> k</span><span data-offset-key="38k9h-320-0">hus</span><span data-offset-key="38k9h-321-0">us</span><span data-offset-key="38k9h-322-0">ny</span><span data-offset-key="38k9h-323-0">a</span><span data-offset-key="38k9h-324-0"> o</span><span data-offset-key="38k9h-325-0">le</span><span data-offset-key="38k9h-326-0">h</span><span data-offset-key="38k9h-327-0"> an</span><span data-offset-key="38k9h-328-0">ak</span><span data-offset-key="38k9h-329-0">-</span><span data-offset-key="38k9h-330-0">an</span><span data-offset-key="38k9h-331-0">ak</span><span data-offset-key="38k9h-332-0"> dan</span><span data-offset-key="38k9h-333-0"> ib</span><span data-offset-key="38k9h-334-0">u</span><span data-offset-key="38k9h-335-0"> ham</span><span data-offset-key="38k9h-336-0">il</span><span data-offset-key="38k9h-337-0">.</span><span data-offset-key="38k9h-338-0"> D</span><span data-offset-key="38k9h-339-0">uku</span><span data-offset-key="38k9h-340-0"> pun</span><span data-offset-key="38k9h-341-0">gg</span><span data-offset-key="38k9h-342-0">ur</span><span data-offset-key="38k9h-343-0"> j</span><span data-offset-key="38k9h-344-0">uga</span><span data-offset-key="38k9h-345-0"> d</span><span data-offset-key="38k9h-346-0">iken</span><span data-offset-key="38k9h-347-0">al</span><span data-offset-key="38k9h-348-0"> mem</span><span data-offset-key="38k9h-349-0">il</span><span data-offset-key="38k9h-350-0">iki</span><span data-offset-key="38k9h-351-0"> s</span><span data-offset-key="38k9h-352-0">if</span><span data-offset-key="38k9h-353-0">at</span><span data-offset-key="38k9h-354-0"> anti</span><span data-offset-key="38k9h-355-0">-</span><span data-offset-key="38k9h-356-0">b</span><span data-offset-key="38k9h-357-0">ak</span><span data-offset-key="38k9h-358-0">ter</span><span data-offset-key="38k9h-359-0">i</span><span data-offset-key="38k9h-360-0"> dan</span><span data-offset-key="38k9h-361-0"> anti</span><span data-offset-key="38k9h-362-0">-</span><span data-offset-key="38k9h-363-0">jam</span><span data-offset-key="38k9h-364-0">ur</span><span data-offset-key="38k9h-365-0">,</span><span data-offset-key="38k9h-366-0"> se</span><span data-offset-key="38k9h-367-0">hing</span><span data-offset-key="38k9h-368-0">ga</span><span data-offset-key="38k9h-369-0"> d</span><span data-offset-key="38k9h-370-0">ap</span><span data-offset-key="38k9h-371-0">at</span><span data-offset-key="38k9h-372-0"> dig</span><span data-offset-key="38k9h-373-0">un</span><span data-offset-key="38k9h-374-0">ak</span><span data-offset-key="38k9h-375-0">an</span><span data-offset-key="38k9h-376-0"> se</span><span data-offset-key="38k9h-377-0">bag</span><span data-offset-key="38k9h-378-0">ai</span><span data-offset-key="38k9h-379-0"> ob</span><span data-offset-key="38k9h-380-0">at</span><span data-offset-key="38k9h-381-0"> al</span><span data-offset-key="38k9h-382-0">ami</span><span data-offset-key="38k9h-383-0"> unt</span><span data-offset-key="38k9h-384-0">uk</span><span data-offset-key="38k9h-385-0"> men</span><span data-offset-key="38k9h-386-0">gat</span><span data-offset-key="38k9h-387-0">asi</span><span data-offset-key="38k9h-388-0"> ber</span><span data-offset-key="38k9h-389-0">bag</span><span data-offset-key="38k9h-390-0">ai</span><span data-offset-key="38k9h-391-0"> mac</span><span data-offset-key="38k9h-392-0">am</span><span data-offset-key="38k9h-393-0"> pen</span><span data-offset-key="38k9h-394-0">y</span><span data-offset-key="38k9h-395-0">ak</span><span data-offset-key="38k9h-396-0">it</span><span data-offset-key="38k9h-397-0">.</span>
-<h2>Keistimewaan Duku Punggur</h2>
-Duku Punggur adalah sejenis buah tropis yang berasal dari daerah Indonesia. Buah ini memiliki bentuk seperti apel, namun warnanya lebih gelap. Duku Punggur juga memiliki biji di dalamnya.
+Duku Punggur adalah sejenis buah tropis yang berasal dari daerah Indonesia.
+Buah ini memiliki bentuk seperti apel, namun warnanya lebih gelap. Duku
+Punggur juga memiliki biji di dalamnya. Duku Punggur memiliki beberapa
+keistimewaan yaitu :
 
-Duku Punggur memiliki beberapa keistimewaan yaitu :
-<ol>
- 	<li>Kandungan antioksidan yang tinggi</li>
- 	<li>Membantu menurunkan kolesterol</li>
- 	<li>Mengurangi risiko stroke</li>
- 	<li>Membantu meningkatkan daya tahan tubuh</li>
- 	<li>Menurunkan tekanan darah</li>
- 	<li>Melancarkan sirkulasi darah</li>
- 	<li>Menurunkan gula darah</li>
- 	<li>Mengontrol kadar kolesterol</li>
- 	<li>Membantu menurunkan lemak jahat (LDL)</li>
- 	<li>Mencegah kanker</li>
-</ol>
-<span data-offset-key="4phec-264-0">Ke</span><span data-offset-key="4phec-265-0">ist</span><span data-offset-key="4phec-266-0">im</span><span data-offset-key="4phec-267-0">ew</span><span data-offset-key="4phec-268-0">aan</span><span data-offset-key="4phec-269-0"> bu</span><span data-offset-key="4phec-270-0">ah</span><span data-offset-key="4phec-271-0"> D</span><span data-offset-key="4phec-272-0">uku</span><span data-offset-key="4phec-273-0"> Pun</span><span data-offset-key="4phec-274-0">gg</span><span data-offset-key="4phec-275-0">ur</span><span data-offset-key="4phec-276-0"> in</span><span data-offset-key="4phec-277-0">i</span><span data-offset-key="4phec-278-0"> tel</span><span data-offset-key="4phec-279-0">ah</span><span data-offset-key="4phec-280-0"> d</span><span data-offset-key="4phec-281-0">ib</span><span data-offset-key="4phec-282-0">uk</span><span data-offset-key="4phec-283-0">t</span><span data-offset-key="4phec-284-0">ikan</span><span data-offset-key="4phec-285-0"> o</span><span data-offset-key="4phec-286-0">le</span><span data-offset-key="4phec-287-0">h</span><span data-offset-key="4phec-288-0"> be</span><span data-offset-key="4phec-289-0">ber</span><span data-offset-key="4phec-290-0">apa</span><span data-offset-key="4phec-291-0"> pen</span><span data-offset-key="4phec-292-0">el</span><span data-offset-key="4phec-293-0">it</span><span data-offset-key="4phec-294-0">ian</span><span data-offset-key="4phec-295-0">.</span><span data-offset-key="4phec-296-0"> Ole</span><span data-offset-key="4phec-297-0">h</span><span data-offset-key="4phec-298-0"> k</span><span data-offset-key="4phec-299-0">are</span><span data-offset-key="4phec-300-0">na</span><span data-offset-key="4phec-301-0"> it</span><span data-offset-key="4phec-302-0">u</span><span data-offset-key="4phec-303-0">,</span><span data-offset-key="4phec-304-0"> bu</span><span data-offset-key="4phec-305-0">ah</span><span data-offset-key="4phec-306-0"> in</span><span data-offset-key="4phec-307-0">i</span><span data-offset-key="4phec-308-0"> sang</span><span data-offset-key="4phec-309-0">at</span><span data-offset-key="4phec-310-0"> coc</span><span data-offset-key="4phec-311-0">ok</span><span data-offset-key="4phec-312-0"> d</span><span data-offset-key="4phec-313-0">ik</span><span data-offset-key="4phec-314-0">ons</span><span data-offset-key="4phec-315-0">ums</span><span data-offset-key="4phec-316-0">i</span><span data-offset-key="4phec-317-0"> o</span><span data-offset-key="4phec-318-0">le</span><span data-offset-key="4phec-319-0">h</span><span data-offset-key="4phec-320-0"> si</span><span data-offset-key="4phec-321-0">apa</span><span data-offset-key="4phec-322-0"> sa</span><span data-offset-key="4phec-323-0">ja</span><span data-offset-key="4phec-324-0"> y</span><span data-offset-key="4phec-325-0">ang</span><span data-offset-key="4phec-326-0"> ing</span><span data-offset-key="4phec-327-0">in</span><span data-offset-key="4phec-328-0"> men</span><span data-offset-key="4phec-329-0">j</span><span data-offset-key="4phec-330-0">aga</span><span data-offset-key="4phec-331-0"> k</span><span data-offset-key="4phec-332-0">ese</span><span data-offset-key="4phec-333-0">hat</span><span data-offset-key="4phec-334-0">ann</span><span data-offset-key="4phec-335-0">ya</span><span data-offset-key="4phec-336-0">.</span>
-<h2><a href="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-Punggur.jpg"><img class="aligncenter wp-image-16310 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-Punggur-300x169.jpg" alt="" width="300" height="169" /></a>Nilai Ekonomis Buah duku punggur</h2>
-Buah ini memiliki rasa yang segar dan manis, dan juga kaya akan nutrisi. Selain itu, buah duku punggur juga memiliki nilai ekonomi yang cukup tinggi. Buah duku punggur banyak digunakan sebagai bahan pembuatan jamu dan obat tradisional.
+  1. Kandungan antioksidan yang tinggi
+  2. Membantu menurunkan kolesterol
+  3. Mengurangi risiko stroke
+  4. Membantu meningkatkan daya tahan tubuh
+  5. Menurunkan tekanan darah
+  6. Melancarkan sirkulasi darah
+  7. Menurunkan gula darah
+  8. Mengontrol kadar kolesterol
+  9. Membantu menurunkan lemak jahat (LDL)
+  10. Mencegah kanker
 
-Buah duku punggur juga sering dikonsumsi sebagai jus, karena rasanya yang agak asam dan segar.Punggur ini telah dibuktikan oleh beberapa penelitian. Oleh karena itu, buah ini sangat cocok dikonsumsi oleh siapa saja yang ingin menjaga kesehatannya.. Buah ini biasanya dijual dengan harga yang relatif mahal, dan juga sering dibeli oleh turis asing yang datang ke Indonesia.
-<h2>Potensi ekonomi Buah Duku</h2>
-Pemasaran buah Duku Punggur dimulai sejak zaman penjajahan Belanda. Buah ini diperkenalkan ke Indonesia oleh Belanda sebagai buah segar yang cocok untuk dimakan segar atau diolah menjadi sirup. Duku Punggur adalah salah satu buah yang paling terkenal di Indonesia dan telah menjadi buah favorit banyak orang sejak lama.
+Keistimewaan buah Duku Punggur ini telah dibuktikan oleh beberapa penelitian.
+Oleh karena itu, buah ini sangat cocok dikonsumsi oleh siapa saja yang ingin
+menjaga kesehatannya.
 
-Duku Punggur memiliki rasa yang segar dan juicy, dengan sedikit rasa asam. Buah ini tersedia dalam berbagai ukuran, mulai dari yang kecil hingga yang besar. Duku Punggur juga tersedia dalam beberapa warna, mulai dari warna kuning hingga warna merah.
+## [![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-
+Punggur-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-
+Punggur.jpg)Nilai Ekonomis Buah duku punggur
 
-Pemasaran buah Duku Punggur cukup luas di Indonesia, dengan banyak toko buah dan warung buah menjual buah ini. Harga buah ini cukup terjangkau, sehingga banyak orang dapat membelinya. Duku Punggur juga sering dijadikan sebagai buah untuk dijadikan oleh-oleh karena rasanya yang segar dan mudah dibawa pulang.
-<h2>Terkendala Pengiriman ke luar daerah</h2>
-Disebut duku punggur karena berasal dari Kampung Punggur di Desa Kalimas, Kecamatan Sungai Belidak, Pontianak. "Konon asal-usulnya dari Palembang. Namun, karena sudah beradaptasi, baik rasa maupun tekstur daging mengalami perubahan," ungkap Yusni, pekebun di Punggur. Dari segi rasa, pemilik 1.000 pohon berumur lebih dari 50-an tahun itu mengaku duku palembang lebih manis.
+Buah ini memiliki rasa yang segar dan manis, dan juga kaya akan nutrisi.
+Selain itu, buah duku punggur juga memiliki nilai ekonomi yang cukup tinggi.
+Buah duku punggur banyak digunakan sebagai bahan pembuatan jamu dan obat
+tradisional. Buah duku punggur juga sering dikonsumsi sebagai jus, karena
+rasanya yang agak asam dan segar.Punggur ini telah dibuktikan oleh beberapa
+penelitian. Oleh karena itu, buah ini sangat cocok dikonsumsi oleh siapa saja
+yang ingin menjaga kesehatannya.. Buah ini biasanya dijual dengan harga yang
+relatif mahal, dan juga sering dibeli oleh turis asing yang datang ke
+Indonesia.
 
-Ukuran varietas langsat punggur pontianak lebih besar ketimbang palembang. Di dalamnya terdapat 5-6 pasi. Pasi besar umumnya berbiji besar; pasi kecil kebanyakan tanpa biji.
-"Pasi-pasi itu tetap manis dan tidak busuk meski kulit menghitam," tambah Yusni. Itu <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> saksikan saat duku punggur dipamerkan di ajang Pameran Buah Tropis di Bali penghujung 2003. Buah yang kulitnya menghitam bahkan mengering justru diserbu pengunjung karena rasanya semakin manis.
+## Potensi ekonomi Buah Duku
 
-Punggur hanya tahan simpan di suhu kamar selama 2 hari. Di ruang pendingin lebih cepat lagi, beberapa jam saja kulit langsung menghitam. Oleh karena itulah pemasaran punggur hingga sekarang terbatas di seputar Kalimantan. Paling jauh ke Pulau Batam.
+Pemasaran buah Duku Punggur dimulai sejak zaman penjajahan Belanda. Buah ini
+diperkenalkan ke Indonesia oleh Belanda sebagai buah segar yang cocok untuk
+dimakan segar atau diolah menjadi sirup. Duku Punggur adalah salah satu buah
+yang paling terkenal di Indonesia dan telah menjadi buah favorit banyak orang
+sejak lama. Duku Punggur memiliki rasa yang segar dan juicy, dengan sedikit
+rasa asam. Buah ini tersedia dalam berbagai ukuran, mulai dari yang kecil
+hingga yang besar. Duku Punggur juga tersedia dalam beberapa warna, mulai dari
+warna kuning hingga warna merah. Pemasaran buah Duku Punggur cukup luas di
+Indonesia, dengan banyak toko buah dan warung buah menjual buah ini. Harga
+buah ini cukup terjangkau, sehingga banyak orang dapat membelinya. Duku
+Punggur juga sering dijadikan sebagai buah untuk dijadikan oleh-oleh karena
+rasanya yang segar dan mudah dibawa pulang.
 
-"Jakarta dan pasar ekspor Singapura sebetulnya minta pasokan. Hanya karena kendala di perjalanan impian mengapalkan punggur ke Jawa dan Jakarta belum terwujud," tutur ayah 2 anak itu.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Punggur.jpg"><img class="aligncenter wp-image-16312 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2020/02/Punggur-300x169.jpg" alt="Yusni, &quot;Saya hanya punya 1.000 pohon.&quot;" width="300" height="169" /></a>
-<h2>Kebun Duku Ribuan hektar</h2>
-Berbeda dengan sentra di Jawa dan Sumatera, duku punggur dikebunkan dalam skala luas. <em>Lansium domesticum</em> itu ditanam secara monokultur dengan jarak tanam teratur. Setiap petak berisi 20-30 pohon. Yusni menduga kini terdapat lebih dari 1.000 ha penanaman duku punggur.
+## Terkendala Pengiriman ke luar daerah
 
-"Beberapa pekebun memiliki sampai 4.000 pohon," ucap lelaki bertubuh kecil itu. Artinya jika populasi setiap hektar 70-80 pohon, minimal 50- 60 hektar untuk mengebunkan 4.000 pohon. Menurut Yusni kebun-kebun itu umumnya warisan keluarga. Wajar jika diameter batang rata-rata di atas 30 cm. Meski tidak dirawat intensif produksinya ada yang mencapai 400 kg sekali panen.
+Disebut duku punggur karena berasal dari Kampung Punggur di Desa Kalimas,
+Kecamatan Sungai Belidak, Pontianak. "Konon asal-usulnya dari Palembang.
+Namun, karena sudah beradaptasi, baik rasa maupun tekstur daging mengalami
+perubahan," ungkap Yusni, pekebun di Punggur. Dari segi rasa, pemilik 1.000
+pohon berumur lebih dari 50-an tahun itu mengaku duku palembang lebih manis.
+Ukuran varietas langsat punggur pontianak lebih besar ketimbang palembang. Di
+dalamnya terdapat 5-6 pasi. Pasi besar umumnya berbiji besar; pasi kecil
+kebanyakan tanpa biji. "Pasi-pasi itu tetap manis dan tidak busuk meski kulit
+menghitam," tambah Yusni. Itu [Mitra Usaha Tani](http://127.0.0.1/mitra)
+saksikan saat duku punggur dipamerkan di ajang Pameran Buah Tropis di Bali
+penghujung 2003. Buah yang kulitnya menghitam bahkan mengering justru diserbu
+pengunjung karena rasanya semakin manis. Punggur hanya tahan simpan di suhu
+kamar selama 2 hari. Di ruang pendingin lebih cepat lagi, beberapa jam saja
+kulit langsung menghitam. Oleh karena itulah pemasaran punggur hingga sekarang
+terbatas di seputar Kalimantan. Paling jauh ke Pulau Batam. "Jakarta dan pasar
+ekspor Singapura sebetulnya minta pasokan. Hanya karena kendala di perjalanan
+impian mengapalkan punggur ke Jawa dan Jakarta belum terwujud," tutur ayah 2
+anak itu. [![Yusni, "Saya hanya punya 1.000
+pohon."](http://127.0.0.1/mitra/wp-
+content/uploads/2020/02/Punggur-300x169.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/02/Punggur.jpg)
 
-Duku dibiarkan tanpa pupuk dan pestisida. Yang penting kebutuhan air tercukupi karena krusial untuk tanaman tengah berbuah. Bila kekeringan, kulit retak-retak begitu hujan tiba. Akibatnya duku tak laku dijual.
-<h2>Penanganan Saat panen Duku</h2>
-<a href="https://pfaf.org/user/Plant.aspx?LatinName=Lansium+domesticum">Buah Duku</a> dijual dengan sistem tebatasan setelah buah siap petik, yaitu sekitar 4 bulan sejak bunga mekar. Pemilik pohon langsat punggur pontianak tinggal menunggu para Bandar, pedagang antarkota atau antarpulau, mendatangi kebun-kebun. Harga tergantung kelebatan buah dan musim.
+## Kebun Duku Ribuan hektar
 
-Saat panen raya pada November- Desember sebatang pohon yang berproduksi sekitar 2 kuintal laku ditebas Rp 400.000. Harga melonjak tinggi hingga Rp 1 -juta ketika panen selingan yang terjadi pada Juli-September. "Kalau di pedagang harga tidak bergeser jauh, tetap bertengger pada kisaran Rp 8.000-Rp 10.000/kg," kata Yusni. Itu karena duku punggur selalu dicari.
+Berbeda dengan sentra di Jawa dan Sumatera, duku punggur dikebunkan dalam
+skala luas. _Lansium domesticum_ itu ditanam secara monokultur dengan jarak
+tanam teratur. Setiap petak berisi 20-30 pohon. Yusni menduga kini terdapat
+lebih dari 1.000 ha penanaman duku punggur. "Beberapa pekebun memiliki sampai
+4.000 pohon," ucap lelaki bertubuh kecil itu. Artinya jika populasi setiap
+hektar 70-80 pohon, minimal 50- 60 hektar untuk mengebunkan 4.000 pohon.
+Menurut Yusni kebun-kebun itu umumnya warisan keluarga. Wajar jika diameter
+batang rata-rata di atas 30 cm. Meski tidak dirawat intensif produksinya ada
+yang mencapai 400 kg sekali panen. Duku dibiarkan tanpa pupuk dan pestisida.
+Yang penting kebutuhan air tercukupi karena krusial untuk tanaman tengah
+berbuah. Bila kekeringan, kulit retak-retak begitu hujan tiba. Akibatnya duku
+tak laku dijual.
+
+## Penanganan Saat panen Duku
+
+[Buah Duku](https://pfaf.org/user/Plant.aspx?LatinName=Lansium+domesticum)
+dijual dengan sistem tebatasan setelah buah siap petik, yaitu sekitar 4 bulan
+sejak bunga mekar. Pemilik pohon langsat punggur pontianak tinggal menunggu
+para Bandar, pedagang antarkota atau antarpulau, mendatangi kebun-kebun. Harga
+tergantung kelebatan buah dan musim. Saat panen raya pada November- Desember
+sebatang pohon yang berproduksi sekitar 2 kuintal laku ditebas Rp 400.000.
+Harga melonjak tinggi hingga Rp 1 -juta ketika panen selingan yang terjadi
+pada Juli-September. "Kalau di pedagang harga tidak bergeser jauh, tetap
+bertengger pada kisaran Rp 8.000-Rp 10.000/kg," kata Yusni. Itu karena duku
+punggur selalu dicari.
+
+

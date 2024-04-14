@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Adenium Bonggol Besar Pilihan Para Kolektor"
+title: 'Adenium Bonggol Besar Pilihan Para Kolektor'
 categories: Gardening|tanaman hias
 date: 2019-10-29 10:05:00
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2019/10/adenium.jpg"
+image: media/adenium.jpg
 tags:
 - Adenium
 - arabicum adenium
@@ -16,24 +16,90 @@ modification_time: 2019-10-29 10:05:00
 blogger_orig_url: "http://localhost/mitra/adenium-bonggol-besar-pilihan-para.html"
 ---
 
-<a class="wpil_keyword_link " title="Adenium" href="http://127.0.0.1/mitra/topik/adenium" data-wpil-keyword-link="linked">Adenium</a> Bonggol Besar spesial itu milik sebuah nurseri di Jerman.tanaman adenium itu diperkirakan berumur 10 tahun. Dalam lelang yang berlangsung pada Januari awal tahun, Sugita bersaing dengan peserta dari seluruh dunia. Lantaran tak ingin tanaman idaman itu jatuh ke tangan kolektor lain, ia memberikan penawaran terbaik. Pehobi kaktus dan sukulen di Surabaya, Jawa Timur, itu berhasil menjadi pemenang.
-[caption id="attachment_16100" align="aligncenter" width="436"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2019/10/adenia_436x480.jpg"><img class="wp-image-16100 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2019/10/adenia_436x480.jpg" alt="tanaman adenium Adenia kirkii bonggol kembar sangat langka" width="436" height="480" /></a> Adenia kirkii bonggol kembar sangat langka[/caption]
-<h2>Tanaman Bonggol Buruan Para Pehobiis</h2>
-Kini kirkii Adenium Bonggol Besar itu menjadi salah satu koleksi eksklusif Sugita. Ketika tiba di kediamannya, Sugita segera merendam tanaman kerabat markisa itu dalam larutan yang mengandung vitamin lantas mengering anginkan. Selanjutnya ia menanam dalam pot bermedia tanam berupa campuran 60% pasir malang, 15% tanah, 10% serbuk sabut kelapa, 10% pupuk kandang fermentasi, dan 5% perlit.
-Penggemar tanaman Adenium Bonggol Besar itu meletakkan kirkii dalam rumah tanam beratap plastik ultaviolet 80%. Selama proses adaptasi, ia tidak menyiram tanaman. "Jika langsung disiram berisiko busuk," kata Sugita. Penyiraman mulai rutin setiap pekan bila tanaman mengeluarkan daun baru.
-Sebagai sumber nutrisi, Sugita menyemprotkan pupuk daun sesuai anjuran setiap 2 pekan. Sementara untuk mencegah kebusukan, ia memberikan fungisida sistemik setiap bulan.
-<h2>Koleksi Tanaman Adenium</h2>
-Di kalangan kolektor Adenium Bonggol Besar dengan bentuk pangkal batang dan akar gembung-kirkii merupakan salah satu adenia incaran. Bonggolnya bulat dan halus. Daun dan bunganya berwarna hijau. Spesies yang habitat asalnya di Tanzania dan Kenya itu hidup di kawasan beriklim panas dan bertanah kering.
-Sugita semakin getol menambah koleksi tanaman adeniumnya dengan mendatangkan <em>A stenodactylo</em> dan A balyii pada tahun yang sama, la memperoleh <em>stenodactyla</em> berumur 10 tahun itu dari sebuah nurseri di Jerman.
-Stenodactyla spesies beracun itu berpenampilan unik. Batangnya bulat gendut dengan permukaan kulit cokelat agak kasar. Sosok balyii juga tak kalah menarik. Batangnya menggembung dan berwarna hijau. Cabangnya memanjang, berlekuk, dan berduri.
-Bagi penggemar tanaman Adenium Bonggol Besar memburu adenia untuk melengkapi koleksi. Tanaman anggota keluarga <em>Passifloraceae</em> itu tumbuh liar di padang pasir kering Afrika hingga hutan hujan tropis Asia tenggara.
-Semua spesies adenia merupakan tanaman tahunan, tetapi memiliki tipe tumbuh berbeda. Ada yang berupa semak, liana, terna, dan pohon. <a href="http://127.0.0.1/mitra/prospek-budidaya-bunga-krisan-di-gowa.html">Adenia memiliki sistem</a> perakaran serabut atau membentuk umbi sebagai tempat cadangan makanan.
-[caption id="attachment_16099" align="aligncenter" width="305"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2019/10/adenia_305x480.jpg"><img class="wp-image-16099 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2019/10/adenia_305x480.jpg" alt="media tanam untuk adenium A. glauca berasal dari Afrika bagian selatan dan Botswana" width="305" height="480" /></a> A. glauca berasal dari Afrika bagian selatan dan Botswana[/caption]
-<h2>Bongol Yang Berusia Tua</h2>
-Pehobi lain yang juga kepincut <em><span class="keyword _ngcontent-brs-85" aria-hidden="false">arabicum adenium</span></em> adalah Fernando Manik di Jakarta Pusat, la mendatangkan beberapa spesies <span class="keyword _ngcontent-brs-85" aria-hidden="false">adenium triple </span>setahun lalu. Koleksinya yang paling menarik adalah A pechuelii yang habitat asalnya dari Namibia.
-Nama pechuelii diambil dari nama seorang naturalis Jerman, Eduard Pechuel-Loesche. Pertumbuhan pechuelii tergolong sangat lambat. Beberapa populasi pechuelii di Namibia diperkirakan berumur 2.000 tahun. Di alam sosok pechuelii mirip kohlrabi yakni sejenis kubis sehingga kerap dijuluki kohlrabi padang pasir.
-Adalagi A stylosa yang memiliki Bonggol Besar dengan permukaan kulit benjol seperi bekas lelehan lilin. Itu sebabnya stylosa mendapat julukan <i>candlestick plant</i>. Penampilan stylosa semakin menarik dengan bentuk daun mirip hati. Daun muda berwarna ungu lalu berubah hijau saat tua. Kini, populasi stylosa semakin berkurang sebab banyak diburu.
-<h2>Koleksi adenium</h2>
-Koleksi lain yakni A ovata dan A glauca. Ovata berbonggol bulat agak pipih, berwarna cokelat, dan berkerut. Bentuk daunnya oval berujung runcing dan berwarna hijau. Sementara glauca memiliki bonggol bulat, tetapi semakin ke atas semakin kecil. Helaian daunnya berbentuk elips dan berwarna hijau. Habitat asli glauca berasal dari Afrika bagian selatan dan Botswana. Satu lagi A spinosa yang memiliki duri hasil modifikasi tunas samping.
-Fernando menanam tanaman Adenium Bonggol Besar pada media tanam campuran perlit, sekam bakar, dan pasir malang dengan perbandingan sama, la menuturkan merawat adenia itu gampang asal media dan perawatannya tepat.
-Alumnus Universitas Bina Nusantara itu meletakkan tanaman di tempat dengan sinar matahari penuh, la menyediakan nutrisi bagi tanaman dengan menambahkan pupuk lambat urai rendah nitrogen pada media tanam. Penyiraman hanya dilakukan sesekali saja. "Apabila media sudah terlihat kering itu berarti harus disiram. Cirinya pot terasa enteng saat diangkat," ujar Fernando.
+[Adenium](http://127.0.0.1/mitra/topik/adenium "Adenium") Bonggol Besar
+spesial itu milik sebuah nurseri di Jerman.tanaman adenium itu diperkirakan
+berumur 10 tahun. Dalam lelang yang berlangsung pada Januari awal tahun,
+Sugita bersaing dengan peserta dari seluruh dunia. Lantaran tak ingin tanaman
+idaman itu jatuh ke tangan kolektor lain, ia memberikan penawaran terbaik.
+Pehobi kaktus dan sukulen di Surabaya, Jawa Timur, itu berhasil menjadi
+pemenang. [caption id="attachment_16100" align="aligncenter"
+width="436"][![tanaman adenium Adenia kirkii bonggol kembar sangat
+langka](http://127.0.0.1/mitra/wp-
+content/uploads/2019/10/adenia_436x480.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2019/10/adenia_436x480.jpg) Adenia kirkii bonggol kembar
+sangat langka[/caption]
+
+## Tanaman Bonggol Buruan Para Pehobiis
+
+Kini kirkii Adenium Bonggol Besar itu menjadi salah satu koleksi eksklusif
+Sugita. Ketika tiba di kediamannya, Sugita segera merendam tanaman kerabat
+markisa itu dalam larutan yang mengandung vitamin lantas mengering anginkan.
+Selanjutnya ia menanam dalam pot bermedia tanam berupa campuran 60% pasir
+malang, 15% tanah, 10% serbuk sabut kelapa, 10% pupuk kandang fermentasi, dan
+5% perlit. Penggemar tanaman Adenium Bonggol Besar itu meletakkan kirkii dalam
+rumah tanam beratap plastik ultaviolet 80%. Selama proses adaptasi, ia tidak
+menyiram tanaman. "Jika langsung disiram berisiko busuk," kata Sugita.
+Penyiraman mulai rutin setiap pekan bila tanaman mengeluarkan daun baru.
+Sebagai sumber nutrisi, Sugita menyemprotkan pupuk daun sesuai anjuran setiap
+2 pekan. Sementara untuk mencegah kebusukan, ia memberikan fungisida sistemik
+setiap bulan.
+
+## Koleksi Tanaman Adenium
+
+Di kalangan kolektor Adenium Bonggol Besar dengan bentuk pangkal batang dan
+akar gembung-kirkii merupakan salah satu adenia incaran. Bonggolnya bulat dan
+halus. Daun dan bunganya berwarna hijau. Spesies yang habitat asalnya di
+Tanzania dan Kenya itu hidup di kawasan beriklim panas dan bertanah kering.
+Sugita semakin getol menambah koleksi tanaman adeniumnya dengan mendatangkan
+_A stenodactylo_ dan A balyii pada tahun yang sama, la memperoleh
+_stenodactyla_ berumur 10 tahun itu dari sebuah nurseri di Jerman.
+Stenodactyla spesies beracun itu berpenampilan unik. Batangnya bulat gendut
+dengan permukaan kulit cokelat agak kasar. Sosok balyii juga tak kalah
+menarik. Batangnya menggembung dan berwarna hijau. Cabangnya memanjang,
+berlekuk, dan berduri. Bagi penggemar tanaman Adenium Bonggol Besar memburu
+adenia untuk melengkapi koleksi. Tanaman anggota keluarga _Passifloraceae_ itu
+tumbuh liar di padang pasir kering Afrika hingga hutan hujan tropis Asia
+tenggara. Semua spesies adenia merupakan tanaman tahunan, tetapi memiliki tipe
+tumbuh berbeda. Ada yang berupa semak, liana, terna, dan pohon. [Adenia
+memiliki sistem](http://127.0.0.1/mitra/prospek-budidaya-bunga-krisan-di-
+gowa.html) perakaran serabut atau membentuk umbi sebagai tempat cadangan
+makanan. [caption id="attachment_16099" align="aligncenter"
+width="305"][![media tanam untuk adenium A. glauca berasal dari Afrika bagian
+selatan dan Botswana](http://127.0.0.1/mitra/wp-
+content/uploads/2019/10/adenia_305x480.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2019/10/adenia_305x480.jpg) A. glauca berasal dari Afrika
+bagian selatan dan Botswana[/caption]
+
+## Bongol Yang Berusia Tua
+
+Pehobi lain yang juga kepincut _arabicum adenium_ adalah Fernando Manik di
+Jakarta Pusat, la mendatangkan beberapa spesies adenium triple setahun lalu.
+Koleksinya yang paling menarik adalah A pechuelii yang habitat asalnya dari
+Namibia. Nama pechuelii diambil dari nama seorang naturalis Jerman, Eduard
+Pechuel-Loesche. Pertumbuhan pechuelii tergolong sangat lambat. Beberapa
+populasi pechuelii di Namibia diperkirakan berumur 2.000 tahun. Di alam sosok
+pechuelii mirip kohlrabi yakni sejenis kubis sehingga kerap dijuluki kohlrabi
+padang pasir. Adalagi A stylosa yang memiliki Bonggol Besar dengan permukaan
+kulit benjol seperi bekas lelehan lilin. Itu sebabnya stylosa mendapat julukan
+_candlestick plant_. Penampilan stylosa semakin menarik dengan bentuk daun
+mirip hati. Daun muda berwarna ungu lalu berubah hijau saat tua. Kini,
+populasi stylosa semakin berkurang sebab banyak diburu.
+
+## Koleksi adenium
+
+Koleksi lain yakni A ovata dan A glauca. Ovata berbonggol bulat agak pipih,
+berwarna cokelat, dan berkerut. Bentuk daunnya oval berujung runcing dan
+berwarna hijau. Sementara glauca memiliki bonggol bulat, tetapi semakin ke
+atas semakin kecil. Helaian daunnya berbentuk elips dan berwarna hijau.
+Habitat asli glauca berasal dari Afrika bagian selatan dan Botswana. Satu lagi
+A spinosa yang memiliki duri hasil modifikasi tunas samping. Fernando menanam
+tanaman Adenium Bonggol Besar pada media tanam campuran perlit, sekam bakar,
+dan pasir malang dengan perbandingan sama, la menuturkan merawat adenia itu
+gampang asal media dan perawatannya tepat. Alumnus Universitas Bina Nusantara
+itu meletakkan tanaman di tempat dengan sinar matahari penuh, la menyediakan
+nutrisi bagi tanaman dengan menambahkan pupuk lambat urai rendah nitrogen pada
+media tanam. Penyiraman hanya dilakukan sesekali saja. "Apabila media sudah
+terlihat kering itu berarti harus disiram. Cirinya pot terasa enteng saat
+diangkat," ujar Fernando.
+
+

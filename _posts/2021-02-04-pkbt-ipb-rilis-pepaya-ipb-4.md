@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "PKBT IPB Rilis Pepaya IPB-4"
+title: 'PKBT IPB Rilis Pepaya IPB-4'
 categories: perkebunan|Pertanian
 date: 2021-02-04 16:31:13
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2021/02/Gambar_pepaya1_1024x596.jpg"
+image: media/Gambar_pepaya1_1024x596.jpg
 tags:
 - daging buah
 - pepaya
@@ -14,17 +14,62 @@ modification_time: 2021-02-04 16:31:13
 blogger_orig_url: "http://localhost/mitra/pkbt-ipb-rilis-pepaya-ipb-4.html"
 ---
 
-Kepala Bagian Produksi Buah Taman Wisata Mekarsari (TWM) Cileungsi, Bogor, itu juga terkesan oleh kehalusan daging buah setebal 2 cm yang begitu mudah dilumat. Walaupun berdaging lembut, Pepaya IPB-4 tahan disimpan hingga seminggu setelah petik. Riris pun tak ragu memboyongnya ke TWM untuk diperbanyak.
-Pepaya yang dicicipi Riris adalah Pepaya IPB-4, salah satu varietas hasil pemuliaan <a href="https://pkht.ipb.ac.id/index.php/2015/11/03/pepaya-ipb-4/">Pusat Kajian Buah-buahan Tropika Institut Pertanian Bogor</a> (PKBT IPB). Di kebun percobaan di Tajur, Bogor, pohon IPB-4 mampu menghasilkan 50 sampai 60 buah per tahun. Musim kemarau yang menyengat tidak mengurangi produksinya. "Umumnya, saat itu produktivitas pepaya berkurang 30%," papar Dr Sriani Suciprihati, kepala Divisi Pemuliaan PKBT IPB.
-[caption id="attachment_8055" align="aligncenter" width="717"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg"><img class="wp-image-8055 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg" alt="buah Pepaya IPB" width="717" height="426" /></a> Pepaya IPB, ludes sebelum ke luar kebun[/caption]
-<h2 id="Diragukan">Uji Coba Penanaman Di luar Jawa</h2>
-Pepaya kulit kuning itu diboyong dari Pontianak, Kalimantan Barat, pada 2001. Pertama ditanam di Tajur, hasilnya tidak sebaik sekarang. Kemanisan dan kekenyalan buah pertama tidak merata. Kelemahan lain, biji begitu banyak hingga 300 butir. Umumnya paling banyak 250 butir. Wajar jika banyak staf yang meragukan keunggulannya.
-Keraguan mulai terkikis ketika di penghujung 2003 IPB-4 memunculkan buah yang manis, kenyal, dan berdaging tebal. Ternyata banyaknya biji membawa berkah. Itu lantaran, "Biji menjadikan aliran nutrisi ke buah lebih deras," ujar Endang Gunawan, staf Divisi Produksi PKBT IPB. Maklum, biji adalah "calon penerus" induk Lantaran aliran hara deras, daging buah pun jadi lebih tebal dan manis.
-Meski mulus melewati proses karakterisasi, seleksi, dan evaluasi, Srian: mengakui IPB-4 belum lolos uji multilokasi. Itu adalah uji coba penanaman di lahan yang berbeda. Makanya IPB-4 kini dicoba ditanam di luar Bogor. Di antaranya Jawa Tengah, Bali, dan Riau. "Namun, hasil belum tampak karena baru dimulai awal 2007," tutur Endang.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/02/Pepaya-IPB-4.jpg"><img class="aligncenter wp-image-16699 size-large" src="http://127.0.0.1/mitra/wp-content/uploads/2021/02/Pepaya-IPB-4-1024x597.jpg" alt="pohon Pepaya IPB-4" width="1024" height="597" /></a>
-<h2 id="Seret">Kadar Kemanisan Pepaya IPB-4 Mencapai 12° briks</h2>
-Lembaga yang mengemban misi Riset Unggulan Strategis Nasional (Rusnas) dari Kementerian Negara Riset dan Teknologi untuk buah-buahan itu punya unggular. lain: IPB-1 dan IPB-3. Seperti Pepaya IPB-4. keduanya termasuk pepaya yang habis dimakan 1 orang alias solo type dengan sobot berkisar 0,5 sampai 0,7 kg. Bedanya, IPB-1 dan IPB-3 berkulit hijau.
-Meski warna daging buah serupa dengan Pepaya IPB-4, sedua pepaya itu lebih manis. IPB-1 yang sudah ditanam luas di Cibungbulang dan Cinagara, Kabupaten Bogor, itu tingkat Kemanisannya 12° briks. Bentuknya cenderung membulat. IPB-1 dihasilkan dari persilangan turunan pepaya lokal dengan pepaya eksotika asal Malaysia.
-Produktivitasnya di bawah Pepaya IPB-4, hanya 30 sampai 40 buah per pohon per tahun. Sedangkan IPB-3 bentuknya lonjong. Kadar gula mencapai 14° briks dengan daya simpan hingga 2 minggu pascapetik. “Itu lantaran kulit lebih keras dan daging lebih padat,” tutur Sobir PhD, direktur PKBT IPB.
-Lantaran mutu harus dijaga, perawatan trio mungil M itu perlu biaya lebih. Namun,itu diimbangi dengan harga yang lebih tinggi, Rp7.000 per kg. Di tingkat konsumen mencapai Rp9.000. Meski berharga tinggi, IPB-3 dan IPB-4 sudah tandas diserbu sebelum ke luar kebun.
-Pasokan IPB-1 memang masih terbatas, wajar jika baru beberapa pasar swalayan ibukota yang menyediakan. Anda pun harus bersabar untuk mencecapnya, kecuali bersedia datang ke kebun.
+Kepala Bagian Produksi Buah Taman Wisata Mekarsari (TWM) Cileungsi, Bogor, itu
+juga terkesan oleh kehalusan daging buah setebal 2 cm yang begitu mudah
+dilumat. Walaupun berdaging lembut, Pepaya IPB-4 tahan disimpan hingga
+seminggu setelah petik. Riris pun tak ragu memboyongnya ke TWM untuk
+diperbanyak. Pepaya yang dicicipi Riris adalah Pepaya IPB-4, salah satu
+varietas hasil pemuliaan [Pusat Kajian Buah-buahan Tropika Institut Pertanian
+Bogor](https://pkht.ipb.ac.id/index.php/2015/11/03/pepaya-ipb-4/) (PKBT IPB).
+Di kebun percobaan di Tajur, Bogor, pohon IPB-4 mampu menghasilkan 50 sampai
+60 buah per tahun. Musim kemarau yang menyengat tidak mengurangi produksinya.
+"Umumnya, saat itu produktivitas pepaya berkurang 30%," papar Dr Sriani
+Suciprihati, kepala Divisi Pemuliaan PKBT IPB. [caption id="attachment_8055"
+align="aligncenter" width="717"][![buah Pepaya IPB](http://127.0.0.1/mitra/wp-
+content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg) Pepaya IPB, ludes sebelum
+ke luar kebun[/caption]
+
+## Uji Coba Penanaman Di luar Jawa
+
+Pepaya kulit kuning itu diboyong dari Pontianak, Kalimantan Barat, pada 2001.
+Pertama ditanam di Tajur, hasilnya tidak sebaik sekarang. Kemanisan dan
+kekenyalan buah pertama tidak merata. Kelemahan lain, biji begitu banyak
+hingga 300 butir. Umumnya paling banyak 250 butir. Wajar jika banyak staf yang
+meragukan keunggulannya. Keraguan mulai terkikis ketika di penghujung 2003
+IPB-4 memunculkan buah yang manis, kenyal, dan berdaging tebal. Ternyata
+banyaknya biji membawa berkah. Itu lantaran, "Biji menjadikan aliran nutrisi
+ke buah lebih deras," ujar Endang Gunawan, staf Divisi Produksi PKBT IPB.
+Maklum, biji adalah "calon penerus" induk Lantaran aliran hara deras, daging
+buah pun jadi lebih tebal dan manis. Meski mulus melewati proses
+karakterisasi, seleksi, dan evaluasi, Srian: mengakui IPB-4 belum lolos uji
+multilokasi. Itu adalah uji coba penanaman di lahan yang berbeda. Makanya
+IPB-4 kini dicoba ditanam di luar Bogor. Di antaranya Jawa Tengah, Bali, dan
+Riau. "Namun, hasil belum tampak karena baru dimulai awal 2007," tutur Endang.
+[![pohon Pepaya IPB-4](http://127.0.0.1/mitra/wp-
+content/uploads/2021/02/Pepaya-IPB-4-1024x597.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2021/02/Pepaya-IPB-4.jpg)
+
+## Kadar Kemanisan Pepaya IPB-4 Mencapai 12° briks
+
+Lembaga yang mengemban misi Riset Unggulan Strategis Nasional (Rusnas) dari
+Kementerian Negara Riset dan Teknologi untuk buah-buahan itu punya unggular.
+lain: IPB-1 dan IPB-3. Seperti Pepaya IPB-4. keduanya termasuk pepaya yang
+habis dimakan 1 orang alias solo type dengan sobot berkisar 0,5 sampai 0,7 kg.
+Bedanya, IPB-1 dan IPB-3 berkulit hijau. Meski warna daging buah serupa dengan
+Pepaya IPB-4, sedua pepaya itu lebih manis. IPB-1 yang sudah ditanam luas di
+Cibungbulang dan Cinagara, Kabupaten Bogor, itu tingkat Kemanisannya 12°
+briks. Bentuknya cenderung membulat. IPB-1 dihasilkan dari persilangan turunan
+pepaya lokal dengan pepaya eksotika asal Malaysia. Produktivitasnya di bawah
+Pepaya IPB-4, hanya 30 sampai 40 buah per pohon per tahun. Sedangkan IPB-3
+bentuknya lonjong. Kadar gula mencapai 14° briks dengan daya simpan hingga 2
+minggu pascapetik. “Itu lantaran kulit lebih keras dan daging lebih padat,”
+tutur Sobir PhD, direktur PKBT IPB. Lantaran mutu harus dijaga, perawatan trio
+mungil M itu perlu biaya lebih. Namun,itu diimbangi dengan harga yang lebih
+tinggi, Rp7.000 per kg. Di tingkat konsumen mencapai Rp9.000. Meski berharga
+tinggi, IPB-3 dan IPB-4 sudah tandas diserbu sebelum ke luar kebun. Pasokan
+IPB-1 memang masih terbatas, wajar jika baru beberapa pasar swalayan ibukota
+yang menyediakan. Anda pun harus bersabar untuk mencecapnya, kecuali bersedia
+datang ke kebun.
+
+

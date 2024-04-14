@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Asparagus Silangan 2 Negara di Dataran Rendah"
+title: 'Asparagus Silangan 2 Negara di Dataran Rendah'
 categories: perkebunan
 date: 2020-11-14 10:15:49
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/11/Gambar_asparagus_plantation1_640x442.jpeg"
+image: media/Gambar_asparagus_plantation1_640x442.jpeg
 tags:
 - asparagus
 
@@ -12,19 +12,71 @@ modification_time: 2020-11-14 10:15:49
 blogger_orig_url: "http://localhost/mitra/asparagus-silangan-2-negara-di-dataran.html"
 ---
 
-Bertanam asparagus tidak lagi monopoli pekebun dataran tinggi. Setelah Boyolali sukses dengan varietas Tainan yang adaptif di ketinggian 600 m dpi, kini Bogor ketinggian 400 m dpi tidak ketinggalan menanam asparagus. Produksi per hari mencapai 60 kg/ha, melebihi Tainan. Ini kabar gembira bagi pekebun yang memiliki lahan di dataran menengah ke bawah.
-Asparagus identik dengan daerah Batu atau Lembang. Ia memang ideal ditanam di dataran tinggi, di atas 1.000 m dpi dan bersuhu 18°C. Di dataran rendah pertumbuhan melambat dan produksinya minim. Namun, sejak 1998 Boyolali mendobrak dengan asparagus Tainan. Sayangnya bibit impor itu tidak cocok di daerah yang ketinggiannya kurang dari 600 m dpi. Muhammad Amin, pekebun asparagus di Batu tergugah menciptakan asparagus yang ideal di dataran rendah.
-Akhirnya setelah 6 tahun berkutat, muncullah asparagus dataran rendah hasil silangan Mery Washington dengan Locullus. Padahal kedua varietas itu biasanya ditanam di dataran tinggi. Justru setelah dikawinkan mereka tumbuh subur di daerah rendah.
-Keunggulan marry Washington tahan penyakit karat yang kerap jadi momok. Sosok asparagus asal Amerika Serikat itu kecil karena jumlah rumpun banyak. Beda dengan locullus asal Belanda, ukuran rebung besar dan panjang, rumpun tidak banyak, lunak, dan berwarna putih.
-[caption id="attachment_20459" align="aligncenter" width="1369"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Asparagus.jpg"><img class="wp-image-20459 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Asparagus.jpg" alt="" width="1369" height="850" /></a> Asparagus bisa juga ditanam di dataran rendah[/caption]
-<h2 id="rendah">Bisa di Budidayakan di Dataran rendah</h2>
-Sepuluh tahun silam rebung putih jadi favorit karena tektumya lunak dan segar. Kini tren berpindah ke hijau. Alasannya jenis mery Washington itu tidak perlu mengupas dan lebih renyah. Asparagus ciptaan Amin tampil beda. Ia bersifat fleksibel bisa dipanen putih, hijau, atau ungu. “Tinggal tunggu pesanan, panen bisa disetel,” ujar Budi Pitoyo T Rahardjo, pekebun asparagus di Bogor.
-Sosoknya tidak beda dengan asparagus yang ditanam di dataran tinggi, hanya ukuran rebung tidak seragam. “Justru itu menguntungkan, karena selain warna, ukuran juga jadi patokan konsumen.
-Misalnya restoran memilih ukuran kecil; supermarket besar,” papar ayah 3 puteri itu. Citarasanya juga tak kalah. Malah rasa pahit yang biasa menempel di asparagus hijau lenyap. Yang tersisa hanya rasa manis dan empuk.
-Tanaman itu tumbuh baik di ketinggian 400 m dpi. Namun kurang dari itu tanaman masih bertahan. Walau ia cocok ditanam di dataran rendah tetapi curah hujannya harus tinggi. Lantaran ia doyan air untuk pertumbuhan tunas muda. Selain itu suhu juga jadi faktor keberhasilan. Idealnya 25° sampai 30°C, lebih dari itu kandungan seratnya meningkat sehingga mutu turun. Tanah yang dikehendaki berpasir atau lempung dan berdrainase baik karena perakaran asparagus luas dan dalam.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Asparagus-super.jpg"><img class="aligncenter wp-image-20458 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Asparagus-super.jpg" alt="" width="1285" height="850" /></a>
-<h2 id="Panen">Panen mencapai 60 kg per hari</h2>
-Bibit yang digunakan berasal dari biji agar pertumbuhannya seragam dan irit. Waktu yang tepat untuk pembibitan akhir musim hujan. Agar benih tidak hanyut terkena air hujan, media yang digunakan berasal dari tanah lahan. Alasannya tanaman lebih cepat beradaptasi. Tidak perlu dipupuk cukup disiram. Tanaman dipindah setelah berumur 3 sampai 4 bulan supaya batang dan akar kuat. Cara itu beda dengan sistem Taiwan, umur sebulan langsung dipindah. Menurut pengalaman pensiunan Departemen Kehutanan itu, jika akar belum kuat tanaman cepat mati.
-Penanaman menggunakan sistem leb. Dengan cara itu tanaman tidak akan kekurangan air. Guludan membentang dari utara ke selatan dipisahkan parit sedalam 30 cm. Jarak antarparit 100 cm dengan lebar 20 sampai 30 cm. Ke dalamnya dibenamkan 3 kg pupuk kandang dan 30 g dolomit per m2. Setelah diistirahatkan selama 2 minggu bibit dapat dipindah. Lebar guludan 50 cm; panjang disesuaikan kondisi lahan. Perawatannya juga gampang.
-Pemupukan kompos cukup 2 kali setahun, dosis 50 ton/ha.
-Rebung muda dapat dipetik ketika tanaman berumur 6 bulan. Produksi per hari pada tahun pertama 60 kg/ha dan puncaknya tahun ketiga 100 kg. Jumlah itu lebih tinggi ketimbang Tainan, 40 kg/ha. Produksi bisa dipacu, “Asal tanaman rajin dipangkas dan dibumbun. Setiap rumpun disisakan 2 sampai 3 pohon induk, agar tunas muda bermunculan,” ujar Budi.
+Bertanam asparagus tidak lagi monopoli pekebun dataran tinggi. Setelah
+Boyolali sukses dengan varietas Tainan yang adaptif di ketinggian 600 m dpi,
+kini Bogor ketinggian 400 m dpi tidak ketinggalan menanam asparagus. Produksi
+per hari mencapai 60 kg/ha, melebihi Tainan. Ini kabar gembira bagi pekebun
+yang memiliki lahan di dataran menengah ke bawah. Asparagus identik dengan
+daerah Batu atau Lembang. Ia memang ideal ditanam di dataran tinggi, di atas
+1.000 m dpi dan bersuhu 18°C. Di dataran rendah pertumbuhan melambat dan
+produksinya minim. Namun, sejak 1998 Boyolali mendobrak dengan asparagus
+Tainan. Sayangnya bibit impor itu tidak cocok di daerah yang ketinggiannya
+kurang dari 600 m dpi. Muhammad Amin, pekebun asparagus di Batu tergugah
+menciptakan asparagus yang ideal di dataran rendah. Akhirnya setelah 6 tahun
+berkutat, muncullah asparagus dataran rendah hasil silangan Mery Washington
+dengan Locullus. Padahal kedua varietas itu biasanya ditanam di dataran
+tinggi. Justru setelah dikawinkan mereka tumbuh subur di daerah rendah.
+Keunggulan marry Washington tahan penyakit karat yang kerap jadi momok. Sosok
+asparagus asal Amerika Serikat itu kecil karena jumlah rumpun banyak. Beda
+dengan locullus asal Belanda, ukuran rebung besar dan panjang, rumpun tidak
+banyak, lunak, dan berwarna putih. [caption id="attachment_20459"
+align="aligncenter" width="1369"][![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/11/Asparagus.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/11/Asparagus.jpg) Asparagus bisa juga ditanam di dataran
+rendah[/caption]
+
+## Bisa di Budidayakan di Dataran rendah
+
+Sepuluh tahun silam rebung putih jadi favorit karena tektumya lunak dan segar.
+Kini tren berpindah ke hijau. Alasannya jenis mery Washington itu tidak perlu
+mengupas dan lebih renyah. Asparagus ciptaan Amin tampil beda. Ia bersifat
+fleksibel bisa dipanen putih, hijau, atau ungu. “Tinggal tunggu pesanan, panen
+bisa disetel,” ujar Budi Pitoyo T Rahardjo, pekebun asparagus di Bogor.
+Sosoknya tidak beda dengan asparagus yang ditanam di dataran tinggi, hanya
+ukuran rebung tidak seragam. “Justru itu menguntungkan, karena selain warna,
+ukuran juga jadi patokan konsumen. Misalnya restoran memilih ukuran kecil;
+supermarket besar,” papar ayah 3 puteri itu. Citarasanya juga tak kalah. Malah
+rasa pahit yang biasa menempel di asparagus hijau lenyap. Yang tersisa hanya
+rasa manis dan empuk. Tanaman itu tumbuh baik di ketinggian 400 m dpi. Namun
+kurang dari itu tanaman masih bertahan. Walau ia cocok ditanam di dataran
+rendah tetapi curah hujannya harus tinggi. Lantaran ia doyan air untuk
+pertumbuhan tunas muda. Selain itu suhu juga jadi faktor keberhasilan.
+Idealnya 25° sampai 30°C, lebih dari itu kandungan seratnya meningkat sehingga
+mutu turun. Tanah yang dikehendaki berpasir atau lempung dan berdrainase baik
+karena perakaran asparagus luas dan dalam. [![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/11/Asparagus-super.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/11/Asparagus-super.jpg)
+
+## Panen mencapai 60 kg per hari
+
+Bibit yang digunakan berasal dari biji agar pertumbuhannya seragam dan irit.
+Waktu yang tepat untuk pembibitan akhir musim hujan. Agar benih tidak hanyut
+terkena air hujan, media yang digunakan berasal dari tanah lahan. Alasannya
+tanaman lebih cepat beradaptasi. Tidak perlu dipupuk cukup disiram. Tanaman
+dipindah setelah berumur 3 sampai 4 bulan supaya batang dan akar kuat. Cara
+itu beda dengan sistem Taiwan, umur sebulan langsung dipindah. Menurut
+pengalaman pensiunan Departemen Kehutanan itu, jika akar belum kuat tanaman
+cepat mati. Penanaman menggunakan sistem leb. Dengan cara itu tanaman tidak
+akan kekurangan air. Guludan membentang dari utara ke selatan dipisahkan parit
+sedalam 30 cm. Jarak antarparit 100 cm dengan lebar 20 sampai 30 cm. Ke
+dalamnya dibenamkan 3 kg pupuk kandang dan 30 g dolomit per m2. Setelah
+diistirahatkan selama 2 minggu bibit dapat dipindah. Lebar guludan 50 cm;
+panjang disesuaikan kondisi lahan. Perawatannya juga gampang. Pemupukan kompos
+cukup 2 kali setahun, dosis 50 ton/ha. Rebung muda dapat dipetik ketika
+tanaman berumur 6 bulan. Produksi per hari pada tahun pertama 60 kg/ha dan
+puncaknya tahun ketiga 100 kg. Jumlah itu lebih tinggi ketimbang Tainan, 40
+kg/ha. Produksi bisa dipacu, “Asal tanaman rajin dipangkas dan dibumbun.
+Setiap rumpun disisakan 2 sampai 3 pohon induk, agar tunas muda bermunculan,”
+ujar Budi.
+
+

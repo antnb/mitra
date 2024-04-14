@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Kontes Bunga Adenium Semarak Merah Putih"
+title: 'Kontes Bunga Adenium Semarak Merah Putih'
 categories: hobi|tanaman hias
 date: 2020-04-05 06:35:53
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/04/Kontes-adenium.jpg"
+image: media/Kontes-adenium.jpg
 tags:
 - Adenium
 - kontes
@@ -13,20 +13,89 @@ modification_time: 2020-04-05 06:35:53
 blogger_orig_url: "http://localhost/mitra/kontes-bunga-adenium-semarak-merah.html"
 ---
 
-Pantas adenium jagoan Dede meraih juara pertama di kontes bunga adenium bertajuk Semarak Merah Putih, Agustus 2019. Taburan <a href="http://127.0.0.1/mitra/tanaman-hias">bunga</a> di atas tajuk menunjukkan ia paling siap di antara peserta lain. Alur dari bonggol, batang, dan percabangan pun terlihat mengalir. “Penampilannya utuh dan matang. Karakternya pun alami,” ujar Andy Solviano Fajar, koordinator juri, saat <a href="http://127.0.0.1/mitra">Mitrausahatani</a> memintanya berkomentar.
-Lima kriteria penilaian juri pun dilalui <a class="wpil_keyword_link " title="adenium" href="http://127.0.0.1/mitra/topik/adenium" data-wpil-keyword-link="linked">adenium</a> berbunga crimson star berpadu lokal itu dengan sukses. Ia mendapatkan nilai di atas 80 untuk semua unsur yang dinilai: kesan pertama, alur dasar, tahapan, kesehatan, dan penjiwaan. Total jenderal kamboja jepang di pot bernomor 19 itu menggondol nilai 404,99. Lantaran berukuran besar, <a href="https://plants.usda.gov/home/plantProfile?symbol=ADOB2">kamboja</a> dengan bonggol berdiameter 35 cm itu meraih gelar lain, the best in size.
-Walau menyandang 2 gelar sekaligus, bukan berarti adenium juara itu sempurna. Menurut Kabul sebutan akrab Andy semestinya taburan bunga bisa mencapai 75-90% karena karakter percabangan sudah terbentuk. Jumlah bunga hanya 50-60%, tapi itu tidak mengurangi poin penilaian.
-<h2>Adenium istimewa</h2>
-Yang juga tampil prima pada Kontes bunga adenium ini adalah sang dwi warna, penyandang gelar juara ke-2. Adenium mini milik Ronny itu mengumpulkan poin 404,33, hanya terpaut 0,66 dengan sang jawara. Banyak pengunjung yang kepincut sejak pandangan pertama pada adenium di pot 02 itu. Pasalnya, dua warna tampak kontras, merah di atas dan putih di bawah. Persis bendera merah putih dan sesuai tema. Lantaran paduan warna yang unik, ia pun dianugerahi gelar lain, best in flower.
-Tiga juri mengganjar nilai 83 untuk poin kesan pertama. Tertinggi dibanding peserta lain-termasuk sang jawara. “Desain itu sudah kami persiapkan sejak awal,” ujar Anton Eko Haryadi, trainer yang merawat adenium itu. Bonggol dan percabangan pun bagus. Sayang, penempatannya di pot agak serong sehingga gagal meraih nilai tinggi di poin alur dasar. Menurut Kabul, seandainya peletakan tanaman itu tepat, ia pantas menyandang gelar terbaik. Karena itu, dwi warna pun harus puas di posisi kedua.
-Di posisi ke-3 bertengger bayi ajaib. Adenium milik Dr Idong Setyo Husodo Sp An itu mengkoleksi poin 402,99. Ia tampil memikat karena terkesan kokoh dan mempunyai alur serasi. “Komposisi antara bonggol dan batang seimbang. Cabang pun bergerak sesuai dengan cabang utama,” ujar Kabul.
-Yang menarik bayi ajaib sempat menjadi buah bibir di arena kontes. Sebab, banyak hobiis menilai sosok jawara ketiga itu memenuhi standar komposisi calon juara. Aris Budiman alias Adeng misalnya. Praktisi adenium di Jogja itu memprediksi, suatu saat adenium itu bisa menjadi yang terbaik di masa mendatang. “Bila dipersilakan memilih, saya akan memilihnya. Dengan sedikit polesan, ia bisa menjadi istimewa,” ujarnya.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/04/Kontes-Bunga-Adenium.jpg"><img class="aligncenter wp-image-19764 size-large" src="http://127.0.0.1/mitra/wp-content/uploads/2020/04/Kontes-Bunga-Adenium-1024x593.jpg" alt="" width="1024" height="593" /></a>
-<h2>Kontes berlangsung Semarak dan sukses</h2>
-Kontes bunga adenium yang diselenggarakan oleh Paguyuban Adenium Surakarta (PAS) itu. Hajatan besar-besaran itu digelar di Stadion Manahan, Solo, pada 21-29 Agutus 2019. Tercatat 31 adenium beradu cantik di kontes yang diikuti oleh peserta dari Solo, Sragen, Purwodadi, dan Klaten. “Sebagian besar peserta adalah anggota PAS,” ujar Suprabowo, ketua panitia.
-Untuk ukuran kontes di sebuah kota, jumlah itu tergolong banyak dan sukses. Pasalnya, kontes adenium sebelumnya banyak yang minim peserta. Namun, itu bukan berarti tanpa kekurangan. Hampir 30% peserta kontes masih prospek, belum siap untuk maju ke kontes. Menurut Bowo-sapaannya-itu harus dimaklumi karena kontes itu baru bertujuan mensosialisasikan adenium ke masyarakat di wilayah Karesidenan Solo.
-Stadion Manahan dipilih untuk alasan sosialisasi. Harap mafhum, itu menjadi tempat berkumpulnya masyarakat Solo di akhir pekan dan hari libur. Pun begitu di saat sore hari, banyak masyarakat yang berdatangan sekadar mencuci mata. Mitrausahatani melihat ribuan masyarakat Solo yang berolahraga pagi di stadion menyempatkan diri ke tempat pameran adenium. Karena pemilihan lokasi yang tepat, 33 stan yang ditawarkan terisi penuh. Banyak pemain adenium dari luar kota seperti Yogyakarta dan Semarang turut ambil bagian.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/04/adenium.jpg"><img class="aligncenter wp-image-19766 size-large" src="http://127.0.0.1/mitra/wp-content/uploads/2020/04/adenium-1024x649.jpg" alt="" width="1024" height="649" /></a>
-<h2>Kontes bunga adenium Yogya</h2>
-Kontes bunga adenium juga dilangsungkan di Yogyakarta, seminggu kemudian, 4-13 September 2019. Lomba yang digelar jauh lebih seru, ada 80 adenium beradu penampilan di Lapangan Timur Auditorium UPN Yogyakarta. Peserta berasal dari Yogyakarta, Semarang, Klaten, Ponorogo, Kediri, dan Ngawi. Menurut Yusniar Basuki A alias Genjos, panitia pelaksana, lomba dibuka menjadi 5 kelas sehingga peluang hobiis untuk berpartisipasi lebih luas.
-Persaingan ketat terjadi di kelas total performance yang diikuti oleh 50% peserta. Akhirnya, beringin 1 dan beringin 2 milik Sunamo SE, meraih juara 1 dan 2 di kelas itu. Di kelas antik unik, tua-tua keladi dinobatkan sebagai yang terbaik. Di posisi kedua lagi-lagi adenium milik Sunamo, sisik naga, dipilih juri. Di kelas bakalan, giliran Budi Hartono yang tersenyum. Sebab, Bagong 2 miliknya dinobatkan sebagai yang terbaik.
+Pantas adenium jagoan Dede meraih juara pertama di kontes bunga adenium
+bertajuk Semarak Merah Putih, Agustus 2019. Taburan
+[bunga](http://127.0.0.1/mitra/tanaman-hias) di atas tajuk menunjukkan ia
+paling siap di antara peserta lain. Alur dari bonggol, batang, dan percabangan
+pun terlihat mengalir. “Penampilannya utuh dan matang. Karakternya pun alami,”
+ujar Andy Solviano Fajar, koordinator juri, saat
+[Mitrausahatani](http://127.0.0.1/mitra) memintanya berkomentar. Lima kriteria
+penilaian juri pun dilalui [adenium](http://127.0.0.1/mitra/topik/adenium
+"adenium") berbunga crimson star berpadu lokal itu dengan sukses. Ia
+mendapatkan nilai di atas 80 untuk semua unsur yang dinilai: kesan pertama,
+alur dasar, tahapan, kesehatan, dan penjiwaan. Total jenderal kamboja jepang
+di pot bernomor 19 itu menggondol nilai 404,99. Lantaran berukuran besar,
+[kamboja](https://plants.usda.gov/home/plantProfile?symbol=ADOB2) dengan
+bonggol berdiameter 35 cm itu meraih gelar lain, the best in size. Walau
+menyandang 2 gelar sekaligus, bukan berarti adenium juara itu sempurna.
+Menurut Kabul sebutan akrab Andy semestinya taburan bunga bisa mencapai 75-90%
+karena karakter percabangan sudah terbentuk. Jumlah bunga hanya 50-60%, tapi
+itu tidak mengurangi poin penilaian.
+
+## Adenium istimewa
+
+Yang juga tampil prima pada Kontes bunga adenium ini adalah sang dwi warna,
+penyandang gelar juara ke-2. Adenium mini milik Ronny itu mengumpulkan poin
+404,33, hanya terpaut 0,66 dengan sang jawara. Banyak pengunjung yang kepincut
+sejak pandangan pertama pada adenium di pot 02 itu. Pasalnya, dua warna tampak
+kontras, merah di atas dan putih di bawah. Persis bendera merah putih dan
+sesuai tema. Lantaran paduan warna yang unik, ia pun dianugerahi gelar lain,
+best in flower. Tiga juri mengganjar nilai 83 untuk poin kesan pertama.
+Tertinggi dibanding peserta lain-termasuk sang jawara. “Desain itu sudah kami
+persiapkan sejak awal,” ujar Anton Eko Haryadi, trainer yang merawat adenium
+itu. Bonggol dan percabangan pun bagus. Sayang, penempatannya di pot agak
+serong sehingga gagal meraih nilai tinggi di poin alur dasar. Menurut Kabul,
+seandainya peletakan tanaman itu tepat, ia pantas menyandang gelar terbaik.
+Karena itu, dwi warna pun harus puas di posisi kedua. Di posisi ke-3
+bertengger bayi ajaib. Adenium milik Dr Idong Setyo Husodo Sp An itu
+mengkoleksi poin 402,99. Ia tampil memikat karena terkesan kokoh dan mempunyai
+alur serasi. “Komposisi antara bonggol dan batang seimbang. Cabang pun
+bergerak sesuai dengan cabang utama,” ujar Kabul. Yang menarik bayi ajaib
+sempat menjadi buah bibir di arena kontes. Sebab, banyak hobiis menilai sosok
+jawara ketiga itu memenuhi standar komposisi calon juara. Aris Budiman alias
+Adeng misalnya. Praktisi adenium di Jogja itu memprediksi, suatu saat adenium
+itu bisa menjadi yang terbaik di masa mendatang. “Bila dipersilakan memilih,
+saya akan memilihnya. Dengan sedikit polesan, ia bisa menjadi istimewa,”
+ujarnya. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Kontes-Bunga-
+Adenium-1024x593.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/Kontes-Bunga-Adenium.jpg)
+
+## Kontes berlangsung Semarak dan sukses
+
+Kontes bunga adenium yang diselenggarakan oleh Paguyuban Adenium Surakarta
+(PAS) itu. Hajatan besar-besaran itu digelar di Stadion Manahan, Solo, pada
+21-29 Agutus 2019. Tercatat 31 adenium beradu cantik di kontes yang diikuti
+oleh peserta dari Solo, Sragen, Purwodadi, dan Klaten. “Sebagian besar peserta
+adalah anggota PAS,” ujar Suprabowo, ketua panitia. Untuk ukuran kontes di
+sebuah kota, jumlah itu tergolong banyak dan sukses. Pasalnya, kontes adenium
+sebelumnya banyak yang minim peserta. Namun, itu bukan berarti tanpa
+kekurangan. Hampir 30% peserta kontes masih prospek, belum siap untuk maju ke
+kontes. Menurut Bowo-sapaannya-itu harus dimaklumi karena kontes itu baru
+bertujuan mensosialisasikan adenium ke masyarakat di wilayah Karesidenan Solo.
+Stadion Manahan dipilih untuk alasan sosialisasi. Harap mafhum, itu menjadi
+tempat berkumpulnya masyarakat Solo di akhir pekan dan hari libur. Pun begitu
+di saat sore hari, banyak masyarakat yang berdatangan sekadar mencuci mata.
+Mitrausahatani melihat ribuan masyarakat Solo yang berolahraga pagi di stadion
+menyempatkan diri ke tempat pameran adenium. Karena pemilihan lokasi yang
+tepat, 33 stan yang ditawarkan terisi penuh. Banyak pemain adenium dari luar
+kota seperti Yogyakarta dan Semarang turut ambil bagian.
+[![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/adenium-1024x649.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/adenium.jpg)
+
+## Kontes bunga adenium Yogya
+
+Kontes bunga adenium juga dilangsungkan di Yogyakarta, seminggu kemudian, 4-13
+September 2019. Lomba yang digelar jauh lebih seru, ada 80 adenium beradu
+penampilan di Lapangan Timur Auditorium UPN Yogyakarta. Peserta berasal dari
+Yogyakarta, Semarang, Klaten, Ponorogo, Kediri, dan Ngawi. Menurut Yusniar
+Basuki A alias Genjos, panitia pelaksana, lomba dibuka menjadi 5 kelas
+sehingga peluang hobiis untuk berpartisipasi lebih luas. Persaingan ketat
+terjadi di kelas total performance yang diikuti oleh 50% peserta. Akhirnya,
+beringin 1 dan beringin 2 milik Sunamo SE, meraih juara 1 dan 2 di kelas itu.
+Di kelas antik unik, tua-tua keladi dinobatkan sebagai yang terbaik. Di posisi
+kedua lagi-lagi adenium milik Sunamo, sisik naga, dipilih juri. Di kelas
+bakalan, giliran Budi Hartono yang tersenyum. Sebab, Bagong 2 miliknya
+dinobatkan sebagai yang terbaik.
+
+

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Prospek Bisnis menggiurkan Perkebunan Sawo"
+title: 'Prospek Bisnis menggiurkan Perkebunan Sawo'
 categories: perkebunan
 date: 2020-04-17 16:07:16
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2020/04/Perkebunan-Sawo.jpg"
+image: media/Perkebunan-Sawo.jpg
 tags:
 - perkebunan
 - sawo
@@ -13,26 +13,86 @@ modification_time: 2020-04-17 16:07:16
 blogger_orig_url: "http://localhost/mitra/prospek-bisnis-menggiurkan-perkebunan.html"
 ---
 
-<em>Itulah hasil panen dari 150 pohon yang ditanam Ating di lahan seluas 1 ha. Dompet pekebun sawo di Desa Sukatali, Kecamatan Situraja, Sumedang, itu kian menebal lantaran hanya mengeluarkan biaya perawatan Rp 100.000 per tahun. Dengan pendapatan jutaan rupiah, Ating hidup makmur.</em>
-Di Sukatali, manisnya sawo juga dicicipi Entang Sutarja di Dusun Cijeruk. Dari 50 pohon berumur 20 tahun di lahan seluas 2.000 m2 ia menuai laba bersih Rp 4-juta per musim panen. Pundi-pundinya makin menggelembung semenjak Entang mengganda sebagai pengepul 4 tahun silam.
-Saat panen raya Desember sampai Februari, Entang sanggup menampung 120 ton untuk dipasok ke Cirebon, Jakarta, Subang, dan Majalengka. Sawo dibeli Rp 2.000/kg dari pekebun dan dijual Rp 2.500-Rp 3.000/kg. Artinya, ia memiliki tambahan pendapatan Rp l0-juta sebagai pedagang.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/04/Perkebunan.jpg"><img class="aligncenter wp-image-20275 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/04/Perkebunan.jpg" alt="" width="1511" height="850" /></a>
-<h2>Pekebun Sawo Sukatali mulai bangkit</h2>
-Pendapatan menggiurkan itu membuat pekebun-pekebun baru bermunculan. "Kini tercatat 761 petani di Desa Sukatali dengan luasan 65 ha," ujar Ir Subarti, Kasie Hortikultura Dinas Pertanian Kabupaten Sumedang.
-Seiring dengan bertambahnya penanaman, Achras zapota kini ramai dipasarkan di pasar-pasar tradisional hingga pedagang pinggir jalan. Sekadar contoh, di sepanjang jalan raya Situraja puluhan jongko menjajakan sawo nan manis itu.
-Isar, pedagang dari Dusun Cijeruk umpamanya, sanggup menjual 30 kg per hari di luar musim dan 100 kg saat panen raya. Harga jual rata-rata Rp 3.000-Rp 6.000/kg. Saat peliputan, <a href="http://127.0.0.1/mitra">Mitra Usaha Tani</a> melihat beberapa kendaraan berhenti untuk membeli buah tangan khas sukatali itu. Penumpangnya berasal dari Jakarta, Bandung, Cirebon, dan Sumedang. Sementara para pedagang antarkota lebih memilih mendatangi pekebun atau pengepul.
-Sebut saja Dahri, pedagang di Pasar Induk Caringin. Ia membeli secara kontrak ke pekebun langsung. Tanpa mengontrak ia kerap tidak kebagian barang. Itu setali tiga uang dengan yang dialami Entang. "Tengkulak dari Jakarta dan Cirebon biasanya meminta minimal 13 kuintal sekali pasok, sedangkan yang tersedia hanya 5 kuintal," keluhnya. Penyebabnya baru sebagian populasi berproduksi maksimal, karena sebagian tanaman belum mencapai umur produktif.
-<a href="http://127.0.0.1/mitra/">mitrausahatani</a> melihat buah seukuran telur ayam bergelayutan di setiap cabang sawo ketika berkunjung akhir Juni. Padahal saat itu belumlah masuk musim panen raya. "Sawo sukatali memang rajin berbuah, dalam setahun ia hanya pere (berhenti, red) 1 bulan saja" ujar Ating. Produktivitas mencapai 1 ton per pohon per tahun pada umur produktif 15-20 tahun.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-sawo.jpg"><img class="aligncenter wp-image-20277 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-sawo.jpg" alt="" width="1511" height="850" /></a>
-<h2>Komoditas Primadona</h2>
-Wajar saja buah andalan sukatali itu digemari. Dagingnya lembut, berair, dan manis. Lagipula ia tahan simpan. Kulit tetap mulus dan mengkal (keras, red) meski disimpan 1 minggu. Bandingkan dengan 3 jenis lain yang juga ada di sana: sawo manila yang mudah memar, jenis waleri yang teksturnya berpasir, dan sawo apel yang berbentuk dempok (bengkok ke dalam, red).
-Sawo sukatali menjadi primadona para pekebun. Tanaman berbuah tanpa perawatan rumit. Oleh karenanya, beralasan bila dinas pertanian setempat menargetkan pengembangan seluas 1.250 ha. Calon sentra itu terletak di Kecamatan Situraja, Darmaraja, dan Cisitu. Desa Sukatali mendapat kunjungan dari Bupati Sumedang sebagai kebun percontohan pengembangan sawo.
-Bukan hanya pekebun dan pedagang yang diuntungkan, penjual bibit pun turut bersukacita. Omet hanya mencemplungkan Rp 200.000 untuk memproduksi 60 bibit dari 20 pohon induk.
-Dalam waktu 5 bulan bibit asal cangkokan itu siap jual seharga Rp 15.000-Rp 20.000/ pohon. Laba bersih R p 7 0 0 . 0 0 0 dikantonginya.
-"Modalnya hanya perlu telaten, kalau tidak 50% cangkokan bibit tidak berhasil," katanya. Jejak Omet dituruti sekitar 10 penangkar lain di Desa Sukatali.
-<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/04/sawo-jumbo.jpg"><img class="aligncenter wp-image-20274 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/04/sawo-jumbo.jpg" alt="" width="1511" height="850" /></a>
-<h3>Pekebun Sawo Kecamatan Pare</h3>
-Nun di Kecamatan Pare, Kediri, kisah serupa terjadi. Meski hanya diusahakan skala pekarangan, para pemilik pohon meraup laba. Dengan hanya mengandalkan 3 pohon
-sawo pare yang tumbuh di halaman rumah, Suhartati menuai 500 buah/pohon. Dengan harga beli oleh pengepul Rp 10.000/100 buah, ia menangguk Rp 150.000 per panen. Padahal nyaris tidak ada modal dan biaya perawatan dikeluarkan.
-Sawo pare yang rajin berbuah dan tak kenal musim pun mengembangkan senyum para pengumpul dan pedagang. Sukati, pria paruh baya itu mampu mengumpulkan sawo sebanyak 2 karung setara dengan 100 kg setiap hari. Kemudian ia menjualnya ke pedagang. Dengan modal Rp 5 juta-Rp 10 juta per musim, ayah 2 putra itu mendapat laba bersih Rp 30.000 per kuintal.
-Manisnya sawo sukatali dan pare melanglang buana hingga ke Jakarta, Surabaya, Malang, Bali, Mojokerto, dan beberapa kota di Kalimantan. Hal itu menandakan permintaan buah berkulit cokelat itu sebenarnya terbuka lebar. Hanya saja para pedagang terkadang kapok karena sawo gampang rusak. Para pekebun di Sukatali dan Pare ditantang untuk mengatasi "kelangkaan" sawo di pasar swalayan.
+_Itulah hasil panen dari 150 pohon yang ditanam Ating di lahan seluas 1 ha.
+Dompet pekebun sawo di Desa Sukatali, Kecamatan Situraja, Sumedang, itu kian
+menebal lantaran hanya mengeluarkan biaya perawatan Rp 100.000 per tahun.
+Dengan pendapatan jutaan rupiah, Ating hidup makmur._ Di Sukatali, manisnya
+sawo juga dicicipi Entang Sutarja di Dusun Cijeruk. Dari 50 pohon berumur 20
+tahun di lahan seluas 2.000 m2 ia menuai laba bersih Rp 4-juta per musim
+panen. Pundi-pundinya makin menggelembung semenjak Entang mengganda sebagai
+pengepul 4 tahun silam. Saat panen raya Desember sampai Februari, Entang
+sanggup menampung 120 ton untuk dipasok ke Cirebon, Jakarta, Subang, dan
+Majalengka. Sawo dibeli Rp 2.000/kg dari pekebun dan dijual Rp 2.500-Rp
+3.000/kg. Artinya, ia memiliki tambahan pendapatan Rp l0-juta sebagai
+pedagang. [![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/Perkebunan.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/Perkebunan.jpg)
+
+## Pekebun Sawo Sukatali mulai bangkit
+
+Pendapatan menggiurkan itu membuat pekebun-pekebun baru bermunculan. "Kini
+tercatat 761 petani di Desa Sukatali dengan luasan 65 ha," ujar Ir Subarti,
+Kasie Hortikultura Dinas Pertanian Kabupaten Sumedang. Seiring dengan
+bertambahnya penanaman, Achras zapota kini ramai dipasarkan di pasar-pasar
+tradisional hingga pedagang pinggir jalan. Sekadar contoh, di sepanjang jalan
+raya Situraja puluhan jongko menjajakan sawo nan manis itu. Isar, pedagang
+dari Dusun Cijeruk umpamanya, sanggup menjual 30 kg per hari di luar musim dan
+100 kg saat panen raya. Harga jual rata-rata Rp 3.000-Rp 6.000/kg. Saat
+peliputan, [Mitra Usaha Tani](http://127.0.0.1/mitra) melihat beberapa
+kendaraan berhenti untuk membeli buah tangan khas sukatali itu. Penumpangnya
+berasal dari Jakarta, Bandung, Cirebon, dan Sumedang. Sementara para pedagang
+antarkota lebih memilih mendatangi pekebun atau pengepul. Sebut saja Dahri,
+pedagang di Pasar Induk Caringin. Ia membeli secara kontrak ke pekebun
+langsung. Tanpa mengontrak ia kerap tidak kebagian barang. Itu setali tiga
+uang dengan yang dialami Entang. "Tengkulak dari Jakarta dan Cirebon biasanya
+meminta minimal 13 kuintal sekali pasok, sedangkan yang tersedia hanya 5
+kuintal," keluhnya. Penyebabnya baru sebagian populasi berproduksi maksimal,
+karena sebagian tanaman belum mencapai umur produktif.
+[mitrausahatani](http://127.0.0.1/mitra/) melihat buah seukuran telur ayam
+bergelayutan di setiap cabang sawo ketika berkunjung akhir Juni. Padahal saat
+itu belumlah masuk musim panen raya. "Sawo sukatali memang rajin berbuah,
+dalam setahun ia hanya pere (berhenti, red) 1 bulan saja" ujar Ating.
+Produktivitas mencapai 1 ton per pohon per tahun pada umur produktif 15-20
+tahun. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-
+sawo.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-sawo.jpg)
+
+## Komoditas Primadona
+
+Wajar saja buah andalan sukatali itu digemari. Dagingnya lembut, berair, dan
+manis. Lagipula ia tahan simpan. Kulit tetap mulus dan mengkal (keras, red)
+meski disimpan 1 minggu. Bandingkan dengan 3 jenis lain yang juga ada di sana:
+sawo manila yang mudah memar, jenis waleri yang teksturnya berpasir, dan sawo
+apel yang berbentuk dempok (bengkok ke dalam, red). Sawo sukatali menjadi
+primadona para pekebun. Tanaman berbuah tanpa perawatan rumit. Oleh karenanya,
+beralasan bila dinas pertanian setempat menargetkan pengembangan seluas 1.250
+ha. Calon sentra itu terletak di Kecamatan Situraja, Darmaraja, dan Cisitu.
+Desa Sukatali mendapat kunjungan dari Bupati Sumedang sebagai kebun
+percontohan pengembangan sawo. Bukan hanya pekebun dan pedagang yang
+diuntungkan, penjual bibit pun turut bersukacita. Omet hanya mencemplungkan Rp
+200.000 untuk memproduksi 60 bibit dari 20 pohon induk. Dalam waktu 5 bulan
+bibit asal cangkokan itu siap jual seharga Rp 15.000-Rp 20.000/ pohon. Laba
+bersih R p 7 0 0 . 0 0 0 dikantonginya. "Modalnya hanya perlu telaten, kalau
+tidak 50% cangkokan bibit tidak berhasil," katanya. Jejak Omet dituruti
+sekitar 10 penangkar lain di Desa Sukatali. [![](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/sawo-jumbo.jpg)](http://127.0.0.1/mitra/wp-
+content/uploads/2020/04/sawo-jumbo.jpg)
+
+### Pekebun Sawo Kecamatan Pare
+
+Nun di Kecamatan Pare, Kediri, kisah serupa terjadi. Meski hanya diusahakan
+skala pekarangan, para pemilik pohon meraup laba. Dengan hanya mengandalkan 3
+pohon sawo pare yang tumbuh di halaman rumah, Suhartati menuai 500 buah/pohon.
+Dengan harga beli oleh pengepul Rp 10.000/100 buah, ia menangguk Rp 150.000
+per panen. Padahal nyaris tidak ada modal dan biaya perawatan dikeluarkan.
+Sawo pare yang rajin berbuah dan tak kenal musim pun mengembangkan senyum para
+pengumpul dan pedagang. Sukati, pria paruh baya itu mampu mengumpulkan sawo
+sebanyak 2 karung setara dengan 100 kg setiap hari. Kemudian ia menjualnya ke
+pedagang. Dengan modal Rp 5 juta-Rp 10 juta per musim, ayah 2 putra itu
+mendapat laba bersih Rp 30.000 per kuintal. Manisnya sawo sukatali dan pare
+melanglang buana hingga ke Jakarta, Surabaya, Malang, Bali, Mojokerto, dan
+beberapa kota di Kalimantan. Hal itu menandakan permintaan buah berkulit
+cokelat itu sebenarnya terbuka lebar. Hanya saja para pedagang terkadang kapok
+karena sawo gampang rusak. Para pekebun di Sukatali dan Pare ditantang untuk
+mengatasi "kelangkaan" sawo di pasar swalayan.
+
+

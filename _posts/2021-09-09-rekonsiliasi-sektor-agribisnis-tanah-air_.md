@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Rekonsiliasi Sektor Agribisnis Tanah Air?"
+title: 'Rekonsiliasi Sektor Agribisnis Tanah Air?'
 categories: perkebunan
 date: 2021-09-09 15:51:31
 author: Yudianto
-image: "http://localhost/mitra/wp-content/uploads/2021/09/kebun.jpg"
+image: media/kebun.jpg
 tags:
 - sektor agribisnis
 - singkong
@@ -13,37 +13,150 @@ modification_time: 2021-09-09 15:51:31
 blogger_orig_url: "http://localhost/mitra/rekonsiliasi-sektor-agribisnis-tanah.html"
 ---
 
-Saya lahir 100 tahun setelah singkong gencar ditanam di Pulau Jawa. Teman saya, wartawan terkemuka asal Pulau Sawu merasa iri, karena di sana tak ada ketela pohon. "Singkong dibawa oleh Belanda ke Pulau Jawa pada 1852 sebagai pengganti tanaman karbohidrat yang lahannya habis untuk tebu," katanya.
-Empat tahun berikutnya, pada 1856, Gubernur Jenderal van Den Bosch yang menggalakkan tanam paksa <a href="#footnote-1">[1]</a>., membuat singkong menyebar ke berbagai sudut Pulau Jawa. Karena lahan-lahan basah yang semula bagus untuk padi dialihkan ke tebu, tembakau, dan kopi, maka rakyat harus diberi makanan tambahan yang mudah diproduksi, yaitu ketela pohon, alias singkong, alias menyok, casava dalam bahasa Inggris, atau Manihot utilissima, bahasa Latinnya.
-Ketika saya lahir di Jawa Timur pada 1956, semua sudah jadi anak singkong yang dibesarkan oleh nasi gaplek, tiwul, kerupuk kanji, rondo royal atau janda berpesta, balung kethek atau tulang monyet, tapai peuyeum, dan aneka makanan lain turunan singkong.
-Yang jelas, setiap negeri yang didatangi singkong, langsung meledak jumlah penduduknya. Itu terjadi di Pulau Jawa, bukan Kalimantan, apalagi Papua. Teman saya di Pulau Sawu, sebetulnya beruntung. Ia tidak pernah menjadi anak singkong, seperti saya. Namun, ia juga merasa kecewa, karena banyak praktek pertanian dan pengembangan teknologi di Jawa, tanpa disadari mempermiskin, bahkan menghancurkan mereka. Contohnya?
-Kalau di Pulau Jawa, punya kebun tomat seperempat hektar saja sudah dapat sertifikat tanah. Di pulau-pulau Nusa Tenggara Timur (NTT), puluhan hektar kebun rumput laut tak pernah tercatat. Tak ada akte kepemilikan dan tak pernah dilindungi undang-undang. Padahal, seperempat hektar tomat, cabai, atau kacang panjang jelas dikonsumsi sendiri. Sedangkan berhektar rumput laut untuk diekspor, mendatangkan devisa dan mengharumkan negeri.
-Satu praktek agribisnis lainnya, pengiriman kuda sawu. Dulu, setiap minggu puluhan kuda dari NTT dikirim ke Jawa untuk menarik dokar dan mengangkut hasil bumi. Namun, setelah oplet, bemo, dan truk membanjiri Pulau Jawa, orang tak lagi minta dikirim kuda sawu, timor, dan sumba. Akibatnya para peternak di sana bangkrut dan pelahan-lahan berhenti memelihara kuda.
-Hal itu juga menular pada sapi. Semula, sapi-sapi potong dari kawasan padang sabana di Sumbawa, Timor, Sumba, Sawu, dan pulau lain di NTT, boleh diekspor langsung. Namun, setelah pelabuhan ekspor dipusatkan di Surabaya, peternak jadi gentar dan tidak sanggup menjual lembunya? Kenapa? Biaya pengiriman dari desa ke pelabuhan di NTT, lalu dilanjutkan ke Surabaya menjadi mahal dan berisiko tinggi.
-Teman saya dari NTT itu, Peter A. Rohi, menyelidikinya dengan seksama, dan menemukan sesuatu yang membuat kecewa. Jangankan urusan kuda, singkong pun jadi masalah, karena tak ada cadangan pangan yang mudah ditanam dan dipanen. Kampung halamannya jadi rawan paceklik. Mudah terlindas bencana kelaparan <a href="#footnote-2">[2]</a>.
-<img class="aligncenter wp-image-13970 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/agro.jpg" alt="" width="1511" height="850" />
-<h2 id="Semua">Semua tamu</h2>
-Tentu saja kita tidak membiarkan sang teman kecewa. Dia perlu tahu, hampir seluruh tanaman pangan, termasuk jagung, beras, ayam, dan daging sapi, sebagian datang dari luar negeri. Kapas dan terigu 99% impor. Artinya, ada porsi besar komoditas pangan, sandang, dan bahan obat-obatan harus diakui sebagai ternak atau tanaman tamu.
-Adakalanya betul-betul mumi tamu. Datang dari luar negeri, ditanam di sini, dan dijual lagi untuk konsumsi luar negeri. Misalnya tembakau untuk cerutu, kakao untuk cokelat, dan beberapa jenis jamur kualitas ekspor. Jadi, kalau sebaliknya kita lihat produk impor, mulai dari biji-bijian, daging, telur, bunga-bungaan, dan buah-buahan sekarang merajai pasar, harap maklum. Kita diminta selalu sadar, semua tumbuhan dan hewan, pada dasarnya internasionalis, warga dunia yang universal.
-Tidak satu tanaman pun boleh dijadikan fanatik pada aliran politik, agama, atau etnis tertentu. Memang banyak yang endemik, hanya hidup dan tumbuh produktif di tempat tertentu. Namun pada dasarnya, semua buah termasuk kurma dan zaitun diciptakan untuk semua manusia, tidak terbatas pada aliran kepercayaan, suku bangsa, apalagi partai politik. Karena itu kurma diciptakan untuk semua orang. Begitu juga ubi cilembu serta kentang yang tumbuh subur dan berbuah lebat di tempat tertentu.
-Padahal, seperti kita dengar pada awal pembicaraan ini, setiap produk unggulan itu punya asal muasal dan tempat leluhur sendiri. Buktinya, singkong yang paling murah pun datang dari negeri di balik bumi. Dan kita menyaksikan, hampir setiap saat muncul pendatang baru, baik dari <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a>, pohon pelindung, tanaman industri, ternak, dan buah-buahan.
-Kenyataannya, meskipun diberi nama duku palembang, umumnya datang dari Jambi. Terong belanda banyak di Medan. Asam jawa dan cabai jawa subur di Malaysia, dan seterusnya. Moralnya sudah jelas, tanaman mengajarkan manusia toleransi yang tinggi. Bukan toleransi dalam arti menerima, membiarkan, tapi juga melindungi dan mengembangkan. Topik seperti inilah paling pas untuk renungan akhir tahun.
-Pertanyaannya, bagaimana aspek agribisnis bagi tanaman dan ternak tamu ini? Secara 5 3 ekonomis seringkali dominan, " karena membawa aspek dan finansial tinggi. Namun, dari bisnis, produk tamu dikhawatirkan bakal membunuh, bahkan melenyapkan hasil dan kerja di dalam negeri.
-<img class="aligncenter wp-image-13971 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/agrobisnis.jpg" alt="" width="1511" height="850" />
-<h2 id="Proteksi">Proteksi dan rekonsiliasi</h2>
-Topik terpenting dunia agribisnis memasuki 2005 mendatang, bisa jadi akan menyangkut proteksi. Hal itu sudah berawal secara gegap-gempita pada masa kampanye 2004 silam, tentang proteksi untuk para petani tebu. Sejarah menunjukkan, Indonesia pernah menjadi eksportir gula nomor dua terbesar di dunia, dengan produksi 3 juta ton pada 1930. Akhirnya, karena ketinggalan teknologi dan memburuknya produktivitas tanah serta kualitas manajemen pertebuan kita, Indonesia jadi pengimpor gula yang besar.
-Jauh-jauh hari sebelum menjadi Menteri Koordinator, Ir Abu Rizal Bakrie sebagai ketua Kamar Dagang dan Industri (Kadin), selalu tampil sebagai pendukung proteksi untuk produk-produk pertanian. Motivasinya sederhana, menyelamatkan dan melindungi produk-produk lokal dari serbuan impor.
-Mantan Menteri Pertanian, Bungaran Saragih, juga cukup memberikan dasar untuk memperkuat petani. "Petani Indonesia hams belajar berdagang," begitu nasihatnya dalam sebuah pekan agribisnis, sesaat sebelum habis masa jabatannya. Dengan semangat berdagang itu, berbagai daerah yang kini hidup di alam otonomi dan desentralisasi diharapkan dapat berlomba-lomba mengunggulkan agribisnisnya. Sebuah kabupaten, seperti Majalengka, misalnya, bertekad menjadi pemasok daging sapi terbaik di Jawa Barat.
-Kabupaten Boyolali, di Jawa Tengah, bahkan lebih visioner dengan mengembangkan produksi kentang di dua kecamatan yang terletak di ketinggian 1.000—1.500 m dpi. Uniknya, segala upaya itu ditempuh melalui kerjasama dengan produsen kentang terbesar di dunia, yaitu Kanada. Sepintas akan ada gejala munculnya rekonsiliasi, perdamaian antara pengusaha besar dan pengusaha kecil.
-Kenyataannya, rekonsiliasi dalam perdagangan hasil bumi bisa menjadi tantangan terberat untuk pemerintahan Susilo Bambang Yudhoyono (SBY). Persaingan pedagang besar dan kecil yang dipicu oleh perang harga, yaitu berlomba untuk menjual lebih murah, pada akhirnya merugikan semua pihak.
-Sekadar ilustrasi, tengok saja pasar Blitar, tak jauh dari rumah ibunda Presiden SBY. Pedagang telur besar (lebih dari 5.000 butir/hari), berani menjual separuh dagangannya dengan harga peternak, untuk menutup munculnya pesaing-pesaing kecil. Kalau sekilo telur dibeli dengan Rp8.000 di peternak, bisa dilempar ke pasar dengan harga sama. Bahkan diturunkan jadi Rp7.500 untuk menghancurkan kompetitor kecil yang baru ingin muncul.
-Memang telah cukup lama dunia diwarnai oleh perang dagang, saling serbu, saling mematikan antara pengusaha multinasional dan pebisnis lokal maupun nasional. Namun, bila kita kembali pada karakter universal di dunia pertanian, ketakutan bahwa yang besar membahayakan yang kecil, dan yang kecil mengancam yang besar, rasanya tidak perlu dibesar-besarkan.
-Justru sebaliknya yang bakal terjadi, para petani gurem pun dapat menyediakan bahan baku eksklusif untuk industri besar.
-Contohnya, para penanam jagung khusus untuk sebuah pabrik bir di Filipina. Bukan gairah saling membunuh yang harus digalakkan, tetapi semangat saling mengisi dan bekerjasama di antara petani gurem dan pebisnis raksasa.
-Kita harus yakin bahwa para penggemar apel malang tidak akan hilang, karena tertelan habis oleh banjir apel Washington, apel perancis, dan apel kalifomia. Sebaliknya, justru beragam varitas buah, ternak, dan sayur-sayuran lokal akan memperkaya dan membuat produk-produk tamu lain tetap terhormat. Kenyataan menunjukkan, di bawah bombardir telur dan daging ayam impor pun, peternak ayam kampung malah mendapatkan penggemar setia.
-Yang lebih penting dari itu, Kepulauan Nusantara ini masih terus terbuka dengan tanaman dan ternak-ternak varietas baru. Mereka tidak pernah terbayangkan bakal bisa hidup dan berkembang di sini sebelumnya. Kalau pun tidak dapat bersaing pada kualitas bahan baku, masih terbuka peluang di bagian hilir, inovasi pengolahan dan peningkatan nilai tambahnya. Satu-satunya modal yang diperlukan untuk itu adalah kesediaan bekerja keras dan berjiwa besar. Itulah kelebihan manusia pertanian, yang tanpa kenal lelah, selalu ingin memberikan yang terbaik, sambil menyadari bahwa mereka juga hanya tamu yang mampir minum di dunia.***
-<section id="footnotes">
-<h4 id="Referensi">Referensi</h4>
-<p id="footnote-1">[1] <i>Digital Batavia - - - Profil Tokoh</i>. https://bataviadigital.perpusnas.go.id/tokoh/?box=detail&amp;id_record=46&amp;npage=4&amp;search_key=&amp;search_val=&amp;status_key=&amp;dpage=1. Accessed 9 Sept. 2021.</p>
-<p id="footnote-2">[2] “Kementan Dorong Pendayagunaan Singkong Untuk Cadangan Pangan Keluarga dan Masyarakat.” <i>pangannews.id</i>, https://pangannews.id/public/berita/1628043180/kementan-dorong-pendayagunaan-singkong-untuk-cadangan-pangan-keluarga-dan-masyarakat. Accessed 9 Sept. 2021</p>
-</section>
+Saya lahir 100 tahun setelah singkong gencar ditanam di Pulau Jawa. Teman
+saya, wartawan terkemuka asal Pulau Sawu merasa iri, karena di sana tak ada
+ketela pohon. "Singkong dibawa oleh Belanda ke Pulau Jawa pada 1852 sebagai
+pengganti tanaman karbohidrat yang lahannya habis untuk tebu," katanya. Empat
+tahun berikutnya, pada 1856, Gubernur Jenderal van Den Bosch yang menggalakkan
+tanam paksa [1]., membuat singkong menyebar ke berbagai sudut Pulau Jawa.
+Karena lahan-lahan basah yang semula bagus untuk padi dialihkan ke tebu,
+tembakau, dan kopi, maka rakyat harus diberi makanan tambahan yang mudah
+diproduksi, yaitu ketela pohon, alias singkong, alias menyok, casava dalam
+bahasa Inggris, atau Manihot utilissima, bahasa Latinnya. Ketika saya lahir di
+Jawa Timur pada 1956, semua sudah jadi anak singkong yang dibesarkan oleh nasi
+gaplek, tiwul, kerupuk kanji, rondo royal atau janda berpesta, balung kethek
+atau tulang monyet, tapai peuyeum, dan aneka makanan lain turunan singkong.
+Yang jelas, setiap negeri yang didatangi singkong, langsung meledak jumlah
+penduduknya. Itu terjadi di Pulau Jawa, bukan Kalimantan, apalagi Papua. Teman
+saya di Pulau Sawu, sebetulnya beruntung. Ia tidak pernah menjadi anak
+singkong, seperti saya. Namun, ia juga merasa kecewa, karena banyak praktek
+pertanian dan pengembangan teknologi di Jawa, tanpa disadari mempermiskin,
+bahkan menghancurkan mereka. Contohnya? Kalau di Pulau Jawa, punya kebun tomat
+seperempat hektar saja sudah dapat sertifikat tanah. Di pulau-pulau Nusa
+Tenggara Timur (NTT), puluhan hektar kebun rumput laut tak pernah tercatat.
+Tak ada akte kepemilikan dan tak pernah dilindungi undang-undang. Padahal,
+seperempat hektar tomat, cabai, atau kacang panjang jelas dikonsumsi sendiri.
+Sedangkan berhektar rumput laut untuk diekspor, mendatangkan devisa dan
+mengharumkan negeri. Satu praktek agribisnis lainnya, pengiriman kuda sawu.
+Dulu, setiap minggu puluhan kuda dari NTT dikirim ke Jawa untuk menarik dokar
+dan mengangkut hasil bumi. Namun, setelah oplet, bemo, dan truk membanjiri
+Pulau Jawa, orang tak lagi minta dikirim kuda sawu, timor, dan sumba.
+Akibatnya para peternak di sana bangkrut dan pelahan-lahan berhenti memelihara
+kuda. Hal itu juga menular pada sapi. Semula, sapi-sapi potong dari kawasan
+padang sabana di Sumbawa, Timor, Sumba, Sawu, dan pulau lain di NTT, boleh
+diekspor langsung. Namun, setelah pelabuhan ekspor dipusatkan di Surabaya,
+peternak jadi gentar dan tidak sanggup menjual lembunya? Kenapa? Biaya
+pengiriman dari desa ke pelabuhan di NTT, lalu dilanjutkan ke Surabaya menjadi
+mahal dan berisiko tinggi. Teman saya dari NTT itu, Peter A. Rohi,
+menyelidikinya dengan seksama, dan menemukan sesuatu yang membuat kecewa.
+Jangankan urusan kuda, singkong pun jadi masalah, karena tak ada cadangan
+pangan yang mudah ditanam dan dipanen. Kampung halamannya jadi rawan paceklik.
+Mudah terlindas bencana kelaparan [2]. ![](http://127.0.0.1/mitra/wp-
+content/uploads/2021/09/agro.jpg)
+
+## Semua tamu
+
+Tentu saja kita tidak membiarkan sang teman kecewa. Dia perlu tahu, hampir
+seluruh tanaman pangan, termasuk jagung, beras, ayam, dan daging sapi,
+sebagian datang dari luar negeri. Kapas dan terigu 99% impor. Artinya, ada
+porsi besar komoditas pangan, sandang, dan bahan obat-obatan harus diakui
+sebagai ternak atau tanaman tamu. Adakalanya betul-betul mumi tamu. Datang
+dari luar negeri, ditanam di sini, dan dijual lagi untuk konsumsi luar negeri.
+Misalnya tembakau untuk cerutu, kakao untuk cokelat, dan beberapa jenis jamur
+kualitas ekspor. Jadi, kalau sebaliknya kita lihat produk impor, mulai dari
+biji-bijian, daging, telur, bunga-bungaan, dan buah-buahan sekarang merajai
+pasar, harap maklum. Kita diminta selalu sadar, semua tumbuhan dan hewan, pada
+dasarnya internasionalis, warga dunia yang universal. Tidak satu tanaman pun
+boleh dijadikan fanatik pada aliran politik, agama, atau etnis tertentu.
+Memang banyak yang endemik, hanya hidup dan tumbuh produktif di tempat
+tertentu. Namun pada dasarnya, semua buah termasuk kurma dan zaitun diciptakan
+untuk semua manusia, tidak terbatas pada aliran kepercayaan, suku bangsa,
+apalagi partai politik. Karena itu kurma diciptakan untuk semua orang. Begitu
+juga ubi cilembu serta kentang yang tumbuh subur dan berbuah lebat di tempat
+tertentu. Padahal, seperti kita dengar pada awal pembicaraan ini, setiap
+produk unggulan itu punya asal muasal dan tempat leluhur sendiri. Buktinya,
+singkong yang paling murah pun datang dari negeri di balik bumi. Dan kita
+menyaksikan, hampir setiap saat muncul pendatang baru, baik dari [tanaman
+hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), pohon pelindung,
+tanaman industri, ternak, dan buah-buahan. Kenyataannya, meskipun diberi nama
+duku palembang, umumnya datang dari Jambi. Terong belanda banyak di Medan.
+Asam jawa dan cabai jawa subur di Malaysia, dan seterusnya. Moralnya sudah
+jelas, tanaman mengajarkan manusia toleransi yang tinggi. Bukan toleransi
+dalam arti menerima, membiarkan, tapi juga melindungi dan mengembangkan. Topik
+seperti inilah paling pas untuk renungan akhir tahun. Pertanyaannya, bagaimana
+aspek agribisnis bagi tanaman dan ternak tamu ini? Secara 5 3 ekonomis
+seringkali dominan, " karena membawa aspek dan finansial tinggi. Namun, dari
+bisnis, produk tamu dikhawatirkan bakal membunuh, bahkan melenyapkan hasil dan
+kerja di dalam negeri. ![](http://127.0.0.1/mitra/wp-
+content/uploads/2021/09/agrobisnis.jpg)
+
+## Proteksi dan rekonsiliasi
+
+Topik terpenting dunia agribisnis memasuki 2005 mendatang, bisa jadi akan
+menyangkut proteksi. Hal itu sudah berawal secara gegap-gempita pada masa
+kampanye 2004 silam, tentang proteksi untuk para petani tebu. Sejarah
+menunjukkan, Indonesia pernah menjadi eksportir gula nomor dua terbesar di
+dunia, dengan produksi 3 juta ton pada 1930. Akhirnya, karena ketinggalan
+teknologi dan memburuknya produktivitas tanah serta kualitas manajemen
+pertebuan kita, Indonesia jadi pengimpor gula yang besar. Jauh-jauh hari
+sebelum menjadi Menteri Koordinator, Ir Abu Rizal Bakrie sebagai ketua Kamar
+Dagang dan Industri (Kadin), selalu tampil sebagai pendukung proteksi untuk
+produk-produk pertanian. Motivasinya sederhana, menyelamatkan dan melindungi
+produk-produk lokal dari serbuan impor. Mantan Menteri Pertanian, Bungaran
+Saragih, juga cukup memberikan dasar untuk memperkuat petani. "Petani
+Indonesia hams belajar berdagang," begitu nasihatnya dalam sebuah pekan
+agribisnis, sesaat sebelum habis masa jabatannya. Dengan semangat berdagang
+itu, berbagai daerah yang kini hidup di alam otonomi dan desentralisasi
+diharapkan dapat berlomba-lomba mengunggulkan agribisnisnya. Sebuah kabupaten,
+seperti Majalengka, misalnya, bertekad menjadi pemasok daging sapi terbaik di
+Jawa Barat. Kabupaten Boyolali, di Jawa Tengah, bahkan lebih visioner dengan
+mengembangkan produksi kentang di dua kecamatan yang terletak di ketinggian
+1.000—1.500 m dpi. Uniknya, segala upaya itu ditempuh melalui kerjasama dengan
+produsen kentang terbesar di dunia, yaitu Kanada. Sepintas akan ada gejala
+munculnya rekonsiliasi, perdamaian antara pengusaha besar dan pengusaha kecil.
+Kenyataannya, rekonsiliasi dalam perdagangan hasil bumi bisa menjadi tantangan
+terberat untuk pemerintahan Susilo Bambang Yudhoyono (SBY). Persaingan
+pedagang besar dan kecil yang dipicu oleh perang harga, yaitu berlomba untuk
+menjual lebih murah, pada akhirnya merugikan semua pihak. Sekadar ilustrasi,
+tengok saja pasar Blitar, tak jauh dari rumah ibunda Presiden SBY. Pedagang
+telur besar (lebih dari 5.000 butir/hari), berani menjual separuh dagangannya
+dengan harga peternak, untuk menutup munculnya pesaing-pesaing kecil. Kalau
+sekilo telur dibeli dengan Rp8.000 di peternak, bisa dilempar ke pasar dengan
+harga sama. Bahkan diturunkan jadi Rp7.500 untuk menghancurkan kompetitor
+kecil yang baru ingin muncul. Memang telah cukup lama dunia diwarnai oleh
+perang dagang, saling serbu, saling mematikan antara pengusaha multinasional
+dan pebisnis lokal maupun nasional. Namun, bila kita kembali pada karakter
+universal di dunia pertanian, ketakutan bahwa yang besar membahayakan yang
+kecil, dan yang kecil mengancam yang besar, rasanya tidak perlu dibesar-
+besarkan. Justru sebaliknya yang bakal terjadi, para petani gurem pun dapat
+menyediakan bahan baku eksklusif untuk industri besar. Contohnya, para penanam
+jagung khusus untuk sebuah pabrik bir di Filipina. Bukan gairah saling
+membunuh yang harus digalakkan, tetapi semangat saling mengisi dan bekerjasama
+di antara petani gurem dan pebisnis raksasa. Kita harus yakin bahwa para
+penggemar apel malang tidak akan hilang, karena tertelan habis oleh banjir
+apel Washington, apel perancis, dan apel kalifomia. Sebaliknya, justru beragam
+varitas buah, ternak, dan sayur-sayuran lokal akan memperkaya dan membuat
+produk-produk tamu lain tetap terhormat. Kenyataan menunjukkan, di bawah
+bombardir telur dan daging ayam impor pun, peternak ayam kampung malah
+mendapatkan penggemar setia. Yang lebih penting dari itu, Kepulauan Nusantara
+ini masih terus terbuka dengan tanaman dan ternak-ternak varietas baru. Mereka
+tidak pernah terbayangkan bakal bisa hidup dan berkembang di sini sebelumnya.
+Kalau pun tidak dapat bersaing pada kualitas bahan baku, masih terbuka peluang
+di bagian hilir, inovasi pengolahan dan peningkatan nilai tambahnya. Satu-
+satunya modal yang diperlukan untuk itu adalah kesediaan bekerja keras dan
+berjiwa besar. Itulah kelebihan manusia pertanian, yang tanpa kenal lelah,
+selalu ingin memberikan yang terbaik, sambil menyadari bahwa mereka juga hanya
+tamu yang mampir minum di dunia.***
+
+#### Referensi
+
+[1] _Digital Batavia - - - Profil Tokoh_.
+https://bataviadigital.perpusnas.go.id/tokoh/?box=detail&id_record=46&npage=4&search_key=&search_val=&status_key=&dpage=1.
+Accessed 9 Sept. 2021.
+
+[2] “Kementan Dorong Pendayagunaan Singkong Untuk Cadangan Pangan Keluarga dan
+Masyarakat.” _pangannews.id_ ,
+https://pangannews.id/public/berita/1628043180/kementan-dorong-pendayagunaan-
+singkong-untuk-cadangan-pangan-keluarga-dan-masyarakat. Accessed 9 Sept. 2021
+
+
