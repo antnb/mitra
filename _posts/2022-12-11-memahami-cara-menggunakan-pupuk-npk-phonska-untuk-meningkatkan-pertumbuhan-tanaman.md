@@ -3,7 +3,7 @@ layout: post
 title: 'Memahami Cara Menggunakan Pupuk NPK Phonska untuk Meningkatkan Pertumbuhan Tanaman'
 categories: Pertanian
 date: 2022-12-11 10:18:49
-author: admin
+author: Yudianto
 image: media/ponska.jpg
 tags:
 - pupuk
