@@ -15,7 +15,7 @@ tags:
 - ulat kubis
 
 modification_time: 2021-03-24 14:20:33
-blogger_orig_url: "http://localhost/mitra/kebun-sayur-jepang-di-kaki-gunung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kebun-sayur-jepang-di-kaki-gunung.html"
 ---
 
 Kabut tipis baru saja tersingkap. Nun jauh di kaki Gunung Burangrang, di
@@ -33,8 +33,8 @@ aktivitas kebun dengan berdoa, serta evaluasi," ujar Acep.
 
 ## Sayur Khas Jepang Ekspatriat Jepang
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/sayuran-2.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/03/sayuran-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/sayuran-2.jpg)Acep Gunawan memang membidik komunitas
 masyarakat Jepang di Indonesia. Pantas jika komoditas sayur jepang yang
 dipilih menyesuaikan selera konsumen negeri matahari terbit itu. Pilihan
@@ -56,8 +56,8 @@ kg kyurii, dan 30 sampai 50 kg piman.
 ## Kebun Sayur Menggunakan Pestisida Alami
 
 [caption id="attachment_8375" align="aligncenter"
-width="2089"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/sayuran11.jpg)](http://127.0.0.1/mitra/wp-
+width="2089"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/sayuran11.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/sayuran11.jpg) Hamparan greenhouse, dominan dari
 kejauhan[/caption] Agar produksi berkesinambungan, Acep mengatur interval
 penanaman sayur jepang setiap 2 pekan. Itulah sebabnya ia menyemai beragam
@@ -88,8 +88,8 @@ berbahaya bagi manusia, tetapi ampuh mengusir organisme pengganggu.
 ## Efisiensi lahan kebun sayur
 
 [caption id="attachment_8371" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/sawi.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/sawi.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/sawi.jpg) sayuran bebas pestisida anorganik[/caption]
 Dari lahan kebun sayur jepang yang tersedia, 90% untuk komoditas utama seperti
 momotaro, melon, kyurii, dan piman di dalam greenhouse. Sisanya untuk

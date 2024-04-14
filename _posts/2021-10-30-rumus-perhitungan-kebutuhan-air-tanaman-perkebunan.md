@@ -9,7 +9,7 @@ tags:
 - pengairan
 
 modification_time: 2022-09-21 01:17:29
-blogger_orig_url: "http://localhost/mitra/perhitungan-kebutuhan-air-tanaman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perhitungan-kebutuhan-air-tanaman.html"
 ---
 
 Kemarau panjang 1997 merupakan pengalaman buruk bagi pekebun buah. Ribuan
@@ -38,8 +38,8 @@ daerah dengan iklim lembab seperti hutan, selama musim hujan, cenderung
 memiliki akar yang kuat dan dapat menahan lebih banyak air. Beberapa tanaman
 dapat hidup dengan sedikit air, dan bahkan dapat hidup tanpa air selama
 beberapa waktu. Tanaman yang dapat hidup dengan sedikit air disebut xerophyte.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/pengairan-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/10/pengairan-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/pengairan.jpg)
 
 ## Jenis Dan Tipe Tanah untuk lahan pertanian
@@ -64,7 +64,7 @@ kesehatan manusia dan lingkungan. Tanah yang disukai tanaman adalah yang
 berstruktur remah. Pori-pori tanah ini mampu mempertahankan kadar air dan
 udara di dalamnya agar senantiasa seimbang. Tanah dengan pori-pori kecil,
 misalnya tanah liat kurang baik untuk
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman"). Tanah itu
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman"). Tanah itu
 menyerap banyak air tetapi tidak mudah mengalirkannya. Akibatnya tanah menjadi
 lembap dan ketersediaan udara untuk akar tanaman kurang. Di musim hujan tanah
 ini menjadi lembek dan becek, di musim kering menjadi retak-retak dan
@@ -72,7 +72,7 @@ pengerjaannya berat. Tanah jenis ini hanya cocok untuk tanaman dengan
 perakaran "tahan banting", seperti jambu mete. Sebaliknya tanah berpasir cepat
 mengalirkan air karena memiliki banyak pori-pori besar. Tanah aluvial pasir
 termasuk ke dalam jenis ini. Sedangkan tanah podzolik merah kuning yang banyak
-ditemukan di [perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan")
+ditemukan di [perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan")
 karet di Banten, Sumatera Selatan dan Kalimantan termasuk tanah bertekstur
 lempung liat sehingga kebutuhan air tanaman karet tidaklah begitu banyak.
 Setelah mengetahui kapasitas air di dalam tanah, data lain yang diperlukan
@@ -109,7 +109,7 @@ dengan luasan tajuk. Misalnya, diameter tajuk 4m, dengan rumus luas lingkaran
 adalah 4m x 12,5m2 = 100'1 atau 1.000 ml. Lantas bagaimana frekuensi
 pemberiannya? Untuk itu dibutuhkan data penguapan air yang merupakan nilai
 rata-rata per bulan (30 hari). Berdasarkan penelurusan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) melalui telepon, data penguapan air untuk
+Tani](https://www.mitrausahatani.com) melalui telepon, data penguapan air untuk
 wilayah Jawa Barat, seperti Bogor, Cianjur dan Bandung serta Jakarta dapat
 diperoleh di Stasiun Klimatologi Kelas I, Darmaga Km 6,5 Bogor. Andaikata
 diketahui, penguapan pada April 120 mm, setelah mengetahui jumlah kebutuhan
@@ -125,7 +125,7 @@ setelah 20 hari. Saat itu air yang menguap sudah lebih dari 1.000 1.
 
 Tanaman | Kedalaman akar (m)  
 ---|---  
-[Alpukat](http://127.0.0.1/mitra/topik/alpukat "Alpukat") | 0.8-2.0  
+[Alpukat](https://www.mitrausahatani.com/topik/alpukat "Alpukat") | 0.8-2.0  
 Pisang | 0.3-0.9  
 Jeruk | 0.5-1.5  
 Apel | 1.0-1.5  

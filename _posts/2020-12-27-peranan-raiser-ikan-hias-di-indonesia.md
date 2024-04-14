@@ -11,7 +11,7 @@ tags:
 - raiser ikan
 
 modification_time: 2022-09-19 17:10:15
-blogger_orig_url: "http://localhost/mitra/peranan-raiser-ikan-hias-di-indonesia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peranan-raiser-ikan-hias-di-indonesia.html"
 ---
 
 Indonesia memang gemah ripah loh jinawi. Termasuk di dalamnya kekayaan alam
@@ -42,7 +42,7 @@ mutu keturunan selalu bagus. Ukuran juga sesuai dengan pesanan.
 Menyadari situasi itu, pemerintah berusaha membatasi impor dan memfasilitasi
 pengadaan bibit bagus. Bekerjasama dengan pengusaha, pada 2003 didirikan
 raiser di lahan seluas 20 ha di Cibinong, Bogor. Diharapkan tindakan itu bisa
-merangsang pelaku stakeholder [ikan hias](http://127.0.0.1/mitra/ikan-hias
+merangsang pelaku stakeholder [ikan hias](https://www.mitrausahatani.com/ikan-hias
 "ikan hias") dan menular ke kota-kota lain. Bagi Anda penggemar ikan hias,
 pasti sudah tidak asing lagi dengan yang namanya raiser ikan hias.Raiser ialah
 lembaga yang memfasilitasi perdagangan ikan hias dari Indonesia ke luar negeri
@@ -80,7 +80,7 @@ sehingga posisi tawar peternak bisa lebih tinggi.
 ## Pengelolaan raiser
 
 Sementara ini pengelolaan raiser ditangani Departemen Kelautan dan
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan"). Untuk ke depan
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan"). Untuk ke depan
 diharapkan terbentuk konsorsium sehingga bisa dibuat raiser untuk masing-
 masing jenis ikan. Ada cupang, diskus, arwana, dan lain-lain. Dari 186 spesies
 yang diekspor, prioritas 10 besar yang diternak di Indonesia. Untuk sementara,

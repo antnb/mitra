@@ -9,7 +9,7 @@ tags:
 - cempedak
 
 modification_time: 2020-11-11 08:48:35
-blogger_orig_url: "http://localhost/mitra/cempedak-bonsai-umur-genjah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cempedak-bonsai-umur-genjah.html"
 ---
 
 Pohon cempedak biasanya tumbuh menjulang hingga lebih dari 15 m. Selain itu,
@@ -22,8 +22,8 @@ kaku, dan tersusun berseling. Cempedak berbatang cokelat keabuan, daun hijau
 tua dan lemas. Namun, buah yang bulat panjang, berukuran kecil, hanya berbobot
 2-3 kg mengingatkan pada sosok cempedak. Kulit buah hijau kekuningan hingga
 kuning cokelat dengan duri-duri halus. Daging buah tipis, lunak, berair, dan
-mengeluarkan aroma kuat layaknya A. champeden. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/bonsai-cempedak.jpg)](http://127.0.0.1/mitra/wp-
+mengeluarkan aroma kuat layaknya A. champeden. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/bonsai-cempedak.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/bonsai-cempedak.jpg)
 
 ## Berbuah 1,5 tahun
@@ -42,13 +42,13 @@ sekitar 10 cm. Diameter tajuk hanya 1,5--2 m sehingga pohon tampak tinggi
 menjulang mirip cemara. Pertumbuhan tanaman subur dengan percabangan dan daun
 cukup lebat. Ia tergolong genjah. “Pada umur 1,5 tahun setelah tanam pohon
 sudah mulai berbuah,” ungkap Greg. Saat [Mitra Usaha
-Tani](http://127.0.0.1/mitra) berkunjung pada akhir Maret, buah sudah habis
+Tani](https://www.mitrausahatani.com) berkunjung pada akhir Maret, buah sudah habis
 dipanen. Meski begitu, beberapa ranting dan percabangan masih menyisakan
 bekas. Produktivitas pertama baru 10-20 buah per pohon. Menurut Greg, produksi
 bakal meningkat seiring bertambahnya umur tanaman. “Di atas 5 tahun produksi
 dapat mencapai lebih dari 60 buah/pohon,” tegas botanis ulung itu. Ukuran buah
-berkisar 21 kg. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/cempedak.jpg)](http://127.0.0.1/mitra/wp-
+berkisar 21 kg. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/cempedak.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/cempedak.jpg)
 
 ## Silangan alami

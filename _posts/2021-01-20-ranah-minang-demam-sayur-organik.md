@@ -9,7 +9,7 @@ tags:
 - organik
 
 modification_time: 2021-01-20 10:05:14
-blogger_orig_url: "http://localhost/mitra/ranah-minang-demam-sayur-organik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ranah-minang-demam-sayur-organik.html"
 ---
 
 Itulah pemandangan yang lazim ditemui di Kios Sayur Organik, Aie Angek,
@@ -44,7 +44,7 @@ ha. Gerai yang disebut Kios Sayur Organik itu pada dasarnya milik mereka.
 biasanya sanak dan kerabat. Lantaran luasan kebun terbatas, kios itu juga
 menerima pasokan sayur organik dan buah dari pekebun di sekitar Solok,
 Alahanpanjang, Padangpanjang, dan Kotabaru. Label organik membuat harga di
-atas rata-rata. Saat [mitrausahatani](http://127.0.0.1/mitra) belanja
+atas rata-rata. Saat [mitrausahatani](https://www.mitrausahatani.com) belanja
 misalnya. Sekilo cabai keriting Rp 11-ribu sampai Rp 12-ribu, di pasar biasa
 hanya Rp10-ribu. Wortel dipatok Rp4.000 sampai Rp4.500, di pasaran hanya
 Rp3.000. Pun kentang cingkariang kebanggaan masyarakat Sumatera Barat,
@@ -82,11 +82,11 @@ pelopor pekebun organik di Nagari Balingka.
 
 Pekebun-pekebun organik di Sumatera Barat tersebar secara sporadis. Menurut
 Firman, dari Dinas Pertanian, Kehutanan, dan
-[Perkebunan](http://127.0.0.1/mitra/perkebunan "Perkebunan") (Dipertahutbun),
+[Perkebunan](https://www.mitrausahatani.com/perkebunan "Perkebunan") (Dipertahutbun),
 Kecamatan IV Koto, pekebun organik di tempatnya belum berkelompok. Umumnya
 hanya ada 1 pekebun di nagari (sebutan desa di Sumatera Barat, red). Luasnya
 pun terbatas, sekitar 1 ha. Merekalah yang mempelopori pertanian organik di
-Agam. Hal serupa [Mitrausahatani](http://127.0.0.1/mitra/) temui di Kecamatan
+Agam. Hal serupa [Mitrausahatani](https://www.mitrausahatani.com/) temui di Kecamatan
 Sungaipua, Kabupaten Agam. Ada sekitar 5 ha areal pertanaman organik yang
 tersebar di 5 nagari, yaitu: Sungaipua, Batupulano, Sariak, Badangele, dan
 Padanglaweh. Menurut Afrizal, kepala cabang Dipertahutbun, Kecamatan

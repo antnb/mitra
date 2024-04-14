@@ -11,7 +11,7 @@ tags:
 - Ayam Merawang
 
 modification_time: 2022-09-24 07:03:54
-blogger_orig_url: "http://localhost/mitra/ayam-merawang-ayam-kampung-unggul.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ayam-merawang-ayam-kampung-unggul.html"
 ---
 
 Butuh ayam kampung dwifungsi, pedaging sekaligus petelur? Ayam merawang tepat
@@ -62,10 +62,10 @@ bisa menggunakan pakan komersial yang tersedia di toko hewan. Beternak ayam
 merawang mempunyai beberapa kelebihan dibandingkan dengan ayam lain. Pertama,
 ayam merawang lebih kuat dan tahan lama. Kedua, ayam merawang mudah
 diternakkan karena ia tidak membutuhkan banyak perawatan. Ketiga, ayam
-merawang sangat cocok untuk [peternakan](http://127.0.0.1/mitra/peternakan
+merawang sangat cocok untuk [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan") skala kecil. Keempat, harga ayam merawang relatif murah.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Ayam-
-Merawang-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Ayam-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Ayam-
+Merawang-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Ayam-
 Merawang.jpg)
 
 ## Pertumbuhan yang Serempak
@@ -86,8 +86,8 @@ atas 5 tahun. Toh, dagingnya bisa dijual seharga Rp20.000/ekor; ayam muda
 Rp25.000/ekor. Jika ingin mendapatkan daging bertekstur lembut, empuk, sedikit
 berserat, gurih, dan beraroma khas sebaiknya dipotong ketika berumur 3 bulan.
 Saat itu bobot betina mencapai 1 kg; jantan 1,2 kg. Warna daging putih
-kemerahan. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Ayam-
-Merawang-babel-300x169.jpg)](http://127.0.0.1/mitra/wp-
+kemerahan. [![](http://localhost/mitra/wp-content/uploads/2020/11/Ayam-
+Merawang-babel-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Ayam-Merawang-babel.jpg)
 
 ## Boros Pakan

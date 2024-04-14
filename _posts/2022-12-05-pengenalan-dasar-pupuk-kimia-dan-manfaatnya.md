@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-12-05 14:26:18
-blogger_orig_url: "http://localhost/mitra/pupuk-kimia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pupuk-kimia.html"
 ---
 
 Pupuk kimia adalah pupuk yang berasal dari bahan-bahan kimia yang dibuat di
@@ -87,7 +87,7 @@ pupuk buatan organik. Ini adalah pupuk yang terbuat dari bahan alami seperti
 jerami, kulit buah, dan kotoran hewan. Pupuk organik ini dapat membantu
 mengurangi polusi dan meningkatkan produksi tanaman. Pada saat ini, pupuk
 kimia telah menjadi salah satu produk
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian") paling populer di
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian") paling populer di
 Indonesia. Pemerintah terus berupaya untuk meningkatkan produksi pupuk kimia
 dan membuatnya semakin mudah diakses oleh petani. Dengan demikian, pupuk kimia
 telah berkembang menjadi salah satu bagian terpenting dari industri pertanian

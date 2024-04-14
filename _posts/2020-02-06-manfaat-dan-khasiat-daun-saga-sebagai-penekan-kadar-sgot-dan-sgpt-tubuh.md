@@ -3,14 +3,14 @@ layout: post
 title: 'Manfaat Dan Khasiat Daun Saga Sebagai Penekan Kadar SGOT dan SGPT Tubuh'
 categories: Herbal|kesehatan
 date: 2020-02-06 13:15:46
-author: Anton N
+author: Yudianto
 image: media/
 tags:
 - daun saga
 - hepatitis C
 
 modification_time: 2020-02-06 13:15:46
-blogger_orig_url: "http://localhost/mitra/air-rebusan-daun-saga-obat-hepatitis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/air-rebusan-daun-saga-obat-hepatitis.html"
 ---
 
 Derita Ida diawali dengan tubuh yang sering lemas. Karena seabrek kesibukan
@@ -44,7 +44,7 @@ menimbulkan hepatitis kronis, penderita menjadi sumber infeksi karena menular.
 Dalam perkembangannya menyebabkan sirosis yang sangat berpotensi menjadi
 kanker hati. Penderita dewasa umumnya tak bisa disembuhkan. VHC hanya dapat
 diatasi dengan interferon. Itu pun [untuk penderita berusia di bawah 45 tahun,
-tak ada sirosis, dan](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-
+tak ada sirosis, dan](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-
 walet.html) infeksi belum berlangsung lama. Harganya sangat mahal. “Untuk
 mendapatkan obat itu, penderita harus menyediakan minimal Rp lOO-juta,” tutur
 Setiawan.
@@ -58,7 +58,7 @@ berbagi cerita, Ida menghubungi Purnama Sariningrum, sahabatnya. Tak disangka
 Puri-sebutan akrab Purnama-punya pengalaman serupa. Putrinya yang terkena
 hepatitis B pada 1992, sembuh setelah diberi air rebusan daun saga. Puri
 mengetahui pengobatan dengan saga setelah membaca beberapa buku tentang
-[tanaman herbal.](http://127.0.0.1/mitra/terapi-ketergantungan-narkoba-
+[tanaman herbal.](https://www.mitrausahatani.com/terapi-ketergantungan-narkoba-
 lewat.html) Kebetulan tanaman itu banyak tumbuh di kebun Ida. Hanya saja ia
 tak tahu khasiatnya mengobati hepatitis. Hatinya kian mantap mencoba
 pengobatan dengan saga setelah membaca artikel pengobatan hepatitis dengan
@@ -95,7 +95,7 @@ glisirizin, daun saga juga mengandung protein, vitamin A, BI, B6, C, kalsium
 oksalat, flisirizinat, polygalacturomic acid, dan pentosan. Daun saga bersifat
 netral dan berkhasiat membersihkan panas, antiradang, dan diuretik. Tanaman
 rambat itu juga sering digunakan [untuk mengobati sariawan, asma, batuk,
-radang tenggorokan, dan](http://127.0.0.1/mitra/manfaat-susu-kambing-
+radang tenggorokan, dan](https://www.mitrausahatani.com/manfaat-susu-kambing-
 etawa.html) peluruh dahak. Amandel, radang mata, dan ambeien juga disembuhkan
 daun saga. Anggota famili Papilonaceae itu berupa perdu dengan pokok batang
 kecil, merambat, dan melilit. Daun majemuk berbentuk bulat telur dan berukuran

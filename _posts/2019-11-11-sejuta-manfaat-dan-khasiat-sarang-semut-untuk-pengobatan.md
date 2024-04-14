@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2019-11-11 16:24:00
-blogger_orig_url: "http://localhost/mitra/sejuta-manfaat-dan-khasiat-sarang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sejuta-manfaat-dan-khasiat-sarang.html"
 ---
 
 Bagi suku-suku di barat Jayawijaya, Papua, seperti suku Njali dan suku Dani,
@@ -22,8 +22,8 @@ Rahasia khasiat anggota famili Rubiaceae itu baru sedikit tersibak. Tak heran
 Myrmecodia sp itu dibiarkan jatuh membusuk di atas pohon. Kecuali Hendro
 Saputro yang mengolahnya menjadi **kapsul untuk berbagai penyakit**. [caption
 id="attachment_15420" align="aligncenter" width="640"][![sarang semut
-papua](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/semut_640x444.jpg)](http://127.0.0.1/mitra/wp-
+papua](http://localhost/mitra/wp-
+content/uploads/2019/11/semut_640x444.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/semut_640x444.jpg) sarang semut[/caption]
 
 ## Tanaman berkhasiat obat
@@ -56,8 +56,8 @@ Partomiharjo dari Pusat Penelitian dan Pengembangan Biologi LIPI di Bogor,
 sebetulnya khasiat sarang semut Papua tidak kalah soal keragaman jenis
 dibanding Papua Nugini. "Mereka itu satu daratan. Namun, Papua Nugini lebih
 terkenal karena semua eksplorasi sarang semut di sana terdata lengkap,” ujar
-kurator anggota famili Rubiaceae itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/semut_571x480.jpg)](http://127.0.0.1/mitra/wp-
+kurator anggota famili Rubiaceae itu. [![](http://localhost/mitra/wp-
+content/uploads/2019/11/semut_571x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/semut_571x480.jpg) Keterangan
 
   1. Bagian ujung sarang semut yang berdaun dibuang menggunakan pisau.
@@ -78,8 +78,8 @@ Jerman, Cagar Alam Pasoh di Negeri Sembilan, Malaysia, juga surga lain
 myrmecodia dan hydnophytum. Bahkan dibandingkan Papua, keragaman jenis yang
 terdata di sana lebih banyak, mencapai 19 jenis. Mereka dijumpai tersebar
 mulai dari rawa-rawa hingga hutan tropis dataran rendah di ketinggian 2.400 m
-dpi.[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/peta_640x390-1.jpg)](http://127.0.0.1/mitra/wp-
+dpi.[![](http://localhost/mitra/wp-
+content/uploads/2019/11/peta_640x390-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/peta_640x390-1.jpg)
 
 ## Sebaran myrmecodia di tanah air
@@ -94,7 +94,7 @@ Utara (varietas menandensis), Kalimantan (apoensis), hingga Flores (rumphii).
 Uniknya Jawa juga disebut-disebut sebagai habitat varietas armata. Plant
 Resources of South-East Asia menyebutkan penduduk menamainya urek-urek polo.
 Anehnya dalam penelusuran literatur oleh [Mitra Usaha
-Tani](http://127.0.0.1/mitra) nama itu lebih cenderung menunjukkan panggilan
+Tani](https://www.mitrausahatani.com) nama itu lebih cenderung menunjukkan panggilan
 bagi rumput mutiara _Hedyotis corymbosa_. Kerancuan itu juga terjadi di negeri
 serumpun, Malaysia. Di sana sarang semut disebut periuk hantu. Padahal nama
 itu tak lain sebutan nepenthes Publikasi lain oleh tim dari Department of
@@ -103,6 +103,6 @@ di Papua Nugini, memperkuat dugaan jika Jawa Barat merupakan rumah utama
 varietas armata. Di sana diungkapkan varietas armata tersebar di Bogor seperti
 di Leuwiliang, Gunung Pancar, dan Gunung Salak. "Mungkin dahulu ada saat
 hutannya di sana masih alami. Tapi kondisi sekarang lain, belum ada pengecekan
-lagi,’ ujar Tukirin ([MUT](http://127.0.0.1/mitra/))
+lagi,’ ujar Tukirin ([MUT](https://www.mitrausahatani.com/))
 
 

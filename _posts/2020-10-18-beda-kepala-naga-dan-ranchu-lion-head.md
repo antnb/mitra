@@ -11,7 +11,7 @@ tags:
 - ranchu
 
 modification_time: 2020-10-18 12:32:07
-blogger_orig_url: "http://localhost/mitra/beda-kepala-naga-dan-ranchu-lion.html"
+blogger_orig_url: "http://www.mitrausahatani.com/beda-kepala-naga-dan-ranchu-lion.html"
 ---
 
 Panitia kontes ikan hias di Plaza Gajah Mada akhirnya menggabungkan ranchu dan
@@ -28,7 +28,7 @@ itu, “Yang tak memenuhi standar ranchu, digolongkan sebagai lion head,” tuli
 Pet Mag. Menurut Hendrik, peternak di Bandung, punggung ranchu cenderung
 membulat mirip setengah lingkaran. Sedangkan lion head agak panjang dan
 cenderung mendatar. Dengan begitu bentuk tubuh menyerupai kotak. ![Ranchu lion
-head](http://127.0.0.1/mitra/wp-content/uploads/2022/04/lion-head.jpg)
+head](http://localhost/mitra/wp-content/uploads/2022/04/lion-head.jpg)
 
 ## Punggung dan ekor
 
@@ -62,7 +62,7 @@ memahami kriteria penjurian mutlak bagi hobiis. Tujuannya, agar mampu membawa
 ikan ideal ke ajang kontes. Menurut Bahardiman, juri maskoki asal Bandung,
 penilaian meliputi 7 hal. Porsi penilaian untuk ranchu dan lion head meliputi
 anatomi cukup besar juga menghiasi area di atas tulang insang hingga di atas
-mulut. Coba amati, sekilas kepala [ikan hias](http://127.0.0.1/mitra/ikan-hias
+mulut. Coba amati, sekilas kepala [ikan hias](https://www.mitrausahatani.com/ikan-hias
 "ikan hias") itu jadi mirip naga. Untuk jambul itu masyarakat Jepang menyebut
 thase gashira atau muka naga. Di situlah duduk perkara mengapa kerabat ikan
 mas itu digelari dragon head. Hanya itu perbedaan mereka? Tidak juga. Pada

@@ -11,12 +11,12 @@ tags:
 - ternak
 
 modification_time: 2020-11-08 12:36:28
-blogger_orig_url: "http://localhost/mitra/quail-farm-konsep-beternak-secara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/quail-farm-konsep-beternak-secara.html"
 ---
 
 Beternak puyuh secara kolektif adalah konsep baru yang diperkenalkan PT Global
 Agromedia. Peminat agribisnis yang ingin berinvestasi di
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") dapat terjun
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") dapat terjun
 langsung ke bidang ini. Agar berhasil mereka difasilitasi dan dibimbing oleh
 tenaga berpengalaman dan profesional agar berhasil. Pada dasarnya PT Global
 Agromedia menjual ternak dengan pelayanan purnajual. Ibaratnya membeli truk,
@@ -29,8 +29,8 @@ langsung mengawasi hasil produksi dari hari ke hari. Turun naik produksi dapat
 diketahui oleh investor. Tingkat keuntungan pada bulan lalu dijadikan
 indikator untuk menentukan besarnya keuntungan yang dibagikan/ditawarkan
 kepada calon investor/ peternak baru. Berarti konsep ini menerapkan sistem
-syariah. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Quail-
-Farm1.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Quail-Farm1.jpg)
+syariah. [![](http://localhost/mitra/wp-content/uploads/2020/11/Quail-
+Farm1.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Quail-Farm1.jpg)
 
 ## Bisa magang sambil belajar
 
@@ -54,8 +54,8 @@ harga telur Rp80-Rp85/butir di tingkat peternak. Jika dihargai seperti di
 Bogor, Rp95/ butir, tentu pendapatan lebih besar lagi. Di Yogyakarta terdapat
 sekitar 100 peternak dengan produksi tidak kurang dari sejuta butir per hari
 dengan tingkat produktivitas 80% dari populasi. Risiko ditanggung
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Quail-
-Farm.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Quail-Farm.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Quail-
+Farm.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Quail-Farm.jpg)
 
 ## Paket Belajar beternak puyuh
 

@@ -12,7 +12,7 @@ tags:
 - panen dragon fruit
 
 modification_time: 2022-09-19 17:22:56
-blogger_orig_url: "http://localhost/mitra/bangkitnya-sang-naga-yang-tertidur.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bangkitnya-sang-naga-yang-tertidur.html"
 ---
 
 Tanaman buah naga merah adalah salah satu jenis buah yang banyak dicari oleh
@@ -86,8 +86,8 @@ minggu. Pemangkasan pohon buah naga merah dilakukan setiap tahun sekali.
 ## Bibit yang pendek
 
 [caption id="attachment_7966" align="alignleft" width="207"][![kebun buah
-naga](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_naga1_753x768.jpg)](http://127.0.0.1/mitra/wp-
+naga](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_naga1_753x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_naga1_753x768.jpg) Andalkan air kolam untuk
 penyiraman[/caption] Menurut Suparno, pertumbuhan tanaman di sana tergolong
 lambat. Mestinya, pada masa pertumbuhan panjang sulur bertambah rata-rata 2

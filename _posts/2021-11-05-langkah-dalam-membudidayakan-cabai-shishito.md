@@ -10,7 +10,7 @@ tags:
 - Shishito
 
 modification_time: 2021-11-05 08:49:07
-blogger_orig_url: "http://localhost/mitra/kiat-sukses-bertanam-shisito-peppers.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kiat-sukses-bertanam-shisito-peppers.html"
 ---
 
 Muhammad Saputro, pekebun asal Cipanas tak tertarik lagi bertanam Cabai
@@ -80,8 +80,8 @@ terhitung sama. Cara penanaman yang kedua ternyata memberi hasil yang tak jauh
 beda. "Keuntungannya, kita bisa lebih irit pada bahan, seperti media, polibag,
 dan nutrisi," tutur Dudi. Jika satu polibag satu tanaman pemberian nutrisi
 200cc, polibag yang berisi dua tanaman hanya membutuhkan 300cc. [![Cabai
-shishito yang telah siap panen](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/cabai-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+shishito yang telah siap panen](http://localhost/mitra/wp-
+content/uploads/2021/11/cabai-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/cabai.jpg)
 
 ## Pembentukan cabang

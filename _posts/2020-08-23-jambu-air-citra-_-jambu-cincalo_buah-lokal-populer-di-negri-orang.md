@@ -10,13 +10,13 @@ tags:
 - Jambu Citra
 
 modification_time: 2020-08-23 07:03:28
-blogger_orig_url: "http://localhost/mitra/jambu-air-citra-jambu-cincalo-buah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jambu-air-citra-jambu-cincalo-buah.html"
 ---
 
 Thailand kembali menunjukkan keperkasaannya di dunia buah tropis. Jambu air
 citra dan jambu air cincalo yang dibanggakan Indonesia, sejak 1997 telah
 menjadi andalan ekspor mereka. Padahal di Indonesia, [jambu
-citra](http://127.0.0.1/mitra/topik/jambu-citra) baru dirilis sebagai buah
+citra](https://www.mitrausahatani.com/topik/jambu-citra) baru dirilis sebagai buah
 unggul pada 1 Desember tahun itu. Sampai saat ini belum terdengar ada investor
 kita yang tertarik mengembangkannya dalam skala komersial. Berbeda dengan di
 Indonesia, di Negeri Gajah Putih jambu jambu cincalo dan Jambu Air Citra
@@ -25,14 +25,14 @@ membawa dan mengembangkan bibit jambu cincalo ke Thailand pada November 1995 .
 Pada 1996 giliran Khunlong Thongsamsi memasukkan dan mengembangkan citra di
 Provinsi Rajburi. Memang semula Wichien Waronsari membanggakan jambu manalagi
 alias jambu cincalo sebagai citra. Namun, hasil panen [jambu
-air](http://127.0.0.1/mitra/topik/jambu-air) milik Khunlong pada 1997
+air](https://www.mitrausahatani.com/topik/jambu-air) milik Khunlong pada 1997
 membuktikan, Jambu Air Citra milik Wichien berciri sama dengan jambu cincalo
 dan jambu milik Khunlong berciri sama dengan citra. Akhirnya keduanya sepakat
 menetapkan kedua jambu tersebut sebagai unggulan baru. Nama populer di
 kalangan eksportir pun sampai saat ini disebut ‘manalagi" untuk jambu cincalo
-dan “citra". [![jambu air citra demak](http://127.0.0.1/mitra/wp-
+dan “citra". [![jambu air citra demak](http://localhost/mitra/wp-
 content/uploads/2020/08/jenis-jambu-air-cincalo-
-merah-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/08/jenis-
+merah-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/08/jenis-
 jambu-air-cincalo-merah.jpg)
 
 ## Varietas Jambu Air Yang Cepat beradaptasi
@@ -62,9 +62,9 @@ optimis Jambu Air Citra produksinya menjadi andalan ekspor yang menjanjikan.
 Optimisme Khunlong bukan tanpa alasan. Pengalaman Berpuluh tahun sebagai
 eksportir mangga dan kelapa pan zanwangi meyakinkannya. Hasil temuannya ini
 pulalah yang mengantarkannya menjadi petani hortikultura teladan nasional
-tahun 1999. [![buah jambu air citra](http://127.0.0.1/mitra/wp-
+tahun 1999. [![buah jambu air citra](http://localhost/mitra/wp-
 content/uploads/2020/08/jenis-jambu-air-
-unggulan-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+unggulan-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/08/jenis-jambu-air-unggulan.jpg)
 
 ## Bibit Buah Unggulan Sejak 1997
@@ -76,7 +76,7 @@ kedua jambu itu berlangsung selama 7 bulan, dari Desember sampai Juni.
 Kelemahan kedua jambu ini di Indonesia berupa buah mudah pecah dan agak kesat
 rasanya, di sana bisa diatasi. Mereka melakukan pengaturan air, pemupukan, dan
 pemanenan yang tepat. Selain Jambu Air Citra dan jambu cincalo, Thailand juga
-masih mengandalkan 7 [jenis jambu air](http://127.0.0.1/mitra/jenis-jenis-
+masih mengandalkan 7 [jenis jambu air](https://www.mitrausahatani.com/jenis-jenis-
 jambu-air-unggulan.html) lainnya untuk dilempar ke pasar ekspor (lihat tabel
 1). Enam jenis asli Thailand, dan satu lagi dari Malaysia. Jambu-jambu air ini
 diekspor ke Hongkong, Taiwan, Singapura, Eropa, Amerika, dan Jepang. Di

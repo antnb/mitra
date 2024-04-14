@@ -11,7 +11,7 @@ tags:
 - flower
 
 modification_time: 2020-11-10 08:08:45
-blogger_orig_url: "http://localhost/mitra/aalsmeer-flower-auction-sehari-jual.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aalsmeer-flower-auction-sehari-jual.html"
 ---
 
 Rangkaian rak bunga berhenti. Petugas lelang mengambil seikat bunga matahari
@@ -23,7 +23,7 @@ segala jenis bunga berdatangan dari berbagai pelosok dunia. Australia, Cina,
 Israel, Kenya, Puerto Rico, Zimbabwe, dan Zambia rutin menjajakan bunga di
 pelelangan itu. Truk kontainer 40 feet hilir mudik mengangkut bunga potong
 masuk pada sore hingga malam hari sebelum dilelang; [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), siang. Semua bunga
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"), siang. Semua bunga
 potong ditampung dalam ruang berpendingin seluas 30.000 m2. Ruang tunggu itu
 sebagian kecil dari [Aalsmeer Flower
 Auction](https://en.wikipedia.org/wiki/Aalsmeer_Flower_Auction) yang luasnya
@@ -63,8 +63,8 @@ dikemas bunga untuk ekspor langsung terbang ke berbagai negara dan tiba di
 konsumen pada sore hari. Lebih 2.000 truk kontainer siap mengangkut bunga-
 bunga itu ke Bandara Schiphol atau langsung ke negara tujuan di Eropa.
 [caption id="attachment_20408" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Aalsmeer-
-Flower-.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Aalsmeer-
+width="1511"][![](http://localhost/mitra/wp-content/uploads/2020/11/Aalsmeer-
+Flower-.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Aalsmeer-
 Flower-.jpg) bunga masuk ke proses pelelangan[/caption]
 
 ### Varietas baru Yang Menjadi Tren dunia
@@ -83,8 +83,8 @@ Warna-warna zantedeschia itu pun unik-unik, kuning-cokelat dan ungu. Namun,
 mawar tercatat sebagai bunga dengan volume transaksi terbesar. Hampir semua
 warna ada, termasuk warna hijau, yang langka di Indonesia. Pada 2001, mawar
 yang terjual 1,67-miliar tangkai dari 300 varietas.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Aalsmeer-Flower-
-Auction.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Aalsmeer-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Aalsmeer-Flower-
+Auction.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Aalsmeer-
 Flower-Auction.jpg)
 
 ### Gabungan 2 pelelangan

@@ -11,7 +11,7 @@ tags:
 - kepala putik
 
 modification_time: 2021-01-05 10:25:10
-blogger_orig_url: "http://localhost/mitra/cara-menyilangkan-euphorbia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-menyilangkan-euphorbia.html"
 ---
 
 Kang sapaan Kang Chien Chung selektif menggunakan indukan. Tak hanya
@@ -42,13 +42,13 @@ harus diperhatikan saat penyilangan:
   5. Simpan biji-biji hingga kering dalam rak-rak yang diberi nomor. Dalam 1 buah biasanya terdapat 2 sampai 4 biji. Setelah kering letakkan biji di media persemaian berupa campuran sekam bakar dan pasir. Untuk pot berdiameter 15 cm taburi 20 sampai 30 biji agar populasi tidak terlalu padat. Kang memanfaatkan wadah plastik tertutup sebagai pot.
   6. Siram tanaman dengan air yang sudah dicampur anticendawan. Tempatkan pot di lokasi teduh dengan intensitas cahaya 70 sampai 80%. Saat pertumbuhan tanaman, cukup diberi pupuk penguat akar. Bibit setinggi 5 sampai 7 cm pindahkan ke pot yang lebih besar dan tanaman bisa dikeluarkan dari ruang karantina. Untuk memacu pertumbuhan bisa digunakan pupuk kandang. Pupuk kimia juga bisa diberikan asal jangan terlalu pekat. Toh, tanpa pupuk pun tanaman itu selalu mengeluarkan bunga. Tanaman mulai berbunga pada umur 6-8 bulan.
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/01/silang-400x239.jpg)
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/01/sambung-
-euphorbia-400x237.jpg) ![](http://127.0.0.1/mitra/wp-
+![](http://localhost/mitra/wp-content/uploads/2021/01/silang-400x239.jpg)
+![](http://localhost/mitra/wp-content/uploads/2021/01/sambung-
+euphorbia-400x237.jpg) ![](http://localhost/mitra/wp-
 content/uploads/2021/01/menyilangkan-euphorbia-400x239.jpg)
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/01/menyilangkan-bunga-
-euphorbia-400x234.jpg) ![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/euphorbia1-400x238.jpg) ![](http://127.0.0.1/mitra/wp-
+![](http://localhost/mitra/wp-content/uploads/2021/01/menyilangkan-bunga-
+euphorbia-400x234.jpg) ![](http://localhost/mitra/wp-
+content/uploads/2021/01/euphorbia1-400x238.jpg) ![](http://localhost/mitra/wp-
 content/uploads/2021/01/euphorbia-400x262.jpg)
 
 

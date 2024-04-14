@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 11:58:17
-blogger_orig_url: "http://localhost/mitra/langkah-dan-pencegahan-busuk-daun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/langkah-dan-pencegahan-busuk-daun.html"
 ---
 
 _Busuk daun momok pekebun kentang pada musim hujan. Daun yang semula hijau
@@ -46,7 +46,7 @@ Selain itu, lakukan rotasi dengan tanaman lain di luar famili Solanaceae
 selama 8 bulan. Tujuannya agar umbi terinfeksi yang tertinggal di lahan tumbuh
 dan mudah dicabut. Kentang yang tak lolos sortir saat panen sebaiknya tak
 dibiarkan tertimbun di lahan. Pendam di lokasi yang jauh dari areal
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") atau jadikan pakan
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") atau jadikan pakan
 ternak. **3\. Atur jarak tanam** Jarak tanam terlalu rapat mengakibatkan
 kelembapan tinggi. Untuk itu, perlebar jarak tanam hingga 10-20% dibanding
 musim kemarau. Dengan cara itu kelembapan tinggi dapat dihindari. Jarak

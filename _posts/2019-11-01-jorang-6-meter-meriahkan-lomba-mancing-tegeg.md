@@ -13,7 +13,7 @@ tags:
 - mancing
 
 modification_time: 2019-11-01 14:41:00
-blogger_orig_url: "http://localhost/mitra/jorang-6-meter-meriahkan-lomba-mancing.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jorang-6-meter-meriahkan-lomba-mancing.html"
 ---
 
 Aten hanya memerlukan 0,5 menit untuk mengangkat ikan berbobot rata-rata 0,4
@@ -24,8 +24,8 @@ red) di kolam pemancingan. Menurut pemancing senior di Tangerang Selatan,
 Provinsi Banten, Sumaryono, tegeg jenis joran yang panjangnya 3,5-6 m. Ukuran
 joran yang panjang itu agar kail dapat dilempar ke tengah kolam. Harap mafhum
 memancing dengan cara tegeg tidak menggunakan ril untuk menggulung senar.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/mancing_640x480.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/11/mancing_640x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/mancing_640x480.jpg)
 
 ## Lomba Mancing Ikan Dengan Suasana Alam liar
@@ -94,8 +94,8 @@ Wangunsari Giri Setiadi, sangat mendukung lomba mancing dengan tegeg itu.
 Acara itu berlangsung meriah dan dihadiri 54 pemancing dari Jakarta, Bogor,
 dan Depok. Peserta yang berminat sebenarnya lebih dari 54 orang. Namun,
 panitia membatasi 54 orang menyesuaikan kapasitas kolam.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/Mancing1-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/11/Mancing1-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/Mancing1.jpg)
 
 ## Para pemenang Lomba Mancing
@@ -111,7 +111,7 @@ menyediakan 54 ikan yang diberi pita menyesuaikan jumlah lapak. Kiki menjadi
 jawara di kategori Ikan Pita Terbanyak karena sukses mendapatkan 8 ikan
 berpita. Atas prestasi itu Hayat, Den, dan Kiki mendapat beragam hadiah
 seperti trofi, sertifikat, uang tunai, dan bibit srikaya new varietas dari
-[Majalah mitra usaha tani](http://127.0.0.1/mitra/). Mereka senang dengan
+[Majalah mitra usaha tani](https://www.mitrausahatani.com/). Mereka senang dengan
 keberhasilan itu dan mengakui memancing tegeg di kolam memiliki sensasi
 tersendiri.
 

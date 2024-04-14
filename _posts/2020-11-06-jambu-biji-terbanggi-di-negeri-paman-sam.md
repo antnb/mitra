@@ -10,7 +10,7 @@ tags:
 - jambu biji
 
 modification_time: 2020-11-06 06:08:45
-blogger_orig_url: "http://localhost/mitra/jambu-biji-terbanggi-di-negeri-paman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jambu-biji-terbanggi-di-negeri-paman.html"
 ---
 
 "Again, Madam?" tanya pramusaji Big Dean's Cafe di bilangan Ocean Front Walk,
@@ -27,8 +27,8 @@ diekspor Psidium guajava itu melewati beberapa proses. Ia segera dicuci bersih
 sehabis dipanen. Kulit dikupas dan biji dibuang. Daging buah lalu dipotong
 seukuran dadu. Bersama pepaya dan nanas kemudian dimasukkan ke kaleng. Sebelum
 ditambah pemanis disterilisasi untuk mematikan kuman.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Jambu-Biji-
-Terbanggi.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Jambu-Biji-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Jambu-Biji-
+Terbanggi.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Jambu-Biji-
 Terbanggi.jpg)
 
 ## Bobot Jambu biji yang seragam
@@ -39,7 +39,7 @@ anggota keluarga Myrtaceae itu diimpor dari Thailand. Namun, untuk menekan
 biaya produksi belakangan dilakukan uji tanam di Lampung. Hasilnya, “Kualitas
 buah sama baik seperti impor,” ucap Ir Palupi Puspitorini, kepala bagian Crop
 Development. Untuk itu 4 pohon induk berumur 10 tahun disiapkan sebagai
-bakalan bibit. Saat [Mitra Usaha Tani](http://127.0.0.1/mitra) berkunjung
+bakalan bibit. Saat [Mitra Usaha Tani](https://www.mitrausahatani.com) berkunjung
 tanaman asal cangkokan itu berumur 1-8 tahun. Semua berjejer rapi dengan jarak
 tanam 4 m x 3 m. Tanaman berusia 3 tahun sudah berbuah hijau kuning dengan
 bobot seragam, 500 g/buah. Kualitas buah seperti itu diperoleh melalui
@@ -50,8 +50,8 @@ sekitar 50 cm dari pangkal. Pemangkasan dilakukan teratur untuk merangsang
 pertumbuhan tunas baru. Tunas yang keluar selalu dibarengi munculnya bunga.
 Saat bunga mulai berputik, ujung cabang dipangkas kembali untuk membesarkan
 buah. Prinsip pemangkasan mirip pola mangga, yakni 1-3-9.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Jambu-
-Biji-.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Jambu-Biji-.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Jambu-
+Biji-.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Jambu-Biji-.jpg)
 
 ### Pengairan lahan kebun
 

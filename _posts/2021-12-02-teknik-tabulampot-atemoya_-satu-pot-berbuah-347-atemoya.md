@@ -10,7 +10,7 @@ tags:
 - Tabulampot
 
 modification_time: 2021-12-02 08:08:06
-blogger_orig_url: "http://localhost/mitra/teknik-tabulampot-atemoya-satu-pot.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknik-tabulampot-atemoya-satu-pot.html"
 ---
 
 Sebanyak 347 helai tali rafia merah sepanjang 10 cm diikatkan pada tangkai-
@@ -18,19 +18,19 @@ tangkai buah atemoya. Sebanyak itu pula lah jumlah buah chirimorinon yang
 muncul. Ttyman Sutandya, kolektor buah di Blitar, Jawa Timur, membutuhkan
 bantuan rafia karena kelimpungan menghitung jumlah Annona squamosa dan
 cherimoya A. cherimola itu. Waktu pertama mengabari [Mitra Usaha
-Tani](http://127.0.0.1/mitra/) tentang atemoyanya yang banjir buah Tryman
+Tani](https://www.mitrausahatani.com/) tentang atemoyanya yang banjir buah Tryman
 menulis lewat pesan pendek di telepon selular, “Tabulampot Atemoya Jumlahnya
 200-an pohon.” Supaya akurat, peternak ayam itu lalu menandai setiap buah
 dengan tali rafia. Atemoya sarat buah itu tumbuh dalam tangki air plastik
 bekas berwarna jingga bervolume 150 liter. Media tanam berupa campuran tanah,
 pupuk kandang, dan sekam dengan perbandingan 2:1:1. Tajuk pohon yang ditanam 5
-tahun lalu itu selebar 3 m. Waktu [Mitra Usaha Tani](http://127.0.0.1/mitra/)
+tahun lalu itu selebar 3 m. Waktu [Mitra Usaha Tani](https://www.mitrausahatani.com/)
 berkunjung ke kebun Tryman pada akhir 2011 pohon sedang memamerkan pot
 Tabulampot Atemoya berukuran setengah kepalan tangan. “Sebulan lagi baru
 masak," kata Tryman. [caption id="attachment_15514" align="aligncenter"
 width="400"][![Pemupukan intensif tingkatkan produksi
-buah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/buah4-400x260.jpg)](http://127.0.0.1/mitra/wp-
+buah](http://localhost/mitra/wp-
+content/uploads/2021/12/buah4-400x260.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/buah4.jpg) Pemupukan yang intensif tingkatkan produksi
 buah[/caption]
 
@@ -51,14 +51,14 @@ Alih-alih membongkar media dan merepotting tanaman, Tryman malah melubangi
 tepi tangki air sehingga akar bebas keluar mencengkram tanah. Oleh karena itu
 saat pemberian pupuk, Tryman membuat piringan 1 meter di sekitar wadah untuk
 penyiraman dan pemupukan. [![Tabulampot Atemoya yang
-sukses](http://127.0.0.1/mitra/wp-content/uploads/2021/12/buah-
-chirimorinon-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+sukses](http://localhost/mitra/wp-content/uploads/2021/12/buah-
+chirimorinon-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/buah-chirimorinon.jpg)
 
 ## 3 fase pertumbuhan tanaman Atemoya
 
 Menurut Yos Sutiyoso, ahli nutrisi di Jakarta, pupuk organik bersifat
-[menggemburkan tanah](http://127.0.0.1/mitra/tanah-gembur-effective-
+[menggemburkan tanah](https://www.mitrausahatani.com/tanah-gembur-effective-
 microorganism.html) sehingga akar mudah bergerak dan menyerap hara. “Namun
 unsur hara yang disediakan pupuk organik sedikit,” tutur alumnus Institut
 Pertanian Bogor 1 itu. Untuk itu perlu dikombinasikan dengan pemberian pupuk

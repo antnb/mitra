@@ -10,12 +10,12 @@ tags:
 - tiongkok
 
 modification_time: 2022-09-19 06:38:36
-blogger_orig_url: "http://localhost/mitra/buah-leci-manis-berbiji-kecil-dari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-leci-manis-berbiji-kecil-dari.html"
 ---
 
 Leci manis itu bukan dari Samut Songkhram dan Samut Sakhon, Thailand, tapi
 datang dari sebuah desa di Kecamatan Kalibaru, Kabupaten Banyuwangi, Jawa
-Timur. [Mitra Usaha Tani](http://127.0.0.1/mitra/) puas menikmati lezatnya
+Timur. [Mitra Usaha Tani](https://www.mitrausahatani.com/) puas menikmati lezatnya
 leci dari kebun-kebun di Samut Songkhram dan Samut Sakhon, Thailand bagian
 selatan. Varietas khom yang ditanam bercitarasa manis dan kering. Pada bulan
 dengan hawa pengap dan udara panas karena suhu pada siang hari bisa mencapai
@@ -27,8 +27,8 @@ Kalibaru, Kabupaten Banyuwangi, Jawa Timur. Di sebuah ruas jalan tumbuh sebuah
 pohon setinggi 7 m bertajuk seperti pohon lengkeng Dimocarpus longan. Dari
 pohon berumur puluhan tahun itu Haji Kadir memanen 225 kg leci setiap musim,
 panen pada Oktober-November. [caption id="attachment_15504"
-align="aligncenter" width="232"][![leci tiongkok](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/leci-tiongkok-232x300.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="232"][![leci tiongkok](http://localhost/mitra/wp-
+content/uploads/2021/12/leci-tiongkok-232x300.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/leci-tiongkok.jpg) Di Samut Songkhram pohon leci
 berbuah di dataran rendah karena mendapat embusan rendah angin dingin dari
 Chiangmai selama sepekan setiap tahun[/caption]
@@ -36,7 +36,7 @@ Chiangmai selama sepekan setiap tahun[/caption]
 ## Citarasa Buah Yang Manis Dan Legit
 
 Tak banyak yang tahu bila pohon leci tiongkok di persimpangan jalan
-Banyuwangi-Jember menuju [perkebunan](http://127.0.0.1/mitra/perkebunan
+Banyuwangi-Jember menuju [perkebunan](https://www.mitrausahatani.com/perkebunan
 "perkebunan") Glen Nevis, Banyuwangi, itu pohon leci. Mafhum, saat buah mulai
 bermunculan Kadir dengan cekatan membungkus dompolan buah menggunakan karung
 beras berbahan plastik. Sebelum panen, buah sudah habis dipesan kerabat dan

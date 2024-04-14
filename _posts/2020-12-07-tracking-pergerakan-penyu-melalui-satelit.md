@@ -12,7 +12,7 @@ tags:
 - transmiter
 
 modification_time: 2020-12-07 08:50:01
-blogger_orig_url: "http://localhost/mitra/tracking-pergerakan-penyu-melalui.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tracking-pergerakan-penyu-melalui.html"
 ---
 
 Laut Mindanau yang menghampar luas itu beriak pelan. Sang surya yang baru
@@ -42,8 +42,8 @@ pancaran sinyal dari Putri Derawan selama 42 hari menjelajah. Di Laut Mindanau
 itu sinyal terlacak hingga berhari-hari. "Ternyata di sanalah lokasi feeding
 groundnya"ujar Dewi. Sejak itu pantauan satelit diputus. Maklum biaya sewa
 satelit selama pelacakan mencapai jutaan rupiah.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/NOAA-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/NOAA-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/NOAA.jpg)
 
 ## Program Bersama Kelautan Berau
@@ -57,7 +57,7 @@ Putri Hijau tercatat paling jauh. Sampai satelit NOAA menangkap sinyal
 terakhir pada 26 Juli 2006 pukul 08:35:51 GMT dari ujung utara Sabah,
 Malaysia, ia sudah mengarungi lautan sejauh 925 km. Penyu hijau memang paling
 mudah dipantau karena populasinya lebih banyak daripada penyu
-[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") Dermochelys
+[belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") Dermochelys
 coriacea, penyu lekang Lepidochelys olivacea, dan penyu sisik Eretmochelys
 imbricata. Pemasangan transmiter pun jauh lebih mudah pada penyu hijau. Penyu
 belimbing karena bentuk karapasnya mirip belahan belimbing sehingga transmiter
@@ -77,8 +77,8 @@ selama pemantauan WWF Indonesia pada 2005. Seekor penyu hijau bertransmiter
 tampak berpindah cepat sekali dari satu lokasi ke lokasi lain dalam pantauan
 satelit NOAA. Yang mengherankan, satelit membaca gerak perpindahan penyu itu
 justru antarpelabuhan! Dengan demikian pasti sang penyu sudah terperangkapjala
-penangkap ikan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/penyu-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+penangkap ikan. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/penyu-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/penyu.jpg)
 
 ## Transmiter pelacak penyu
@@ -109,8 +109,8 @@ yang menetas akan kembali ke tempat semula saat dewasa sekitar 20 sampai 30
 tahun ke depan. "Itu terjadi karena ada masa imprinting memori untuk merekam
 kondisi lingkungan saat ia ditetaskan," katanya. [caption
 id="attachment_19747" align="aligncenter" width="1024"][![Satelit NOAA yang
-dipakai untuk melacak pergerakan penyu](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/tracker-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+dipakai untuk melacak pergerakan penyu](http://localhost/mitra/wp-
+content/uploads/2020/12/tracker-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/tracker.jpg) Satelit NOAA yang dipakai untuk melacak
 penyu[/caption]
 

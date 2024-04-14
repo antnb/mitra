@@ -9,7 +9,7 @@ tags:
 - kantong semar
 
 modification_time: 2021-01-05 07:42:55
-blogger_orig_url: "http://localhost/mitra/periuk-monyet-dari-lahan-gambut.html"
+blogger_orig_url: "http://www.mitrausahatani.com/periuk-monyet-dari-lahan-gambut.html"
 ---
 
 Dua tahun lalu, _Nepenthes gracilis_ asal lahan gambut Kalimantan itu " hanya
@@ -19,9 +19,9 @@ senang yang timbul tiap melihat kantong mini keluar dari ujung daun lanset
 itu. Maklum, si periuk monyet ini baru memamerkan kantong-kantongnya setelah 3
 bulan ditanam. Kantong atas ditopang oleh sulur kecil, sedangkan kantong bawah
 tumbuh di atas media pot. Sejak dimuat [mitra usaha
-tani](http://127.0.0.1/mitra/) banyak hobiis yang penasaran dan menanyakan
+tani](https://www.mitrausahatani.com/) banyak hobiis yang penasaran dan menanyakan
 cara memperbanyaknya. Ketakung kantong semar di Bangka memang belum sepopuler
-[tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") lain, tapi
+[tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") lain, tapi
 namanya sudah kondang di mancanegara. Di Thailand tak sedikit orang yang
 mengoleksinya. Bahkan di Belanda anggota famili Nepenthaceae ini sudah
 berkembang menjadi skala industri dan menjadi penyumbang devisa negara.

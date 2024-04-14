@@ -3,13 +3,13 @@ layout: post
 title: 'Khasiat VCO Dan Daun Kecibeling Untuk Penyakit Ginjal'
 categories: artikel|Herbal|kesehatan
 date: 2020-08-16 08:46:24
-author: Anton N
+author: Yudianto
 image: media/ginjal_1200x800.jpg
 tags:
 - 
 
 modification_time: 2020-08-16 08:46:24
-blogger_orig_url: "http://localhost/mitra/khasiat-vco-dan-daun-kecibeling-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-vco-dan-daun-kecibeling-untuk.html"
 ---
 
 _Tetangganya membawa Ruhayati ke sebuah klinik di Cibitung, Kabupaten Bekasi.
@@ -42,14 +42,14 @@ terjadi infeksi pada ginjal kiri,” ujar dokter. Ruhayati kalut. Apa yang
 ditakutkannya: berbaring di meja operasi, bakal menjadi kenyataan. Tiba di
 rumah, ia makin getol minum air rebusan daun kejibeling, kumis kucing, dan
 jamu klingsir demi terhindar dari pisau operasi. [caption id="attachment_1373"
-align="aligncenter" width="509"]![Batu Ginjal](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="509"]![Batu Ginjal](http://localhost/mitra/wp-
 content/uploads/2020/08/asam-laurat_.jpg) Jika kurang dari 7 cm, batu masih
 bisa dihancurkan[/caption]
 
 ### Penghancur Batu Ginjal Alami
 
 Awal November 2015, Ruhayati mencoba [mengkonsumsi minyak kelapa murni alias
-VCO](http://127.0.0.1/mitra/manfaat-virgin-coconut-oil-untuk.html). Itu
+VCO](https://www.mitrausahatani.com/manfaat-virgin-coconut-oil-untuk.html). Itu
 pemberian atasan suaminya yang bekerja di perusahaan pembuat komponen
 otomotif. Ia minum 2 sendok makan VCO sehari. Namun, perutnya malah mual dan
 sakit. Selama 2 hari, ia mondar-mandir ke peturasan. Suaminya terus membujuk

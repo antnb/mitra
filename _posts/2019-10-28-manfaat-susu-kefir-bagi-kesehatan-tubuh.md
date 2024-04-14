@@ -12,7 +12,7 @@ tags:
 - youghurt
 
 modification_time: 2022-09-11 00:17:04
-blogger_orig_url: "http://localhost/mitra/manfaat-kefir-yang-kaya-akan-zat-anti.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-kefir-yang-kaya-akan-zat-anti.html"
 ---
 
 Luka itu muncul dari sekumpulan gelembung mungil mirip jerawat yang
@@ -84,8 +84,8 @@ menolak alergen. Dokter akan meresepkan salep atau krim untuk mengurangi
 peradangan. Bila daerah eksem luka dan bernanah maka diberikan antibiotik
 untuk membunuh bakteri. [caption id="attachment_16074" align="aligncenter"
 width="300"][![Kefir berkhasiat untuk membantu menyembuhkan penyakit kulit
-seperti dermatitis](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/kefir_640x422-300x198.jpg)](http://127.0.0.1/mitra/wp-
+seperti dermatitis](http://localhost/mitra/wp-
+content/uploads/2019/10/kefir_640x422-300x198.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/kefir_640x422.jpg) Kefir berkhasiat membantu
 menyembuhkan penyakit kulit seperti dermatitis[/caption]
 

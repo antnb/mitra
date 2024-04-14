@@ -11,7 +11,7 @@ tags:
 - macan tutul
 
 modification_time: 2021-05-31 04:42:24
-blogger_orig_url: "http://localhost/mitra/golden-leopard-diskus-si-cakram.html"
+blogger_orig_url: "http://www.mitrausahatani.com/golden-leopard-diskus-si-cakram.html"
 ---
 
 Motif macan tutul menghiasi tubuh nan pipih. Corak merah itu membungkus
@@ -30,8 +30,8 @@ Tegal itu hanya dapat membeli seekor.
 
 ## Discus Golden Leopard Persilangan pertama
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/diskus.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/diskus.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/diskus.jpg) Tetesan peluh dan perasan otak para
 penangkar di Malaysia akhirnya melahirkan strain baru. Ia hasil silangan jenis
 golden dan leopard. Golden bagai selembar kain keemasan yang tinggal
@@ -51,8 +51,8 @@ sirip atas dan bawah. Santoso menduga genetik golden kuat menurun ke anak,
 sedangkan totol merah dari leopard. Untuk menghasilkannya induk betina berupa
 golden kuning solid dan leopard berwarna dasar cokelat kekuningan sebagai
 pejantan. “Warna dasar itu menghasilkan kualitas golden leopard yang lebih
-baik," ujarnya. [![](http://127.0.0.1/mitra/wp-content/uploads/2021/05/Golden-
-Leopard-Diskus-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+baik," ujarnya. [![](http://localhost/mitra/wp-content/uploads/2021/05/Golden-
+Leopard-Diskus-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Golden-Leopard-Diskus.jpg)
 
 ## Discus Golden Leopard Hasil Menangkarkan sendiri

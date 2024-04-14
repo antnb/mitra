@@ -10,7 +10,7 @@ tags:
 - ekspor
 
 modification_time: 2022-09-12 16:50:42
-blogger_orig_url: "http://localhost/mitra/ekspor-belut-peluang-pasar-terbentang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ekspor-belut-peluang-pasar-terbentang.html"
 ---
 
 Ekspor belut belut sebanyak 1 ton/minggu dari Singapura hanya seperempatnya
@@ -83,7 +83,7 @@ berkunjung selalu kecewa,” jelas Rudy Priswanto, asisten manajer. Waralaba
 khusus ikan konsumsi di kawasan niaga Sudirman, Jakarta Selatan, itu,
 mensyaratkan belut berukuran 14 cm, gemuk, dan sehat. Belut hidup dijual Rp
 31.000/kg. “Belut sudah dibersihkan daleman-nya dan tanpa kepala,” tutur
-sarjana [perikanan](http://127.0.0.1/mitra/perikanan "perikanan") Universitas
+sarjana [perikanan](https://www.mitrausahatani.com/perikanan "perikanan") Universitas
 Brawijaya, Malang itu. Gelael di jalan MT Haryono juga menjual belut hidup.
 Setiap pekan mampu menjual 8-10 kg, harga per kilo Rp 25.000. Sayangnya,
 “sejak Desember 2001 belut belum dipasok lagi,’’jelas Dodi, supervisor Gelael.
@@ -96,7 +96,7 @@ produksi rendah. Namun, saking banyaknya pemburu, jumlah hasil tangkapan kian
 berkurang. “Di mana-mana terjadi penurunan populasi. Habisnya belut selalu
 dicari setiap hari,” papar Hidayat. Budidaya belut solusi terbaik untuk
 memenuhi permintaan ekspor belut. Sayangnya, [cara beternak
-belut](http://127.0.0.1/mitra/budidaya-dan-cara-beternak-belut-dalam.html)
+belut](https://www.mitrausahatani.com/budidaya-dan-cara-beternak-belut-dalam.html)
 belum populer bahkan belum banyak yang tahu. Tak heran, dari 100 bibit yang
 ditebar hanya 10 ekor terpanen. Pemain ekspor belut yang berhasil memang
 hitungan jari saja. Hidayat misalnya. Ia berhasil membesarkan belut di

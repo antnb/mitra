@@ -10,10 +10,10 @@ tags:
 - rambutan
 
 modification_time: 2022-09-19 05:44:44
-blogger_orig_url: "http://localhost/mitra/buah-unggulan-alpukat-junjung-sirih.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-unggulan-alpukat-junjung-sirih.html"
 ---
 
-_Alpukat gurih dan pulen tak hanya ada di Tawangmangu atau Bandung. Dua alpukat asal Junjung Sirih, Solok bisa jadi pengganti. Ketika masak warna daging berubah kuning mentega. Saat digigit, rasa manis terasa di lidah._ Di antara 21 jenis [alpukat](http://127.0.0.1/mitra/topik/alpukat "alpukat") hasil penelitian Balitbu Solok, nomor 001 dan 007 cukup istimewa. Jika alpukat biasa hanya berbuah pada Desember-Februari, mereka justru sepanjang tahun. Buahnya lebat dan tak . mudah rontok. Lantaran itulah tingkat | produksi lebih tinggi. Alpukat 001 umur 15 tahun i menghasilkan 300-400 butir buah per tahun. Bahkan produksi 007 umur 17 tahun s mencapai 700-900 buah. Jumlah itu lebih besar dibanding alpukat biasa berumur sama yang hanya 200 butir/pohon/ tahun. Saat dibelah, terlihat daging buah setebal 2 cm berwarna kuning mentega. Jika dikunyah tekstur daging terasa lebih lembut, kesat, dan gurih. Wajar bila kehadiran mereka di arena pameran hasil penelitian hortikultura di Segunung, Jawa Barat pada Agustus 2001, menarik perhatian pengunjung. 
+_Alpukat gurih dan pulen tak hanya ada di Tawangmangu atau Bandung. Dua alpukat asal Junjung Sirih, Solok bisa jadi pengganti. Ketika masak warna daging berubah kuning mentega. Saat digigit, rasa manis terasa di lidah._ Di antara 21 jenis [alpukat](https://www.mitrausahatani.com/topik/alpukat "alpukat") hasil penelitian Balitbu Solok, nomor 001 dan 007 cukup istimewa. Jika alpukat biasa hanya berbuah pada Desember-Februari, mereka justru sepanjang tahun. Buahnya lebat dan tak . mudah rontok. Lantaran itulah tingkat | produksi lebih tinggi. Alpukat 001 umur 15 tahun i menghasilkan 300-400 butir buah per tahun. Bahkan produksi 007 umur 17 tahun s mencapai 700-900 buah. Jumlah itu lebih besar dibanding alpukat biasa berumur sama yang hanya 200 butir/pohon/ tahun. Saat dibelah, terlihat daging buah setebal 2 cm berwarna kuning mentega. Jika dikunyah tekstur daging terasa lebih lembut, kesat, dan gurih. Wajar bila kehadiran mereka di arena pameran hasil penelitian hortikultura di Segunung, Jawa Barat pada Agustus 2001, menarik perhatian pengunjung. 
 
 ## Apa itu Buah Alpukat 001?
 
@@ -63,7 +63,7 @@ Penampilan Sindanglaka mirip rambutan binjai tapi sosoknya lel besar. Buah
 masak berwarna merah tua dan berdaging tebal. Jikt ingin menikmati rambutan
 itu datanglah ke Sindanglaka, Mandi Cianjur. Sebab, ia tidak ditemukan di desa
 lain. Jenis itu ditanar penduduk setempat secara turun-temurun. Buah seukuran
-telur [bebek](http://127.0.0.1/mitra/topik/bebek "bebek") itu tampak istimewa.
+telur [bebek](https://www.mitrausahatani.com/topik/bebek "bebek") itu tampak istimewa.
 Bobot setiap butir mencapai 60 g, dan tebal daging 6 mm. Rasanya manis segar
 dan yuzcy. “Ia juga tahan lama. Jika rambutan biasa seminggu sudah layu,
 sindanglaka masih terlihat segar,” tutur Eman Sulaeman, pemilik beberapa

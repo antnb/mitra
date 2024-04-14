@@ -12,7 +12,7 @@ tags:
 - melon
 
 modification_time: 2021-01-09 13:30:41
-blogger_orig_url: "http://localhost/mitra/melon-jade-flower-varietas-buah-melon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/melon-jade-flower-varietas-buah-melon.html"
 ---
 
 Si telur angsa itulah nama lain buah melon jade flower menjadi primadona di
@@ -52,8 +52,8 @@ Riris. Berkat sosoknya yang mini, satu tanaman bisa menghasilkan 2 butir buah.
 ## Melon Plaza 26
 
 [caption id="attachment_7795" align="alignleft" width="346"][![melon Plaza
-26](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_melon2_1024x733.jpg)](http://127.0.0.1/mitra/wp-
+26](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_melon2_1024x733.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_melon2_1024x733.jpg) Plaza 26, rasa manis
 mencapai 16° briks[/caption] Satu lagi pendatang jenis rock melon. Ia layak
 disebut eksklusif karena begitu istimewa. Daging buah oranye, renyah, dengan
@@ -73,8 +73,8 @@ lainnya, tahan penyakit layu, pecah batang, dan downy maupun powdery mildew.
 ## Melon Istana 5
 
 [caption id="attachment_7796" align="alignleft" width="318"][![Buah Melon
-Istana 5](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_melon1_1024x738.jpg)](http://127.0.0.1/mitra/wp-
+Istana 5](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_melon1_1024x738.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_melon1_1024x738.jpg) Istana 5, primadona baru
 pekebun[/caption] buah melon jade flower diluncurkan Agustus 2004 tepat
 bersamaan dengan penyelenggaraan Pemilu, karena itu ia dinamakan istana

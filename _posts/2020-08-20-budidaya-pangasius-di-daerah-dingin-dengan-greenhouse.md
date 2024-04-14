@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-20 06:27:19
-blogger_orig_url: "http://localhost/mitra/budidaya-pangasius-di-daerah-dingin.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-pangasius-di-daerah-dingin.html"
 ---
 
 _Pangasius bisa dibibitkan di dataran tinggi dengan keberhasilan menetas 95%.
@@ -52,7 +52,7 @@ kesehatan ikan.
 Kelemahan-kelemahan itulah yang melatarbelakangi Erik melakukan pembibitan di
 green house. “Memanfaatkan panas matahari kan gratis, dan tak mencemari
 lingkungan. Hanya saja perangkat untuk menangkapnya relatif besar,” lanjut
-alumni Fakultas [Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian")
+alumni Fakultas [Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian")
 Universitas Padjadjaran itu. Setiap meter greenhouse perlu dana sekitar Rp
 200.000. Belum termasuk bak semen, Rp 200.000/m3. Meskipun, dibandingkan
 pemijahan konvensional sebetulnya tidak bisa dikatakan mahal. Pemijahan
@@ -75,7 +75,7 @@ berhasil menetas 470.000 ekor. Hingga siap jual, pada umur 2 minggu (panjang 1
 in) masih sekitar 450.000 ekor. “Tingkat penetasan dan kelulusan hidup di
 Tapos ini memang tinggi. Di tempat lain umumnya tingkat penetasan hanya 80%,”
 tambah Eric. [caption id="attachment_1460" align="aligncenter"
-width="647"]![pangasius](http://127.0.0.1/mitra/wp-
+width="647"]![pangasius](http://localhost/mitra/wp-
 content/uploads/2020/08/pangasius.jpg) Di bak-bak semen ini proses penetasan
 dan pendederan[/caption]
 

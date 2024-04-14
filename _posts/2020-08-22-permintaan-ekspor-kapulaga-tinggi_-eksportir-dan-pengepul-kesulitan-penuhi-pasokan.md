@@ -10,11 +10,11 @@ tags:
 - kapulaga
 
 modification_time: 2020-08-22 09:39:27
-blogger_orig_url: "http://localhost/mitra/dicari-kapulaga-untuk-ekspor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dicari-kapulaga-untuk-ekspor.html"
 ---
 
 “Di mana saya bisa mendapatkan kapulaga?” tanya Musa Datuk kepada [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Relasi bisnisnya di luar negeri meminta
+Tani](https://www.mitrausahatani.com). Relasi bisnisnya di luar negeri meminta
 kapulaga dalam jumlah besar. Pertengahan tahun lalu PT Multipratama Indahraya
 juga mendapat order ekspor kapulaga. Karena itu Bamunas Setiawan Boediman,
 MBA., sang direktur utama, ingin mengebunkannya di Kuningan, Jawa Barat.
@@ -25,7 +25,7 @@ Menurut Eddy Kumianto, karyawan PT Herba Agronusa Semarang, tahun-tahun
 terakhir ini permintaan ekspor kapulaga cukup banyak. Tahun lalu misalnya,
 penjualan kapulaga oleh perusahaannya mencapai 50 ton. Itupun hanya ke pabrik
 jamu dan pedagang lokal saja. Padahal, "Eksportir juga banyak yang minta,"
-jelas Eddy yang ditemui [Mitra Usaha Tani](http://127.0.0.1/mitra) di
+jelas Eddy yang ditemui [Mitra Usaha Tani](https://www.mitrausahatani.com) di
 kantornya.
 
 ## Ekspor kapulaga Terkendala Pasokan yang kurang
@@ -44,14 +44,14 @@ sulit diharapkan,” jelas Neni. Padahal diakui Humas Nyonya Meneer ini, pabrik
 mereka tak banyak membutuhkan komoditas ini. harga kapulaga per kg Paling
 banter hanya 100kg-200kg per bulan. Karena itu, perusahaannya juga menanam
 kapulaga di areal Kebun Koleksi [Tanaman
-Obat](http://127.0.0.1/mitra/kesehatan "Tanaman Obat") Nyonya Meneer di
+Obat](https://www.mitrausahatani.com/kesehatan "Tanaman Obat") Nyonya Meneer di
 Karangjati, Semarang. Bila sewaktu-waktu diperlukan, dapat dipenuhi dari kebun
 sendiri. Menurut R. Broto Sudibyo dari Klinik Obat Tradisional, Rumah Sakit
 Bethesda Yogyakarta, pabrik jamu tak banyak menyerap kapulaga. Karena itulah
 pedagang jarang yang mau melayani permintaan pabrik jamu. Lihat saja Sadikin,
 kini tak lagi memasok ke pabrik jamu. “Kebutuhannya sedikit, dan
 pengambilannya tak rutin,” ungkap Iyah, putri Sadikin kepada [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Pedagang lain, CV Sari Utama juga tak memasok
+Tani](https://www.mitrausahatani.com). Pedagang lain, CV Sari Utama juga tak memasok
 ke pabrik obat tradisional. “Kebutuhan mereka sangat sedikit,” tutur Denny
 Wiyardi, direkturnya. Sari Utama hanya memasok ke perusahaan kue dan pedagang
 lokal saja. Itupun bukan jenis lokal, tapi kapulaga impor. Memang diakui

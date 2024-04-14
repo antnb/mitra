@@ -10,7 +10,7 @@ tags:
 - ubi jalar
 
 modification_time: 2020-11-02 10:51:57
-blogger_orig_url: "http://localhost/mitra/sepenggal-ubi-meksiko-di-tanah-citatah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sepenggal-ubi-meksiko-di-tanah-citatah.html"
 ---
 
 Vila-vila dan beberapa saung di kanan kiri jalan yang masih terlelap seakan
@@ -27,15 +27,15 @@ menyemak. “Penduduk di sini menyebutnya huhuian,” ujar Gregori Garnadi
 Hambali, peneliti Ipomoea trifida yang menjadi pemimpin rombongan. Peserta
 eksplorasi pagi itu antara lain, Gregori Garnadi Hambali, Koko Cintoko Hadi
 dari CIP (Centro International du Papa), Alex Hartana dan Ismail Maskromo dari
-IPB, serta [Mitra Usaha Tani](http://127.0.0.1/mitra). Senyum Greg sapaan
+IPB, serta [Mitra Usaha Tani](https://www.mitrausahatani.com). Senyum Greg sapaan
 akrab Gregori Garnadi Hambali terkembang saat kaki-kakinya menjejak tanah
 latosol yang kemerah-merahan di dusun sepi itu. Di atas tanah kaya bahan
 organik itulah Ipomoea trifida tumbuh. Kepuasan tergambar jelas di wajah
 peserta rombongan. Diterpa sinar matahari yang mulai naik, derap langkah 5
 pasang kaki itu terdengar bersemangat. Dusun itulah pos pemberhentian pertama,
 menandakan perjalanan yang sebenarnya baru dimulai.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/ubi1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/ubi1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/ubi1.jpg)
 
 ## Sejarah Ubi huhuian
@@ -60,7 +60,7 @@ sekadar omong bila tanaman itu adaptif di hampir semua jenis tanah. Saat
 rombongan mampir di dusun lain berlatar pegunungan kapur, Ipomoea trifida
 banyak dijumpai merambat di batuan karst hingga menyemak. [caption
 id="attachment_20523" align="aligncenter"
-width="1511"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ubu-jalar-
+width="1511"]![](http://localhost/mitra/wp-content/uploads/2020/11/ubu-jalar-
 citatah.jpg) Lahirlah ubi berukuran besar pada generasi lebih lanjut[/caption]
 
 ### Ubi Meksiko di Indonesia

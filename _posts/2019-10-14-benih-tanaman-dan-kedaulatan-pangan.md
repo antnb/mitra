@@ -12,7 +12,7 @@ tags:
 - tanaman
 
 modification_time: 2022-10-17 07:21:21
-blogger_orig_url: "http://localhost/mitra/kedaulatan-benih-tanaman-guna.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kedaulatan-benih-tanaman-guna.html"
 ---
 
 Pangan adalah salah satu komoditas paling penting bagi keberlangsungan hidup
@@ -54,7 +54,7 @@ perdagangan. Pertanian budaya menghormati tanah sebagai ibu, langit sebagai
 ayah, dan benih sebagai anak. Ibu adalah makhluk yang harus dihargai,
 diperlakukan dengan sopan dan dikelola dengan arif. Pemberian pupuk kimia
 berlebihan, penggunaan racun hama yang masif, pengolahan [tanah
-tanpa](http://127.0.0.1/mitra/hobi-bertani-tanpa-media-tanah-ala.html)
+tanpa](https://www.mitrausahatani.com/hobi-bertani-tanpa-media-tanah-ala.html)
 mempedulikan kaidah konservasi merusak ibu. Akibatnya ibu semakin kesulitan
 memberikan peran dan andilnya bagi pemenuhan kebutuhan makhluk hidup di
 dalamnya dan manusia yang menghuni di atasnya.
@@ -159,13 +159,13 @@ yang bekerja di berbagai industri benih menghasilkan 80.000 varietas tanaman,
 sebanyak 59% di antaranya jenis bunga. Petani kecil juga sebagai penjaga utama
 keragaman benih, spesies dan varietas tanaman. Mereka melakukan pemuliaan dan
 memelihara keragaman hingga 7.000 spesies tanaman di seluruh dunia. Sebaliknya
-industri benih dan [sistem pertanian](http://127.0.0.1/mitra/pertanian-padi-
+industri benih dan [sistem pertanian](https://www.mitrausahatani.com/pertanian-padi-
 menggunakan-sistem.html) modern hanya mampu memelihara 120-150 spesies
 tanaman.
 
 ## Revolusi Hijau Dan Sistim Pertanian Monokultur
 
-Revolusi hijau dan [sistem pertanian](http://127.0.0.1/mitra/pertanian-padi-
+Revolusi hijau dan [sistem pertanian](https://www.mitrausahatani.com/pertanian-padi-
 menggunakan-sistem.html) monokultur menjadi penyebab utama penurunan
 keanekaragaman hayati pertanian. Sebelumnya, manusia tergantung pada 10.000
 spesies tanaman pangan dan pertanian. Saat ini hanya 120 spesies dengan 12
@@ -200,8 +200,8 @@ Indonesia. Sebesar 78% pasar benih hortikultura di Indonesia saat ini dikuasai
 perusahaan asing. Bila hal itu terus berlanjut, berdampak pada masa depan
 pangan dan pertanian di Indonesia, sekaligus mengubur kedaulatan pangan.
 [![kedaulatan pangan dalam usaha pertanian tanaman
-pangan](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/314508ce2bb80f89c7f7f6a0063ba7cc_640x360-300x169.jpg)](http://127.0.0.1/mitra/wp-
+pangan](http://localhost/mitra/wp-
+content/uploads/2019/10/314508ce2bb80f89c7f7f6a0063ba7cc_640x360-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/314508ce2bb80f89c7f7f6a0063ba7cc_640x360.jpg)
 
 ## Kunci utama Kedaulatan Benih Tanaman Pangan

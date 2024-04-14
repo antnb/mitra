@@ -10,10 +10,10 @@ tags:
 - Nanas madu
 
 modification_time: 2021-09-07 09:06:27
-blogger_orig_url: "http://localhost/mitra/ada-kebun-nanas-500-ha-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ada-kebun-nanas-500-ha-di.html"
 ---
 
-Buah [nanas madu](http://127.0.0.1/mitra/topik/nanas-madu) berbentuk bulat
+Buah [nanas madu](https://www.mitrausahatani.com/topik/nanas-madu) berbentuk bulat
 lonjong bersisik tergantung di tiang stainless steel di sebuah pasar swalayan
 di Pekanbaru, Riau itu menarik banyak pengunjung. Sosok besar, 1,5 kg dan
 warna kuning kehijauan membangkitkan selera makan siapa pun yang melihatnya.
@@ -26,7 +26,7 @@ buah dari luar kota memilih dan menyeleksi nanas dengan kualitas yang
 diinginkan. Buah berkuncung itu diangkut ke atas truk. Setiap 3 hari sekali 2
 sampai 3 truk berkapasitas 4 ton mengangkut nanas dikirim ke Padang, Medan,
 dan Batam. TH Mix Farming juga memasok ke beberapa [pasar
-swalayan](http://127.0.0.1/mitra/topik/pasar-swalayan), seperti Gelael,
+swalayan](https://www.mitrausahatani.com/topik/pasar-swalayan), seperti Gelael,
 Matahari, dan Ramayana. Meski dalam jumlah kecil, ia mengirim nanas untuk
 kebutuhan hotel berbintang dan pabrik roti di ibukota Bumi Lancang Kuning itu.
 Itu lantaran nanas yang diproduksi, " Ingin mencicipi nanas enak, di sini
@@ -42,14 +42,14 @@ begitu memasuki pintu gerbang. Anggota Bromeliaceae itu ditanam rapi dalam
 petakan-petakan kecil, masing-masing berisi 2000 tanaman per ha. Jarak antar
 barisan 1,5 m dan antartanaman 50 cm x 70 cm. Masing-masing petak dipisahkan
 parit yang selalu tergenang air sedalam 1 sampai 1,5 m dari permukaan tanah.
-Konsep itu meniru [perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan")
+Konsep itu meniru [perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan")
 nanas di lahan gambut Kalimantan Barat. Menurut Suyatna, manajer kebun TH Mix
 Farming penanaman di lahan gambut perlu drainase yang baik agar buah bagus.
 "Kala penghujan nanas cenderung banyak mengandung air; kemarau kekurangan air
 sehingga buah asam," katanya. Areal kebun nanas terbanyak berada di Desa
 Kuapan, Kecamatan Kualu, sekitar 232 ha. Di Desa Pulobirandang, Kecamatan
 Tambang ada 72 ha sudah berproduksi. Areal 40 ha lagi dimanfaatkan untuk
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") sapi dan kolam
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") sapi dan kolam
 ikan. "Rencananya lokasi ini bakal dibuat konsep agrowisata," ujarnya.
 Sebagian lahan masih proses pembuatan guludan yang diperkirakan selesai awal
 tahun ini. Pemandangan hijau di kebun yang terlihat sekarang ini kontras
@@ -65,7 +65,7 @@ ha," ujarnya. Sebanyak 120 tenaga ketja terserap untuk proyek itu. TH Mix
 Farming terbuka untuk umum. Siapa pun boleh datang ke sana. Mereka leluasa
 memetik dan makan nanas sepuasnya di tempat. Bahkan boleh membawa pulang
 sebagai buah tangan. [caption id="attachment_13949" align="aligncenter"
-width="1511"]![kebun Nanas Kampar](http://127.0.0.1/mitra/wp-
+width="1511"]![kebun Nanas Kampar](http://localhost/mitra/wp-
 content/uploads/2021/09/nanas.jpg) Nanas Kampar Diminati karena rasa manis dan
 tanpa serat[/caption] "Masyarakat bisa melihat langsung cara bertanam nanas
 dan informasi apa pun yang mereka butuhkan," ujarnya.
@@ -126,7 +126,7 @@ kepemilikan rata-rata 3 sampai 4 ha.
 ## Kebun Nanas Di Lahan Yang Berpasir
 
 [caption id="attachment_13951" align="aligncenter" width="1511"]![Panen Buah
-Nanas Kampar](http://127.0.0.1/mitra/wp-content/uploads/2021/09/nanasd.jpg)
+Nanas Kampar](http://localhost/mitra/wp-content/uploads/2021/09/nanasd.jpg)
 Panen Nanas Kampar[/caption] Nanas madu banyak dikembangkan di Kabupaten
 Kapuas 8 jam perjalanan dari Kota Waringin Timur lewat darat. Ukuran buah
 lebih kecil ketimbang paun, tapi rasa manis dan kadar air sedikit. Makanya

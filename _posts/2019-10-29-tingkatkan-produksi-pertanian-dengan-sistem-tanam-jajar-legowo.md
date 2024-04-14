@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-29 12:14:54
-blogger_orig_url: "http://localhost/mitra/sistem-tanam-jajar-legowo-tanaman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistem-tanam-jajar-legowo-tanaman.html"
 ---
 
 Kini, upaya telah dilakukan untuk meningkatkan produksi dan produktivitas,
@@ -77,7 +77,7 @@ Berikut ini adalah beberapa keuntungan menggunakan sistem jajar legowo:
   1. Sebagai permulaan, Lahan yang memiliki lebih banyak ruang di antara dua kelompok barisan tanaman akan memungkinkan lebih banyak sinar matahari untuk mencapai setiap rumpun tanaman padi. Pengaturan ini akan meningkatkan aktivitas fotosintesis, menghasilkan produktivitas tanaman yang lebih tinggi.
   2. Kedua, sistem jajar legowo memudahkan petani dalam memantau pemupukan, penyiangan, pengendalian hama dan penyakit, serta pengendalian tikus.
   3. Ketiga, penambahan jumlah tanaman di kedua sisi setiap set legowo berpotensi mendongkrak produksi tanaman dengan meningkatkan produksi.
-  4. Keempat, petani dapat membuat sistem produksi padi-ikan (mina padi) atau kombo nasi-ikan-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek").
+  4. Keempat, petani dapat membuat sistem produksi padi-ikan (mina padi) atau kombo nasi-ikan-[bebek](https://www.mitrausahatani.com/topik/bebek "bebek").
   5. Kelima, meningkatkan produksi beras sebesar 10-15%.
 
 ## Penerapan sistem tanam jajar legowo
@@ -100,7 +100,7 @@ populasi meningkat, produksi pun terdongkrak hingga 25%. Namun, sejatinya
 peningkatan produktivitas tanaman asal Meksiko itu bukan semata-mata karena
 populasi yang melonjak. Menurut Drs Muhammad Iskandar Ishaq MP peningkatan
 produktivitas juga karena pengaruh proses fotosintesis. Hasil Pengamatan
-**[Mitra Usaha Tani](http://127.0.0.1/mitra)** , Teknik jajar legowo
+**[Mitra Usaha Tani](https://www.mitrausahatani.com)** , Teknik jajar legowo
 mengesankan tanaman seolah-olah di bagian tepi lahan yang mendapat sinar
 matahari berlimpah. Karena tanaman mendapat sinar matahari lebih banyak
 sehingga mampu berfotosintesis secara maksimal. Hasilnya, produksi tongkol
@@ -111,15 +111,15 @@ pipil Rp 2.700-Rp 4-000 per kg pipil. Omzet pekebun jagung sejak 2009 itu
 mencapai Rp 32.400.000 dalam 3,5 bulan. Laba bersih Gunaryo Rp 8.500.000 per
 musim tanam. Itulah sebabnya ia berhasrat terus mengebunkan Zea mays. [caption
 id="attachment_16121" align="aligncenter" width="640"][![jajar legowo jagung
-Penambahan populasi meningkatkan produksi 10-25%](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/jagung_640x399.jpg)](http://127.0.0.1/mitra/wp-
+Penambahan populasi meningkatkan produksi 10-25%](http://localhost/mitra/wp-
+content/uploads/2019/10/jagung_640x399.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/jagung_640x399.jpg) Penambahan populasi meningkatkan
 produksi 10-25%[/caption]
 
 ## Cara Yang Terbukti Ampuh
 
 Kombinasi sistem tanam jajar legowo dan [varietas
-unggul](http://127.0.0.1/mitra/4-sayuran-varietas-unggul-dari-negeri.html)
+unggul](https://www.mitrausahatani.com/4-sayuran-varietas-unggul-dari-negeri.html)
 baru terbukti efektif meningkatkan produktivitas jagung. Periset dari Balai
 Pengkajian Teknologi Pertanian Yogyakarta, Eko Srihartanto dan Sri Wahyuni
 Budiarti bekerja sama dengan Suwarti dari Balai Penelitian Tanaman Serealia
@@ -141,8 +141,8 @@ produksi jagung yaitu menanam varietas baru, baik yang bersari bebas, atau pun
 hibrida. Tanpa varietas baru produksi jagung hanya 5-6 ton per ha. [caption
 id="attachment_16120" align="aligncenter" width="510"][![teknik jajar legowo
 Pemakaian varietas baru mutlak untuk panen 12-14
-ton/ha](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/jagung_510x480.jpg)](http://127.0.0.1/mitra/wp-
+ton/ha](http://localhost/mitra/wp-
+content/uploads/2019/10/jagung_510x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/jagung_510x480.jpg) Pemakaian varietas baru mutlak
 untuk panen 12-14 ton/ha[/caption]
 

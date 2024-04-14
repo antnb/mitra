@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-16 07:22:07
-blogger_orig_url: "http://localhost/mitra/corak-keemasan-di-tubuh-koi-utsuri.html"
+blogger_orig_url: "http://www.mitrausahatani.com/corak-keemasan-di-tubuh-koi-utsuri.html"
 ---
 
 _Selama ini hanya 5 varian keluarga hikari-utsurimono yang umum dikenal
@@ -51,12 +51,12 @@ lebih ngejreng dengan sisik berwarna kuning keemasan ditimpali semburat hitam.
 Memang tidak ada data yang menunjukkan kemungkinan silangan yang terbanyak
 menghasilkan kin ki utsuri. Namun, ketiga jenis jantan itu dipilih karena pada
 dasarnya memiliki [corak kuning sampai sedikit
-keemasan](http://127.0.0.1/mitra/corak-shiro-utsuri-rusak-gegara-salah.html).
+keemasan](https://www.mitrausahatani.com/corak-shiro-utsuri-rusak-gegara-salah.html).
 Di Jepang sendiri sedikit yang mencoba menyilangkan sesama kin ki utsuri.
 Namun, hasilnya belum memuaskan. Maklum, silangan sesama kin ki utsuri sulit
 sekali menurunkan corak persis seperti indukan. Hasil tangkaran yang diperoleh
 lebih banyak didominasi warna hitam dan merah. [caption id="attachment_1689"
-align="aligncenter" width="724"]![cupang](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="724"]![cupang](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_972501371_1204x800.jpg) cupang[/caption]
 
 ### Koi Utsuri Rentan stres

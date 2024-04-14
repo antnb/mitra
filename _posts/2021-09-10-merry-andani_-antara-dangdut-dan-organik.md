@@ -9,7 +9,7 @@ tags:
 - produk organik
 
 modification_time: 2021-09-10 13:37:14
-blogger_orig_url: "http://localhost/mitra/merry-andani-antara-dangdut-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/merry-andani-antara-dangdut-dan.html"
 ---
 
 ...antara kita berdua terhalang dinding pemisah yang tak mungkin dilalui
@@ -43,7 +43,7 @@ karena jarak tempuhnya paling dekat dari rumah, di bilangan Jatibening,
 Bekasi. Ia pun hati-hati memisahkan produk organik di lemari pendinginnya.
 Maklum belum keseluruhan bahan pangan yang dikonsumsinya berupa produk
 organik. [caption id="attachment_13988" align="aligncenter"
-width="879"]![Kebun terong](http://127.0.0.1/mitra/wp-
+width="879"]![Kebun terong](http://localhost/mitra/wp-
 content/uploads/2021/09/kebun-terung.jpg) Terungnya renyah dan manis[/caption]
 Rupanya kepedulian akan produk organik itu menular kepada seluruh anggota
 keluarganya. Putra-putrinya yang masih kanak-kanak sudah dikenalkan dengan
@@ -67,7 +67,7 @@ Kegiatan itu dilakukan di setiap akhir pekan bersama keluarga dan dibantu 3
 orang pegawainya. Profesinya sebagai artis tidak terganggu dengan bisnis
 sampingannya itu. Merasa belum cukup pengalaman di dunia organik, Merry tak
 segan untuk selalu berdiskusi dan berkonsultasi dengan para senior. Ir Dharma
-Setiawan dari Masyarakat [Pertanian](http://127.0.0.1/mitra/pertanian
+Setiawan dari Masyarakat [Pertanian](https://www.mitrausahatani.com/pertanian
 "Pertanian") Organik Indonesia (MAPORINA) dan Martha Yanche Mario, seorang
 pemain organik senior, dipilihnya menjadi staf ahli CV Mentari Alam Sentosa
 perusahaan pupuk organik cair yang didirikan Merry bersama sang suami, Ali

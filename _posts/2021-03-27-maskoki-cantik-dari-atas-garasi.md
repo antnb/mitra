@@ -16,7 +16,7 @@ tags:
 - teknik air
 
 modification_time: 2021-03-27 13:48:30
-blogger_orig_url: "http://localhost/mitra/maskoki-cantik-dari-atas-garasi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/maskoki-cantik-dari-atas-garasi.html"
 ---
 
 Luar biasa! Meski berjumlah lebih dari 200 maskoki berbagai jenis, tak seekor
@@ -24,9 +24,9 @@ pun yang mengecewakan. Semua tampil prima. Tubuh sehat dan bongsor dengan
 bentuk proporsional. Warna juga sangat mencolok. Padahal, Harsono mengaku tak
 punya kiat khusus agar ikan koleksinya tampil prima. Hanya memelihara di kolam
 alga saja. Keistimewaan maskoki itu sudah dibuktikan di arena kontes. Dalam
-Kontes Nasional [Ikan Hias](http://127.0.0.1/mitra/ikan-hias "Ikan Hias") III,
+Kontes Nasional [Ikan Hias](https://www.mitrausahatani.com/ikan-hias "Ikan Hias") III,
 Harsono mendominasi gelar juara. Tropi Menteri Kelautan dan
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") pun berhasil di bawa
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") pun berhasil di bawa
 pulang. Padahal, ketika itu ia baru 6 bulan menggeluti hobinya. tropi yang
 sama tak juga lepas dari genggaman pengusaha industri logam itu. Teknik air
 hijau sebenarnya telah banyak dipakai hobiis di beberapa negara untuk
@@ -43,8 +43,8 @@ urai direktur PT Adicentra Arometal itu.
 ## Gampang dikultur
 
 [caption id="attachment_8507" align="aligncenter"
-width="1617"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/kolam.jpg)](http://127.0.0.1/mitra/wp-
+width="1617"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/kolam.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/kolam.jpg) Harsono di kolam alga
 kebanggaannya[/caption] Tidak ada hal istimewa pada konstruksi kolam. Hanya
 ada 1 lubang pembuangan air di tengah setiap petak kolam itu. Kebutuhan
@@ -79,8 +79,8 @@ itu.
 ## Pengaruh Air butek
 
 [caption id="attachment_8506" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/koi.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/koi.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/koi.jpg) Membuat noktah-noktah warna tampak tegas
 menonjol[/caption] Meskipun banyak memiliki keuntungan, banyak hobiis di
 Indonesia yang enggan menerapkan teknik ini. Pasalnya, sebagai ikan hias,

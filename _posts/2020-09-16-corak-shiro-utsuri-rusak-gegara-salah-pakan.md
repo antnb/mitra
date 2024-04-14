@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-16 08:16:35
-blogger_orig_url: "http://localhost/mitra/corak-shiro-utsuri-rusak-gegara-salah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/corak-shiro-utsuri-rusak-gegara-salah.html"
 ---
 
 _Kejadian setahun silam terasa membekas di hati alumnus desain interior
@@ -18,13 +18,13 @@ memberi suplemen tepung kaya asasantin dan betakaroten pada pakan. Belum genap
 sehari, corak merah itu muncul. Awalnya totol totol itu keluar di dekat
 kepala, lalu menjalar ke seluruh tubuh._ Sialnya, setelah pemberian pakan
 dihentikan, [corak merah itu seolah menetap
-permanen](http://127.0.0.1/mitra/corak-keemasan-di-tubuh-koi-utsuri.html).
+permanen](https://www.mitrausahatani.com/corak-keemasan-di-tubuh-koi-utsuri.html).
 “Tidak bisa dihilangkan sampai sekarang,” ujar Budi. Suplemen itu semula
 diberikan untuk mendongkrak warna merah pada kohaku yang kebetulan diletakkan
 dalam kolam sama. Namun apa lacur, sang kohaku pun ikut dilanda kasus serupa.
 Di luar pattern merah, muncul pula totol-totol merah lain. [caption
 id="attachment_1689" align="aligncenter" width="360"]![Shiro utsuri muncul
-totol-totol bercorak merah](http://127.0.0.1/mitra/wp-
+totol-totol bercorak merah](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_972501371_1204x800.jpg) Shiro utsuri muncul
 totol-totol bercorak merah[/caption]
 
@@ -51,7 +51,7 @@ tidak perlu ditakutkan. Perubahan itu bisa terjadi di saat ikan masih kecil
 atau ketika panjang tubuh 40-50 cm. “Sebaiknya saat membeli koi, cermati
 silsilah agar tidak kecewa di kemudian hari,” paparnya. [caption
 id="attachment_1689" align="aligncenter" width="440"]![Putih hitam corak asli
-shiro utsuri](http://127.0.0.1/mitra/wp-
+shiro utsuri](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_972501371_1204x800.jpg) Putih hitam corak asli
 shiro utsuri[/caption]
 

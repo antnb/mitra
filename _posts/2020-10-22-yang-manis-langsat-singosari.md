@@ -9,7 +9,7 @@ tags:
 - langsat
 
 modification_time: 2020-10-22 06:44:50
-blogger_orig_url: "http://localhost/mitra/yang-manis-langsat-singosari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/yang-manis-langsat-singosari.html"
 ---
 
 Anda mungkin pernah kecewa saat membeli duku rasanya tak seragam. Suapan
@@ -49,7 +49,7 @@ bertekstur halus tapi tidak beraroma. Produktivitas tanaman setinggi 11 m dan
 lebar tajuk 6,1 m itu juga tinggi Jadi, ingin menikmati langsat tanpa perlu
 menyeringai karena asam? Cobalah langsat singosari. Ternyata langsat manis tak
 melulu dari Singosari. Saat berkunjung ke Kabupaten Bulungan, Kalimantan
-Timur, [Mitra Usaha Tani](http://127.0.0.1/mitra) menemukan langsat manis, la
+Timur, [Mitra Usaha Tani](https://www.mitrausahatani.com) menemukan langsat manis, la
 dikenal sebagai langsat telur. Bentuk lonjong sepanjang 3-4 cm dan diameter 2
 cm. Kulit tipis berwarna kuning, daging putih transparan. Biji sedikit hanya
 1-2 butir per buah. Rasanya manis segar dan tahan simpan 3-4 hari. Uniknya ia

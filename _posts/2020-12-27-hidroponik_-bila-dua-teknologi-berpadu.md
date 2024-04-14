@@ -11,7 +11,7 @@ tags:
 - teknologi hidroponik
 
 modification_time: 2020-12-27 08:20:58
-blogger_orig_url: "http://localhost/mitra/hidroponik-bila-dua-teknologi-berpadu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hidroponik-bila-dua-teknologi-berpadu.html"
 ---
 
 Itulah kombinasi 2 teknologi hidroponik hasil kreasi Sudibyo Karsono di Bogor.
@@ -23,8 +23,8 @@ Meski demikian, kombinasi itu tetap dapat diterapkan untuk sayuran daun.
 
 ## Pola Dua arah
 
-[![sawi hidroponik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_hidroponik1_1024x721.jpg)](http://127.0.0.1/mitra/wp-
+[![sawi hidroponik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_hidroponik1_1024x721.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_hidroponik1_1024x721.jpg)Menurut Sudibyo,
 teknik itu membuat tanaman mendapatkan nutrisi secara optimal. Karena sayuran
 mendapatkan nutrisi dari dua arah. Ia memanfaatkan arang sekam, zeolit,
@@ -45,8 +45,8 @@ tidak kekurangan.
 
 ## Pas untuk hobiis
 
-[![panen sayuran hidroponik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_hidroponik3_1024x724.jpg)](http://127.0.0.1/mitra/wp-
+[![panen sayuran hidroponik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_hidroponik3_1024x724.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_hidroponik3_1024x724.jpg)Nutrisi dialirkan
 secara berkala dengan interval 5 menit. Lama penyiraman 40 detik. Untuk
 sayuran daun, nutrisi di bak penampung tak perlu ditambah sampai panen. Wajar

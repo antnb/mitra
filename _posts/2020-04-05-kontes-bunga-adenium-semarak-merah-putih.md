@@ -10,17 +10,17 @@ tags:
 - kontes
 
 modification_time: 2020-04-05 06:35:53
-blogger_orig_url: "http://localhost/mitra/kontes-bunga-adenium-semarak-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kontes-bunga-adenium-semarak-merah.html"
 ---
 
 Pantas adenium jagoan Dede meraih juara pertama di kontes bunga adenium
 bertajuk Semarak Merah Putih, Agustus 2019. Taburan
-[bunga](http://127.0.0.1/mitra/tanaman-hias) di atas tajuk menunjukkan ia
+[bunga](https://www.mitrausahatani.com/tanaman-hias) di atas tajuk menunjukkan ia
 paling siap di antara peserta lain. Alur dari bonggol, batang, dan percabangan
 pun terlihat mengalir. “Penampilannya utuh dan matang. Karakternya pun alami,”
 ujar Andy Solviano Fajar, koordinator juri, saat
-[Mitrausahatani](http://127.0.0.1/mitra) memintanya berkomentar. Lima kriteria
-penilaian juri pun dilalui [adenium](http://127.0.0.1/mitra/topik/adenium
+[Mitrausahatani](https://www.mitrausahatani.com) memintanya berkomentar. Lima kriteria
+penilaian juri pun dilalui [adenium](https://www.mitrausahatani.com/topik/adenium
 "adenium") berbunga crimson star berpadu lokal itu dengan sukses. Ia
 mendapatkan nilai di atas 80 untuk semua unsur yang dinilai: kesan pertama,
 alur dasar, tahapan, kesehatan, dan penjiwaan. Total jenderal kamboja jepang
@@ -56,8 +56,8 @@ jawara ketiga itu memenuhi standar komposisi calon juara. Aris Budiman alias
 Adeng misalnya. Praktisi adenium di Jogja itu memprediksi, suatu saat adenium
 itu bisa menjadi yang terbaik di masa mendatang. “Bila dipersilakan memilih,
 saya akan memilihnya. Dengan sedikit polesan, ia bisa menjadi istimewa,”
-ujarnya. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Kontes-Bunga-
-Adenium-1024x593.jpg)](http://127.0.0.1/mitra/wp-
+ujarnya. [![](http://localhost/mitra/wp-content/uploads/2020/04/Kontes-Bunga-
+Adenium-1024x593.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Kontes-Bunga-Adenium.jpg)
 
 ## Kontes berlangsung Semarak dan sukses
@@ -79,8 +79,8 @@ Mitrausahatani melihat ribuan masyarakat Solo yang berolahraga pagi di stadion
 menyempatkan diri ke tempat pameran adenium. Karena pemilihan lokasi yang
 tepat, 33 stan yang ditawarkan terisi penuh. Banyak pemain adenium dari luar
 kota seperti Yogyakarta dan Semarang turut ambil bagian.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/adenium-1024x649.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/adenium-1024x649.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/adenium.jpg)
 
 ## Kontes bunga adenium Yogya

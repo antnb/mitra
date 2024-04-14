@@ -9,7 +9,7 @@ tags:
 - Pisang
 
 modification_time: 2021-09-04 10:06:17
-blogger_orig_url: "http://localhost/mitra/pisang-sepatu-amora-tanpa-jantung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pisang-sepatu-amora-tanpa-jantung.html"
 ---
 
 Di sebuah kebun di Amorang, Sulawesi Utara. Belasan batang pisang sepatu
@@ -35,7 +35,7 @@ Tidak ada yang tahu pasti kenapa pisang itu disebut pisang sepatu amora.
 Diduga kata amora diambil dari kata Amorang, sebuah daerah di Provinsi
 Sulawesi Utara. Amora pun tidak ada kaitannya dengan dewa amor, sang pemanah
 jantung hati alias dewa cinta dalam mitologi Yunani Kuno. Kata sepatu diduga
-karena bentuk buah mirip sepatu klasik. ![](http://127.0.0.1/mitra/wp-
+karena bentuk buah mirip sepatu klasik. ![](http://localhost/mitra/wp-
 content/uploads/2021/09/12.jpg)
 
 ## Tidak memerlukan kawin buatan
@@ -56,7 +56,7 @@ bila dimakan hewan seperti sapi atau kambing.
 
 ## Varietas Pisang Tahan penyakit
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/09/amora.jpg) Pada pisang
+![](http://localhost/mitra/wp-content/uploads/2021/09/amora.jpg) Pada pisang
 yang memiliki bunga jantan dan jantung, kedua penyakit itu dicegah dengan cara
 membrongsong atau memotong jantung pisang. Cara itu telah direkomendasikan
 oleh beberapa pakar di dalam atau luar negeri. Akan tetapi kedua teknik itu
@@ -68,7 +68,7 @@ masalah.
 ## Pisang Sepatu Memiliki sistem pertahanan alami
 
 Nah, pisang sepatu amora mempunyai sistem pertahanan alami karena tidak punya
-[jantung pisang](http://127.0.0.1/mitra/topik/pisang). Dari pengamatan penulis
+[jantung pisang](https://www.mitrausahatani.com/topik/pisang). Dari pengamatan penulis
 di daerah endemis penyakit layu bakteri, sepatu amora umumnya bertahan hidup.
 Buah yang dihasilkan normal dan sehat. Informasi itu segera direspon oleh para
 peneliti pisang di dunia. Terbukti informasi itu kembali terungkap pada

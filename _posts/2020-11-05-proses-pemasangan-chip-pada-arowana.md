@@ -10,7 +10,7 @@ tags:
 - chip
 
 modification_time: 2020-11-05 15:53:16
-blogger_orig_url: "http://localhost/mitra/proses-pemasangan-chip-pada-arowana.html"
+blogger_orig_url: "http://www.mitrausahatani.com/proses-pemasangan-chip-pada-arowana.html"
 ---
 
 Reader yang dipegang petugas Balai Konservasi Sumber Daya Alam (BKSDA)
@@ -26,7 +26,7 @@ arwana dipuasakan 2 hari. Ikan belia, umur 5 bulan, dengan panjang 15-20 cm
 itu diambil dari akuarium. Perlahan ikan sarat mitos itu dilepas di bak ember
 berisi air yang diberi 1,5 sendok makan MD 400, bubuk pembius. Tak berapa lama
 ikan pingsan. Mula-mula gerakan renang lamban. Kemudian tubuh pipihnya tak
-lagi vertikal, tetapi mengapung horizontal. ![](http://127.0.0.1/mitra/wp-
+lagi vertikal, tetapi mengapung horizontal. ![](http://localhost/mitra/wp-
 content/uploads/2020/11/arwana.jpg)
 
 ## Chip Dipasang Setelah sisik ke enam
@@ -49,8 +49,8 @@ mencantumkan sebuah huruf di sela-sela angka. Contoh, 22713C3005. Angka selalu
 berbeda meskipun untuk ikan hasil tangkaran farm yang sama. Untuk memperoleh
 mikrocip penangkar mesti mengimpor dari beberapa negara seperti Singapura,
 Jerman, atau Amerika Serikat senilai USS2 per buah. Seekor ikan hanya ditanami
-1 mikrocip. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/chip-
-arwana.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/chip-
+1 mikrocip. [![](http://localhost/mitra/wp-content/uploads/2020/11/chip-
+arwana.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/chip-
 arwana.jpg)
 
 ## Perawatan arwana setelah pemasangan chip

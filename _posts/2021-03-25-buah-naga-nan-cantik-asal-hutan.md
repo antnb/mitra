@@ -15,14 +15,14 @@ tags:
 - sistem hidroponik
 
 modification_time: 2021-03-25 13:05:46
-blogger_orig_url: "http://localhost/mitra/buah-naga-nan-cantik-asal-hutan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-naga-nan-cantik-asal-hutan.html"
 ---
 
 Deretan lampu pada tiang-tiang setinggi 2 m otomatis menyala begitu gelap
 menyergap kebun dragon fruit di Rayong, Thailand. Di Taiwan keluarga kaktus-
 kaktusan itu ditanam dalam greenhouse berangka besi. Pekebun di Malaysia malah
 mencoba menanam dalam pot dengan sistem hidroponik. [Buah naga memang kini
-komoditas andalan](http://127.0.0.1/mitra/panen-dragon-fruit-3-kali-
+komoditas andalan](https://www.mitrausahatani.com/panen-dragon-fruit-3-kali-
 setahun.html) di banyak negara. Padahal, dulu ia tumbuh liar di belantara
 Amerika Selatan. Untuk urusan buah-buahan, orang Thailand terkenal gesit.
 Dragon fruit yang baru 5 tahun terakhir ditanam langsung diteliti secara
@@ -40,14 +40,14 @@ melintang.
 
 ## Masa Perang Vietnam
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/fruit.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/03/fruit.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/fruit.jpg)Tentu beralasan bila pekebun memberi
 perlakuan istimewa. Buah naga laku diekspor terutama untuk pasar Eropa.
 Konsumen di sana percaya ia penyeimbang kadar gula darah, pengontrol
 kolesterol, dan pencegah kanker usus. Kandungan serat cukup banyak sehingga
 cocok untuk diet. Hongkong, Cina, dan Jepang juga pasar potensial. [Pasokan
-kebanyakan datang dari Vietnam](http://127.0.0.1/mitra/bangkitnya-sang-naga-
+kebanyakan datang dari Vietnam](https://www.mitrausahatani.com/bangkitnya-sang-naga-
 yang-tertidur.html), salah satu produsen terbesar. Awalnya ia dibawa ke negara
 di kawasan Indocina itu oleh seorang Perancis pada 1870 dari Guyana Amerika
 Selatan bagian utara sebagai hias-hiasan. Alasannya sosok unik dan bunga
@@ -79,8 +79,8 @@ dari Universitas Ben-Gurion tak ada pekebun yang melirik.
 
 ### Pertumbuhan buah naga pada Musim panas
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/buah.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/03/buah.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/buah.jpg)Di Kolombia kaktus itu dirambatkan pada
 teralis besi berujung segitiga. Cara itu lantas diadopsi pekebun Israel.
 Belakangan Thailand mengikuti untuk penanaman H undatus. Naga berkulit merah
@@ -100,8 +100,8 @@ Serikat, menanam sebagai pelengkap koleksi tanaman eksotis di pekarangan.
 
 #### Untuk Pengobatan
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/fruit.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/03/fruit.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/fruit.jpg)Buah yang unik pun pantas untuk buah tangan.
 Hortikulturis Dr Elaine Solowey dari Natural Medicine Research Unit (NMRU) di
 Hebrew University-Hadassah Medical Center di Jerusalem menghadiahi Dalai Lama

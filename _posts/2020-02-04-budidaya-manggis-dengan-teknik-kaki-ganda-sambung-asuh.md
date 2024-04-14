@@ -10,14 +10,14 @@ tags:
 - manggis
 
 modification_time: 2022-09-18 14:55:08
-blogger_orig_url: "http://localhost/mitra/budidaya-manggis-dengan-teknik-kaki.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-manggis-dengan-teknik-kaki.html"
 ---
 
 Sepintas tak ada yang istimewa dari pemandangan itu. Namun, siapa menyangka,
 _queen of fruits_ itu telah berbuah sejak umur 4 tahun. Manggis lain di atas
 10 tahun. Budidaya Manggis dengan _Pemberian naungan dan pemangkasan menjadi
 kunci keberhasilan_. Manggis yang siap berbuah itu milik Ir Wardoyo, mantan
-Menteri [Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") Republik
+Menteri [Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") Republik
 Indonesia era 90-an. Sejak awal ditanam pada 1991, Budidaya Manggis asal bibit
 sambung pucuk itu sudah terlihat istimewa. Tajuk rimbun dan seimbang. Pohon
 manggis berbuah lebat Menurut Ir Sutrisno Soemodihardjo, direktur Direktorat

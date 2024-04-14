@@ -15,7 +15,7 @@ tags:
 - membuat bokashi
 
 modification_time: 2022-09-19 17:32:30
-blogger_orig_url: "http://localhost/mitra/bokashi-pupuk-kandang-resep-sehatkan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bokashi-pupuk-kandang-resep-sehatkan.html"
 ---
 
 Sebutan “tanah sakit“ baru muncul 2 dasawarsa terakhir. Julukan itu diberikan
@@ -34,7 +34,7 @@ konvensional kerap dikeluhkan pekebun. “Membuatnya lama. Butuh 1—3 bulan unt
 mengomposkan. Bila langsung dipakai ke tanah, tanaman malah mati kepanasan,”
 kata H Agus Asmara, pekebun salak di Cimande, Bogor. Lantaran itu Agus
 mengadopsi teknik membuat bokashi pupuk kandang dari H. Hamid. Yang disebut
-terakhir pelopor [pertanian](http://127.0.0.1/mitra/pertanian "pertanian")
+terakhir pelopor [pertanian](https://www.mitrausahatani.com/pertanian "pertanian")
 organik di Bogor yang menimba ilmu membuat bokashi di Thailand pada awal
 90-an.
 

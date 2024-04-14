@@ -10,7 +10,7 @@ tags:
 - ikan
 
 modification_time: 2022-09-14 08:54:46
-blogger_orig_url: "http://localhost/mitra/ikan-frosa-perawatan-si-muka-monyet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ikan-frosa-perawatan-si-muka-monyet.html"
 ---
 
 Iqbal Suhatman pusing 7 keliling. Setahun lebih mencoba memijahkan si muka
@@ -19,7 +19,7 @@ Kedelapan ikan yang berumur 1,5 tahun itu lalu digadaikan. Ia tidak tahu kalau
 frontosa baru memijah pada umur 2,5 tahun. Matang kelamin terlalu lama membuat
 orang malas menangkar frontosa. Wajar populasi ikan bercorak putih hitam
 vertikal di tubuh itu jadi terbatas. Di kawasan jalan Barito, salah satu pusat
-perdagangan [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") lokal di
+perdagangan [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") lokal di
 Jakarta, hanya 2 sampai 3 kios memajang anggota keluarga cichlidae itu. Itu
 pun cuma 1-3 ekor berukuran 5 sampai 10 cm. Padahal sejak pertama kali muncul
 pada Maret 1991 di kontes ikan hias PIHI (Perhimpunan Ikan Hias Indonesia) di
@@ -45,8 +45,8 @@ sedikit kusam. Dua bulan setelah disatukan biasanya prosesi kawin baru
 berlangsung. Namun, dengan penggantian air minimal sehari sekali waktu kawin
 bisa dipersingkat. Induk birahi 1 bulan lebih awal. Asal, kondisi air bertahan
 pada pH 8,5 sampai 9,5, tingkat kesadahan 10 sampai 15, dan suhu 26°C. Bila pH
-turun tambahkan garam secukupnya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/ikan-frontosa-300x169.jpg)](http://127.0.0.1/mitra/wp-
+turun tambahkan garam secukupnya. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/ikan-frontosa-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/ikan-frontosa.jpg)
 
 ## Anakan Ikan Frontosa
@@ -75,8 +75,8 @@ Pakan segar seperti udang dapat diberikan. "Jangan cacing sutera karena
 mengakibatkan ikan kembung," jelas Sugeng. Namun, pemberian pakan berlebih
 memicu ikan susah bertelur lantaran kegemukan. Secara alami induk sanggup
 bertelur lagi setelah 2,5 bulan. [![Pilih induk yang sudah berumur minimal 2,5
-tahun](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/frontosa-300x169.jpg)](http://127.0.0.1/mitra/wp-
+tahun](http://localhost/mitra/wp-
+content/uploads/2020/11/frontosa-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/frontosa.jpg)
 
 ## Waspada Penyakit Buta

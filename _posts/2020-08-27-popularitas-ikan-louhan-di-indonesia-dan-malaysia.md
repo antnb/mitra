@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-27 07:22:20
-blogger_orig_url: "http://localhost/mitra/popularitas-ikan-louhan-di-indonesia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/popularitas-ikan-louhan-di-indonesia.html"
 ---
 
 _"Harganya Rp 1,2-miliar," kata Lim Meng, pengelola Mermaid Explorer di
@@ -18,10 +18,10 @@ akuarium. Siklid berjidat super besar itu bermotif wanita dengan rambut
 tergerai dan tangan terentang ke atas. Ikan hoki itu kini mewabah di
 Indonesia, hingga seorang hobiis berani membeli seekor lou ban Rp 160-juta.
 Berdasarkan lacakan[[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) lou ban itulah yang
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) lou ban itulah yang
 memegang rekor termahal di tanah air._ Sang pemilik, Doddy Purba membelinya
 dari importir di Cipanas, Cianjur. Ikan sepanjang 25 cm itu memang istimewa.
-Motifjelas dan warna sangat indah. [Ikan hias](http://127.0.0.1/mitra/ikan-
+Motifjelas dan warna sangat indah. [Ikan hias](https://www.mitrausahatani.com/ikan-
 hias "Ikan hias") itu bisa diajak bermain. Bergerak ke sana ke mari mengikuti
 arah telunjuk. Ketika telunjuk lelaki tinggi besar itu dicelupkan ke permukan
 air, “kleep”, mulut mungil lou han mengecupnya. “Asyik, sehingga kadang lupa
@@ -44,7 +44,7 @@ Humardani, di Tomang Raya, Jakarta Barat, 2 lou han berukuran 16 dan 20 cm,
 serta belasan ekor masih kecil menghiasi ruang tamu. Pimpinan sebuah
 perusahaan distributor mesin pendingin itu kesengsem lou han pascamengunjungi
 pameran ikan hias di Plaza Gajah Mada. [caption id="attachment_1536"
-align="aligncenter" width="633"]![Lou han](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="633"]![Lou han](http://localhost/mitra/wp-
 content/uploads/2020/08/13.-Anggrek.jpg) Bermain dengan Rp 60-juta[/caption]
 “Lou han punya daya tarik tinggi; sosok, warna, dan dipercaya membawa hoki,”
 ujar Abin di Telukgong, Jakarta Utara. Pria yang sehari-hari mengelola toko
@@ -77,7 +77,7 @@ Malaysia. Padahal, selain Terence ada beberapa agen besar lain. Mermaid
 Explorer, misalnya, membentuk 7 agen. Jangan heran bila di setiap sudut kota
 Malaysia, lou han mudah ditemukan. Tempat-tempat umum seperti perkantoran,
 restoran, usaha percetakan, hingga kedai gunting rambut melengkapi lou han.
-[[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+[[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 menyaksikan lou han coronation link sepanjang 35 cm dipajang di sebuah kantor
 kontraktor di Petalingjaya, Subangjaya, Malaysia. “Pimpinan kami senang ngasih
 makan lou han, lalu mengelus-ngelusnya,” ucap Ng Siew Phing, sekretaris PT

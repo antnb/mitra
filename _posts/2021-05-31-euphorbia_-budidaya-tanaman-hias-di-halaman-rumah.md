@@ -10,7 +10,7 @@ tags:
 - Euphorbia
 
 modification_time: 2021-05-31 06:06:04
-blogger_orig_url: "http://localhost/mitra/budidaya-tanaman-hias-di-halaman-rumah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-tanaman-hias-di-halaman-rumah.html"
 ---
 
 Setiap bulan beberapa pedagang euphorbia di Bogor dan Jakarta mendatangi rumah
@@ -41,7 +41,7 @@ cucu. Seperti Parman, Irma semula juga hobi mengoleksi bunga delapan dewa.
 Semakin hari koleksinya kian bertambah. Selain belanja jenis baru, mantan guru
 Sekolah Kepandaian Putri itu juga memperbanyak dengan setek. Setahun lalu ia
 terpikir untuk menjual sebagian koleksinya. Sebuah papan berukuran 1,2 m x 0,5
-m bertuliskan Menjual [Tanaman Hias](http://127.0.0.1/mitra/tanaman-hias
+m bertuliskan Menjual [Tanaman Hias](https://www.mitrausahatani.com/tanaman-hias
 "Tanaman Hias") Euphorbia digantung di depan rumah. Irma hanya mengandalkan
 orang lalu lalang di depan rumahnya yang kebetulan di tepi jalan besar.
 Ratusan euphorbia berbunga semarak berjajar rapi di halaman berukuran 5 m x 4
@@ -52,8 +52,8 @@ Simanjuntak itu melayani hobiis yang jatuh hati pada mahkota duri. Perempuan
 
 ## Gampang Busuk?
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Euphorbia-4.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Euphorbia-4.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Euphorbia-4.jpg) Begitu mudahkah meraup laba dari
 budidaya euphorbia di halaman rumah? Mereka yang menangguk untung boleh
 dibilang telah merasakan pahit getir merawat euphorbia. Ibaratnya duri tajam
@@ -127,8 +127,8 @@ digandrungi.
 
 ### Kewalahan Orderan
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Euphorbia-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Euphorbia-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Euphorbia-1.jpg) Si pembawa rezeki. Julukan itu
 tampaknya memang pantas disandang euphorbia. Pekebun seperti Nasir juga
 kecipratan rezeki euphorbia. Di halaman depan rumahnya berukuran 8 m x 6 m,
@@ -169,8 +169,8 @@ membenamkan modal jutaan rupiah untuk membuka kebun baru belum lama ini.
 
 ## Euforia Kambuhan
 
-[![tanaman hias di halaman rumah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Euphorbia-3.jpg)](http://127.0.0.1/mitra/wp-
+[![tanaman hias di halaman rumah](http://localhost/mitra/wp-
+content/uploads/2021/05/Euphorbia-3.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Euphorbia-3.jpg) Tertarik mengisi pasar euphorbia yang
 menganga? Atau mengikuti jejak para pekebun sukses? Menurut perhitungan
 Risman, pekebun di Serpong, Tangerang, calon skala ekonomis minimal 50

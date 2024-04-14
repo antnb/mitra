@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-19 07:03:35
-blogger_orig_url: "http://localhost/mitra/kawah-candradimuka-untuk-cupang-aduan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kawah-candradimuka-untuk-cupang-aduan.html"
 ---
 
 Ikan cupang aduan sangat populer di Indonesia, dan sering dijadikan hobi oleh
@@ -26,8 +26,8 @@ jika tidak didukung oleh ketajaman gigi, maka serangan tersebut tidak akan
 terasa oleh lawannya. Apalagi kalau sisik lemah, kekalahan tinggal menunggu
 waktu saja. Gigi dan sisik yang kuat bisa diciptakan, asal cupang dirawat
 sejak bakalan. Selama masa pembajaan diri itu, pernapasannya pun digembleng.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/cupagn-300x167.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/cupagn-300x167.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/cupagn.jpg)
 
 ## Ciri fisik cupang terbaik
@@ -98,8 +98,8 @@ daging udang setiap hari karena mengeruhkan air dan mengurangi jumlah oksigen
 terlarut. Setelah 4 bulan, ikan cupang aduan diangkat dari dalam pipa. Usia
 cupang saat itu berkisar 6 sampai 7 bulan. Gigi dan siripnya sudah kokoh.
 Pemapasannya pun bagus karena selama 4 bulan hidup di pipa setinggi 100cm.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/11/cupang-
-aduan-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/cupang-
+[![](http://localhost/mitra/wp-content/uploads/2021/11/cupang-
+aduan-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/cupang-
 aduan.jpg)
 
 ## Latih keberanian cupang aduan

@@ -15,7 +15,7 @@ tags:
 - uret
 
 modification_time: 2022-12-29 11:33:59
-blogger_orig_url: "http://localhost/mitra/penggunaan-nematoda-entomopatogen.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penggunaan-nematoda-entomopatogen.html"
 ---
 
 Karena dampak negatif dari penggunaan insektisida kimia, pemerintah telah
@@ -78,34 +78,34 @@ hidup pada tanaman inang seperti jagung, karet, kopi, dan singkong. Salah satu
 cara untuk mengatasi serangan gayas ini adalah dengan menggunakan musuh alami
 berupa nematoda entomopatogen Steinemema spp sebagaimana yang diteliti oleh
 Balai Besar Perbenihan dan Proteksi Tanaman
-[Perkebunan](http://127.0.0.1/mitra/perkebunan "Perkebunan") Surabaya. Salah
+[Perkebunan](https://www.mitrausahatani.com/perkebunan "Perkebunan") Surabaya. Salah
 satu cara lainnya adalah dengan mengurangi tingkat kelembaban di sekitar
 tanaman inang, karena gayas cenderung tumbuh dengan baik di lingkungan lembab.
 [caption id="attachment_16140" align="aligncenter" width="390"][![Tebu salah
-satu tanaman yang disukai nematoda pada tanaman](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/gayas_390x480.jpg)](http://127.0.0.1/mitra/wp-
+satu tanaman yang disukai nematoda pada tanaman](http://localhost/mitra/wp-
+content/uploads/2019/10/gayas_390x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/gayas_390x480.jpg) Tebu salah satu tanaman yang
 disukai gayas[/caption]
 
 ## Aplikasi Nematoda Pada Tanaman Telah Teruji
 
 Balai Besar Perbenihan dan Proteksi Tanaman
-[Perkebunan](http://127.0.0.1/mitra/perkebunan "Perkebunan") Surabaya
+[Perkebunan](https://www.mitrausahatani.com/perkebunan "Perkebunan") Surabaya
 melakukan uji lapang di lahan tebu di Desa Plosokandang, Kecamatan Kedungwaru,
 Kabupaten Tulungagung untuk mengetahui manfaat nematoda entomopatogen.
 Nematoda entomopatogen ini berasal dari bahasa Yunani: entomon (serangga) dan
 patogen (penyebab penyakit). Petani membudidayakan tanaman tebu varietas
 BR-642 berumur 2 bulan dan mengocorkan suspensi nematoda di atas permukaan
 tanah pada sisi tanaman tebu yang telah diinfestasi hama gayas, dengan dosis
-12.500 IJ [pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman"). Setelah
+12.500 IJ [pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman"). Setelah
 48 jam, banyak hama gayas yang mati. Penelitian ini menunjukkan bahwa
 penggunaan nematoda entomopatogen bisa menjadi cara yang efektif dalam
 mengendalikan hama gayas di lahan tebu. Selain itu, studi ini juga menyoroti
 potensi untuk mengeksplorasi lebih jauh tentang manfaat nematoda entomopatogen
 dalam mengurangi infestasi hama gayas. [caption id="attachment_16141"
 align="aligncenter" width="446"][![serangan hama Uret kumbang gayas bersifat
-polifagus](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/gayas_446x480.jpg)](http://127.0.0.1/mitra/wp-
+polifagus](http://localhost/mitra/wp-
+content/uploads/2019/10/gayas_446x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/gayas_446x480.jpg) Uret kumbang gayas bersifat
 polifagus[/caption]
 

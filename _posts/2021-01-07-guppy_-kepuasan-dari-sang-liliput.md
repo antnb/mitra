@@ -3,7 +3,7 @@ layout: post
 title: 'Guppy: Kepuasan dari Sang Liliput'
 categories: hobi|ikan hias
 date: 2021-01-07 15:16:04
-author: Anton N
+author: Yudianto
 image: media/Gambar_aquarium_1024x662.jpg
 tags:
 - berjualan guppy
@@ -12,7 +12,7 @@ tags:
 - mozaik albino
 
 modification_time: 2021-01-07 15:16:04
-blogger_orig_url: "http://localhost/mitra/guppy-kepuasan-dari-sang-liliput.html"
+blogger_orig_url: "http://www.mitrausahatani.com/guppy-kepuasan-dari-sang-liliput.html"
 ---
 
 Guppy-guppy miliknya memang menawan hati. Dengan corak indah dan proporsi
@@ -75,8 +75,8 @@ didatangkan dan coba diperbanyak. Asalnya dari luar dan lokal.
 ## Koleksi pilihan
 
 [caption id="attachment_7754" align="alignleft" width="218"][![Suryo
-Subroto](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_guppy_450x768.jpg)](http://127.0.0.1/mitra/wp-
+Subroto](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_guppy_450x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_guppy_450x768.jpg) Suryo Subroto, terpesona
 pada guppy[/caption] Sampai saat ini ada 10 strain yang dipelihara. Rata-rata
 jenis yang jarang beredar di pasaran alias koleksi pilihan. Sebut saja black
@@ -111,7 +111,7 @@ Mulai dari kesehatan sampai pertumbuhan liliput itu. Kesibukan bertambah
 menjelang kontes. Seminggu sebelum hari H persiapan sudah dimulai. Ikan yang
 akan bertanding diisolasi agar mudah dikontrol. Jika pertumbuhannya lambat
 langsung dipacu dengan pakan khusus. Untuk soal ini Suryo tak canggung turun
-tangan sendiri. Berbeda dengan [ikan hias](http://127.0.0.1/mitra/ikan-hias
+tangan sendiri. Berbeda dengan [ikan hias](https://www.mitrausahatani.com/ikan-hias
 "ikan hias") lain, guppy terkenal rumit pemeliharaannya. Jika terlalu banyak
 pakan, tubuh memang cepat membesar. Namun, efeknya tubuh cepat bongkok dan
 tidak bisa dipakai lagi di kontes. Karena itulah dosis dan jenis pakan menjadi

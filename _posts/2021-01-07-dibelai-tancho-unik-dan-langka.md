@@ -12,7 +12,7 @@ tags:
 - tancho showa
 
 modification_time: 2021-01-07 10:56:45
-blogger_orig_url: "http://localhost/mitra/dibelai-tancho-unik-dan-langka.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dibelai-tancho-unik-dan-langka.html"
 ---
 
 Koi yang kini berukuran berukuran 40 cm itu memang dicetak dalam jumlah
@@ -39,8 +39,8 @@ dirogoh dalam-dalam.
 ## Dominan tancho
 
 [caption id="attachment_7745" align="alignleft" width="192"][![koleksi koi
-unik dan langka](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_tancho_645x768.jpg)](http://127.0.0.1/mitra/wp-
+unik dan langka](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_tancho_645x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_tancho_645x768.jpg) Ferry mengkoleksi koi unik
 dan langka[/caption] "Saya mengoleksi koi yang sulit didapat. Ada tantangan
 untuk bisa dapat," ujar Ferry. Alasan itu pula yang akhirnya mendorong ayah 2

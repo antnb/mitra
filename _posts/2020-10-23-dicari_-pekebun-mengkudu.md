@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-23 05:23:22
-blogger_orig_url: "http://localhost/mitra/dicari-pekebun-mengkudu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dicari-pekebun-mengkudu.html"
 ---
 
 Mengkudu naik kelas. Buah yang semula tidak dilirik orang kini banyak diburu.
@@ -74,7 +74,7 @@ pesanan Pemda Bogor dan salah satu LSM belum sanggup dipenuhi. Melihat peluang
 itu PT Cakra Sarana Persada juga tertarik mengebunkan mengkudu. “Ujicoba
 penanaman di lahan seluas 6,5 ha,” papar Ami dari Cakra Sarana Persada.
 Perusahaan kontraktor itu sempat berencana membuka
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") seluas 400 ha
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") seluas 400 ha
 untuk memenuhi permintaan jus dan pasta mengkudu dari luar negeri. Namun,
 karena kendala bibit, proyek tersebut dihentikan sementara. Baru 500 bibit
 yang sempat ditanam. Menurut Ridwan, konsultan agribisnis UI, dengan harga

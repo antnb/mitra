@@ -10,7 +10,7 @@ tags:
 - organik
 
 modification_time: 2022-12-24 09:27:03
-blogger_orig_url: "http://localhost/mitra/hobi-bertani-tanpa-media-tanah-ala.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hobi-bertani-tanpa-media-tanah-ala.html"
 ---
 
 Mark Sungkar dan Bupati Dadang M Naser berkolaborasi untuk memberikan tips
@@ -30,8 +30,8 @@ secara optimal.
 ## Manfaat Berkebun Sayuran Bagi Warga Sekitar Melalui KRPL dan Sistem
 Hidroponik Nutrient Film Technique (NFT)
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/hidroponik_640x441.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/10/hidroponik_640x441.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/hidroponik_640x441.jpg) Kegiatan berkebun sayuran yang
 dilakukan Bupati telah memberikan dampak positif bagi warga sekitar. Mereka
 berbondong-bondong mengikuti program Kawasan Rumah Pangan Lestari (KRPL) yang
@@ -57,8 +57,8 @@ ia bisa menanam 840 sayuran di luasan 16,8 m2. Berbeda dengan penanaman secara
 konvensional yang hanya dapat menanam 420 sayuran di luasan yang sama, Bersama
 istri, Hj Kurnia Dadang Naser, ia menanam sayuran daun seperti kailan, pakcoy,
 caisim, dan salada, yang menghasilkan panen yang lebih banyak.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/hidroponik_640x404.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/10/hidroponik_640x404.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/hidroponik_640x404.jpg)
 
 ## Hidroponik sebagai Solusi untuk Menanam Sayuran Lezat dan Menghasilkan
@@ -84,8 +84,8 @@ tambahan sekitar Rp 960.000 per 2 pekan atau Rp 1,9 juta per bulan. Selain
 itu, juga dalam program KRPL, ia meyakinkan setiap halaman Satuan Kerja
 Pemerintah Daerah (SKPD) Kabupaten Bandung untuk menanamkan sayuran
 hidroponik. Dengan demikian, ia berharap bisa menjadi contoh yang baik bagi
-masyarakat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/hidroponik_640x408.jpg)](http://127.0.0.1/mitra/wp-
+masyarakat. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/hidroponik_640x408.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/hidroponik_640x408.jpg)
 
 ## Mark Sungkar, Petani yang Menggemari Sistem Hidroponik dan Akuaponik

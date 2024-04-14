@@ -11,7 +11,7 @@ tags:
 - pohon cengkih
 
 modification_time: 2022-09-21 05:54:24
-blogger_orig_url: "http://localhost/mitra/produksi-minyak-daun-cengkih.html"
+blogger_orig_url: "http://www.mitrausahatani.com/produksi-minyak-daun-cengkih.html"
 ---
 
 Minyak daun cengkeh merupakan minyak yang diperoleh dari daun cengkeh. Cengkeh
@@ -75,14 +75,14 @@ cengkih luar Jawa," papar Mulyono. Di Minahasa, Sulawesi Utara misalnya.
 Beberapa tahun lalu pernah ada ujicoba penyulingan minyak daun cengkih. Hanya
 saja gagal karena petani enggan mengumpulkan dan menjual daun cengkih yang
 berguguran. "Harganya mungkin dinilai terlalu rendah," kata Mulyono. Sentra
-[cengkih](http://127.0.0.1/mitra/topik/cengkih) di Jawa pun sejak beberapa
+[cengkih](https://www.mitrausahatani.com/topik/cengkih) di Jawa pun sejak beberapa
 tahun terakhir tak bisa banyak diharapkan. Sejak monopoli BPPC banyak cengkih
 rusak lantaran tidak dirawat, bahkan ditebangi karena harga sangat rendah.
 Akibatnya, daun cengkih bahan baku penyulingan pun makin sulit didapat. Dari
 54 unit alat penyulingan di Trenggalek, tinggal 20% yang masih beroperasi.
 Itupun tak rutin. "Kalau dulu bisa nonstop 3 sampai 4 kali sehari, kini dalam
 sebulan hanya 4 sampai 5 hari saja kegiatan penyulingan dilakukan," jelas Ir.
-Agus Sudibyo, Kepala Dinas [Perkebunan](http://127.0.0.1/mitra/perkebunan
+Agus Sudibyo, Kepala Dinas [Perkebunan](https://www.mitrausahatani.com/perkebunan
 "Perkebunan") Kab. Trenggalek. Agus Sudibyo membenarkan berkurangnya bahan
 baku di daerahnya karena populasi tanaman semakin menyusut. "Dari sekitar
 6.000 ha pada 1995, pada 2000 tinggal 2.797 ha," kata Agus. Membaiknya harga
@@ -120,8 +120,8 @@ memperoleh 15 kg saja.Padahal saat memulai usaha pada 1997 ia bisa memperoleh
 25 kg dari bahan baku sama. "Sekarang banyak orang mencampur daun dengan tanah
 atau kerikil," katanya. Padahal harga bahan baku terus naik karena langka.
 [caption id="attachment_14386" align="aligncenter" width="300"][![kelangkaan
-daun cengkih](http://127.0.0.1/mitra/wp-content/uploads/2021/10/Minyak-Daun-
-Cengkih-300x215.jpg)](http://127.0.0.1/mitra/wp-
+daun cengkih](http://localhost/mitra/wp-content/uploads/2021/10/Minyak-Daun-
+Cengkih-300x215.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/Minyak-Daun-Cengkih.jpg) Daunnya kini langka[/caption]
 Dua tahun lalu harga daun kering Rp300 sampai Rp350 per kg, akhir 2000 sudah
 Rp400/kg. Sekarang Rp500/ kg daun kering. Sutiyono bahkan terpaksa menampung
@@ -137,7 +137,7 @@ setahun lalu harga baru berkisar Rp31.000 sampai Rp32.000 per kg. Itupun masih
 berupa crude-oil dengan kadar eugenol sekitar 70%. Untuk bisa masuk standar
 mutu ekspor, "Kami harus memproses lanjut hingga mencapai kadar eugenol di
 atas 97%," papar Hadi Wiyono, Direktur PT Anugerah kepada [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Rata-rata setiap bulan PT Anugerah menampung 5
+Tani](https://www.mitrausahatani.com). Rata-rata setiap bulan PT Anugerah menampung 5
 ton minyak cengkih untuk dipasok ke eksportir. Namun diakui Wiyono, tak mudah
 mendapatkan minyak sebanyak itu dari penyulingan rakyat. Padahal, "Berapa pun
 produksinya saya tampung," ujar Hadi. Karena itu selain menampung minyak

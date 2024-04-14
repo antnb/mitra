@@ -11,7 +11,7 @@ tags:
 - virus
 
 modification_time: 2020-11-01 16:35:25
-blogger_orig_url: "http://localhost/mitra/budidaya-cabai-pencegahan-serangan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-cabai-pencegahan-serangan.html"
 ---
 
 Amati tanaman _Capsicum annuum_ Anda. Bila pucuk tampak cekung mengerut dan
@@ -25,8 +25,8 @@ atas 2 partikel sehingga ia juga populer sebagai virus gemini (bahasa Latin
 geminorum = kembar, red). Sebutan itu meminjam simbol dewa kembar, Castor dan
 Pollux, dalam jagat astrologi. Menurut Dr Atie Srie Duriat, ahli virologi,
 banyak cara yang dapat dilakukan pekebun untuk mencegah serangannya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/virus-kuning-
-cabai.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/virus-kuning-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/virus-kuning-
+cabai.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/virus-kuning-
 cabai.jpg)
 
 ## Vektor pengendalian
@@ -63,8 +63,8 @@ Seekor serangga dewasa sanggup memangsa 200-400 larva kutu kebul per pekan.
 Encarcia betina berwarna hitam dengan abdomen kuning. Panjang sayap 0,6 mm.
 Sekali bertelur ia menghasilkan 50-100 butir yang menjadi dewasa dalam waktu
 10 hari. Sedangkan dandaratentoh-sebutan Menochilus sexmaculatus di Jepang-
-mampu menghasilkan telur hingga 745 butir. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/tanaman-cabai.jpg)](http://127.0.0.1/mitra/wp-
+mampu menghasilkan telur hingga 745 butir. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/tanaman-cabai.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/tanaman-cabai.jpg)
 
 ## Pagar Pembatas lahan
@@ -73,7 +73,7 @@ Pekebun di Kecamatan Srengat, Kabupaten Blitar, menyiasati serangan virus
 kuning dengan memagari lahan. Jaring setinggi 2 m dibentangkan mengelilingi
 kebun. Para pekebun mengklaim, cara itu efektif mencegah serangan. Namun, Atie
 Srie Duriat dan Sri Hendrastuti yang dihubungi [Mitra Usaha
-Tani](http://127.0.0.1/mitra) secara terpisah mengatakan sebaliknya. "Kutu
+Tani](https://www.mitrausahatani.com) secara terpisah mengatakan sebaliknya. "Kutu
 kebul bersifat mobile dan mampu terbang cukup tinggi,” kata Sri Hendrastuti.
 Atie berkata, "Vektor itu mampu terbang hingga ketinggian 10 m.” Jika jaring
 hendak digunakan mesti memperhatikan ukuran lubang, yakni maksimal 50-60 mess.
@@ -83,8 +83,8 @@ mencegah serangan penyakit itu dengan menanam border plant di tepi lahan.
 Pekebun di Padang, Sumatera Barat, menanam jagung di sekeliling lahan cabai.
 Kehadiran jagung membuat kutu kebul terlena. Mereka lebih banyak "menyantap”
 daun Zea mays sehingga cabai pun selamat dari incarannya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/virus-
-kuning.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/virus-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/virus-
+kuning.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/virus-
 kuning.jpg)
 
 ## Gunakan Pestisida Yang terbukti ampuh membasmi virus kuning

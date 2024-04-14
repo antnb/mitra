@@ -9,7 +9,7 @@ tags:
 - asparagus
 
 modification_time: 2022-09-24 06:51:23
-blogger_orig_url: "http://localhost/mitra/asparagus-unggul-di-tangan-sorawut.html"
+blogger_orig_url: "http://www.mitrausahatani.com/asparagus-unggul-di-tangan-sorawut.html"
 ---
 
 Wajar saja jika produksi Sorawut menjadi incaran eksportir. Tingkat
@@ -63,7 +63,7 @@ manfaat asparagus untuk kesehatan:
 
 ## Proses pemanenan
 
-![](http://127.0.0.1/mitra/wp-
+![](http://localhost/mitra/wp-
 content/uploads/2020/11/Gambar_asparagus_plantation1_640x442-1-1-300x207.jpeg)
 Pekebun asparagus dituntut berdisiplin tinggi. Pasalnya, sayuran rebung itu
 tidak boleh terlambat dipanen. Idealnya dipanen saat mahkota tunas masih
@@ -121,9 +121,9 @@ profesional cukup mengamati kondisi fisik tunas. Bagi pemula dapat memakai
 alat bantu berupa kotak seng 30 cm yang dilengkapi pisau di atasnya. Alat ini
 mampu memuat 500 g sekali potong. Hanya dalam tempo 3 jam, 2 supervisor dan 10
 tenaga keija rampung menyortir 500 kg. [caption id="attachment_20486"
-align="aligncenter" width="300"][![](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="300"][![](http://localhost/mitra/wp-
 content/uploads/2020/11/Asparagus-
-Unggul-300x174.jpg)](http://127.0.0.1/mitra/wp-
+Unggul-300x174.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Asparagus-Unggul.jpg) asparagus berkualitas[/caption]
 
 ## Kualitas asparagus yang diminta pasar

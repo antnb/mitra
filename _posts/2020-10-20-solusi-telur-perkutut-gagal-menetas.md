@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-20 13:25:21
-blogger_orig_url: "http://localhost/mitra/solusi-telur-perkutut-gagal-menetas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/solusi-telur-perkutut-gagal-menetas.html"
 ---
 
 Dua telur di kandang Gofir yang berisi pasangan WAT 366 Cleopatra dan Turbo

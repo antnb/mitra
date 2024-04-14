@@ -13,7 +13,7 @@ tags:
 - obat
 
 modification_time: 2022-12-28 15:35:17
-blogger_orig_url: "http://localhost/mitra/sejuta-manfaat-dan-khasiat-buah-noni.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sejuta-manfaat-dan-khasiat-buah-noni.html"
 ---
 
 Hermawan Adi tengah mengendarai motor ketika merasakan dada sesak dan tubuh
@@ -22,8 +22,8 @@ rumah dan bergegas berkunjung ke dokter. Hasil pemeriksaan menunjukkan kadar
 hormon tiroidnya (FT4) 2 kali lipat normal, mencapai 23,2. Lazimnya 5-12.
 Artinya Hermawan mengidap **hipertiroidisme**. [caption id="attachment_16013"
 align="aligncenter" width="640"][![pekebun sedang menjelaskan khasiat buah
-mengkudu](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/maxresdefault_640x360.jpg)](http://127.0.0.1/mitra/wp-
+mengkudu](http://localhost/mitra/wp-
+content/uploads/2019/10/maxresdefault_640x360.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/maxresdefault_640x360.jpg) khasiat buah mengkudu untuk
 tubuh sudah terbukti[/caption] Dokter di klinik itu lantas meresepkan obat
 untuk menekan produksi hormon tiroid dan kehidupan Hermawan untuk sementara
@@ -69,7 +69,7 @@ Utah, Amerika Serikat, menyebutkan mengkudu berkhasiat mencegah depresi.
 Depresi salah satu gejala hipertiroidisme. **Salah satu pemicu depresi adalah
 enzim monoamina oksidase alias MAO**. Enzim itu meningkatkan metabolisme tubuh
 sehingga seseorang menjadi waspada. Manfaat mengkudu Secara alami, [tubuh pun
-memproduksi enzim pemberi rasa nyaman yang](http://127.0.0.1/mitra/manfaat-
+memproduksi enzim pemberi rasa nyaman yang](https://www.mitrausahatani.com/manfaat-
 kefir-yang-kaya-akan-zat-anti.html) melawan kerja MAO, antara lain dopamin,
 epinefrin, norepinefrin, dan serotonin. Sementara itu buah mengkudu mengandung
 zat lakton, kaempferol, dan kuersetin yang menghambat penguraian enzim pemberi
@@ -77,7 +77,7 @@ rasa nyaman itu. khasiat buah mengkudu lainnya adalah meredakan Gejala depresi
 seperti gelisah, jantung berdebar, pelebaran pupil mata, dan rasa khawatir pun
 reda. Tidak hanya itu, mengkudu juga punya sederet [khasiat lain, seperti
 dibuktikan oleh DR Singh dari Divisi Hortikultura
-dan](http://127.0.0.1/mitra/manfaat-susu-kambing-etawa.html) Kehutanan,
+dan](https://www.mitrausahatani.com/manfaat-susu-kambing-etawa.html) Kehutanan,
 Institut Penelitian Agrikultur di Port Blair, India. Singh menunjukkan bahwa
 jus mengkudu berefek menurunkan tekanan darah (hipotensif), mengurangi rasa
 sakit (analgesik), antioksidan, antiperadangan, antikanker, estrogenik,
@@ -134,8 +134,8 @@ Javaplant memiliki kandungan alkaloid, vitamin C, dan polifenol terstandar.
 "Konsumen memiliki jaminan bahwa kandungan gizi setiap botol produk sama.
 Kadarnya pun ajek hari ini maupun tahun depan," tutur Junius. Semua mengakui
 dan bersandar kepada keunggulan mengkudu tanahair. [![manfaat mengkudu untuk
-pengobatan hyperthyroidism](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/maxresdefault_640x360_2.jpg)](http://127.0.0.1/mitra/wp-
+pengobatan hyperthyroidism](http://localhost/mitra/wp-
+content/uploads/2019/10/maxresdefault_640x360_2.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/maxresdefault_640x360_2.jpg)
 
 ### Efek Penyembuhan
@@ -149,7 +149,7 @@ Toshiaki Nishigaki PhD, ketua Tokyo Noni Research Center, Jepang, **gejala-
 gejala itu bagian proses penyembuhan alias improvement response**.
 "**Improvement response** dalam kasus penyakit berat biasanya juga lebih
 kuat," ungkap Nishigaki. Jika penderita tidak tahan dengan gejala yang muncul,
-[kami](http://127.0.0.1/mitra/) menyarankan untuk mengurangi dosis konsumsi,
+[kami](https://www.mitrausahatani.com/) menyarankan untuk mengurangi dosis konsumsi,
 bukan menghentikan sama sekali. Jika semula mengonsumsi 3 kali sehari masing-
 masing 30 ml, kurangi volumenya menjadi 15-20 ml. Masalahnya, penghentian
 konsumsi memperlambat **penyembuhan**. Dalam kasus yang berpacu dengan waktu,

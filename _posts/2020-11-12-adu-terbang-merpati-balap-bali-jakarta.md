@@ -10,7 +10,7 @@ tags:
 - merpati
 
 modification_time: 2020-11-12 12:21:21
-blogger_orig_url: "http://localhost/mitra/adu-terbang-merpati-balap-bali-jakarta.html"
+blogger_orig_url: "http://www.mitrausahatani.com/adu-terbang-merpati-balap-bali-jakarta.html"
 ---
 
 Jumat pukul 05.00 di Denpasar. Seorang convoyer pengawal burung sibuk membuka
@@ -34,8 +34,8 @@ direkayasa. Dari 20 merpati pos Columbidae sp yang diikutsertakan pada acara
 Langlang Buana tersebut, sejumlah 10 ekor miliknya lenyap di jalan. Nasib
 beruntung dialami Bob Pandahan. Pemilik showroom mobil mewah di Batuceper itu
 mengirim 20 andalannya ke Bali, dan semuanya kembali.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/adu-Merpati-
-Balap.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/adu-Merpati-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/adu-Merpati-
+Balap.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/adu-Merpati-
 Balap.jpg)
 
 ## Merpati Paling cepat
@@ -76,8 +76,8 @@ Rp2-juta. Sadikun, hobiis di Tomang, Jakarta Barat pun mengalami hal serupa.
 “Dari 20 jagoan yang ikut, paling 5 ekor saja yang pulang. Kalau dinilai uang
 mencapai Rp6-juta-an,” ujar pemain merpati pos selama 20 tahun itu. Meski
 begitu ia tetap beremain merpati pos. “Ada kebanggaan tersendiri bila sang
-jagoan pulang kandang,” imbuhnya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Merpati-Balap.jpg)](http://127.0.0.1/mitra/wp-
+jagoan pulang kandang,” imbuhnya. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Merpati-Balap.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Merpati-Balap.jpg)
 
 ## Merpati Dan Magnet

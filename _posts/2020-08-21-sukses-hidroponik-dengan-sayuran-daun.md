@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-21 05:55:11
-blogger_orig_url: "http://localhost/mitra/sukses-hidroponik-dengan-sayuran-daun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sukses-hidroponik-dengan-sayuran-daun.html"
 ---
 
 _Teorinya, pemilihan sayuran untuk hidroponik sebaiknya bernilai ekonomi
@@ -56,7 +56,7 @@ kesulitan dalam menjualnya. Alasan serupa juga dikemukakan oleh Rustam Tie,
 produsen sayuran dan buah hidroponik di Goalpara, Sukabumi. Meski mulanya
 pernah mencoba mentimun jepang, tapi kini “Saya lebih konsentrasi di sayuran
 daun,” ucap mantan peserta pelatihan [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra). Menurut Rustam, pasar
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com). Menurut Rustam, pasar
 lebih mudah ditembus dan lebih gampang menerima produk itu. Saat ini ia
 memilih caisim dan pakcoy sebagai andalannya. “Caisim bisa saya jual dengan
 harga Rp 3.000 per kg,” kata pemilik 3 greenhouse dengan luasan total 2.000m1

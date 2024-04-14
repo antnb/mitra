@@ -12,7 +12,7 @@ tags:
 - propolis
 
 modification_time: 2019-10-27 13:41:00
-blogger_orig_url: "http://localhost/mitra/herbal-nanopropolis-mujarab-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/herbal-nanopropolis-mujarab-untuk.html"
 ---
 
 Ir Guntur Sutopo tak kuasa membayangkan kehilangan telapak kaki jika ia
@@ -28,8 +28,8 @@ Kabupaten Banyumas, Jawa Tengah, selama 26 hari. Pria kelahiran Maret 1961 itu
 mendapat jahitan di paha setelah mengalami pendarahan hebat. Sebulan setelah
 operasi, betis Guntur membengkak. Seorang perawat mengatakan terjadi infeksi
 berat di tumit, la kembali menjalani operasi pengangkatan jaringan rusak di
-telapak kaki untuk membersihkan infeksi. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/diabetes_640x405.jpg)](http://127.0.0.1/mitra/wp-
+telapak kaki untuk membersihkan infeksi. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/diabetes_640x405.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/diabetes_640x405.jpg)
 
 ## Herbal untuk diabetes
@@ -51,13 +51,13 @@ Menurut dr Hafuan Lutfie secara umum gejala diabetes dapat dicirikan 3 hal,
 yaitu polifagi atau banyak makan, tetapi tidak menunjukkan kenaikan bobot
 badan. Ciri kedua, mudah berkemih alias poliurinari terutama pada malam hari.
 Selain itu ia juga kerap merasa haus atau _polidipsi_. Penderita diabetes
-mellitus mudah haus [sebagai reaksi tubuh](http://127.0.0.1/mitra/air-rebusan-
+mellitus mudah haus [sebagai reaksi tubuh](https://www.mitrausahatani.com/air-rebusan-
 daun-saga-obat-hepatitis.html) kekurangan cairan karena sering berkemih.
 Setahun menjelang diagnosis itu, Guntur merasakan ketiga gejala itu. Saat itu
 luka di tumit itu kembali membengkak sehingga Guntur tidak bisa berjalan.
 [caption id="attachment_16053" align="aligncenter"
-width="640"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/diabetes_640x430.jpg)](http://127.0.0.1/mitra/wp-
+width="640"][![](http://localhost/mitra/wp-
+content/uploads/2019/10/diabetes_640x430.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/diabetes_640x430.jpg) Propolis biasa (kiri) dan
 propolis nano[/caption]
 
@@ -69,7 +69,7 @@ amputasi juga sudah ditentukan dua bulan ke depan. Menurut Hafuan luka tak
 kunjung sembuh alias gangren pada penderita diabetes karena infeksi bakteri.
 Selain itu diabetes menghambat sel darah [untuk mengirimkan nutrisi pada
 bagian yang luka, sehingga pembentukan jaringan terhambat
-dan](http://127.0.0.1/mitra/manfaat-susu-kambing-etawa.html) menyebabkan
+dan](https://www.mitrausahatani.com/manfaat-susu-kambing-etawa.html) menyebabkan
 gangren atau jaringan yang membusuk. Sembari menunggu amputasi, Guntur
 mengonsumsi propolis berteknologi nano atas saran Muhlasin ketika membesuk.
 Semula Guntur hanya meneteskan cairan nanopropolis di atas luka. Luka menutup
@@ -84,7 +84,7 @@ relatif sedikit dan tanpa bau. Perubahan itu sangat menggembirakan Guntur.
 Kabar menggembirakan lain, kadar gula darah pria 53 tahun itu kembali ke angka
 normal, 135 mg/dl. Itu dicapai setelah Guntur disiplin mengonsumsi propolis
 selama 10 hari. Bahkan, sebulan setelah penggunaan nanopropolis, sarjana
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") alumnus Universitas
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") alumnus Universitas
 Diponegoro itu mampu mengendarai sepeda motor. Semula ia menghabiskan waktu di
 atas kursi roda karena tak mampu berjalan kaki. Menurut ahli propolis, dr
 Hafuan Lutfie, luka gangren pada penderita diabetes mellitus menutup karena
@@ -97,12 +97,12 @@ anticendawan, dan anti peradangan yang menghambat pertumbuhan bakteri.
 Selain itu **flavonoid yang berfungsi untuk membuka aliran darah** , sehingga
 memperlancar pengiriman nutrisi untuk pembangunan jaringan baru. Flavonoid
 juga berperan menurunkan kadar gula darah dengan cara menyeimbangkan nutrisi
-yang dibutuhkan tubuh seperti yang telah [kami](http://127.0.0.1/mitra/)
+yang dibutuhkan tubuh seperti yang telah [kami](https://www.mitrausahatani.com/)
 rangkum Herbalis di Kota Batu, Jawa Timur, Wahyu Suprapto mengatakan bahwa
 secara fungsional propolis berguna untuk membersihkan darah merah. Wahyu
 mengatakan propolis dapat memaksimalkan fungsi darah merah untuk mengangkut
 nutrisi ke seluruh jaringan tubuh. Akibatnya glukosa dalam darah [yang menjadi
-penyebab diabetes akan](http://127.0.0.1/mitra/manfaat-kefir-yang-kaya-akan-
+penyebab diabetes akan](https://www.mitrausahatani.com/manfaat-kefir-yang-kaya-akan-
 zat-anti.html) terkontrol oleh fungsi kerja propolis. Menurut Presiden
 Direktur PT Rhizoma-produsen nano propolis asal Brasii-Sadyawisman, konsumsi
 propolis membantu mempercepat pemulihan luka. Itu lantaran sel darah merah

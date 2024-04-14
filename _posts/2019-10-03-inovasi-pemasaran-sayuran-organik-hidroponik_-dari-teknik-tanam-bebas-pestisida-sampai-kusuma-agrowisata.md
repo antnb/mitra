@@ -15,7 +15,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-24 08:47:35
-blogger_orig_url: "http://localhost/mitra/strategi-pemasaran-sayuran-organik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/strategi-pemasaran-sayuran-organik.html"
 ---
 
 Inovasi pemasaran sayuran organik hidroponik adalah salah satu cara untuk
@@ -41,9 +41,9 @@ Surakarta. Begitulah cara menanam hidroponik ala Andi Wibowo hingga ia mampu
 membuka pasar sayuran hidroponik dan jitu. Satu per satu selada, beras organik
 terjual dan sayuran itu memasyarakat di Surakarta. [caption
 id="attachment_15863" align="aligncenter" width="640"][![cara menanam selada
-dengan metode pertanian hidroponik](http://127.0.0.1/mitra/wp-
+dengan metode pertanian hidroponik](http://localhost/mitra/wp-
 content/uploads/2019/10/organic-
-hydroponic_640x446.jpg)](http://127.0.0.1/mitra/wp-
+hydroponic_640x446.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/organic-hydroponic_640x446.jpg) sayuran menggunakan
 pestisida organik[/caption]
 
@@ -61,7 +61,7 @@ Jawa Tengah, malah mendatangi para calon konsumen. “Gengsi dan malu harus
 dibuang jauh-jauh,” ujarnya. Pada 2011, Bertha tak segan untuk datang ke
 hotel-hotel dan menemui juru masak secara langsung yang memang selalu
 menampung sayuran organik untuk di olah di [restoran masakan
-organik](http://127.0.0.1/mitra/bisnis-restoran-organik-dengan-pola.html) .
+organik](https://www.mitrausahatani.com/bisnis-restoran-organik-dengan-pola.html) .
 Untuk meyakinkan konsumen bahwa sayurannya adalah produk hidroponik, ia
 membawanya dengan kondisi masih tertanam di dalam stater kit berukuran 50 cm x
 30 cm terdiri atas 12 lubang tanam. Bertha membawa 2-3 stater kit **benih
@@ -117,7 +117,7 @@ Fenomena itu diantisipasi bagian produksi kebun dengan menyesuaikan waktu
 tanam agar panen pada waktu permintaan tinggi. Kiat lain yang dilakukan ialah
 memantau pesaing dengan mengamati produk-produknya. Bila ada [produk baru,
 Rizki bersama timnya segera menelusuri peluang pasar
-dan](http://127.0.0.1/mitra/produk-olahan-jagung-manis.html) cara mendapatkan
+dan](https://www.mitrausahatani.com/produk-olahan-jagung-manis.html) cara mendapatkan
 bibitnya. “Kami akan merekomendasikan produk oaru itu ke bagian produksi agar
 segera dibudidayakan,” ujarnya. Dengan rajin survei, Parung Farm tak pernah
 ketinggalan tren hidroponik di masyarakat, baik jenis maupun teknologinya.
@@ -132,7 +132,7 @@ Hidroponik
 
 Menurut Prof Anas Dinurrohman Susila staf pengajar Produksi Tanaman Departemen
 Agronomi dan Hortikultura, Institut Pertanian Bogor, [kunci utama
-sukses](http://127.0.0.1/mitra/kunci-sukses-melebatkan-produksi-buah.html)
+sukses](https://www.mitrausahatani.com/kunci-sukses-melebatkan-produksi-buah.html)
 memasarkan sayuran hidroponik ialah menghasilkan tanaman organik berkualitas,
 promosi yang inovatif, dan menjaga kondisi sayuran tetap segar hingga di
 tangan konsumen. "Setiap daerah punya karakter konsumen masing-masing,
@@ -148,7 +148,7 @@ disebabkan karena produk yang tidak terjual, maka survei kebutuhan pasar
 terlebih dahulu dilakukan. “Jangan menanam dulu baru memikirkan pasarnya,
 tetapi mengamati kondisi pasar, volume permintaan, baru mulai menanam produk-
 produk yang dibutuhkan," ujar Anas. Dengan berbagai inovasi dalam [budidaya
-dan](http://127.0.0.1/mitra/manfaat-dan-keuntungan-budidaya-pisang.html)
+dan](https://www.mitrausahatani.com/manfaat-dan-keuntungan-budidaya-pisang.html)
 teknik pemasaran, sayuran hidroponik tak lagi eksklusif, tetapi bakal
 memasyarakat sehingga menguntungkan produsen
 

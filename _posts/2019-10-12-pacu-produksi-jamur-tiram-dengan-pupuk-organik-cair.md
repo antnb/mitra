@@ -14,7 +14,7 @@ tags:
 - pupuk
 
 modification_time: 2022-12-13 14:38:31
-blogger_orig_url: "http://localhost/mitra/pupuk-organik-cair-jamur-tiram.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pupuk-organik-cair-jamur-tiram.html"
 ---
 
 Pupuk organik cair adalah pupuk yang terbuat dari bahan-bahan organik seperti
@@ -25,7 +25,7 @@ utama dari pupuk organik cair adalah membantu tanaman untuk tumbuh lebih sehat
 dan kuat. Pupuk ini mengandung banyak nutrisi yang dibutuhkan oleh tanaman,
 sehingga dapat membantu mereka untuk tumbuh dengan baik. Pupuk organik cair
 juga dapat mengurangi kerusakan tanah, seperti erosi. [Pupuk organik
-cair](http://127.0.0.1/mitra/pupuk-organik-cair.html) tersedia dalam berbagai
+cair](https://www.mitrausahatani.com/pupuk-organik-cair.html) tersedia dalam berbagai
 bentuk, seperti cairan, tablet, atau granul. Pupuk ini harus dicampur dengan
 air sebelum diaplikasikan ke tanaman. Pupuk organik cair harus diaplikasikan
 secara teratur agar dapat memberikan hasil yang maksimal. Pupuk cair untuk
@@ -75,7 +75,7 @@ keuntungan, antara lain:
   4. Molase mudah digunakan dan tidak memerlukan perawatan khusus.
   5. Molase dapat digunakan sebagai substrat untuk budidaya berbagai jenis jamur.
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/tiram_526x480.jpg)
+![](http://localhost/mitra/wp-content/uploads/2019/10/tiram_526x480.jpg)
 
 ## Nutrisi jamur tiram dan pupuk cair organik
 
@@ -113,8 +113,8 @@ Jamur tiram lebih cepat tumbuh dan produksinya meningkat. Rumput laut itu
 mengandung mineral makro dan mikro, asam amino, asam humat, giberelin, auksin
 sitokinin, dan zat hara vital untuk pertumbuhan jamur. [caption
 id="attachment_15901" align="aligncenter" width="412"][![ramuan nutrisi jamur
-tiram organik](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/tiram_412x480.jpg)](http://127.0.0.1/mitra/wp-
+tiram organik](http://localhost/mitra/wp-
+content/uploads/2019/10/tiram_412x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/tiram_412x480.jpg) Molase sumber karbon sederhana
 untuk mempercepat pertumbuhan jamur[/caption]
 
@@ -130,8 +130,8 @@ konsentrasi yang diterapkan Ahmad. Namun, berdasarkan percobaannya konsentrasi
 dan frekuensi yang ia gunakan sekarang adalah yang terbaik. "'Dengan
 penyemprotan tiap hari, regenerasi sel akan lebih cepat sehingga masa produksi
 lebih cepat," ujarnya. [caption id="attachment_15902" align="aligncenter"
-width="515"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/tiram_515x480.jpg)](http://127.0.0.1/mitra/wp-
+width="515"][![](http://localhost/mitra/wp-
+content/uploads/2019/10/tiram_515x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/tiram_515x480.jpg) Sumber nutrisi jamur tiram yang
 mengandung zat perangsang tumbuh[/caption] Umumnya masa produksi tiram 2,5
 bulan. Namun, penggunaan nutrisi dan pupuk organik mampu memperpendek masa

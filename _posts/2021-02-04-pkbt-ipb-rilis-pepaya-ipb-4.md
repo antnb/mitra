@@ -11,7 +11,7 @@ tags:
 - pkbt ipb
 
 modification_time: 2021-02-04 16:31:13
-blogger_orig_url: "http://localhost/mitra/pkbt-ipb-rilis-pepaya-ipb-4.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pkbt-ipb-rilis-pepaya-ipb-4.html"
 ---
 
 Kepala Bagian Produksi Buah Taman Wisata Mekarsari (TWM) Cileungsi, Bogor, itu
@@ -25,8 +25,8 @@ Di kebun percobaan di Tajur, Bogor, pohon IPB-4 mampu menghasilkan 50 sampai
 60 buah per tahun. Musim kemarau yang menyengat tidak mengurangi produksinya.
 "Umumnya, saat itu produktivitas pepaya berkurang 30%," papar Dr Sriani
 Suciprihati, kepala Divisi Pemuliaan PKBT IPB. [caption id="attachment_8055"
-align="aligncenter" width="717"][![buah Pepaya IPB](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="717"][![buah Pepaya IPB](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_pepaya2_1024x609.jpg) Pepaya IPB, ludes sebelum
 ke luar kebun[/caption]
 
@@ -46,8 +46,8 @@ karakterisasi, seleksi, dan evaluasi, Srian: mengakui IPB-4 belum lolos uji
 multilokasi. Itu adalah uji coba penanaman di lahan yang berbeda. Makanya
 IPB-4 kini dicoba ditanam di luar Bogor. Di antaranya Jawa Tengah, Bali, dan
 Riau. "Namun, hasil belum tampak karena baru dimulai awal 2007," tutur Endang.
-[![pohon Pepaya IPB-4](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Pepaya-IPB-4-1024x597.jpg)](http://127.0.0.1/mitra/wp-
+[![pohon Pepaya IPB-4](http://localhost/mitra/wp-
+content/uploads/2021/02/Pepaya-IPB-4-1024x597.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Pepaya-IPB-4.jpg)
 
 ## Kadar Kemanisan Pepaya IPB-4 Mencapai 12° briks

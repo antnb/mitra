@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-07-10 14:09:55
-blogger_orig_url: "http://localhost/mitra/benur-tahan-penyakit-dengan-prebiotik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/benur-tahan-penyakit-dengan-prebiotik.html"
 ---
 
 _Hatchery-hatchery selama ini mengandalkan antibiotik untuk mengatasi
@@ -38,7 +38,7 @@ mikroflora pada saluran pencernaan larva. Aktivitasnya antara lain menekan
 pertumbuhan bakteri melalui produksi senyawa antimikrobial dan mengubah
 keseimbangan metabolisme dengan mempengaruhi kerja enzim. Yang lain
 meningkatkan stimulasi antibodi tubuh. Bakteri probiotik ikut [meningkatkan
-kualitas air](http://127.0.0.1/mitra/sistem-filter-3-tingkat-kolam-
+kualitas air](https://www.mitrausahatani.com/sistem-filter-3-tingkat-kolam-
 arwana.html). Pada proses nitrifikasi, hasil dekomposisi bahan organik seperti
 alga, feces, dan sisa pakan mengubah amonia dan nitrit menjadi senyawa tak
 berbahaya. Secara alami nitrifikasi ini berjalan lambat. Namun, dengan adanya
@@ -68,21 +68,21 @@ yang sangat kecil, pakan yang masuk pun harus berukuran kecil. Mikroorganisme
 seperti _plankton mikroalgae_ , _zooplankton_ , dan bakteri sangat sesuai
 sebagai pakan, mereka membantu dan mempercepat pertumbuhan benih. [caption
 id="attachment_1240" align="aligncenter" width="553"]![Benih kepiting siap
-tebar](http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_1246x800.jpg)
+tebar](http://localhost/mitra/wp-content/uploads/2020/07/koki_1246x800.jpg)
 Benih kepiting siap tebar[/caption]  
 
 ### Penerapan
 
 Balai Besar Riset Perikanan Budidaya Laut Gondol, Bali, telah menerapkan
 probiotik untuk produksi udang, kepiting, [lobster air
-tawar](http://127.0.0.1/mitra/budidaya-lobster-air-tawar-dan.html) dan
+tawar](https://www.mitrausahatani.com/budidaya-lobster-air-tawar-dan.html) dan
 rajungan. Bakteri kunang-kunang luminescent vibriosis yang biasa menyerang
 larva udang penaeid Penaeus monodon atau Litopenaeus vannamei, bisa
 ditanggulangi dengan probiotik Alteromonas sp BY-9. Ada juga probiotik
 Bacillus sp K-7, yang bertugas meningkatkan pertumbuhan larva kepiting Scylla
 paramamosain dan rajungan Portunus pelagicus. [caption id="attachment_1240"
 align="aligncenter" width="544"]![Kualitas kepiting
-meningkat](http://127.0.0.1/mitra/wp-
+meningkat](http://localhost/mitra/wp-
 content/uploads/2020/07/koki_1246x800.jpg) Kualitas kepiting
 meningkat[/caption] Alhasil, selama pemeliharaan, populasi vibrio menjadi
 sangat rendah. Efek antibakterial dari bakteri umumnya disebabkan oleh
@@ -94,7 +94,7 @@ ketersediaan pakan alami yang kontinu dan berkualitas, penggunaan induk
 bermutu, manajemen produksi yang memadai, dan keterampilan tenaga praktisi
 tetap penting. Toh, penggunaan probiotik tetap dapat diprioritaskan untuk
 keberhasilan peningkatan produksi benih. Untuk komoditas yang sulit
-[dibudidayakan](http://127.0.0.1/mitra/potensi-budidaya-perikanan-di.html),
+[dibudidayakan](https://www.mitrausahatani.com/potensi-budidaya-perikanan-di.html),
 seperti kerapu bebek Crotnileptes altivelis atau _Napoleon Cheilinus
 undulatus_ , bakteri menguntungkan itu akan sangat berperan dalam
 mempertahankan kelangsungan hidup dan pertumbuhannya

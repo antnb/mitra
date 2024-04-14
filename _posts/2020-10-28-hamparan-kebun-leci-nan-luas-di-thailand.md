@@ -10,7 +10,7 @@ tags:
 - thailanf
 
 modification_time: 2020-10-28 13:44:02
-blogger_orig_url: "http://localhost/mitra/hamparan-kebun-leci-di-thailand.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hamparan-kebun-leci-di-thailand.html"
 ---
 
 Empat pengunjung mengitari kebun dengan berjalan kaki. Setelah menentukan
@@ -29,8 +29,8 @@ kerdil. Ketimbang varietas lain, tanamannya memang relatif pendek. Daging buah
 tebal, kering, aroma harum, dan rasanya manis. Yang paling penting kom adaptif
 di dataran rendah. Harap mafhum ketinggian Amphawa-lokasi kebun Suthira-hanya
 10 m dpi. Di dataran rendah itulah Suthira mengebunkan leci.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Kebun-
-Leci.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Kebun-Leci.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/10/Kebun-
+Leci.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Kebun-Leci.jpg)
 
 ## Kebun leci Di Tepi pantai
 
@@ -48,7 +48,7 @@ Peth Kasem-jalur penghubung Thailand-Malysia yang terletak di Provinsi
 Ratchaburi, tetangga Samut Songkhram- amat menarik sehingga berangsur-angsur
 kantuk hilang. Daerah itu dicapai sejam dari Bangkok dengan mobil. Di kedua
 sisi jalan itu tampak gerai-gerai sederhana yang menjajakan leci. Melihat
-panorama itu [Mitra Usaha Tani](http://127.0.0.1/mitra) yang ditemani Kissana
+panorama itu [Mitra Usaha Tani](https://www.mitrausahatani.com) yang ditemani Kissana
 Tancharoen dari Department of Agriculture Extension, meminta sopir untuk
 menepikan mobil. Penjual mendirikan tenda sekadarnya. Lalu ikatan-ikatan leci-
 beberapa helai daun disertakan-ditumpuk di atas meja. Bobot seikat leci, 1 kg,
@@ -61,8 +61,8 @@ Beberapa kilometer kemudian tampak gerbang selamat datang di kanan dan kiri.
 Di bagian atasnya tergambar buah leci. Tanda Samut Songkhram sebagai sentra
 leci dataran rendah terbesar. Setelah melewati gerbang itu tampaklah
 pemandangan menakjubkan. Pohon-pohon leci sarat buah berderet di kanan-kiri
-jalan. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Kebun-buah-
-Leci.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Kebun-buah-
+jalan. [![](http://localhost/mitra/wp-content/uploads/2020/10/Kebun-buah-
+Leci.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Kebun-buah-
 Leci.jpg)
 
 ## Pedagang leci
@@ -73,7 +73,7 @@ Cina yang membawa buah leci. Biji buah itulah yang kemudian ditanam pekebun
 setempat 200 tahun silam dan ternyata mampu berbuah. Padahal, leci dikenal
 sebagai tanaman dataran tinggi. Secara turun-temurun buah asal Cina terus
 dikebunkan seperti oleh Suthira kini. Pekebun lain yang ditemui [Mitra Usaha
-Tani](http://127.0.0.1/mitra) adalah Alun Canbunmee. Lelaki separuh baya itu
+Tani](https://www.mitrausahatani.com) adalah Alun Canbunmee. Lelaki separuh baya itu
 menanam 200 pohon pada 1985. Perawatan, pola dan jarak tanam sama persis
 dengan kebun Suthira. Varietas kom juga menjadi pilihan Alun Canbunmee.
 Teknologi budidaya semacam itulah yang diadopsi para pekebun leci dataran
@@ -85,7 +85,7 @@ saja bakal mengganggu kendaraan yang melintas. Setiap tahun Alun memanen 15
 ton leci segar dari kebunnya. Ia tak sempat memasarkan buah ke luar kota. Saat
 musim panen tiba, banyak pedagang yang menyambangi kebunnya. Di sana harga
 sekilo leci 80 baht. Toh, Alun tetap menerima tamu perorangan yang tertarik
-berkunjung ke kebunnya. Buktinya [Mitra Usaha Tani](http://127.0.0.1/mitra)
+berkunjung ke kebunnya. Buktinya [Mitra Usaha Tani](https://www.mitrausahatani.com)
 yang secara spontan mampir ke kebun pria bersahaja itu dijamu dengan baik.
 Saat pulang 2 kantong leci segar pun diberikan sebagai oleh-oleh. Selain
 memperoleh leci segar nan manis, mata pun dimanjakan oleh pemandangan

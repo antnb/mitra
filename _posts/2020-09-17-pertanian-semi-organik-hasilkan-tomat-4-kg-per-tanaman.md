@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-17 08:35:04
-blogger_orig_url: "http://localhost/mitra/pertanian-semi-organik-hasilkan-tomat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pertanian-semi-organik-hasilkan-tomat.html"
 ---
 
 Deretan tanaman di lahan 20 hektar digelayuti puluhan buah ranum, bersemburat
@@ -34,8 +34,8 @@ sosialisasi bagi seluruh pegawainya membutuhkan perencanaan matang. "Banyak
 faktor yang harus diperhitungkan bila ingin serius," ujar ayah 2 putra itu.
 Untuk itu, ketika tawaran produk organik disodorkan salah seorang rekannya, ia
 menyambut dengan tangan terbuka. [caption id="attachment_1721"
-align="aligncenter" width="1024"][![tomat organik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/09/Gambar_organik_1182x800-1024x693.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1024"][![tomat organik](http://localhost/mitra/wp-
+content/uploads/2020/09/Gambar_organik_1182x800-1024x693.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_organik_1182x800.jpg) tomat organik[/caption]
 
 ## Pupuk organik
@@ -77,7 +77,7 @@ diencerkan dengan air dan disiramkan pada lahan serupa dengan mengaplikasikan
 pupuk kocoran. Zat glyovirin yang dikandung Gliocadium sanggup mematikan
 cendawan patogen. Itulah kunci menangkal serangan layu asal patogen tanah.
 [caption id="attachment_1721" align="aligncenter" width="577"]![Parit 50-60 cm
-untuk melayani ketersediaan air](http://127.0.0.1/mitra/wp-
+untuk melayani ketersediaan air](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_organik_1182x800.jpg) Parit 50-60 cm untuk
 melayani ketersediaan air[/caption]
 

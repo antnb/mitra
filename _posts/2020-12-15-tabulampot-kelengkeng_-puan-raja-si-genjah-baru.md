@@ -14,7 +14,7 @@ tags:
 - lengkeng dataran rendah
 
 modification_time: 2020-12-15 11:53:16
-blogger_orig_url: "http://localhost/mitra/tabulampot-kelengkeng-puan-raja-si.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tabulampot-kelengkeng-puan-raja-si.html"
 ---
 
 Hadirnya tabulampot puang rai di Pameran Flora dan Fauna, Lapangan Banteng,
@@ -42,8 +42,8 @@ mendapatkan bibit dari Thailand.
 ## Dompolan panjang
 
 [caption id="attachment_2895" align="alignleft" width="363"][![pohon
-kelengkeng pingpong](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_pingpong_558x768.jpg)](http://127.0.0.1/mitra/wp-
+kelengkeng pingpong](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_pingpong_558x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_pingpong_558x768.jpg) Sosok lebih kokoh
 ketimbang pohon pingpong[/caption] Uniknya, tak semua pemain buah di Thailand
 mengenal puang rai. Sebut saja Narin Watana Anurak, pakar buah dari Thailand

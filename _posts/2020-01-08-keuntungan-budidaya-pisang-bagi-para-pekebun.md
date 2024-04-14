@@ -10,7 +10,7 @@ tags:
 - Pisang
 
 modification_time: 2020-01-08 12:11:00
-blogger_orig_url: "http://localhost/mitra/manfaat-dan-keuntungan-budidaya-pisang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-dan-keuntungan-budidaya-pisang.html"
 ---
 
 Bila Anda berbelanja pisang di pasar-pasar di Australia, Amerika Serikat, dan
@@ -19,7 +19,7 @@ dan rasa dijamin seragam. Di pasar tradisional hingga pasar swalayan di
 Indonesia, jenisnya beragam. Bukan hanya karena beda varietas, tapi juga
 kualitas. Pantas saja kualitas dan jenis pisang di pasar lokal "gado-gado".
 Musa paradisiaca dipanen dari pekarangan. Belum banyak
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") pisang yang
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") pisang yang
 khusus menanam jenis tertentu. Maklum, alam Indonesia memang sangat kaya ragam
 jenis pisang. Hampir di setiap daerah, ada jenis pisang khas. Sebut saja
 barangan yang identik dengan Medan, atau pisang tanduk, Lumajang.
@@ -31,14 +31,14 @@ Misal memfokuskan pada produksi pisang mas sebagai andalan ekspor. Apa daya,
 Malaysia lebih teliti budidaya pisang jenis itu dengan standar kualitas
 tinggi. Sekarang negeri jiran itu beijaya dengan pisang mas memasok pasar
 Eropa. [Indonesia tertinggal selangkah untuk berkompetisi
-di](http://127.0.0.1/mitra/potensi-budidaya-perikanan-di.html) pasar global
+di](https://www.mitrausahatani.com/potensi-budidaya-perikanan-di.html) pasar global
 mengusungkan buah meja berwarna kuning menarik itu. Wacana lain yang
 berkembang yaitu menjadikan budidaya pisang barangan sebagai pisang nasional.
 Pisang itu sempat menjadi primadona pekebun di Sumatera Utara. Lantas beberapa
 provinsi lain mengikuti jejak itu. Sayang kegandrungan itu cuma berjalan
 sekejap. Bahkan di Sumatera Utara pun, populasi pisang barangan kian menurun.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/01/kebun-
-pisang-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/01/kebun-
+[![](http://localhost/mitra/wp-content/uploads/2020/01/kebun-
+pisang-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/01/kebun-
 pisang.jpg)
 
 ## Keunggulan Buah Pisang
@@ -51,8 +51,8 @@ kali cavendish yang banyak dijajakan di pasar-pasar di Eropa dan Amerika
 Serikat. Beta karoten merupakan tanda kandungan vitamin A. Seandainya pisang
 karat sampai beredar di sini, maka kita kalah langkah lagi. Padahal banyak
 pisang lokal yang kandungan vitamin A-nya tinggi, tetapi tidak dipromosikan.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/01/manfaat-
-pisang-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/01/manfaat-
+pisang-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/01/manfaat-pisang.jpg) Pisang adalah buah yang
 menguntungkan apakah Anda memakannya atau tidak. Buah kuning melengkung yang
 lezat untuk dimakan dan sarat dengan nutrisi penting ini pertama kali
@@ -75,7 +75,7 @@ dimakan tanpa pembuahan. Buah-buahan memiliki tiga lapisan -
   * Mesocarp sedikit berserat
   * Endocarp berdaging (bagian yang dapat dimakan)
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/01/pisang-1024x576.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/01/pisang-1024x576.jpg)
 
 ## Kondisi Ideal untuk Budidaya Pisang
 

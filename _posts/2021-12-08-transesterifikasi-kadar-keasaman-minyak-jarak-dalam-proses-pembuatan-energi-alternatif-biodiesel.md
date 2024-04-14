@@ -16,7 +16,7 @@ tags:
 - pagar
 
 modification_time: 2021-12-08 05:47:27
-blogger_orig_url: "http://localhost/mitra/proses-mengatasi-peningkatan-kadar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/proses-mengatasi-peningkatan-kadar.html"
 ---
 
 Minyak jarak dikenal sebagai sumber energi alternatif biodiesel. Saat ini
@@ -44,8 +44,8 @@ biodiesel castor oil memang terjadi endapan gliserol seperti halnya biodiesel
 minyak sawit. Itu bukan berarti teknologi produksinya layak diterapkan,
 sebelum hasil produksi dibandingkan dengan standar mutu bahan bakar mesin.
 Sebab, kesalahan teknologi produksi biodiesel berdampak kerusakan mesin.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/castol-1024x581.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/castol-1024x581.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/castol.jpg)
 
 ## Teknologi esterifikasi transesterifikasi
@@ -102,8 +102,8 @@ jeda waktu penggilingan dengan pemerasan minyak harus sependek mungkin.
 Kemudian air sisa proses dikeluarkan secepatnya sebelum terhidrolisis
 membentuk asam lemak bebas penyebab ketengikan. Penyimpanan minyak dan
 biodiesel selama proses produksi pembuatan biodiesel berlangsung disimpan pada
-tangki PVC atau plastik fiber tertutup rapat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/jarak-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+tangki PVC atau plastik fiber tertutup rapat. [![](http://localhost/mitra/wp-
+content/uploads/2021/12/jarak-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/jarak.jpg)
 
 ## Transesterifikasi Biodiesel Secara Efisien

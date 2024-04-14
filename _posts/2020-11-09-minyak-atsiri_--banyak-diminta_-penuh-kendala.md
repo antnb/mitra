@@ -11,7 +11,7 @@ tags:
 - minyak
 
 modification_time: 2020-11-09 10:57:59
-blogger_orig_url: "http://localhost/mitra/minyak-atsiri-banyak-diminta-penuh.html"
+blogger_orig_url: "http://www.mitrausahatani.com/minyak-atsiri-banyak-diminta-penuh.html"
 ---
 
 Mimpi kali ye... Retorika Hughes, presenter acara televisi itu betul-betul
@@ -32,11 +32,11 @@ juga turut mengantungi untung. Haji Kiswandi bisa meraup pendapatan Rp
 Pekuncen, Banyumas. Begitu pula Joko Soendoro di Kabupaten Tulang Bawang,
 Lampung. Setiap hari penghasilan Rpl-juta ditangguk dari sebuah ketel
 penyulingan serai wangi. Meski demikian dari hasil lacakan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di lapangan seperti Purwokerto, Ambarawa,
+Tani](https://www.mitrausahatani.com) di lapangan seperti Purwokerto, Ambarawa,
 Trenggalek, dan Lampung, tidak semua penyuling mampu meraup laba. Banyak
 penyuling gulung tikar karena kesulitan bahan baku.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/atsiri.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/atsiri.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/atsiri.jpg)
 
 ## Dekati sentra Bahan Baku Minyak Atsiri
@@ -74,7 +74,7 @@ Rp50.000/4 bulan. Padahal pada penanaman ke-2, produksi bisa anjlok
 setengahnya karena nilam terserang penyakit. Nasib serupa menimpa pekebun-
 pekebun akarwangi di Garut. Mereka menerima harga akarwangi Rp200/kg. "Untuk
 ongkos gali saja Rpl50/kg," tutur Y. Sofyan Hamidian, Kasie Pengendalian Usaha
-dan Kemitraan Dinas [Perkebunan](http://127.0.0.1/mitra/perkebunan
+dan Kemitraan Dinas [Perkebunan](https://www.mitrausahatani.com/perkebunan
 "Perkebunan"), Garut. Tak heran pekebun lebih memilih komoditas lain yang
 dianggap menguntungkan, seperti sayuran dan tembakau. Alih profesi pekebun
 menjadi penyuling bukannya tidak ada. Menurut Tharir di Trenggalek, di desanya
@@ -85,8 +85,8 @@ disediakan agar bisa berproduksi. Bila dipaksa berproduksi dengan modal cekak
 hasil sulingan bermutu rendah. Memang ongkos pembuatan ketel bisa dipangkas
 70% jika diganti dengan drum bekas atau pipa ledeng. Namun, bahan-bahan itu
 mudah berkarat sehingga minyak yang dihasilkan keruh. Padahal eksportir
-menghendaki minyak bening. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/suling.jpg)](http://127.0.0.1/mitra/wp-
+menghendaki minyak bening. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/suling.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/suling.jpg)
 
 ### Banyak dibutuhkan

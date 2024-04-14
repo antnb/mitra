@@ -11,7 +11,7 @@ tags:
 - varietas lokal
 
 modification_time: 2021-01-23 07:37:32
-blogger_orig_url: "http://localhost/mitra/buah-cempedak-king-malaysia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-cempedak-king-malaysia.html"
 ---
 
 _Artocarpus champeden_ itu diboyong sepasang sahabat, Ibrahim dan Mulyono,
@@ -19,7 +19,7 @@ kolektor buah-buah eksklusif di Singkawang, Kalimantan Barat, dari Kuching 5
 tahun silam. Meski diambil dari negeri di Malaysia Timur itu, menurut Ibrahim,
 Buah cempedak berasal dari Thailand. Di kebun seluas 7 ha, 50 bibit asal
 perbanyakan vegetatif itu ditanam bersama 60
-[cempedak](http://127.0.0.1/mitra/topik/cempedak) introduksi langsung dari
+[cempedak](https://www.mitrausahatani.com/topik/cempedak) introduksi langsung dari
 Thailand dan 10 lagi dari Birma. Di kebun itu juga dikembangkan lengkeng
 bangkok super dan jeruk siem madu asal Thailand, lengkeng pingpong asal
 Malaysia, dan beragam buah mancanegara lain.

@@ -13,7 +13,7 @@ tags:
 - pongge
 
 modification_time: 2021-02-17 07:13:14
-blogger_orig_url: "http://localhost/mitra/cara-thailand-kemas-durian-ekspor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-thailand-kemas-durian-ekspor.html"
 ---
 
 Urusan ekspor buah, Thailand memang jagonya. Durian salah satu andalan ekspor
@@ -30,8 +30,8 @@ berupaya menemukan cara penanganan dan pengemasan terbaik bagi durian ekspor.
 ## Dilapisi Karton bergelombang
 
 [caption id="attachment_8151" align="aligncenter" width="412"][![pembersihan
-buah dari kotoran](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/durian12.jpg)](http://127.0.0.1/mitra/wp-
+buah dari kotoran](http://localhost/mitra/wp-
+content/uploads/2021/02/durian12.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/durian12.jpg) Mesin cuci buah durian secara
 otomatis[/caption] Saat ini pengemasan untuk ekspor di Thailand menggunakan
 karton bergelombang. Keunggulannya, bobot cukup ringan. Dinding kemasan tidak
@@ -57,15 +57,15 @@ grafis yang diizinkan menggunakan dua warna (hijau dan oranye). Label jelas
 menginformasikan kultivar, asal, ukuran, jumlah, bobot bersih, saran
 penyajian, dan waktu konsumsi. Semuanya ditulis dengan bentuk huruf yang
 gampang dibaca. [caption id="attachment_8153" align="aligncenter"
-width="405"][![paking pengiriman durian](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/duren2.jpg)](http://127.0.0.1/mitra/wp-
+width="405"][![paking pengiriman durian](http://localhost/mitra/wp-
+content/uploads/2021/02/duren2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/duren2.jpg) Sterilisasi Sebelum pengemasan[/caption]
 
 ## Kemasan Untuk konsumen
 
 [caption id="attachment_8152" align="aligncenter" width="433"][![paking durian
-untuk konsumen](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/durenh.jpg)](http://127.0.0.1/mitra/wp-
+untuk konsumen](http://localhost/mitra/wp-
+content/uploads/2021/02/durenh.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/durenh.jpg) Kemasan satuan cocok untuk pengiriman
 jarak jauh langsung ke konsumen[/caption] Untuk mengepak buah utuh
 dikembangkan juga kemasan untuk konsumen langsung. Wujudnya berupa kotak

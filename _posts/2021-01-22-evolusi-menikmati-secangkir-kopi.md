@@ -3,7 +3,7 @@ layout: post
 title: 'Evolusi Menikmati Secangkir Kopi'
 categories: artikel
 date: 2021-01-22 03:39:11
-author: Anton N
+author: Yudianto
 image: media/Gambar_kopi_1024x640.jpg
 tags:
 - biji kopi
@@ -14,7 +14,7 @@ tags:
 - pecandu kopi
 
 modification_time: 2021-01-22 03:39:11
-blogger_orig_url: "http://localhost/mitra/evolusi-menikmati-secangkir-kopi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/evolusi-menikmati-secangkir-kopi.html"
 ---
 
 Mirza tak sembarang menyeduh kopi. Suhu air saat dijerang harus 96 sampai
@@ -52,8 +52,8 @@ Hendra kecil menyortir biji, menyangrai, lalu mencicipi seduhan kopi. Pada
 ## Mata pencarian dari kopi
 
 [caption id="attachment_7910" align="alignleft"
-width="217"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_minum_kopi_631x768.jpg)](http://127.0.0.1/mitra/wp-
+width="217"][![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_minum_kopi_631x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_minum_kopi_631x768.jpg) Mirza, awali hari
 dengan kopi[/caption] Hobi menikmati kopi mendorong Hendra membuka warung kopi
 pada Mei 2001. Namanya Bakoel Koffie. Anak kedua dari 5 bersaudara itu sengaja
@@ -102,7 +102,7 @@ Koffie kini membuka 6 gerai di Jakarta. Empat di antaranya di Jakarta Selatan.
 "Jakarta Selatan dipilih karena komunitas Jepang banyak tinggal di Kebayoran
 Baru untuk membangkitkan memori," ujar Hendra. Maksudnya ketika kakek buyutnya
 dulu berniaga kopi, masyarakat Jepang salah satu konsumennya. Ketika [Mitra
-usaha tani](http://127.0.0.1/mitra) menyambangi gerai Bakoel Koffie di Barito,
+usaha tani](https://www.mitrausahatani.com) menyambangi gerai Bakoel Koffie di Barito,
 Kebayoran Baru, pengunjung terus mengalir. Di sana mereka dapat mencicipi
 setidaknya 40 ragam minuman berbahan kopi. Espresso campana yang masih tersisa
 manis susu, black coffee yang hitam pekat tanpa gula, atau coffee latte
@@ -122,8 +122,8 @@ berpendingin yang resik bersama rekan bisnis.
 
 ## Menjaga kualitas dan mutu kopi
 
-[![suasana di gerai kopi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_minum_kopi1_1024x665.jpg)](http://127.0.0.1/mitra/wp-
+[![suasana di gerai kopi](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_minum_kopi1_1024x665.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_minum_kopi1_1024x665.jpg)Kelezatan kopi berawal
 dari pemilihan coffee cherry alias biji kopi utuh. Gerai-gerai kopi umumnya
 hanya menyediakan kopi arabika yang khas. Biji-biji kopi hasil panen dari

@@ -11,14 +11,14 @@ tags:
 - varietas
 
 modification_time: 2021-09-05 15:05:00
-blogger_orig_url: "http://localhost/mitra/sebuah-kampung-belimbing-bernama.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sebuah-kampung-belimbing-bernama.html"
 ---
 
 Tanyalah kepada warga kampung belimbing, apa yang paling pas menjadi oleh-oleh
 dari Blitar? Bumbu pecel pasti salah satu jawabannya. Maklum kota kelahiran
 Proklamator RI, Ir Soekarno, itu memang produsen penganan khas Jawa itu. Kini,
 selain bumbu pecel, warga Blitar dengan bangga menyodorkan
-[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") karangsari
+[belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") karangsari
 sebagai buah tangan para pelancong. Puluhan pohon belimbing dipenuhi buah
 matang terbungkus plastik bening di masing-masing halaman rumah penduduk
 kampung belimbing jadi pemandangan lazim begitu memasuki Kelurahan Karangsari,
@@ -53,8 +53,8 @@ Mulus sampai nantinya Dikirim ke pasar swalayan. Buah dibersihkan dengan lap,
 kemudian satu per satu dibnngkus kantong plastik sehingga tampilannya lebih
 cantik. Sisanya, kelas B dan C, masuk ke pasar tradisional. [caption
 id="attachment_13911" align="aligncenter" width="1511"][![Belimbing unggulan
-dari kampung belimbing](http://127.0.0.1/mitra/wp-
-content/uploads/2021/09/belimbing.jpg)](http://127.0.0.1/mitra/wp-
+dari kampung belimbing](http://localhost/mitra/wp-
+content/uploads/2021/09/belimbing.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/09/belimbing.jpg) Belimbing super[/caption]
 
 ## Juara lomba Buah
@@ -96,9 +96,9 @@ uji DNA oleh BPTP Jawa Timur pun menunjukkan perbedaan tetua antara belimbing
 karangsari, demak, kunir, dan dewi. Lagipula secara fisik, karangsari berbeda
 dengan ketiga varietas itu dengan penciri lingir yang hijau. [caption
 id="attachment_13912" align="aligncenter" width="457"]![belimbing
-karangsari](http://127.0.0.1/mitra/wp-content/uploads/2021/09/belimbing1.jpg)
+karangsari](http://localhost/mitra/wp-content/uploads/2021/09/belimbing1.jpg)
 Imam Surani, pelopor belimbing karangsari[/caption] [Jenis
-unggul](http://127.0.0.1/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html) itu
+unggul](https://www.mitrausahatani.com/belimbing-unggulan-kala-dewa-dan-dewi.html) itu
 lantas diperbanyak dengan cara okulasi dan ditanam oleh hampir seluruh warga
 kampung belimbing karangsari. Malah kini bibitnya sudah menyebar hingga
 Tulungagung, Trenggalek, Kediri, Nganjuk, Malang, Batu, Bondowoso, Jember, dan
@@ -107,7 +107,7 @@ sampai 2002 telah tersebar 53.000 bibit.
 
 ## Tabulampot Belimbing
 
-Seiring dengan kian [meningkatnya permintaan](http://127.0.0.1/mitra/di-
+Seiring dengan kian [meningkatnya permintaan](https://www.mitrausahatani.com/di-
 taiwan-budidaya-belimbing.html) pelanggan, warga mulai mengebunkan belimbing
 karangsari di lahan-lahan sawah. Kini sekitar 3.000 pohon yang ditanam di luar
 pekarangan. Iseng-iseng, karangsari pun dipotkan. Penampilannya memang menarik

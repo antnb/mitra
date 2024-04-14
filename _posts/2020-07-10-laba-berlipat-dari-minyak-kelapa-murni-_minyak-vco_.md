@@ -10,7 +10,7 @@ tags:
 - vco
 
 modification_time: 2020-07-10 14:33:09
-blogger_orig_url: "http://localhost/mitra/laba-minyak-kelapa-murni-minyak-vco.html"
+blogger_orig_url: "http://www.mitrausahatani.com/laba-minyak-kelapa-murni-minyak-vco.html"
 ---
 
 Meski hasil **minyak vco** sudah ditangan, kesibukan Endang tak berhenti
@@ -22,10 +22,10 @@ ditampung dalam wadah transparan lalu ditutup dan didiamkan. Satu jam
 berselang krim yang terbentuk dipisahkan dari air. Setelah ditambahkan minyak
 pancingan dan diaduk, krim didiamkan selama 10 jam hingga menghasilkan
 **minyak kelapa murni** [caption id="attachment_1253" align="aligncenter"
-width="1024"][![minyak kelapa murni asli](http://127.0.0.1/mitra/wp-
-content/uploads/2020/07/vco-1024x768.jpg)](http://127.0.0.1/mitra/wp-
+width="1024"][![minyak kelapa murni asli](http://localhost/mitra/wp-
+content/uploads/2020/07/vco-1024x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/07/vco.jpg) minyak kelapa buka peluang
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") kelapa[/caption]
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") kelapa[/caption]
 
 ### Minyak kelapa murni Banyak dicari
 
@@ -72,7 +72,7 @@ binaan Laboratorium Kimia-Fisika UGM. Dari 15 kelompok yang aktif memproduksi
 minyak vco di Kecamatan Galur, Kulonprogo, baru 500 liter/hari yang dapat
 dipasok ke PT Arpaa Kifika. Padahal, target produksi minimal 1.000 1/hari.
 [caption id="attachment_1253" align="aligncenter" width="428"]![virgin
-coconut](http://127.0.0.1/mitra/wp-content/uploads/2020/07/vco.jpg) Untung
+coconut](http://localhost/mitra/wp-content/uploads/2020/07/vco.jpg) Untung
 meski diolah dalam skala rumah tangga[/caption]
 
 ### Permasalahan Seputar produsen minyak
@@ -103,7 +103,7 @@ butir kelapa dihasilkan 10 1 VCO, 2 1 minyak goreng krengseng, 4 kg blondo,
 dan 40 liter air kelapa. Dengan harga minyak vco Rp 9.000/liter, minyak
 krengseng Rp 6.000/ liter, blondo Rp 3.500/kg, dan air kelapa Rp l50/liter,
 minimal ia mendapatkan Rp 122.000. Dengan demikian nilai [sebutir
-kelapa](http://127.0.0.1/mitra/produk-olahan-kelapa-pandan-wangi.html)
+kelapa](https://www.mitrausahatani.com/produk-olahan-kelapa-pandan-wangi.html)
 meningkat menjadi Rp 1 ,220/butir. Kalau pun bahan baku dibeli seharga Rp
 900/butir, keuntungan dari harga minyak vco yang dijual mencapai Rp 32.000 per
 hari masuk ke kantongnya. Rupiah yang diterima Freddy Gosal di Minahasa lebih

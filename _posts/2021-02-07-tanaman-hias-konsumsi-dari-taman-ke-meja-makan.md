@@ -3,14 +3,14 @@ layout: post
 title: 'Tanaman Hias Konsumsi Dari Taman Ke Meja Makan'
 categories: artikel
 date: 2021-02-07 13:20:56
-author: Anton N
+author: Yudianto
 image: media/Gambar_lily1_1024x768.jpg
 tags:
 - daun krisan
 - sirop umbi
 
 modification_time: 2021-02-07 13:20:56
-blogger_orig_url: "http://localhost/mitra/tanaman-hias-konsumsi-dari-taman-ke.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-hias-konsumsi-dari-taman-ke.html"
 ---
 
 Indah di taman, sedap disantap di meja makan. Tanaman hias tertentu kini tak
@@ -19,7 +19,7 @@ bila dikonsumsi. Salah satu contohnya: lili (_Hemerocallis sp_). Daun mudanya
 dapat Anda nikmati dalam salad. Bila Anda menumisnya, rasanya mirip rebung W
 asparagus. Bagian lain tanaman ini yang dapat dikonsumsi adalah bunganya untuk
 tempura dan kimlo. "Rasanya renyah dan gurih," tutur pengusaha [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), Iin Hasim, yang
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"), Iin Hasim, yang
 pernah membuat dan merasakan nikmatnya tempura made in Indonesia itu. Cara
 membuatnya mudah. Petik bunga yang masih kuncup. Setelah benang sari dibuang
 rasanya keras celupkan dalam adonan tepung yang telah dibumbui. Barulah
@@ -32,8 +32,8 @@ dimasak bersama wortel dan slaw kubis mentah yang diiris tipis dan berkuah.
 Beberapa yang lezat antara lain: Rosa damascena, R. gallica, dan R. rugosa.
 Mereka terpilih lantaran keharumannya tak begitu menyengat. [caption
 id="attachment_8085" align="aligncenter" width="303"][![Sayur
-lili](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_lily_912x768.jpg)](http://127.0.0.1/mitra/wp-
+lili](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_lily_912x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_lily_912x768.jpg) Sayur lili, sumber gizi
 baru[/caption]
 
@@ -59,8 +59,8 @@ hias belum lazim dikonsumsi. Meskipun, "Tanaman hias berwarna merah atau
 kuning seperti mawar banyak mengandung karetonoid," tuturnya. Ia mencegah
 penyakit degeratif seperti kanker. [caption id="attachment_8086"
 align="aligncenter" width="410"][![Sirop bunga
-dahlia](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_jus_1024x684.jpg)](http://127.0.0.1/mitra/wp-
+dahlia](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_jus_1024x684.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_jus_1024x684.jpg) Sirop dahlia[/caption]
 
 ## Awas beracun

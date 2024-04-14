@@ -9,7 +9,7 @@ tags:
 - labu
 
 modification_time: 2022-12-28 14:32:48
-blogger_orig_url: "http://localhost/mitra/pt-east-west-seed-indonesia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pt-east-west-seed-indonesia.html"
 ---
 
 Pertanian di Indonesia berkembang pesat dalam beberapa dekade terakhir berkat
@@ -28,7 +28,7 @@ untuk masyarakat Indonesia. [PT East West Seed
 Indonesia](https://www.panahmerah.id/home) (Ewindo) bekerja sama dengan
 Institut Pertanian Bogor (IPB) menyelenggarakan Festival Labu Nusantara pada 8
 Oktober 2018 di Kampus Dramaga, Bogor. Fetival labu pertama [di
-Indonesia](http://127.0.0.1/mitra/potensi-budidaya-perikanan-di.html) itu
+Indonesia](https://www.mitrausahatani.com/potensi-budidaya-perikanan-di.html) itu
 dihadiri Managing Director PT East West Seed Indonesia, Glenn Pardede; Rektor
 Institut Pertanian Bogor, Prof Herry Suhardiyanto; Dekan Fakultas Pertanian,
 Dr Ernan Rustiadi; pakar nutrisi labu IPB, Prof Ahmad Sulaeman; dan petani
@@ -36,15 +36,15 @@ dari seluruh Indonesia. “Ewindo sangat bangga bisa bekerja sama dengan IPB
 menyelenggarakan Festival Labu Nusantara pertama. Ini salah satu bentuk
 dukungan dan kerja sama sektor swasta dan perguruan tinggi untuk memajukan
 industri hortikultura nasional, khususnya labu,” ujar Glenn Pardede.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/East-West-Seed-
-Indonesia_640x371.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/East-West-Seed-
+Indonesia_640x371.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/East-West-Seed-Indonesia_640x371.jpg)
 
 ## Tingkatkan pendapatan Bagi Para Petani
 
 Kegiatan itu juga sebagai upaya PT east west seed indonesia mendukung
 ketahanan [pangan melalui diversifikasi pangan
-untuk](http://127.0.0.1/mitra/manfaat-program-kawasan-rumah-pangan.html)
+untuk](https://www.mitrausahatani.com/manfaat-program-kawasan-rumah-pangan.html)
 substitusi beras dan jagung. Labu Cucurbita moschata memiliki nilai gizi
 tinggi. Kandungan nutrisi utamanya, antioksidan tinggi berupa senyawa
 betakaroten, vitamin A, dan vitamin C. Selain itu, labu juga berpotensi besar
@@ -68,14 +68,14 @@ pemasok, dan pengelola pasar modern yang menjadi pintu bagi konsumen untuk
 mengakses produk sayuran terbaik. Acara itu sekaligus menjadi sarana edukasi
 petani Indonesia, khususnya Banten dan sekitarnya untuk berpartisipasi dalam
 pertumbuhan sektor retail modern dan tradisional di Indonesia.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/East-West-Seed-
-Indonesia_640x384.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/East-West-Seed-
+Indonesia_640x384.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/East-West-Seed-Indonesia_640x384.jpg)
 
 ## Pengembangan benih sayuran tropis hibrida
 
 Melalui acara itu, petani memperoleh pengetahuan dan informasi [dari pelatihan
-mengenai standar sayuran](http://127.0.0.1/mitra/4-sayuran-varietas-unggul-
+mengenai standar sayuran](https://www.mitrausahatani.com/4-sayuran-varietas-unggul-
 dari-negeri.html) pasar modern. PT East West Seed Indonesia (Ewindo) produsen
 benih hortikultura yang mengembangkan, memproduksi, dan memasarkan benih
 sayuran tropis hibrida dengan merk dagang "Cap Panah Merah”. PT east west seed

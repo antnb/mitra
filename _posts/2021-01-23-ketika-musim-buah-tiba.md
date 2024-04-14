@@ -10,7 +10,7 @@ tags:
 - Mangga
 
 modification_time: 2021-01-23 06:14:53
-blogger_orig_url: "http://localhost/mitra/ketika-musim-buah-tiba.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ketika-musim-buah-tiba.html"
 ---
 
 Empat kata di awal itu bak mantra pemikat dari penyihir sakti. Begitu kata-
@@ -32,8 +32,8 @@ LBUN.
 ## Dijagokan
 
 [caption id="attachment_7949" align="alignleft" width="220"][![durian
-Papaken](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_buah2_896x768.jpg)](http://127.0.0.1/mitra/wp-
+Papaken](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_buah2_896x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_buah2_896x768.jpg) Papaken jaranang bikin
 penasaran[/caption] Celetukan-celetukan ringan kerap mengiringi proses itu.
 “Wah, ini mangga besar amat,” seru rekan-rekan redaksi waktu lazis djiddan
@@ -52,7 +52,7 @@ Sayang kedua lai itu tak mendapatkan satu nomor pun. Meski warna menarik,
 kedua Durio kutejensis itu berdaging tipis dan kalah enak dibanding peserta
 dari spesies D. zibethinus. Selama proses penilaian, panitia terpaksa
 mendiskualifikasi beberapa buah, seperti
-[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") dan jambu air.
+[belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") dan jambu air.
 Mereka datang dalam kondisi rusak sehingga tidak memungkinkan untuk dinilai.
 Itu sangat disayangkan karena komoditas yang dikirim sebenarnya unggulan
 setempat. Pengemasan kurang tepat dan lamanya waktu perjalanan menjadi

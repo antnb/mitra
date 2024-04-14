@@ -9,7 +9,7 @@ tags:
 - Kelengkeng
 
 modification_time: 2021-10-30 15:23:29
-blogger_orig_url: "http://localhost/mitra/pesta-kelengkeng-tumpang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pesta-kelengkeng-tumpang.html"
 ---
 
 Akhir Februari lalu apel manalagi maskot kota Malang kehilangan pamornya.
@@ -21,10 +21,10 @@ Kecamatan Lawang, Kabupaten Malang, tanda-tanda musim lengkeng memang sudah
 terlihat. Tidak cuma di kios pinggir jalan, pedagang gelaran, bersepeda,
 gerobag, bahkan mobil pick up ikut meramaikan pasar lengkeng. Pemandangan ini
 terus berlanjut sampai ke dalam kota, seperti kawasan
-[Belimbing](http://127.0.0.1/mitra/topik/belimbing "Belimbing") dan Dinoyo.
+[Belimbing](https://www.mitrausahatani.com/topik/belimbing "Belimbing") dan Dinoyo.
 Jalan Raya Sengkaling yang menghubungkan Malang dengan kota wisata Batu juga
 tak luput dari serbuan pedagang lengkeng. Kios kagetan berderet mencegat para
-pelancong. ![](http://127.0.0.1/mitra/wp-
+pelancong. ![](http://localhost/mitra/wp-
 content/uploads/2021/10/kelengkeng1-1024x576.jpg)
 
 ## Rasa lengkeng Yang Lebih manis
@@ -51,7 +51,7 @@ banyaknya brongsong warna hijau daun dari jauh tampak menjadi semburat
 cokelat. Beberapa desa penghasil lengkeng di Kecamatan Tumpang antara lain,
 Malangsuko, Wates, Sumbersari, Karanganyar, Karangjambe, Bokor dan Pungging.
 Dalam jumlah tidak terlalu banyak beberapa desa di Kecamatan Pakis juga
-menghasilkan lengkeng. ![](http://127.0.0.1/mitra/wp-
+menghasilkan lengkeng. ![](http://localhost/mitra/wp-
 content/uploads/2021/10/buah2-1024x576.jpg)
 
 ## Pohon warisan

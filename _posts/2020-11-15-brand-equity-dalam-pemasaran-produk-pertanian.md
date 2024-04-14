@@ -10,7 +10,7 @@ tags:
 - merk
 
 modification_time: 2020-11-15 04:39:24
-blogger_orig_url: "http://localhost/mitra/brand-equity-dalam-pemasaran-produk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/brand-equity-dalam-pemasaran-produk.html"
 ---
 
 Memasarkan produk pertanian bukanlah hal gampang. Seorang pemasar harus benar-
@@ -25,8 +25,8 @@ harus diakui buah hasil pekebun Tanah Karo, Dairi, Deli Serdang, dan
 Simalungun itu memiliki brand equity rendah. Mengapa? Dari penampilan, warna
 kulit tampak tidak merata, seringkah kondisi kulit tak mulus, buah kecil (8
 sampai 10 buah per kg), dan citarasa manis bercampur masam.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/lahan.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/lahan.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/lahan.jpg)
 
 ## Pemasaran produk pertanian
@@ -53,8 +53,8 @@ Tak hanya pada jeruk, tetapi meluas pada hampir seluruh komoditas pertanian
 Indonesia. Sampai detik ini semua negara agraris di dunia berlomba-lomba
 membangun brand equity. Dengan peningkatan brand, maka produsen pun tak sulit
 memasarkan atau melebarkan sayap ke seluruh target pasar.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Brand-
-Equity.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Brand-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Brand-
+Equity.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Brand-
 Equity.jpg)
 
 ## kemampuan daya beli masyarakat

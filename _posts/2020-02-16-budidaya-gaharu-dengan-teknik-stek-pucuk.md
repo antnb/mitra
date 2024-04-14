@@ -10,13 +10,13 @@ tags:
 - kayu agar
 
 modification_time: 2020-02-16 11:42:34
-blogger_orig_url: "http://localhost/mitra/budidaya-gaharu-stek-pucuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-gaharu-stek-pucuk.html"
 ---
 
 Di tangan Joner Situmorang dan tim peneliti di _Seameo Biotrop_ , Bogor,
 tanaman **gaharu** atau yang sering disebut _kayu agar_ setinggi 30 cm di
 polibag pun sudah bisa diperbanyak. [Dengan
-teknik](http://127.0.0.1/mitra/budidaya-manggis-dengan-teknik-kaki.html) stek
+teknik](https://www.mitrausahatani.com/budidaya-manggis-dengan-teknik-kaki.html) stek
 pucuk, Budidaya Gaharu dengan sebatang bibit berumur 5 - 6 bulan menghasilkan
 10 - 12 bibit baru setiap bulan. Selain pertumbuhan lebih seragam, kualitas
 genetik juga lebih terjamin. Cara perbanyakan dalam Budidaya Gaharu yang
@@ -44,7 +44,7 @@ dulu. Caranya, pasir dikukus selama 8-10 jam untuk mematikan mikroorganisme
 pengganggu seperti cendawan, bakteri, dan nematoda. Pasir steril itu
 selanjutnya dimasukkan ke dalam baki semai dengan ketebalan 5 cm. Setelah itu
 barulah bahan setek diambil dari sumbernya. ![Tanam pucuk di media pasir
-steril Budidaya Gaharu dengan stek pucuk](http://127.0.0.1/mitra/wp-
+steril Budidaya Gaharu dengan stek pucuk](http://localhost/mitra/wp-
 content/uploads/2020/02/obat-1024x576.jpg)
 
 ## Stek Pucuk Diterapkan Pada Tanaman Yang Belum berkayu

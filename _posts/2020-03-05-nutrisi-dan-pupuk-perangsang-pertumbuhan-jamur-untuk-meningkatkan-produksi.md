@@ -10,7 +10,7 @@ tags:
 - jamur kuping
 
 modification_time: 2020-03-05 15:41:59
-blogger_orig_url: "http://localhost/mitra/pupuk-perangsang-pertumbuhan-jamur.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pupuk-perangsang-pertumbuhan-jamur.html"
 ---
 
 Serupa tapi tak sama, di Sragen, Jawa Tengah, juga ada jamur kuping berukuran
@@ -21,7 +21,7 @@ meningkat dengan diameter jamur kuping membesar hingga 25-30 cm. Itulah hasil
 riset Ir Ujang, pekebun jamur kuping di Sambungmacan, Sragen, Jawa Tengah.
 Hasil ramuan pupuk perangsang pertumbuhan jamur temuan Ujang telah diterapkan
 oleh beberapa pekebun di Karanganyar, Jawa Tengah.
-[mitrausahatani.com](http://127.0.0.1/mitra) sempat menyaksikan deretan baglog
+[mitrausahatani.com](https://www.mitrausahatani.com) sempat menyaksikan deretan baglog
 dengan jamur kuping meraksasa di rumah beberapa pekebun. Sayang, masa produksi
 belum usai sehingga belum dapat diketahui total produksi.
 
@@ -44,10 +44,10 @@ pengatur tumbuh yang fungsinya mendorong pembesaran sel. Sedangkan tetes tebu
 mengandung hara yang baik untuk pertumbuhan jamur,” ungkap Ujang. Tetes tebu
 mengandung 50-60% gula, sejumlah asam amino, dan mineral. Kedua bahan itu
 mempunyai khasiat sebagai nutrisi jamur tambahan . Selama ini pemeliharaan
-[jamur kuping tidak menuntut pemberian pupuk](http://127.0.0.1/mitra/pupuk-
+[jamur kuping tidak menuntut pemberian pupuk](https://www.mitrausahatani.com/pupuk-
 organik-cair-jamur-tiram.html) atau hara tambahan setelah tanam. Kebutuhan
 nutrisi untuk tumbuh, 100% bergantung pada substrat di dalam baglog. Adi
-Yuwono, pakar [jamur](http://127.0.0.1/mitra/topik/jamur) yang dihubungi
+Yuwono, pakar [jamur](https://www.mitrausahatani.com/topik/jamur) yang dihubungi
 secara terpisah mengakui, ”Itu penemuan spektakuler,” ujarnya. Selama ini
 produksi jamur kuping antara 50- 85%. Artinya jika bobot baglog 1,4 kg,
 produksinya antara 0,7-1,1 kg. Dengan tambahan nutrisi jamur milik Ujang,
@@ -69,7 +69,7 @@ Kuping Ujang hanya membutuhkan tambahan biaya sangat kecil, hanya Rp
 25.000/2.000 baglog. Pupuk perangsang pertumbuhan jamur dari sari Tetes tebu
 bisa dibuat dari hasil samping pabrik gula atau dari gula jawa (merah).
 Kecambah kacang hijau bisa didapatkan dengan mudah di pasaran. Selain pada
-[jamur kuping](http://127.0.0.1/mitra/prospek-bisnis-menggiurkan-lewat.html),
+[jamur kuping](https://www.mitrausahatani.com/prospek-bisnis-menggiurkan-lewat.html),
 Ujang juga memberikan pupuk ini di jamur tiram. Hasilnya bahkan lebih luar
 biasa. Umur panen terdongkrak nyata hingga 7 bulan, dari sebelumnya hanya 4
 bulan. Peningkatan hasilnya pun signifikan, 4- 5 kali lipat

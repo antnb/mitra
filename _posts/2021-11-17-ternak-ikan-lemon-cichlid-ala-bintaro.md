@@ -10,7 +10,7 @@ tags:
 - siklid
 
 modification_time: 2021-11-17 18:21:00
-blogger_orig_url: "http://localhost/mitra/ternak-ikan-lemon-cichlid-ala-bintaro.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ternak-ikan-lemon-cichlid-ala-bintaro.html"
 ---
 
 Ikan lemon cichlid lagi naik daun. Ikan kecil berwarna kuning jeruk ini sedang
@@ -20,12 +20,12 @@ negeri Belanda disebut citrus cichlid. Selain kuning, corak tegas berwarna
 hitam yang terdapat pada sirip punggung dan perut mempercantik penampilannya.
 [caption id="attachment_15363" align="aligncenter" width="1024"][![15 hari
 puasa, demi anak. Dari mulut keluar 20 sampai 30 ekor anakan
-siklid](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/Siklid-1024x604.jpg)](http://127.0.0.1/mitra/wp-
+siklid](http://localhost/mitra/wp-
+content/uploads/2021/11/Siklid-1024x604.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Siklid.jpg) 15 hari puasa, demi anak. Dari mulut
 keluar 20 sampai 30 ekor anak[/caption] Pada umur 8 bulan ikan Neolamprologus
 leleupi sudah bisa berproduksi. Saat itu panjang tubuh [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") cichlid jantan 8cm sampai
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") cichlid jantan 8cm sampai
 12cm; betina, 5cm sampai 8cm. Ciri khas ikan jantan, warna hitam pada sirip
 dada dan punggung lebih kontras. Sedangkan betina agak pudar.
 
@@ -50,8 +50,8 @@ yang sudah bertelur akan menggembung bagian bawah kepala dekat mulut (gondok).
 Ikan betina mengandung telur harus segera dipindahkan ke akuarium khusus .
 [caption id="attachment_15364" align="aligncenter" width="1024"][![anakan ikan
 lemon cichlid yang sudah dikeluarkan dari mulut
-indukan](http://127.0.0.1/mitra/wp-content/uploads/2021/11/telur-Lemon-
-Siklid-1024x589.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/telur-
+indukan](http://localhost/mitra/wp-content/uploads/2021/11/telur-Lemon-
+Siklid-1024x589.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/telur-
 Lemon-Siklid.jpg) anakan yang sudah dikeluarkan dari mulut indukan[/caption]
 Hal ini untuk menjaga jangan sampai telur atau anak ikan yang keluar dimangsa
 ikan lemon besar. Selama berada di akuarium pengeraman, ikan tidak mau makan.

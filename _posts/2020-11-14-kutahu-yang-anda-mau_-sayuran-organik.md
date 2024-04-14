@@ -11,7 +11,7 @@ tags:
 - sayuran
 
 modification_time: 2020-11-14 11:05:15
-blogger_orig_url: "http://localhost/mitra/kutahu-yang-anda-mau-sayuran-organik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kutahu-yang-anda-mau-sayuran-organik.html"
 ---
 
 Dua kali sepekan Annas Farm mengirimkan beragam sayuran organik ke Singapura.
@@ -29,8 +29,8 @@ Cianjur. Sekali pengiriman Asep mengemas antara lain 1 kuintal caisim, 1
 kuintal wortel, dan masing-masing sekitar 25 sampai 50 kg bit, mentimun, dan
 tomat. Anna yang vegetarian dan menghindari nasi tentu ingin sehat, sehingga
 memilih sayuran organik. [caption id="attachment_20495" align="aligncenter"
-width="1565"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Sayuran1.jpg)](http://127.0.0.1/mitra/wp-
+width="1565"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/Sayuran1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Sayuran1.jpg) Citra sayuran oraganik berlubang, tidak
 berlaku lagi[/caption]
 
@@ -57,8 +57,8 @@ jenis sayuran per pekan. Harga per paket Rp30.000 sampai Rp40.000. Permintaan
 konsumen sebetulnya tinggi. “Mungkin sampai 50 orang. Belum lagi permintaan
 dari supermarket,” tutur liman Mutaqin dari Yayasan Tidusaniy. Yayasan itu
 berencana membangun toko dan kafe sayuran organik di Cimahi, Bandung.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Organik.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Organik.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Organik.jpg)
 
 ## Peningkatan Laba pekebun
@@ -78,8 +78,8 @@ memasok antara lain 260 kg kol, 26 kg selada, 40 kg wortel, dan 65 kg bit.
 Harga masing-masing per kg adalah Rp 1.000, Rp5.000, Rp3.500, dan Rp2.500.
 Padahal biaya produksi relatif rendah. Menurut Aryadi yang 6 tahun
 mengembangkan sayuran organik, biaya produksi per kg wortel hanya Rp 150,
-sedangkan kol Rp350. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Sayuran-Organik.jpg)](http://127.0.0.1/mitra/wp-
+sedangkan kol Rp350. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Sayuran-Organik.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Sayuran-Organik.jpg)
 
 ## Melatih petani Menjadi Mandiri

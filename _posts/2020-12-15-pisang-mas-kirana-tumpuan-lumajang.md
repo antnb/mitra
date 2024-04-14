@@ -13,7 +13,7 @@ tags:
 - sewu segar
 
 modification_time: 2020-12-15 16:31:41
-blogger_orig_url: "http://localhost/mitra/pisang-mas-kirana-tumpuan-lumajang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pisang-mas-kirana-tumpuan-lumajang.html"
 ---
 
 Pisang memang bukan mainan baru bagi Sewu Segar. Sebelumnya, produsei buah
@@ -39,8 +39,8 @@ hari setelah dikemas. Pisang dikemas dalam kardus cokelat berkapasitas 11 kg
 berdasarkan kualitasnya. Grade A jika kirana berbobot 8 s/d 10 ons per sisir
 dan grade B, 6 s/d 8 ons. "Biasanya grade A sebanyak 90% dan grade B 7% .
 Selebihnya tidak layak jual karena ukuran terlalu kecil," kata Ir Harwanto,
-MSi, manajer lapangan Prima Tani Lumajang. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/PISANG-MAS-KIRANA1.jpg)](http://127.0.0.1/mitra/wp-
+MSi, manajer lapangan Prima Tani Lumajang. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/PISANG-MAS-KIRANA1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/PISANG-MAS-KIRANA1.jpg)
 
 ## Mulai dikenal Pada Tahun 2003
@@ -65,8 +65,8 @@ Kecamatan Pasrujambe meliputi 11 dusun.
 
 ## Rasa yang Manis dan tahan
 
-[![pisang kirana lumajang](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_pisang4_816x768.jpg)](http://127.0.0.1/mitra/wp-
+[![pisang kirana lumajang](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_pisang4_816x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_pisang4_816x768.jpg)Tak heran bila penanaman
 kirana kian meluas. "Permintaan pisang kirana terus melejit," ujar Harwanto.
 Permintaan dari sewu segar semula 10 karton atau setara 110 kg/minggu. Pada

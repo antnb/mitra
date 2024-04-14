@@ -13,7 +13,7 @@ tags:
 - tumbuh sempurna
 
 modification_time: 2021-01-22 15:13:05
-blogger_orig_url: "http://localhost/mitra/dari-madagaskar-bertabur-bunga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dari-madagaskar-bertabur-bunga.html"
 ---
 
 Sang tamu diajak naik ke dak lantai tiga rumahnya. Ketakjubannya sulit
@@ -29,8 +29,8 @@ Asep—pedagang euphorbia di bilangan Bumi Serpong Damai.
 ## Tumbuh sempurna sebelum dibungakan
 
 [caption id="attachment_7923" align="alignleft" width="227"][![bunga
-euphorbia](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_euphorbia_634x768.jpg)](http://127.0.0.1/mitra/wp-
+euphorbia](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_euphorbia_634x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_euphorbia_634x768.jpg) Bunga menyeruak
 lebat[/caption] Hal utama yang dilakukan Soeroso adalah membiarkan euphorbia
 koleksinya tumbuh sempurna sebelum dibungakan. Untuk itu ia rela tidak

@@ -9,7 +9,7 @@ tags:
 - kemiri
 
 modification_time: 2021-01-04 16:11:14
-blogger_orig_url: "http://localhost/mitra/alat-pemecah-kemiri-mesin-pengupas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/alat-pemecah-kemiri-mesin-pengupas.html"
 ---
 
 Ketika berkunjung ke sentra kemiri di Flores, Nusa Tenggara Timur, Ir
@@ -19,7 +19,7 @@ kemudian dijepit rotan pemecah kemiri bergagang 30 cm dan dipukulkan di batu.
 Aleurites moluccana itu memang bertempurung keras. Sebagian pekebun memproses
 kemiri dengan dibenamkan di dalam pasir. Setelah kering, lalu dicelupkan ke
 air. Dengan cara itu persentase kemiri utuh ternyata lebih besar. Meski
-demikian dosen Mekanisasi [Pertanian](http://127.0.0.1/mitra/pertanian
+demikian dosen Mekanisasi [Pertanian](https://www.mitrausahatani.com/pertanian
 "Pertanian") Universitas Brawijaya itu prihatin. "teknologi pemecah kemiri
 tradisonal itu sudah kuno. Sudah ratusan tahun dipakai, tapi tak ada
 pembaruan," ujar Rakhmadiono

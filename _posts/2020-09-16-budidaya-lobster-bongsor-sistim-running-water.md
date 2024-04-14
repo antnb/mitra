@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-16 12:17:17
-blogger_orig_url: "http://localhost/mitra/budidaya-lobster-bongsor-sistim.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-lobster-bongsor-sistim.html"
 ---
 
 _Itu dibuktikan Cuncun Setiawan, peternak lobster di Ciampea, Kabupaten Bogor.
@@ -52,7 +52,7 @@ cepat. Enam bulan berselang lobster siap dipanen. Tidak seluruh lobster
 diambil untuk konsumsi. Sekitar 25% diambil untuk indukan dengan ciri besar
 dan sehat. [caption id="attachment_1710" align="aligncenter"
 width="618"]![Kolam pembesaran lobster sistem running
-water](http://127.0.0.1/mitra/wp-
+water](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_bak_1183x800.jpg) Kolam pembesaran sistem
 running water[/caption]
 
@@ -74,7 +74,7 @@ melewati kolam pengendapan berukuran 2 m x 4 m sebanyak 5 kolam. Tujuannya
 untuk menjernihkan air dan mengendapkan lumpur dari sungai. Debit air diatur
 dengan mengatur bukaan saluran pemasukan air di kolam pembesaran. [caption
 id="attachment_1710" align="aligncenter" width="399"]![Bak
-filter](http://127.0.0.1/mitra/wp-
+filter](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_bak_1183x800-300x203.jpg) Bak filter, cegah
 pencemaran[/caption]
 

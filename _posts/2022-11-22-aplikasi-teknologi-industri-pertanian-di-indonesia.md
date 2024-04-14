@@ -11,11 +11,11 @@ tags:
 - sawah
 
 modification_time: 2022-11-22 11:03:55
-blogger_orig_url: "http://localhost/mitra/teknologi-pertanian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknologi-pertanian.html"
 ---
 
 Indonesia merupakan negara agraris yang memiliki potensi pertanian yang luar
-biasa. Teknologi [pertanian](http://127.0.0.1/mitra/pertanian "pertanian") di
+biasa. Teknologi [pertanian](https://www.mitrausahatani.com/pertanian "pertanian") di
 Indonesia telah berkembang sejak zaman dahulu, namun seiring dengan
 perkembangan jaman, teknologi pertanian di Indonesia juga semakin canggih dan
 maju. Teknologi pertanian di Indonesia sebenarnya sudah berkembang sejak zaman

@@ -9,7 +9,7 @@ tags:
 - cabai
 
 modification_time: 2020-03-09 13:56:19
-blogger_orig_url: "http://localhost/mitra/sukses-raup-omzet-50-juta-dari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sukses-raup-omzet-50-juta-dari.html"
 ---
 
 Itulah rutinitas H Muhiddin. Ketelatenannya menjaga dan merawat puluhan hektar
@@ -20,7 +20,7 @@ Muhiddin. Aktivitas itu dilakoninya dengan penuh semangat dan pengharapan.
 Walaupun di setiap lokasi penanaman ada puluhan petani yang membantu, Muhiddin
 tetap tidak lepas tangan. Seringkah ia menyiram, memupuk dan menyemprotkan
 pestisida. [caption id="attachment_424" align="alignnone"
-width="391"]![Memasok pasar dari kebun 70 ha](http://127.0.0.1/mitra/wp-
+width="391"]![Memasok pasar dari kebun 70 ha](http://localhost/mitra/wp-
 content/uploads/2020/03/cabai-segar-1-370x250.jpg) _Memasok kebutuhan pasar
 dari kebun cabai seluas 70 ha_[/caption]
 
@@ -37,7 +37,7 @@ menyulap 2-3 ha lahan tomat menjadi bedengan cabai keriting. Mengolah tanah,
 pengapuran, dan melapisi bedengan dengan mulsa, semua dilakukan demi si
 keriting. Ia memilih _Capsicum annum L_ karena permintaan dari Jakarta sangat
 luar biasa. Menurutnya selain permintaan yang tinggi, [harga
-cabai](http://127.0.0.1/mitra/topik/cabai) keriting di Jakarta sangat
+cabai](https://www.mitrausahatani.com/topik/cabai) keriting di Jakarta sangat
 menggiurkan. Pada awal terjun dalam bidang Budidaya Cabai, harga di Malang
 berkisar Rp 2.500-Rp 3.000 per kg. Sedangkan di Jakarta cabai dihargai hingga
 Rp 4.000 per kg. Wajar bila ia tidak memasok hasil panennya ke Kota Apel itu.
@@ -56,7 +56,7 @@ produksi Rp 20-juta- Rp 30-juta per ha ia meraup laba bersih rata-rata Rp
 **Kesuksesan Meraup untung dari lewat Budidaya Cabai mendorong Muhid
 memperluas areal tanam sampai 30 ha** pada akhir 1999. Itu lantaran permintaan
 pasar yang terus meningkat. [Laba yang
-ditangguk](http://127.0.0.1/mitra/prospek-bisnis-bubuk-cabe-yang.html) pun
+ditangguk](https://www.mitrausahatani.com/prospek-bisnis-bubuk-cabe-yang.html) pun
 kian besar karena harga jual terus membaik, berkisar antara Rp 10-ribu-Rp
 15-ribu per kg. Ekspansi Muhiddin tak terbendung lagi untuk melayani
 permintaan pasar. Oleh karena itu pada awal 2004 ia memperluas lahan penanaman

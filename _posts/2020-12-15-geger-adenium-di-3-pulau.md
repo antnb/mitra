@@ -10,14 +10,14 @@ tags:
 - kontes adenium
 
 modification_time: 2020-12-15 05:45:32
-blogger_orig_url: "http://localhost/mitra/geger-adenium-di-3-pulau.html"
+blogger_orig_url: "http://www.mitrausahatani.com/geger-adenium-di-3-pulau.html"
 ---
 
 September di tahun babi api menjadi sejarah buat pencinta adenium. "Tiga
 perang adenium terjadi di 3 pulau: Sumatera, Jawa, dan Bali. Semuanya seru
 bila dilihat dari skala kontes. Ini pertanda demam kontes mulai menyusup ke
 berbagai daerah, terutama Sumatera," tutur Andy Solviano Fajar, juri
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") di berbagai kontes.
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") di berbagai kontes.
 Di Pulau Jawa, kontes adenium berlangsung tiap bulan sejak 2004. Sebanyak 7
 kali kontes pun digelar di Pulau Dewata sejak setahun silam. Bagi Sumatera,
 inilah kontes pertama kali, yang digelar dari sebuah kecamatan di Lampung
@@ -60,8 +60,8 @@ terkalahkan.
 ## Lampung Timur
 
 [caption id="attachment_2881" align="alignleft" width="528"][![Juara ke-1
-arabicum RCN kelas A](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_juara_556x768.jpg)](http://127.0.0.1/mitra/wp-
+arabicum RCN kelas A](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_juara_556x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_juara_556x768.jpg) Juara ke-1 arabicum RCN
 kelas A, best in show kontes Kediri[/caption] Nun di Pulau Andalas, suasana
 pertarungan si mawar gurun mengingatkan saat pertamakali kontes adenium

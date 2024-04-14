@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 06:13:13
-blogger_orig_url: "http://localhost/mitra/perihal-retribusi-dan-larangan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perihal-retribusi-dan-larangan.html"
 ---
 
 _Mungkin tak pemah terlintas di benak Anda perdagangan sarang walet nyaris

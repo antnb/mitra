@@ -3,7 +3,7 @@ layout: post
 title: 'Manfaat Dan Khasiat cordyceps sinensis Untuk Kesehatan'
 categories: artikel|Herbal|kesehatan
 date: 2020-04-16 15:03:29
-author: Anton N
+author: Yudianto
 image: media/penjualan-cordyceps.jpg
 tags:
 - cordyceps
@@ -12,7 +12,7 @@ tags:
 - ulat
 
 modification_time: 2020-04-16 15:03:29
-blogger_orig_url: "http://localhost/mitra/manfaat-dan-khasiat-cordyceps-sinensis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-dan-khasiat-cordyceps-sinensis.html"
 ---
 
 Obat yang rutin dikonsumsi Huang Li Ping dan kawan-kawan adalah He Yuan Tang
@@ -23,9 +23,9 @@ ketinggian 4.000-4.400 m dpi. Bahan lain dalam suplemen itu adalah jamur ling
 zhi Ganoderma lucidum, akar mae thung alias astragali Astragalus membranaceus,
 sejenis putsa Ziziphus vulgaris, dan buah cerry. Cordyceps berfaedah
 memperlancar peredaran darah sehingga [tubuh lebih
-bugar](http://127.0.0.1/mitra/kesehatan) dan menekan 1 kolesterol jahat
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/cordyceps-1024x656.jpg)](http://127.0.0.1/mitra/wp-
+bugar](https://www.mitrausahatani.com/kesehatan) dan menekan 1 kolesterol jahat
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/cordyceps-1024x656.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/cordyceps.jpg)
 
 ## Khasiat cordyceps
@@ -34,13 +34,13 @@ Menurut Li, “Bahan lain dalam suplemen hanya berfungsi untuk mendukung kerja
 cordyceps,” ujar pria kelahiran 26 November 1949 itu. Dong chong xia cao
 sebutan cordyceps di Cina satu-satunya tumbuhan yang mampu menjangkau saraf
 ren mai dan tu mai istilah anatomi dalam [pengobatan
-tradisional](http://127.0.0.1/mitra/herbal) cina. **manfaat cordyceps sinensis
+tradisional](https://www.mitrausahatani.com/herbal) cina. **manfaat cordyceps sinensis
 adala** h mulai nampak saat Kedua titik saraf itu dimulai dari ubun-ubun dan
 berakhir 1 cm dari anus. Ren mai melewati bagian depan tubuh; tu mai,
 belakang. Alumnus Guangdong University itu mengemas He Yuan Tang dalam botol
 30 ml. Sebuah kemasan terdiri atas 6 botol. Sosoknya mirip buku bersampul
 hardcover yang cantik dan berlapis plastik. “Obat ini bisa juga dijadikan
-kado,” kata Li ketika ditemui [mitrausahatani](http://127.0.0.1/mitra) di
+kado,” kata Li ketika ditemui [mitrausahatani](https://www.mitrausahatani.com) di
 Guangdong, Cina. Di negeri Tirai Bambu setengah lusin botol He Yuan Tang
 dijual Y108 setara Rp 200.000. He Yuan Tang kemudian diberikan kepada Komite
 Olahraga Cina. Institusi itulah yang akhirnya merekomendasikan suplemen untuk
@@ -72,8 +72,8 @@ berkongsi dengan rekan lain, ia meraup omzet Y400-juta hasil perniagaan
 itu Li memulai usaha baru dengan produk He Yuan Tang. Maklum, selama 13 tahun
 ia meriset yertsa gomba istilah di Tibet sebelum akhirnya dilepas ke pasaran.
 Setelah masuk ke Indonesia, jumlah suplemen dan obat cina yang beredar kian
-bejibun. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/manfaat-
-cordyceps-1024x743.jpg)](http://127.0.0.1/mitra/wp-
+bejibun. [![](http://localhost/mitra/wp-content/uploads/2020/04/manfaat-
+cordyceps-1024x743.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/manfaat-cordyceps.jpg)
 
 ## Sehat dengan Ulat Musim Dingin
@@ -82,10 +82,10 @@ Semangkuk kecil sup ayam menghangatkan pagi di Guangzhou yang basah diguyur
 hujan. C-X Penganan itu disajikan di Xinhui R&D Base for Tissue Culture of
 Fruit Plants di Provinsi Guangdong, Cina Selatan. Itu bukan sekadar sup ayam.
 Di dalamnya dimasukkan tung chong cauw, papar Pan Chun Xiao, pemandu [Mitra
-Usaha Tani](http://127.0.0.1/mitra). Dong chong xia cao alias Cordyceps
+Usaha Tani](https://www.mitrausahatani.com). Dong chong xia cao alias Cordyceps
 sinensis itu salah satu obat tradisional cina paling populer. la bersifat
 sebagai tonik (obat penguat). [Berkhasiat meningkatkan aliran
-darah](http://127.0.0.1/mitra/sejuta-manfaat-dan-khasiat-sarang.html) sehingga
+darah](https://www.mitrausahatani.com/sejuta-manfaat-dan-khasiat-sarang.html) sehingga
 tubuh lebih segar serta menurunkan kolesterol jahat dan gula darah, la juga
 cocok untuk mengobati nyeri punggung, kaki sering terasa dingin, tidur tak
 nyenyak, susah buang air, pikun, rambut rontok, dan membangkitkan selera

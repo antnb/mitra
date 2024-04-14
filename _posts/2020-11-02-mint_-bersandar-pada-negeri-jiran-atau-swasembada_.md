@@ -10,7 +10,7 @@ tags:
 - sayuran
 
 modification_time: 2020-11-02 11:40:26
-blogger_orig_url: "http://localhost/mitra/mint-bersandar-pada-negeri-jiran-atau.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mint-bersandar-pada-negeri-jiran-atau.html"
 ---
 
 Jutaan dolar devisa Indonesia mengalir deras ke mancanegara. Maklum untuk
@@ -21,8 +21,8 @@ Mentha piperita. Volume tahun sebelumnya 238.522 kg (US$1.655.054). Impor
 terbesar dari Cina, lebih dari sepertiga volume. Impor lainnya dari Filipina,
 Belanda, dan Singapura. Di pasaran internasional harga sekilo peppermint hasil
 sulingan daun Mentha piperita mencapai Rp500.000. Sedangkan harga cornmint-
-hasil sulingan daun Mentha arvensis-Rp300.000. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Mint.jpg)](http://127.0.0.1/mitra/wp-
+hasil sulingan daun Mentha arvensis-Rp300.000. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Mint.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Mint.jpg)
 
 ## Lima jenis Mint Unggulan
@@ -41,8 +41,8 @@ seperti nilam, berupa tabung setinggi 1 m. Daun mint setelah dikering anginkan
 dimasukkan ke dalamnya. Kemudian kompor di bawah tabung dinyalakan . Minyak
 hasil sulingan itulah yang dibutuhkan oleh beragam industri dalam negeri.
 Sayang, lantaran produksi mandek, apa boleh buat Indonesia mengandalkan
-pasokan mancanegara. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/petani-Mint.jpg)](http://127.0.0.1/mitra/wp-
+pasokan mancanegara. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/petani-Mint.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/petani-Mint.jpg)
 
 ## Banyak dicari kalangan industri
@@ -75,8 +75,8 @@ ryokubi ketika ditanam di atas ketinggian 1.200 m dpi kandungan menthol
 anjlok, cuma 46%. Dengan demikian dari 26 spesies yang terdapat di dunia, yang
 berpeluang dikebunkan di Indonesia adalah Mentha piperita dan Mentha arvensis.
 Di Kebun Percobaan Manoko, Lembang Kabupaten Bandung, terdapat 18 varietas
-mint. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/kebun-
-Mint.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/kebun-Mint.jpg)
+mint. [![](http://localhost/mitra/wp-content/uploads/2020/11/kebun-
+Mint.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/kebun-Mint.jpg)
 
 ### Harus Dalam keadaan Segar
 

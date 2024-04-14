@@ -3,13 +3,13 @@ layout: post
 title: 'Khasiat Ekstrak Buah Merah Untuk Beragam Penyakit'
 categories: artikel|Herbal
 date: 2020-10-31 13:00:46
-author: Anton N
+author: Yudianto
 image: media/Ekstrak-Buah-Merah-papua.jpg
 tags:
 - Buah merah
 
 modification_time: 2020-10-31 13:00:46
-blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-buah-merah-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-ekstrak-buah-merah-untuk.html"
 ---
 
 Selama ini oleh sebagian orang, buah merah dianggap sebagai panasea alias obat
@@ -18,7 +18,7 @@ penyakit,” ujar dr Paulus Wahyudi Halim, pengobat komplementer-memadukan medis
 dan herbal. Sebaliknya pasien beberapa penyakit tertentu disarankan tak
 mengkonsumsi sari buah merah. Sebab secara medis dapat membahayakan kesehatan.
 Contoh, penderita lever disarankan untuk tidak mengkonsumsi sari [buah
-merah](http://127.0.0.1/mitra/topik/buah-merah "buah merah"). Produk itu
+merah](https://www.mitrausahatani.com/topik/buah-merah "buah merah"). Produk itu
 berbentuk minyak meski minyak tidak jenuh-sehingga sulit dicerna. Pada kasus
 Patricia, diketahui fungsi levernya tidak begitu bagus. Lever yang tak
 berfungsi optimal berdampak pada terganggunya produksi cairan empedu. Empedu
@@ -34,8 +34,8 @@ pengobat komplementer di Malang, Jawa Timur. “Ada minyak tertentu yang
 diterima oleh lever, misalnya minyak jenuh rantai pendek,” ujar Wahyu. Minyak
 nabati seperti minyak kelapa yang diproses dari kelapa pada umumnya berantai
 pendek. Zainal Gani mencontohkan virgin coconut oil yang dapat diterima lever.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-
-Merah.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-
+[![](http://localhost/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-
+Merah.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Ekstrak-Buah-
 Merah.jpg)
 
 ## Pengobatan Penderita Autis
@@ -52,7 +52,7 @@ Apa itu layak dikonsumsi? Toh, selama ini belum ada kajian khusus berkaitan
 dengan bahan baku. Jika ginjal tak berfungsi optimal pada akhirnya timbul
 akumulasi zat beracun sehingga terjadi toksik. Jika terpaksa diberikan,
 dosisnya amat kecil. Wahyu Suprapto yang dihubungi [Mitra Usaha
-Tani](http://127.0.0.1/mitra) berpendapat sebaliknya. “Tubuh kita didesain
+Tani](https://www.mitrausahatani.com) berpendapat sebaliknya. “Tubuh kita didesain
 unt.uk dapat memetabolismekan bahan organik, bukan bahan anorganik.” Nah,
 ekstrak buah merah termasuk bahan organik yang sangat mungkin dapat diproses
 dengan baik oleh tubuh kita. Sebagai filter atau pembersih, ginjal mempunyai
@@ -63,8 +63,8 @@ merah. Selama ini pengidap autis dilarang menyantap bahan pangan gluten. Apa
 pun obatnya, Paulus mengingatkan agar kita tak gegabah menelannya. Sebab,
 “Obat bagus belum tentu cocok. Cocok itu sangat tergantung pada individu,”
 ujar ahli lepra alumnus All Afrika Leprosy and Rehabilitation Training Center
-di Ethiopia. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Buah-
-Merah.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Buah-Merah.jpg)
+di Ethiopia. [![](http://localhost/mitra/wp-content/uploads/2020/10/Buah-
+Merah.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Buah-Merah.jpg)
 
 ### Bioritme
 

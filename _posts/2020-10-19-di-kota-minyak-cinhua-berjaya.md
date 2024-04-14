@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-19 04:48:36
-blogger_orig_url: "http://localhost/mitra/di-kota-minyak-cinhua-berjaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/di-kota-minyak-cinhua-berjaya.html"
 ---
 
 Ketegangan terpancar di wajah peserta dan penonton di Patra Graha Pertamina

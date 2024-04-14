@@ -9,7 +9,7 @@ tags:
 - Memancing
 
 modification_time: 2021-11-17 06:53:50
-blogger_orig_url: "http://localhost/mitra/oleh-oleh-dari-phuket-billfish.html"
+blogger_orig_url: "http://www.mitrausahatani.com/oleh-oleh-dari-phuket-billfish.html"
 ---
 
 Marlin Fishing Club (MFC) dengan tim MFC I dan MFC II mengukir prestasi dalam
@@ -24,9 +24,9 @@ timbang 3kg dengan point 4 ditambah bonus line. Kelas kenur yang digunakan
 maksimal 50 lbs. Untuk mengikuti turnamen, kami menyewa kapal mancing lokal
 yang umumnya terbuat dari kayu. Meski begitu, semuanya dilengkapi fasilitas
 memadai untuk mancing billfish. Dari outrigger, fighting chair, rod holder,
-life bait, hingga live jacket tersedia. [![](http://127.0.0.1/mitra/wp-
+life bait, hingga live jacket tersedia. [![](http://localhost/mitra/wp-
 content/uploads/2021/11/Phuket-Billfish-
-Tournament-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+Tournament-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Phuket-Billfish-Tournament.jpg)
 
 ## Kegagalan pertama
@@ -49,8 +49,8 @@ penghela tersendat-sendat membelit line utama. Sebelum sempat melepaskan
 belitan tersebut, ikan telah memuntahkan makan siangnya sambil melambaikan
 layarnya. Lepas sudah harapan satu-satunya hari itu. Karena hingga pukul 17.00
 tidak ada lagi bunyi bel. MFC I ternyata belum bisa unjuk gigi di hari pertama
-itu. [![](http://127.0.0.1/mitra/wp-content/uploads/2021/11/Billfish-
-Tournament-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+itu. [![](http://localhost/mitra/wp-content/uploads/2021/11/Billfish-
+Tournament-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Billfish-Tournament.jpg)
 
 ## Pesta sailfish
@@ -94,8 +94,8 @@ ditolak. Gagallah harapan menjadi juara hari kedua. Sebab dari keseluruhan
 hasil pancingan, Tim Schonnenerg dinyatakan menjadi peraih nilai tertinggi
 hari itu, yakni 625 poin. Sedangkan MFC I hanya memperoleh 547 poin, dari
 hasil tag and released layaran dan menaikkan barakuda.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/juara-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/juara-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/juara.jpg)
 
 ## Juara hari II

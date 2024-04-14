@@ -11,7 +11,7 @@ tags:
 - kalimantan
 
 modification_time: 2020-10-28 11:00:07
-blogger_orig_url: "http://localhost/mitra/durian-unggul-dari-tepian-sungai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-unggul-dari-tepian-sungai.html"
 ---
 
 Tujuan menyusuri anak Sungai Kapuas itu terhenti sejenak gara-gara kulit
@@ -24,8 +24,8 @@ menyebutnya durian gantang. Berita cemas justeru datang dari warga itu.
 habis,” kata penduduk suku Dayak itu dalam bahasa setempat. Namun, ia masih
 berbaik hati menunjukkan pohon durian gantang tumbuh menjulang dan meraksasa.
 Tiga orang dewasa tak sanggup untuk memeluk batangnya. Tingginya diperkirakan
-mencapai 30 m. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/duren-
-kalbar.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/duren-
+mencapai 30 m. [![](http://localhost/mitra/wp-content/uploads/2020/10/duren-
+kalbar.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/duren-
 kalbar.jpg)
 
 ## Buah ujong
@@ -52,8 +52,8 @@ durian dari Dinas Pertanian Tanaman Pangan Kalimantan Barat. Karena itu
 rencananya durian gantang akan diusulkan sebagai durian unggul nasional dengan
 nama durian bahar. Label bahar disematkan dari nama Baharuddin sebagai penemu
 dan penangkar yang banyak mengegolkan durian top asal Kalbar.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/duren.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/10/duren.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/duren.jpg)
 
 ## Durian Balaikarangan
@@ -80,8 +80,8 @@ berbentuk kerucut terbalik, sebagai tempat membawa buah durian. Durian-durian
 istimewa dibeli, di identifikasi, dan dilacak lokasi tanamannya. Lewat cara
 itu kami menemukan 3 durian istimewa: tembaga, tembaga sunarti, dan udang
 semeng. Semua berdaging tebal, berwarna kuning, dan lezat.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/durian1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/10/durian1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/durian1.jpg)
 
 ## Telusuri tembawang
@@ -98,7 +98,7 @@ identifikasi. Total jenderal, dari perburuan itu kami menemukan 21 varietas
 durian lokal. Namun, beberapa di antaranya perlu dilakukan pengamatan dan
 penelitian terus-menerus untuk mengetahui konsistensi kualitas buah.
 Contohnya, durian slipi. Durian yang pernah dipublikasikan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di era 90-an itu ternyata tetap berkualitas
+Tani](https://www.mitrausahatani.com) di era 90-an itu ternyata tetap berkualitas
 walau tak terdengar berita pengembangannya. Begitulah cerita berburu durian
 unggul Kalbar pada Ramadhan tahun lalu. Mengidentifikasi Durio zibethinus pada
 siang hari, lalu mencicipinya saat berbuka. Sebuah pengalaman yang tak pernah

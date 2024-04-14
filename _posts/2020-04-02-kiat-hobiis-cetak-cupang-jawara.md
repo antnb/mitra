@@ -11,7 +11,7 @@ tags:
 - serit
 
 modification_time: 2020-04-02 14:49:39
-blogger_orig_url: "http://localhost/mitra/kiat-hobiis-cetak-cupang-jawara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kiat-hobiis-cetak-cupang-jawara.html"
 ---
 
 Cahaya kemenangan bagi cupang andalan seakan tak pernah redup. Di penghujung
@@ -25,8 +25,8 @@ Gelar terbaik di setiap kontes cupang sudah menjadi langganan. Sejak mengikuti
 kontes perdana pada 2000 di Mali Puri Indah, Irwan langsung getol mengikuti
 kontes. Hampir setiap kontes yang diadakan di tanah air diikuti. Di sana,
 cupang hasil ternakan meraih gelar grand champion. Wajar bila puluhan piala,
-plakat, dan sertifikat tersusun rapi di rumah. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/ikan2.jpg)](http://127.0.0.1/mitra/wp-
+plakat, dan sertifikat tersusun rapi di rumah. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/ikan2.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/ikan2.jpg)
 
 ### Induk berkualitas
@@ -52,7 +52,7 @@ Seminggu sebelum mengikuti kontes, Irwan sangat telaten dalam melakukan
 perawatan. Mulai pagi hingga berangkat kantor, ia bersama 2 karyawan rutin
 mengecek kondisi ikan Cupang Jawara miliknya. Mulai dari kelengkapan serit,
 wama, tubuh, hingga mental diperiksa secara seksama. Menurut ayah 3 putri itu,
-[ikan hias](http://127.0.0.1/mitra/ikan-hias) yang akan bertanding harus
+[ikan hias](https://www.mitrausahatani.com/ikan-hias) yang akan bertanding harus
 mendapat perhatian lebih khusus untuk bisa merebut gelar terbaik. Perlakuan
 khusus diterapkan pada si jagoan minimal seminggu sebelum bertanding.
 **Rendaman daun ketapang** yang telah disiapkan sebelumnya digunakan sebagai
@@ -62,15 +62,15 @@ kesehatan ikan dan warna tubuh,” katanya. Daun ketapang itu direndam dengan
 menggunakan air steril dicampur oksigen (O3). Selama perendaman, wadah harus
 dilengkapi filter untuk membuang kandungan minyak pada permukaan air akibat
 ketapang. Untuk di akuarium, rendaman daun ketapang diberikan dengan kompisisi
-tertentu, ramuan dimasukkan */4 [bagian akuarium](http://127.0.0.1/mitra/kiat-
+tertentu, ramuan dimasukkan */4 [bagian akuarium](https://www.mitrausahatani.com/kiat-
 menjaga-kolam-koi-outdoor-tetap.html) selebihnya air biasa. Rendaman daun
 ketapang itu diberikan rutin setiap hari. Maklum, daun itu terkenal sebagai
 penghasil antibiotik dan penetral pH yang dibutuhkan untuk meningkatkan
 kondisi cupang. Dua atau 3 hari sebelum lomba, air akuarium diganti air biasa
 tanpa menggunakan rendaman daun ketapang. “Dikondisikan seperti semula agar
 ikan tidak stress saat kontes,” kata suami dari Gene Lightle itu.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/beta-
-fish.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/beta-fish.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/04/beta-
+fish.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/beta-fish.jpg)
 
 ### Latihan mental
 

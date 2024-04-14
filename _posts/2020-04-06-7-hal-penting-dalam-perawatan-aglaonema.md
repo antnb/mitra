@@ -10,17 +10,17 @@ tags:
 - Sri rezeki
 
 modification_time: 2020-04-06 13:55:15
-blogger_orig_url: "http://localhost/mitra/7-hal-penting-dalam-merawat-aglaonema.html"
+blogger_orig_url: "http://www.mitrausahatani.com/7-hal-penting-dalam-merawat-aglaonema.html"
 ---
 
-_Aglaonema sang ratu[tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+_Aglaonema sang ratu[tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias") daun pun mesti dirawat agar tampil ciamik. Minimal ada 7
 faktor yang mempengaruhi penampilan tanaman sri rejeki itu. Inilah cara
 merawat aglaonema ala hobiis di Indonesia dan Thailand._
 
 ## Media Tanam pohon sri rejeki
 
-[Tanaman hias](http://127.0.0.1/mitra/tanaman-hias) dengan akar halus seperti
+[Tanaman hias](https://www.mitrausahatani.com/tanaman-hias) dengan akar halus seperti
 aglaonema butuh media gembur dan porus karena tak suka genangan. Untuk itu
 media perlu dicampur dengan penggembur. “Untuk tanaman famili Araceae yang
 lunak, pilih penggembur dengan berat jenis ringan. Misal sekam padi-mentah
@@ -29,7 +29,7 @@ kata dr Purbo Djojokusumo, hobiis di Jakarta Barat. Mantan kepala bagian Unit
 Gawat Darurat RS Husada itu menggunakan campuran sabut kelapa (50%), sekam
 bakar (40%), dan pupuk kandang terfermentasi (10%). Penggunaan sekam mentah
 kurang disarankan karena mudah [terserang
-cendawan](http://127.0.0.1/mitra/teknik-menyambung-tanaman-cendawan.html).
+cendawan](https://www.mitrausahatani.com/teknik-menyambung-tanaman-cendawan.html).
 Selama penggembur diberi cukup zat hara makro dan mikro, ia tak perlu dicampur
 dengan media, misal tanah. Di kebun milik Pramote Rojruangsang di Bangkok,
 Thailand, digunakan sabut kelapa yang dicacah halus. Terkadang itu ditambah
@@ -39,15 +39,15 @@ meracuni tanaman hilang. Lagipula tingkat kemasaman rendah sehingga tidak
 cocok untuk pertumbuhan tanaman. Makanya sebelum dikukus, tambahkan dolomit.
 Sabut kelapa siap dipakai dengan menambahkan zat hara makro dan mikro,
 setidaknya untuk kebutuhan tanaman selama 3 bulan.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/aglaonema3.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/aglaonema3.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/aglaonema3.jpg)
 
 ## Pemilihan Pupuk Yang Tepat
 
 Pupuk kimia disemprotkan sekali seminggu dengan dosis encer, 1 cc per 2 liter
 air. [Pilih pupuk kimia dengan komposisi
-seimbang](http://127.0.0.1/mitra/pupuk-organik-cair-jamur-tiram.html), seperti
+seimbang](https://www.mitrausahatani.com/pupuk-organik-cair-jamur-tiram.html), seperti
 Growmore, Vitabloom, dan Gandasil. Boleh juga menggunakan dosis 1 cc per liter
 air, tapi frekuensi pemberian menjadi 2 minggu sekali. Mula-mula pupuk
 digelontorkan ke media menggunakan gembor sekaligus menyiram tanaman sri
@@ -59,8 +59,8 @@ sementara vitamin BI memacu pertumbuhan. Dapat juga ditambahkan hormon
 pertumbuhan seperti Novelgro atau Hobsanol. Hasilnya jumlah klorofil, terutama
 untuk tanaman variegata bertambah, pertumbuhan daun lebih cepat, dan ukuran
 daun lebih bongsor. Hormon pertumbuhan diberikan 2 kali seminggu dengan dosis
-1 cc per 2 liter air. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/aglaonema1.jpg)](http://127.0.0.1/mitra/wp-
+1 cc per 2 liter air. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/aglaonema1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/aglaonema1.jpg)
 
 ## Pestisida
@@ -81,17 +81,17 @@ membutuhkan air, tapi tidak menyukai genangan. Penyiraman dapat dilakukan
 berbarengan dengan pemupukan. Pada siang hari ke-2 dan 3, lakukan pengabutan.
 Pada musim kemarau lakukan 2 kali sehari. Itu mencegah daun gosong. Di
 Thailand frekuensi pengabutan saat cuaca panas mencapai 4-5 kali dalam sehari.
-Pengaturan cahaya [Aglaonema](http://127.0.0.1/mitra/topik/aglaonema)
+Pengaturan cahaya [Aglaonema](https://www.mitrausahatani.com/topik/aglaonema)
 membutuhkan cahaya sekitar 30%. Untuk menahan cahaya matahari gunakan shading
 net 70%. Untuk pemeliharaan di daerah tropis, jaring penaung diletakkan di
 atas plastik penahan air. Bila sebaliknya, udara di bawah jaring terlalu panas
 akibat efek rumah kaca. Daun aglaonema berisiko terbakar. Di Thailand,
-[pehobi](http://127.0.0.1/mitra/hobi) tanaman hias hanya menggunakan shading
+[pehobi](https://www.mitrausahatani.com/hobi) tanaman hias hanya menggunakan shading
 net. Agar tanaman sri rejeki tumbuh kompak, putar posisi pot seminggu sekali
 agar seluruh bagian tanaman mendapat sinar matahari secara proporsional.
 Terlambat mengubah posisi menyebabkan bentuk batang bengkok-bengkok.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/aglaonema.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/aglaonema.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/aglaonema.jpg)
 
 ## Sirkulasi udara Yang lancar

@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2019-11-09 17:13:00
-blogger_orig_url: "http://localhost/mitra/sarang-semut-penangkal-kanker-payudara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sarang-semut-penangkal-kanker-payudara.html"
 ---
 
 Tiga purnama berlalu, serangan itu tak kunjung berakhir. Malahan muncul luka
@@ -31,12 +31,12 @@ suaminya, Berce Bogea, tetap tinggal di Jayapura karena mesti bekerja. Di
 kampung halaman itu Meity mencoba peruntungan dengan pengobatan herbal. Salah
 satu di antaranya adalah daun sambung nyawa. Tujuh [daun tanaman anggota
 famili Asteraceae itu dicuci bersih, direbus dalam 3 gelas hingga mendidih
-dan](http://127.0.0.1/mitra/air-rebusan-daun-saga-obat-hepatitis.html) tersisa
+dan](https://www.mitrausahatani.com/air-rebusan-daun-saga-obat-hepatitis.html) tersisa
 segelas. Setelah dingin ia menyaringnya untuk diminum 3 kali sehari masing-
 masing 1 gelas. [caption id="attachment_16217" align="aligncenter"
 width="602"][![Tanaman sarang semut banyak tumbuh di hutan-hutan Papua sarang
-semut untuk kanker](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/semut_602x480.jpg)](http://127.0.0.1/mitra/wp-
+semut untuk kanker](http://localhost/mitra/wp-
+content/uploads/2019/11/semut_602x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/semut_602x480.jpg) Tanaman sarang semut banyak tumbuh
 di hutan-hutan Papua[/caption]
 
@@ -95,8 +95,8 @@ lain, dan mengalami stres hebat juga berisiko tinggi. Begitu juga dengan
 perempuan yang diaborsi baik alamiah alias keguguran maupun dipaksakan memicu
 munculnya kanker. Gejala serangan kanker payudara antara lain, muncul benjolan
 di payudara, keluar cairan tidak normal misal keluar air [susu pada perempuan
-yang tak hamil dan](http://127.0.0.1/mitra/manfaat-susu-kambing-etawa.html)
+yang tak hamil dan](https://www.mitrausahatani.com/manfaat-susu-kambing-etawa.html)
 menyusui , dan aerola melekuk ke dalam atau mengkerut.
-[MUT](http://127.0.0.1/mitra/)
+[MUT](https://www.mitrausahatani.com/)
 
 

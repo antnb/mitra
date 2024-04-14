@@ -9,7 +9,7 @@ tags:
 - srikaya
 
 modification_time: 2022-09-20 06:39:04
-blogger_orig_url: "http://localhost/mitra/srikaya-merah-untuk-koleksi-anda.html"
+blogger_orig_url: "http://www.mitrausahatani.com/srikaya-merah-untuk-koleksi-anda.html"
 ---
 
 Buah srikaya merah atau yang juga dikenal sebagai Annona squamosa adalah salah
@@ -19,7 +19,7 @@ cerah. Daging buah srikaya merupakan sumber kandungan gula tinggi, sehingga
 rasanya manis dan sangat enak dimakan. Selain itu buah srikaya juga mengandung
 senyawa antioksidan yang baik untuk kesehatan. Srikaya Merah termasuk tanaman
 tabulampot yang mudah berbuah, mirip
-[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing"). Kuncinya :
+[belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing"). Kuncinya :
 pemangkasan rutin. Pemupukan teratur dan penanggulangan serangan hama/
 penyakit tetap menjadi bagian perawatan rutin. Daya adaptasi srikaya merah
 memang bagus. Ia bisa tumbuh mulai dari dataran rendah sampai ketinggian 1.000
@@ -33,8 +33,8 @@ air. Bila penanamannya di pot, maka medianya ialah campuran humus/pupuk
 kandang, tanah, sekam/serutan kayu dengan perbandingan 2:2:1. Tambahkan
 Furadan secukupnya untuk mencegah kehadiran rayap dan patogen tular tanah
 lain. Masukkan media ke dalam pot berdiameter 40cm sampai 50cm sampai
-ketinggian 5cm di bawah bibir pot. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/srikaya-merah-300x173.jpg)](http://127.0.0.1/mitra/wp-
+ketinggian 5cm di bawah bibir pot. [![](http://localhost/mitra/wp-
+content/uploads/2021/10/srikaya-merah-300x173.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/srikaya-merah.jpg)
 
 ## Perhatikan Takaran Saat Pemupukan
@@ -55,8 +55,8 @@ atau penyemprotan yang terlalu dekat dengan batang akan menggugurkan daun dan
 bunga. Pupuk akar diberikan dengan cara ditabur sekeliling tanaman. Tutup
 butiran pupuk itu dengan selapis tipis media. Pupuk kandang diberikan setiap
 bulan (awal dan akhir musim hujan) sebanyak 1 ember per pot. [![buah srikaya
-merah yang telah matang](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/srikaya-300x170.jpg)](http://127.0.0.1/mitra/wp-
+merah yang telah matang](http://localhost/mitra/wp-
+content/uploads/2021/10/srikaya-300x170.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/srikaya.jpg)
 
 ## Rangsang Kuncup Bunga Melalui Pemangkasan Rutin

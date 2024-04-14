@@ -13,7 +13,7 @@ tags:
 - Shinkokai
 
 modification_time: 2020-11-23 12:46:01
-blogger_orig_url: "http://localhost/mitra/merah-putih-berkibar-di-niigata.html"
+blogger_orig_url: "http://www.mitrausahatani.com/merah-putih-berkibar-di-niigata.html"
 ---
 
 Keikutsertaan Tan Peng Lung pada 21th All Japan Combine Young Koi Show
@@ -35,8 +35,8 @@ koleksinya di kelas 50 cm- 60 cm dinobatkan sebagai yang terbaik. “Putih
 tubuhnya seperti susu dengan pattern merah dan hitam tebal. Ia pantas sebagai
 grand champion,” tutur Tan Peng Lung. Koi itu diyakini bermasa depan cerah,
 sehingga pemiliknya mematok harga 5 juta yen setara Rp360-juta.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Shinkokai.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Shinkokai.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Shinkokai.jpg)
 
 ## Shinkokai berkualitas

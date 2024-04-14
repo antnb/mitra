@@ -9,7 +9,7 @@ tags:
 - Jeruk
 
 modification_time: 2022-09-14 04:14:42
-blogger_orig_url: "http://localhost/mitra/pertanian-jeruk-nipis-panduan-budidaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pertanian-jeruk-nipis-panduan-budidaya.html"
 ---
 
 Jeruk nipis merupakan salah satu tanaman yang banyak ditanam oleh petani di
@@ -70,7 +70,7 @@ berkembang.
 ### Kontur Tanah untuk pertanian jeruk nipis
 
 Persiapan tanah untuk pertanian jeruk adalah proses persiapan tanah untuk
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") jeruk. Tanah yang
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") jeruk. Tanah yang
 digunakan untuk pertanaman jeruk harus memenuhi syarat kualitas agronomi yaitu
 kandungan unsur hara yang baik, struktur tanah yang baik, dan kondisi
 kesuburan tanah yang baik. Proses persiapan tanah diawali dengan pemilihan
@@ -271,8 +271,8 @@ penyimpanan. Pencucian dilakukan untuk membersihkan buah dari kotoran dan
 bakteri. Pemotongan dilakukan untuk mengurangi ukuran buah sehingga lebih
 mudah untuk dikonsumsi. Pengeringan dilakukan untuk mengurangi kadar air dalam
 buah sehingga buah lebih tahan lama. Penyimpanan dilakukan untuk menjaga
-kualitas buah selama proses pengiriman. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2022/09/nipis-300x169.jpg)](http://127.0.0.1/mitra/wp-
+kualitas buah selama proses pengiriman. [![](http://localhost/mitra/wp-
+content/uploads/2022/09/nipis-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/09/nipis.jpg) Pengelolaan pasca panen jeruk sangat
 penting untuk menjaga kualitas dan mutu buah. Berikut adalah beberapa tips
 yang dapat Anda gunakan untuk mengelola pasca panen jeruk dengan baik:
@@ -292,8 +292,8 @@ Pengelolaan pasca panen yang baik akan menjamin kualitas buah yang baik pula.
 
 ### Pemasaran Dan Ekspor Jeruk Nipis
 
-[![](http://127.0.0.1/mitra/wp-content/uploads/2022/09/budidaya-
-jeruk-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2022/09/budidaya-
+jeruk-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/09/budidaya-jeruk.jpg) Pemasaran dan ekspor jeruk telah
 meningkat signifikan selama beberapa tahun terakhir. Hal ini disebabkan oleh
 permintaan yang tinggi dari pasar global untuk produk ini. Jeruk memiliki

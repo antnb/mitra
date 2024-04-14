@@ -10,17 +10,17 @@ tags:
 - manggis Indonesia
 
 modification_time: 2020-10-26 08:43:00
-blogger_orig_url: "http://localhost/mitra/buah-manggis-ungulan-dari-rejanglebong.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-manggis-ungulan-dari-rejanglebong.html"
 ---
 
 Bukan hanya Jawal, peneliti manggis dari Balai Penelitian Tanaman Buah
 (Balitbu), Solok, yang memuji manggis rejanglebong. Saat si cantik itu dikirim
-ke markas [Mitra Usaha Tani](http://127.0.0.1/mitra) oleh Suhardi, kepala
+ke markas [Mitra Usaha Tani](https://www.mitrausahatani.com) oleh Suhardi, kepala
 Balai Pengawasan dan Sertifikasi Benih Tanaman Pangan dan Hortikultura (BPSB-
 TPH), Bengkulu, belasan awak redaksi langsung mengerumuninya dan terkagum-
 kagum. "Cakep banget, warna ungunya bersih mengkilap. Seperti pakai body
 lotion" kata Evy Syariefa, redaktur buah [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Pesona _Garcinia mangostana_ itu jauh berbeda
+Tani](https://www.mitrausahatani.com). Pesona _Garcinia mangostana_ itu jauh berbeda
 dengan manggis yang lazim beredar di pasar. Menurut Jawal, kunci utamanya
 mangkhut-sebutan manggis di Thailand-itu tumbuh pada iklim yang stabil. Harap
 mafhum, getah kuning hadir karena pembuluh getah pecah. Pembuluh itu terletak
@@ -38,13 +38,13 @@ Begitu juga sebaliknya," kata Jawal. Lantaran itu perbedaan suhu ekstrim yang
 menyebabkan tekanan turgor berubah tiba-tiba, tidak terjadi. Manggis pun
 terbebas dari "stroke" alias pecahnya pembuluh getah. Yang menarik dari
 manggis rejanglebong, ia hadir bukan dari daerah sentra manggis. Pelacakan
-[Mitra Usaha Tani](http://127.0.0.1/mitra) di berbagai literatur, dunia maya,
+[Mitra Usaha Tani](https://www.mitrausahatani.com) di berbagai literatur, dunia maya,
 dan pameran misalnya, tak ditemukan sama sekali manggis rej anglebong. Yang
 lebih terkenal justeru manggis bengkulu, tepatnya di Kecamatan Selebar dan
 Kecamatan Muarabangkahulu, Bengkulu. Pada 2003, di kota itu terdapat 62 ha
 hutan manggis dengan produksi 229,6 ton. Setara 3,7 ton per ha.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/manggis-2.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/10/manggis-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/manggis-2.jpg)
 
 ## Manggis Langka
@@ -68,8 +68,8 @@ pernah bermimpi menemukan manggis nan mulus. Bila bertemu tolong kabari," kata
 Jackson Kennedy Tarigan, eksportir manggis di Sumatera Barat. Kini, Jackson
 tak perlu beripimpi lagi. Ia dapat berkunjung ke Rejanglebong saat musim
 manggis. Dapat dipastikan, ia akan seperti Jawal. Berteriak kagum melihat
-penampilan sang ratu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/pohon-manggis.jpg)](http://127.0.0.1/mitra/wp-
+penampilan sang ratu. [![](http://localhost/mitra/wp-
+content/uploads/2020/10/pohon-manggis.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/pohon-manggis.jpg)
 
 

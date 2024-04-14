@@ -3,7 +3,7 @@ layout: post
 title: 'Daun Sambiloto dan Virus Flu Burung'
 categories: Herbal
 date: 2020-12-18 09:16:43
-author: Anton N
+author: Yudianto
 image: media/Gambar_sambiloto_1024x675.jpg
 tags:
 - daun sambiloto
@@ -13,7 +13,7 @@ tags:
 - wabah flu burung
 
 modification_time: 2020-12-18 09:16:43
-blogger_orig_url: "http://localhost/mitra/daun-sambiloto-dan-virus-flu-burung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/daun-sambiloto-dan-virus-flu-burung.html"
 ---
 
 Beberapa bulan ke belakang masyarakat dihebohkan oleh kasus merebaknya wabah
@@ -39,7 +39,7 @@ berbisnis produk asal unggas. Kerugian peternak pun ditaksir mencapai Rp50
 miliar sampai Rp75-miliar. Sebuah industri jaket berbahan bulu unggas juga
 terancam ditutup lantaran impor bahan baku dilarang. Yang mengherankan, dari
 sekian banyak upaya yang dilakukan tidak satu pun menyinggung upaya pencegahan
-dan pengobatan dengan [tanaman obat](http://127.0.0.1/mitra/kesehatan "tanaman
+dan pengobatan dengan [tanaman obat](https://www.mitrausahatani.com/kesehatan "tanaman
 obat"). Padahal, negara kita kaya akan beragam tanaman obat. Salah satu di
 antaranya sambiloto yang terbukti ampuh menangkal serangan virus, termasuk
 virus influenza.
@@ -64,8 +64,8 @@ saponin andrografosida, deoksiandrografosida, dan andropanosida.
 
 ## Teruji klinik
 
-[![khasiat herbal sambiloto](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_sambiloto1_1024x701.jpg)](http://127.0.0.1/mitra/wp-
+[![khasiat herbal sambiloto](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_sambiloto1_1024x701.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_sambiloto1_1024x701.jpg)Dari hasil-hasil
 penelitian farmakologi diketahui, herba sambiloto berkhasiat antibakteri dan
 antivirus. Hson-Mou Chang dan Paul Pui-Hay But dari Chinese Medicinal Material

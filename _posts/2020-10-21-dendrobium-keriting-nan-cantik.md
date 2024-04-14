@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 11:02:54
-blogger_orig_url: "http://localhost/mitra/dendrobium-keriting-nan-cantik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dendrobium-keriting-nan-cantik.html"
 ---
 
 Datanglah ke Royal Orchids di Prigen. Atau ke Sien Orchids, Frans & Edward
@@ -30,7 +30,7 @@ Cantik keriting unik dan cantik koleksi para penganggrek.
   * Dendrobium Indonesia BeautyHasil silangan D. Alice Ogata x Indonesia Emas itu sangat indah. Wama bunga lembut kombinasi kuning krem dan cokelat muda. Tanduk panjang dan kokoh.
   * Dendrobium Pita LokaMeski tergolong silangan lama, silangan Sentani Blue x violaceoflaven yang dianugerahi nama Pita Loka oleh Presiden Megawati itu tetap diminati. Ia cepat berbunga. Bunga cantik dan besar.
   * Dendrobium Cinta AcehSilangan D. Betty Goto x gouldii ini sangat menarik. Bunga ungu tua dilingkari warna putih di pinggir setiap helaian. Silangan yang mulai berbunga pada 1998 itu dinamakan Cinta Aceh sebagai wujud rasa cinta Moling kepada saudara kita di Serambi Mekah yang sedang bergolak.
-  * Dendrobium Cinta PapuaSebagai rasa cintanya kepada masyarakat Papua, Moling menamakan silangan Betty Goto x taurinum dengan Dendrobium Cinta Papua. Bunga ungu kebiruan di ujung setiap helaian dan putih krem di bagian pangkal. Saking indahnya Menteri [Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") Bungaran Saragih tertarik mempersatukannya dengan Cinta Aceh. Hasil silangannya akan dinamakan Dendrobium Indonesia Bersatu.
+  * Dendrobium Cinta PapuaSebagai rasa cintanya kepada masyarakat Papua, Moling menamakan silangan Betty Goto x taurinum dengan Dendrobium Cinta Papua. Bunga ungu kebiruan di ujung setiap helaian dan putih krem di bagian pangkal. Saking indahnya Menteri [Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") Bungaran Saragih tertarik mempersatukannya dengan Cinta Aceh. Hasil silangannya akan dinamakan Dendrobium Indonesia Bersatu.
   * Dendrobium Metasari x gouldiiIa termasuk silangan baru Moling yang diminati konsumen karena unik penampilannya. Hampir setiap kelopak menggulung. Warna bunga lembut, ungu muda kombinasi krem kecokelatan.
   * Dendrobuium Tretes Moon x albertisiiSilangan ini menghasilkan bunga tiga warna. Tanduk hijau, kelopak putih, dan lidah ungu kemerahan berbintik putih. Ia salah satu andalan Moling.
 

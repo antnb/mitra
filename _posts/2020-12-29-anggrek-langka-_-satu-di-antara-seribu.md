@@ -3,13 +3,13 @@ layout: post
 title: 'Anggrek Langka : Satu di Antara Seribu'
 categories: tanaman hias
 date: 2020-12-29 04:54:37
-author: Anton N
+author: Yudianto
 image: media/anggrek.jpg
 tags:
 - Anggrek
 
 modification_time: 2020-12-29 04:54:37
-blogger_orig_url: "http://localhost/mitra/anggrek-langka-satu-di-antara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anggrek-langka-satu-di-antara.html"
 ---
 
 Sosok anggrek boneka itu sepintas sama dengan oncidium lain. Bunga kuning
@@ -38,8 +38,8 @@ pucat dan tepi tidak berpigura.
 ## Shady lady
 
 [caption id="attachment_3141" align="alignleft" width="268"][![Doritis
-pulcherrima chompornansis](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/anggrek1.jpg)](http://127.0.0.1/mitra/wp-
+pulcherrima chompornansis](http://localhost/mitra/wp-
+content/uploads/2020/12/anggrek1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/anggrek1.jpg) Doritis pulcherrima chompornansis x ph
 lucern, mirip bunga potong[/caption] Shady lady ini mengalami mutasi sehingga
 bunga berwarna cokelat. Saudaranya berbunga kuning hijau bertotol cokelat
@@ -67,13 +67,13 @@ kepincut penampilan anggrek aneh itu. Padahal di rumahnya yang teduh, pria
 berpenampilan necis itu mengoleksi puluhan anggrek mutasi. Selain genting
 fragrans, Wira begitu ia biasa disapa juga memboyong superbien x jiad gold
 dari Syah Alam. Tangkainya sepanjang 30 cm disesaki 21 kuntum.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Dendrobium-
-jiad-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Dendrobium-
+jiad-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Dendrobium-jiad.jpg)
 
 ## Anggrek Mutasi Yang Langka
 
-Mendapatkan [tanaman hias](http://127.0.0.1/mitra/tanaman-hias) dendrobium
+Mendapatkan [tanaman hias](https://www.mitrausahatani.com/tanaman-hias) dendrobium
 atau Anggrek mutasi merupakan kebanggaan tersendiri lantaran amat langka.
 Itulah sebabnya Warsito, pemilik Permata Orchids, merasa beruntung saat
 memperolehnya. Soalnya, ia mengimpor bibit dalam bentuk seedling dari
@@ -91,8 +91,8 @@ mutasi hampir dipastikan langka. Namun, tak semuanya berpenampilan apik. Ada
 pula yang ditakdirkan nyeleneh sehingga tampak norak. Inilah sebagian
 dendrobium mutasi koleksi Warsito di Pondokcabe, Tangerang dan Moling Simardjo
 serta Wirakusuma, keduanya di Prigen, Pasuruan.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Dendrobium-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/Dendrobium-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Dendrobium.jpg)
 [https://plants.usda.gov/core/profile?symbol=DENDR13](https://plants.usda.gov/home/plantProfile?symbol=DENDR13)
 

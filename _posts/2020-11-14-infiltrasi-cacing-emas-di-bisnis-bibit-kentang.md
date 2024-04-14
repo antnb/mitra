@@ -11,7 +11,7 @@ tags:
 - petani
 
 modification_time: 2020-11-14 07:19:16
-blogger_orig_url: "http://localhost/mitra/infiltrasi-cacing-emas-di-bisnis-bibit.html"
+blogger_orig_url: "http://www.mitrausahatani.com/infiltrasi-cacing-emas-di-bisnis-bibit.html"
 ---
 
 Gara-gara _golden cyst nematode_ , pemerintah memperketat prosedur impor bibit
@@ -30,8 +30,8 @@ Keputusan itu benar-benar di luar perhitungan,” ujarnya. Apalagi MAL sudah
 meneken kontrak dengan pekebun mitra. “Mereka sudah siap semua infrastruktur,
 termasuk lahan dan modal. Kalau bibit tertunda, maka pekebun pasti akan
 menuntut komitmen kita sebagai penyedia bibit yang tepat waktu,” ujar Rahmad.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/cyst-
-nematode.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/cyst-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/cyst-
+nematode.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/cyst-
 nematode.jpg)
 
 ## Permintaan benih Masih normal
@@ -52,8 +52,8 @@ Ir. Agus Haryo Sudarmajo, direktur utama. Wildan Mustofa, pembibit granola di
 Pangalengan, Bandung itu pun mengaku permintaan bibit masih wajar-wajar saja.
 “Malah ada kecenderungan kebutuhan bibit meningkat. Kalau setahun lalu 800 ton
 saja, tahun ini ditargetkan meningkat hingga 1.000 ton,” kata pemilik PD
-Hikmah itu. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/golden-
-cyst-nematode.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/golden-
+Hikmah itu. [![](http://localhost/mitra/wp-content/uploads/2020/11/golden-
+cyst-nematode.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/golden-
 cyst-nematode.jpg)
 
 ## Petani harus tetap Waspada

@@ -10,11 +10,11 @@ tags:
 - melon
 
 modification_time: 2022-09-19 05:40:16
-blogger_orig_url: "http://localhost/mitra/karena-buah-melon-rindu-terhapus.html"
+blogger_orig_url: "http://www.mitrausahatani.com/karena-buah-melon-rindu-terhapus.html"
 ---
 
 Masyarakat jepang sangat menyukai buah yang bercita rasa manis, Buah
-[semangka](http://127.0.0.1/mitra/panduan-bertani-semangka.html) dan melon
+[semangka](https://www.mitrausahatani.com/panduan-bertani-semangka.html) dan melon
 adalah salah satu buah yang populer di Jepang. Melon Jepang memiliki rasa yang
 sangat manis dan segar, dan banyak orang menyukainya. Melon Jepang juga
 terkenal sebagai salah satu buah terbaik di dunia. Jepang memang terkenal
@@ -38,7 +38,7 @@ Ishizu yang mengikuti sang suami mengajar di Bandung rutin mendapat kiriman
 musk harvest king. Yang memasok buah kegemaran adalah Asep Gunawan, pekebun di
 Lembang, Bandung. Setiap minggu pemilik VNG Farm itu mengantarkan 8 buah
 berukuran rata-rata 1,2 kg. Ia mengebunkan 2 [jenis
-melon](http://127.0.0.1/mitra/sistem-penyiraman-sederhana-perkebunan.html)
+melon](https://www.mitrausahatani.com/sistem-penyiraman-sederhana-perkebunan.html)
 asal negeri Sakura. Meski semula para ekspatriat Jepang yang disasar, kini
 keduanya mulai disukai masyarakat luas. Padahal, harga buah anggota famili
 Cucurbitaceae itu relatif mahal, Rp 17.500 per kg. Artinya, harga sebuah melon
@@ -48,7 +48,7 @@ Jepang.
 
 ## Melon Musk harvest king
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/melon-266x300.jpg) Tak
+![](http://localhost/mitra/wp-content/uploads/2020/10/melon-266x300.jpg) Tak
 jelas mengapa ia disebut demikian. Yang pasti rasanya sangat manis. Kadar gula
 mencapai 17-18 briks. Itu jika dituai matang. Sayang, ekspatriat Jepang kurang
 menyukai musk harvest king yang terlampau manis. Melon musk adalah sejenis
@@ -69,7 +69,7 @@ buah berwarna jingga terasa lembut di lidah. Ketika dibelah horizontal, daging
 buah mudah dikerok dengan sendok. “Lebih enak jika diinapkan semalam,” ujar
 Asep Gunawan memberi tip. Hampir tak ada rongga seperti lazimnya melon jenis
 lain. Ruang kecil disesaki biji. Bentuk [buah cenderung
-bulat](http://127.0.0.1/mitra/aplikasi-agen-hayati-akar-tanaman-melon.html)
+bulat](https://www.mitrausahatani.com/aplikasi-agen-hayati-akar-tanaman-melon.html)
 bergaris tengah 15 cm. Jaring yang menghiasi kulit tampak menonjol berwarna
 putih. Asep menanam musk harvest king dalam greenhouse berpopulasi 500
 tanaman. Interval penanaman 2 pekan. Ketika buah seukuran telur ayam,
@@ -77,7 +77,7 @@ dilakukan seleksi. Sebab, ia hanya mempertahankan maksimal 2 buah per tanaman.
 
 ## Melon Musk rugger
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/melon2_2-269x300.jpg) Ia
+![](http://localhost/mitra/wp-content/uploads/2020/10/melon2_2-269x300.jpg) Ia
 acap disebut melon semangka. Musababnya, di permukaan kulit terdapat lekukan
 berwarna hijau tua dan tanpa jaring mirip kulit semangka. Bentuk agak lonjong,
 bobot rata-rata 1,2 kg. Dibanding musk harvest king, jaring musk rugger
@@ -94,7 +94,7 @@ tepung ketika kemarau.
 ### Rock melon
 
 Pakar buah-buahan tropis, Dr Mohammad Reza Tirtawinata, yang dihubungi [Mitra
-Usaha Tani](http://127.0.0.1/mitra) menduga, kedua jenis melon baru itu
+Usaha Tani](https://www.mitrausahatani.com) menduga, kedua jenis melon baru itu
 termasuk kelompok rock melon. Rock melon dicirikan oleh kulit dasar yang hijau
 tua dan berjaring putih. Daging buah jingga dan tebal serta susunan biji rapi.
 Melihat kadar gula yang tinggi, direktur operasional PT Unggul Mekar Sari-

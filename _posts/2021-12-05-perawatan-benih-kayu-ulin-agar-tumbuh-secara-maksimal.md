@@ -9,7 +9,7 @@ tags:
 - ulin
 
 modification_time: 2022-09-19 06:30:02
-blogger_orig_url: "http://localhost/mitra/teknik-terbaru-agar-pohon-ulin-tumbuh.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknik-terbaru-agar-pohon-ulin-tumbuh.html"
 ---
 
 Kayu ulin (Eusideroxylon zwageri) adalah pohon yang tumbuh di hutan-hutan
@@ -26,8 +26,8 @@ karena kekuatan kayunya. Iron wood termasuk kayu kelas kuat I dan kelas awet
 I. Itu peringkat kayu paling atas di dunia. Akibat penebangan yang kian marak,
 Kini ulin bukan lagi langka, tapi menuju kepunahan bila tidak ada upaya
 konservasi serius.   [caption id="attachment_15662" align="aligncenter"
-width="300"][![kayu dari pohon ulin](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/ulin-300x169.jpg)](http://127.0.0.1/mitra/wp-
+width="300"][![kayu dari pohon ulin](http://localhost/mitra/wp-
+content/uploads/2021/12/ulin-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/ulin.jpg) kayu ulin banyak digunakan untuk industri
 meubel[/caption] Untuk mencegah punah, budidaya ulin menjadi pilihan. Namun,
 biji pohon anggota famili Lauraceae itu yang panjangnya 5-15 cm dan
@@ -98,8 +98,8 @@ biji ulin dengan terik matahari secara tidak sengaja. Beragam pustaka sejak
 1859 hingga awal 1980 memang menyebut biji ulin pantang dibiarkan di tempat
 terbuka; tetapi di tempat lembap. Kayu dari pohon ulin terkenal mempunyai
 kualitas yang prima sehingga harga kayu ulin di pasaran sangatlah tinggi
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/12/bibit-kayu-
-ulin-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/bibit-
+[![](http://localhost/mitra/wp-content/uploads/2021/12/bibit-kayu-
+ulin-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/bibit-
 kayu-ulin.jpg)
 
 ## Butuh Sinar matahari Yang cukup
@@ -124,8 +124,8 @@ pukul 11.00-13.00. Bila cahaya terlalu banyak daun menguning dan pertumbuhan
 kerdil. Pun demikian bila keteduhan, daun hijau menebal, tapi pertumbuhan
 mandek. Hal Itu bisa diatasi dengan penanaman jalur di antara meranti atau
 jenis lain yang dapat menaungi tapi sinar matahari tetap masuk.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/dorm-300x202.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/dorm-300x202.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/dorm.jpg)
 
   1. Siapkan tempat penjemuran beralaskan seng atau lantai beton

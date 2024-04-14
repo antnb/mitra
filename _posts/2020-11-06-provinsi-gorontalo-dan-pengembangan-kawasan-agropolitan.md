@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-11-06 09:22:58
-blogger_orig_url: "http://localhost/mitra/pengembangan-kawasan-agropolitan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pengembangan-kawasan-agropolitan.html"
 ---
 
 Trend Kawasan Agropolitan yang menyita perhatian pemerintah di seluruh dunia
@@ -47,7 +47,7 @@ Provinsi Gorontalo mengangkat dirinya dengan brand provinsi agropolitan. Core
 competency-nya di bidang pertanian (jagung) dan perikanan. Ini suatu strategi
 untuk tampil beda di tingkat nasional. Langkah yang dilakukan ialah membangun
 etalase kelautan. Ia akan menjadi benchmark kegiatan budidaya
-[perikanan](http://127.0.0.1/mitra/perikanan "perikanan") dan kelautan di
+[perikanan](https://www.mitrausahatani.com/perikanan "perikanan") dan kelautan di
 seluruh Indonesia. Juga digerakkan upaya menjadikan jagung sebagai backbone
 usahatani di Kawasan Agropolitan Gorontalo. Jagung yang menjadi andalan
 Kawasan Agropolitan Gorontalo dikembangkan melalui pola demplot. Untuk itu
@@ -64,7 +64,7 @@ Rp238.560.000.000. Dengan demikian PDRB sektor pertanian melonjak menjadi Rp
 1.836.808.000.000 dari sebelumnya Rp 1.598.248.254.178 pada 1999 (14,93%).
 Saat ini harga jagung dijamin oleh pemerintah provinsi Gorontalo, sehingga
 petani tidak perlu khawatir produknya tidak dapat terjual. ![Kawasan
-Agropolitan](http://127.0.0.1/mitra/wp-
+Agropolitan](http://localhost/mitra/wp-
 content/uploads/2020/11/jagung1-1024x576.jpg)
 
 ## Sektor perikanan Provinsi gorontalo

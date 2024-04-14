@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-17 14:35:46
-blogger_orig_url: "http://localhost/mitra/azolla-sang-pendongkrak-unsur-hara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/azolla-sang-pendongkrak-unsur-hara.html"
 ---
 
 _Azolla sudah terbukti meningkatkan produksi padi karena mampu menghasilkan
@@ -48,7 +48,7 @@ campuran beras pecah, jagung, dan dedak. Setiap 10-20 kg azolla setara dengan
 1 kg dedak gandum sehingga sangat baik bila digunakan sebagai pakan ternak dan
 ikan. Petani di Lagunam Papanga, Pengasinan, Filipina, menanam azolla tidak
 hanya untuk pupuk hijau. Mereka memanfaatkan nae daeng sebutan di Thailand itu
-sebagai campuran [pakan itik](http://127.0.0.1/mitra/pakan-itik-irit-dari-
+sebagai campuran [pakan itik](https://www.mitrausahatani.com/pakan-itik-irit-dari-
 limbah-guna.html) dan ayam. Hasilnya, nafsu makan meningkat sehingga ternak
 tumbuh lebih cepat. Sebagai pakan ternak dapat disuguhkan dalam kondisi segar,
 kering, atau difermentasi. Pemberian bentuk segar cara yang efektif. Anggota

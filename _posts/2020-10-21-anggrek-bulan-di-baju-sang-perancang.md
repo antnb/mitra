@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 08:42:03
-blogger_orig_url: "http://localhost/mitra/anggrek-bulan-di-baju-sang-perancang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anggrek-bulan-di-baju-sang-perancang.html"
 ---
 
 Label Milo's kadung identik dengan busana menawan rancangan Emilio

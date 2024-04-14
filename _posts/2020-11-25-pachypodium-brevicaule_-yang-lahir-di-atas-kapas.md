@@ -15,7 +15,7 @@ tags:
 - vegetasi
 
 modification_time: 2020-11-25 04:57:17
-blogger_orig_url: "http://localhost/mitra/pachypodium-brevicaule-yang-lahir-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pachypodium-brevicaule-yang-lahir-di.html"
 ---
 
 Ukuran biji Pachypodium brevicaule memang amat mungil, lebih kecil daripada
@@ -30,7 +30,7 @@ memanfaatkan pasir malang sebagai media semai. Karena ukuran biji amat mungil,
 ia mengayak pasir malang dengan penyaring kopi. Tujuannya agar butiran pasir
 yang tak seberapa besar itu tidak menekan biji. Pemilik Hans Garden itu
 kemudian menghamparkan pasir malang halus di atas nampan. Lalu [biji
-brevicaule](http://127.0.0.1/mitra/pachypodium-namaquanum-tumbuh-
+brevicaule](https://www.mitrausahatani.com/pachypodium-namaquanum-tumbuh-
 lambat.html#brevicaule) ditebar. Namun, 2 sampai 3 pekan berselang semua biji
 gagal berkecambah. Handry bukan satu satunya pekebun yang gagal membibitkan
 biji pachypodium. Di Lembang, Kabupaten Bandung, berketinggian 1.000 m dpi,
@@ -39,8 +39,8 @@ Erminus Temi Hernadi juga gagal membibitkan biji tanaman sukulen itu. Pada
 menggunakan pasir malang sebagai media semai. Hasilnya sama saja, tak satu pun
 biji tumbuh. Dwiana Inawati hobiis di Tangerang, Banten, mempunyai pengalaman
 serupa. Perempuan 42 tahun itu menggunakan sekam bakar sebagai media semai,
-tapi tak satu biji pun berkecambah. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Pachypodium1-1.jpg)](http://127.0.0.1/mitra/wp-
+tapi tak satu biji pun berkecambah. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Pachypodium1-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodium1-1.jpg)
 
 ## Hidup menumpang
@@ -62,9 +62,9 @@ namaquanum lebih sulit digrafting ketimbang brevicaule lantaran berbatang
 lunak. Wajar jika di pasaran amat jarang brevicaule dan namaquanum. Akibatnya,
 harga pun lebih mahal ketimbang spesies lainnya. [caption
 id="attachment_20566" align="alignnone"
-width="1512"][![](http://127.0.0.1/mitra/wp-
+width="1512"][![](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodium-
-brevicaule.jpg)](http://127.0.0.1/mitra/wp-
+brevicaule.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodium-brevicaule.jpg) Bibit Pachypodium
 densiflorum umur 1 bulan[/caption] Contoh, brevicaule seukuran kuku, berumur 2
 tahun, dan setinggi 2 cm mencapai Rp400.000. Bandingkan dengan lamerei berumur

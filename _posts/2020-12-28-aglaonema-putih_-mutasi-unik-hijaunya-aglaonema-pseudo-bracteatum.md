@@ -12,7 +12,7 @@ tags:
 - top white
 
 modification_time: 2022-09-10 12:17:14
-blogger_orig_url: "http://localhost/mitra/aglaonema-putih-di-antara-merahnya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aglaonema-putih-di-antara-merahnya.html"
 ---
 
 Sang ratu Aglaonema putih pertumbuhannya lambat sehingga persediaan terbatas.
@@ -22,7 +22,7 @@ berwarna putih selalu laku terjual. Berlakulah hukum pasar, pasokan sedikit,
 permintaan banyak dan harga pun melonjak. Tipe chiang may nama nurseri tempat
 aglao itu dibeli di Thailand memang berdaun putih. Selain chiang may, putihnya
 aglaonema pseudo bracteatum banyak dijumpai di kelompok
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") klasik. Warna
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") klasik. Warna
 mereka didominasi hijau, putih, kuning, dan metalik. Para penggemar Aglaonema
 putih dari Amerika Serikat dan Jepang yang menggandrunginya. Peminat di Asia
 Tenggara lebih senang mengoleksi aglonema hijau bintik putih berwarna cerah.
@@ -70,7 +70,7 @@ lalu hijau tua di tepi daun. Tanaman halus yang membutuhkan kehangatan dan
 kelembaban konstan di lingkungan yang teduh dan bebas angin. Dengan suhu
 minimum 55 ° F. (13 ° C), membutuhkan banyak air di musim panas tetapi
 penyiraman hati-hati di musim dingin. Di musim semi dan musim panas, gunakan
-[pupuk cair](http://127.0.0.1/mitra/pupuk-organik-cair-jamur-tiram.html)
+[pupuk cair](https://www.mitrausahatani.com/pupuk-organik-cair-jamur-tiram.html)
 secara teratur. _aglaonema pseudo bracteatum variegata_ itu Kami lihat di
 kebun Chandra Gunawan. Tampak ada turunan commutatum ‘pseudo-bracteatum’
 variegata berdaun putih. Warna putih kehijauan itu demikian halus dan lembut.
@@ -83,8 +83,8 @@ dahulu kemudian berubah menjadi hijau.
 ## Aglaonema putih Makin banyak diburu kolektor
 
 [caption id="attachment_3100" align="alignleft"
-width="307"][![dieffenbachia](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_white1_1004x768.jpg)](http://127.0.0.1/mitra/wp-
+width="307"][![dieffenbachia](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_white1_1004x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_white1_1004x768.jpg) Si bongsor mirip
 dieffenbachia[/caption] Kolektor lain ialah Purbo Djojokusumo. Pemilik Kreatif
 Flora di Jembatan lima, Jakarta Barat, itu memelihara Aglaonema putih top

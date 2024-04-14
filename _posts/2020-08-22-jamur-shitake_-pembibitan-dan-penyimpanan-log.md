@@ -9,13 +9,13 @@ tags:
 - 
 
 modification_time: 2020-08-22 06:49:12
-blogger_orig_url: "http://localhost/mitra/jamur-shitake-pembibitan-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jamur-shitake-pembibitan-dan.html"
 ---
 
 Untuk pengusahaan jamur shitake di kayu gelondong, jenis dan perlakuan pada
 bibit sedikit berbeda ketimbang biasanya. Cara penyiapan log sampai siap tanam
 pun harus melalui perlakuan khusus. Persiapan dan perlakuan yang tepat niscaya
-akan meningkatkan keberhasilan [pertanaman](http://127.0.0.1/mitra/pertanian
+akan meningkatkan keberhasilan [pertanaman](https://www.mitrausahatani.com/pertanian
 "pertanaman") shiitake pada kayu gelondongan. Khusus untuk menanam shiitake di
 kayu gelondongan ada berbagai bentuk bibit tebar yang digunakan. Bibit tebar
 berbentuk miselium ditumbuhkan pada potongan kayu kecil berukuran lem-1,5cm.
@@ -38,14 +38,14 @@ Sebaiknya pelubangan mencapai bagian sapwood. Jarak melubangi dari atas kayu
 sebaiknya lebih dalam lem dari batas kulit kayu. Bisa juga mengikuti rumus
 Prof Chang ST untuk membagi dan membuat banyaknya lubang dalam log.   [caption
 id="attachment_1483" align="aligncenter" width="316"]![Log
-jamur](http://127.0.0.1/mitra/wp-content/uploads/2020/08/bibit-
+jamur](http://localhost/mitra/wp-content/uploads/2020/08/bibit-
 kentang_1067x800.jpg) Jumlah Lubang =diameter balok(Cm) x panjang balok
 (Cm)[/caption] Untuk memasukkan bibit ke dalam kayu digunakan alat bantu,
 seperti pinset, palu, lilin cair (parafin), dan kulit kayu. Tahap demi tahap
 pemasukan bibit asal potongan kayu bisa dilihat pada gambar 1. Cara yang
 hampir sama juga dilakukan ketika memasukkan bibit asal serbuk. [caption
 id="attachment_1483" align="aligncenter" width="330"]![Posisi Log
-jamur](http://127.0.0.1/mitra/wp-content/uploads/2020/08/bibit-
+jamur](http://localhost/mitra/wp-content/uploads/2020/08/bibit-
 kentang_1067x800.jpg) Gambar 2 :Penyusunan beberapa posisi Log pada penempatan
 permanen[/caption]
 

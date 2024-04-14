@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-15 12:08:41
-blogger_orig_url: "http://localhost/mitra/budidaya-cendana-dengan-teknologi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-cendana-dengan-teknologi.html"
 ---
 
 _Populasi cendana muda pada 1997 mencapai 502.584 pohon. Namun, pada 2001
@@ -53,7 +53,7 @@ terlalu basah. Selama masa pemeliharaan di ruang aklimatisasi, bibit diberi
 pupuk daun dengan dosis yang disesuaikan secara bertahap. Selain itu
 penyemprotan fungisida/bakterisida pun dilakukan untuk mengendalikan jamur/
 bakteri penyebab busuk batang. [caption id="attachment_1682"
-align="aligncenter" width="421"]![kultur jaringan](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="421"]![kultur jaringan](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_Tebu_1189x800.jpg) Hasil subkultur planlet
 cendana[/caption]
 
@@ -86,7 +86,7 @@ silam. Kayu cendana diperdagangkan berdasarkan berat dalam satuan kilogram,
 sedangkan jenis kayu lain misalnya Jati, mahoni, meranti, dan ramin
 diperdagangkan berdasarkan volume dalam meter kubik. Saat ini PT Lahilote
 Semesta Indonesia, mitra kerja PT SAS untuk mengembangkan
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") jati di Propinsi
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") jati di Propinsi
 Gorontalo, juga tertarik mencoba cendana hasil kultur jaringan ini. Selain itu
 PT SAS juga merencanakan uji coba penanaman di beberapa lokasi lahan milik
 perusahaan di Sukabumi. Meskipun kondisi agroklimat Sukabumi kurang sesuai

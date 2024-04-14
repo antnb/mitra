@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 07:02:21
-blogger_orig_url: "http://localhost/mitra/menyibak-peluang-bisnis-sawi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/menyibak-peluang-bisnis-sawi.html"
 ---
 
 _Tiga puluh tahun bergelut dengan sayuran, tak sekalipun HM Saputro

@@ -11,7 +11,7 @@ tags:
 - west seed
 
 modification_time: 2021-01-20 10:59:10
-blogger_orig_url: "http://localhost/mitra/cabe-gunung-varietas-cabai-dataran.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cabe-gunung-varietas-cabai-dataran.html"
 ---
 
 Provost, varietas cabe gunung yang diteliti Asep Harpenas dari PT East West
@@ -31,8 +31,8 @@ dibudidayakan di dataran tinggi hingga ketinggian 1.000 m dpi.
 ## Cabai Adipati
 
 [caption id="attachment_7867" align="alignleft" width="132"][![Cabai
-Adipati](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_cabe_adipati_637x768.jpg)](http://127.0.0.1/mitra/wp-
+Adipati](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_cabe_adipati_637x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_cabe_adipati_637x768.jpg) Cabai Adipati, tahan
 layu phythopthora dan layu bakteri[/caption] Hasil riset PT East West Seed ini
 beradaptasi baik di dataran rendah sampai Dataran Tinggi dengan elevasi 10
@@ -47,8 +47,8 @@ dan Malang.
 ## Senopati
 
 [caption id="attachment_7865" align="alignleft" width="118"][![Cabai
-Senopati](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_cabe_senopati_518x768.jpg)](http://127.0.0.1/mitra/wp-
+Senopati](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_cabe_senopati_518x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_cabe_senopati_518x768.jpg) Cabai Senopati,
 adaptif di dataran rendah[/caption] Varietas baru itu bersosok kokoh. Batang
 hijau bergaris ungu di ruas-ruas batangnya. Ia beradaptasi baik di Dataran
@@ -67,8 +67,8 @@ Blitar, Kediri, dan Malang.
 ## Cabai Pertiwi
 
 [caption id="attachment_7866" align="alignleft" width="202"][![Cabai
-Pertiwi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_cabe_pertiwi_731x768.jpg)](http://127.0.0.1/mitra/wp-
+Pertiwi](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_cabe_pertiwi_731x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_cabe_pertiwi_731x768.jpg) Cabai Pertiwi, uji
 multilokasinya memuaskan[/caption] Inilah varietas lokal unggulan hasil riset
 tangan dingin Mulyono Herlambang dari CV Multi Global Agrindo. Tinggi tanaman

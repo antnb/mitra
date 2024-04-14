@@ -10,7 +10,7 @@ tags:
 - strawberry
 
 modification_time: 2020-12-11 07:56:39
-blogger_orig_url: "http://localhost/mitra/pertanyaan-seputar-memulai-usaha-jamur.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pertanyaan-seputar-memulai-usaha-jamur.html"
 ---
 
 Saya baru memulai usaha jamur dan stroberi. Ada beberapa hal yang ingin saya

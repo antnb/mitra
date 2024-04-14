@@ -3,13 +3,13 @@ layout: post
 title: 'Senna siamea Si penakluk Kaki Gajah'
 categories: Herbal
 date: 2020-10-23 04:37:11
-author: Anton N
+author: Yudianto
 image: media/johar.jpg
 tags:
 - Daun johar
 
 modification_time: 2020-10-23 04:37:11
-blogger_orig_url: "http://localhost/mitra/johar-si-penakluk-kaki-gajah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/johar-si-penakluk-kaki-gajah.html"
 ---
 
 Anda tentu pernah berkemah di lapangan terbuka. Nyamuk pasti banyak di sana.

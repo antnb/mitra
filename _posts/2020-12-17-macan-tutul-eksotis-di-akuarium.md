@@ -11,7 +11,7 @@ tags:
 - tiger catfish
 
 modification_time: 2020-12-17 10:42:38
-blogger_orig_url: "http://localhost/mitra/macan-tutul-eksotis-di-akuarium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/macan-tutul-eksotis-di-akuarium.html"
 ---
 
 Sewaktu kecil sepintas sosok leopard menyerupai redtail, tetapi ekor tidak
@@ -27,8 +27,8 @@ berbeda dengan induk betina yang lebih pendiam dan sangat mudah ditangkap.
 
 ## Berawal Coba-coba
 
-[![ikan lele Macan Tutul](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_tigercatfish1_1024x664.jpg)](http://127.0.0.1/mitra/wp-
+[![ikan lele Macan Tutul](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_tigercatfish1_1024x664.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_tigercatfish1_1024x664.jpg)Didik berhasil
 menyilangkan kedua jenis itu pada awal 2003. Menyusul suksesnya memijahkan
 redtail yang dikenal sangat sulit. “Itu karena _Phractocephalus

@@ -12,7 +12,7 @@ tags:
 - kulit buah
 
 modification_time: 2020-12-18 12:18:43
-blogger_orig_url: "http://localhost/mitra/jeruk-keprok-sebuah-warisan-di-dusun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jeruk-keprok-sebuah-warisan-di-dusun.html"
 ---
 
 Pantas saja keprok kacang jadi kebanggaan kabupaten yang berdiri pada 29 Juli

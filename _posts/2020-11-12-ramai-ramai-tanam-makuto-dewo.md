@@ -3,13 +3,13 @@ layout: post
 title: 'Ramai-ramai Tanam Makuto Dewo'
 categories: Herbal|perkebunan
 date: 2020-11-12 09:06:19
-author: Anton N
+author: Yudianto
 image: media/makuto_dewo.jpg
 tags:
 - Makuto Dewo
 
 modification_time: 2020-11-12 09:06:19
-blogger_orig_url: "http://localhost/mitra/ramai-ramai-tanam-makuto-dewo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ramai-ramai-tanam-makuto-dewo.html"
 ---
 
 Siapa sangka buah si malakama itu bakal mencuat namanya di awal abad ini? Buah
@@ -21,7 +21,7 @@ Anda pasti menemukan 1-2 pohon makuto dewo di sana. Sejak akhir tahun lalu,
 kepala desa setempat memang mewajibkan penanaman minimal 1 pohon di setiap
 rumah. Hal sama terjadi di Desa Nanggulan, Kelurahan Jatisrono, Kecamatan
 Nanggulan, Kulonprogo. Alasannya, “Selain untuk [tanaman
-obat](http://127.0.0.1/mitra/kesehatan "tanaman obat") keluarga, ia juga laku
+obat](https://www.mitrausahatani.com/kesehatan "tanaman obat") keluarga, ia juga laku
 dijual,” papar Kahuno Raharjo, warga Nanggulan. Karena alasan itu pula warga
 Desa Semaken, Kelurahan Banjararum, Kecamatan Kalibawang, Kulonprogo, marak
 mengembangkan makuto dewo. “Setahun ini orang ramai-ramai tanam makuto dewo,”
@@ -31,13 +31,13 @@ Jatra itu, baru 5-6 orang yang menanam makuto dewo di Semaken. Itu pun hanya
 menyuruh 30 anggota kelompok untuk mengembangkan di sela-sela tanaman empon-
 empon yang selama ini digeluti mereka,” tuturnya. Selain menyarankan
 anggotanya, ia juga kini menanam 30 tanaman di pekarangan. Saat [Mitra Usaha
-Tani](http://127.0.0.1/mitra) berkunjung pertengahan April, tanaman baru
+Tani](https://www.mitrausahatani.com) berkunjung pertengahan April, tanaman baru
 berumur 3 bulan. Anthonius Wahyuni di Kumendaman, Yogyakarta, juga tertarik
 mengebunkan si malakama karena alasan pasar. “Pengepul siap menampung,”
 paparnya. Februari lalu ia mencoba di lahan 200 m2. Dengan jarak tanam 1 m x
 1,5 m, populasi mencapai 130 tanaman. Namun, jika prospeknya baik, ia berniat
-mengembangkan lebih luas. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Phaleria-macrocarpa-.jpg)](http://127.0.0.1/mitra/wp-
+mengembangkan lebih luas. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Phaleria-macrocarpa-.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Phaleria-macrocarpa-.jpg)
 
 ## Pasar yang terbuka luas dan mudah
@@ -58,8 +58,8 @@ meski harganya Rp80.000/kg. “Kalau ada barang, 10 kg sehari pun bisa laku,”
 tuturnya. Sayangnya, pasokan dari pengepul terbatas. Satu bakul paling-paling
 hanya membawa 100-200 kg/minggu. Padahal, di pasar itu tak kurang dari 10
 pedagang yang menjual makuto dewo. [caption id="attachment_20654"
-align="aligncenter" width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/makuto-dewo.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/makuto-dewo.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/makuto-dewo.jpg) Makuto Dewo Banyak ditanam di
 pekarangan[/caption]
 

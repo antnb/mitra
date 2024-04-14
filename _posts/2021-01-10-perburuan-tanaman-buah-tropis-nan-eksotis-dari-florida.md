@@ -11,7 +11,7 @@ tags:
 - kebun buah
 
 modification_time: 2021-01-10 13:23:05
-blogger_orig_url: "http://localhost/mitra/perburuan-tanaman-buah-tropis-nan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perburuan-tanaman-buah-tropis-nan.html"
 ---
 
 Citra, itulah jambu air yang diburu Maurice Kong. Setibanya di Indonesia ia
@@ -57,8 +57,8 @@ mangga idamannya.
 ## Buah Tropis Unik
 
 [caption id="attachment_7824" align="alignleft" width="220"][![Maurice R
-Kong](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_eksotik_603x768.jpg)](http://127.0.0.1/mitra/wp-
+Kong](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_eksotik_603x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_eksotik_603x768.jpg) Berburu di kebun buah di
 Citeureup[/caption] Mangga favorit Maurice. Koleksinya kebanyakan diperoleh
 dari Vietnam, Karibia, Thailand, Indonesia, Burma, India, Jamaika, Trinidad,
@@ -69,7 +69,7 @@ ujarnya. Koleksi lain yang tak kalah unik adalah jeruk. Ia memiliki jeruk
 berkulit halus dari Jamaika, namanya ugli. Meski namanya jelek, tetapi
 penampilannya sangat cantik. Ada juga pamelo dari Thailand yang tidak berbiji.
 Maurice juga mengumpulkan berbagai sayuran, herbs, dan [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") yang jarang
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") yang jarang
 ditemukan di Florida. Koleksi sayuran dan herb itu didominasi dari Thailand,
 tanah kelahiran sang istri.
 

@@ -10,7 +10,7 @@ tags:
 - virus
 
 modification_time: 2020-11-07 08:12:28
-blogger_orig_url: "http://localhost/mitra/siasat-cegah-serangan-koi-herpesvirus.html"
+blogger_orig_url: "http://www.mitrausahatani.com/siasat-cegah-serangan-koi-herpesvirus.html"
 ---
 
 Mei 2015 bulan berkabung bagi Hendik Koi-koi di 25 kolam seluas 2 ha mati
@@ -22,7 +22,7 @@ dari Nglegok, Blitar, rugi Rp35-juta. Koi-koi berbagai ukuran di kolam sawah
 dan rumah mati mengapung. Ada 200 koi yang mati," kata Moerdoko, peternak di
 Tanjungsari, Blitar. Akibat penyakit itu peternak di Blitar ekstra waspada
 menangani ikan. Pasalnya, penyakit itu menyerang koi segala umur. Menurut
-lacakan [mitrausahatani](http://127.0.0.1/mitra) hampir 70% kolam pembesaran
+lacakan [mitrausahatani](https://www.mitrausahatani.com) hampir 70% kolam pembesaran
 koi kosong. "Memang beberapa kolam lain relatif aman dari serangan penyakit.
 Namun, itu tidak menutup kemungkinan serangan menjalar ke sana bila tidak
 segera diantisipasi," ujar Moerdoko. Kasus serupa menimpa beberapa hobiis di
@@ -30,8 +30,8 @@ berbagai daerah, seperti Surabaya, Yogyakarta, Semarang, Bandung, Bali, dan
 Jakarta. Contohnya Soemarjan, peternak di Yogyakarta. Pemilik S & S Koi itu
 rugi puluhan juta rupiah dari 200 koi yang mengapung di kolam. Bahkan, salah
 satu hobiis di Semarang pasrah melihat koinya ludes usai kontes di Yogyakarta
-akhir Juni pertengahan tahun. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Koi-Herpesvirus.jpg)](http://127.0.0.1/mitra/wp-
+akhir Juni pertengahan tahun. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Koi-Herpesvirus.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Koi-Herpesvirus.jpg)
 
 ## Gejala Dan Beragam cara Mengatasi Serangan Herpes
@@ -63,8 +63,8 @@ kata pedagang koi sejak 1997 itu. Pengalaman Ria da Costa, hobiis di Bandung,
 pemberian formalin 22-24 ppm (1 ppm = lmg/1) air cukup efektif membunuh
 parasit. Cara lain dengan menabur 40 ppm Malachyt Green atau 3 ppm Masoten.
 "Pengobatan harus rutin selama 3-5 hari dan diulang seminggu kemudian,"
-katanya. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Koi-
-virus.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Koi-virus.jpg)
+katanya. [![](http://localhost/mitra/wp-content/uploads/2020/11/Koi-
+virus.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Koi-virus.jpg)
 
 ## Perawatan dan maintanance Koi Yang Terjangkit KHV
 
@@ -78,8 +78,8 @@ harus dilengkapi saluran pembuangan air. Menangkap ikan dengan jaring tanpa
 membuang sebagian air terlebih dulu menyebabkan lapisan tanah teraduk.
 Dampaknya muncul gas-gas amonia. Air tercemar memudahkan penyakit menempel
 pada tubuh ikan. Begitu diangkut ke lokasi lain, penyakit dipastikan menulari
-ikan lain. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Herpesvirus.jpg)](http://127.0.0.1/mitra/wp-
+ikan lain. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Herpesvirus.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Herpesvirus.jpg) Kolam perawatan juga perlu dilengkapi
 filter yang baik dan terjaga kebersihannya. Sirkulasi air kolam harus secara
 periodik. Demikian juga pemberian antibiotik untuk mencegah serangan penyakit.

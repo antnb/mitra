@@ -13,7 +13,7 @@ tags:
 - sanke
 
 modification_time: 2021-09-14 09:35:36
-blogger_orig_url: "http://localhost/mitra/eric-yonathan-pulang-pergi-ke-jepang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/eric-yonathan-pulang-pergi-ke-jepang.html"
 ---
 
 Berburu koi ke Jepang bagi Eric Yonathan tak ubahnya mencari harta karun. Di
@@ -44,7 +44,7 @@ biaya 3 sampai 4 pekerja sebesar Rp4-juta sampai Rp5-juta per bulan.
 ## Cinta koi
 
 [caption id="attachment_14049" align="aligncenter" width="300"]![Eric
-Yonathan](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kolam-ikan-koi-
+Yonathan](http://localhost/mitra/wp-content/uploads/2021/09/kolam-ikan-koi-
 mutakhir-300x298.jpg) Eric Yonathan, miliaran rupiah demi koi[/caption] Hobi
 Eric yang supermahal itu jarang ditiru orang lain. Bayangkan saja konstruksi
 dan rancangan kolamnya saja menelan biaya miliaran rupiah. Apalagi kalau ia
@@ -98,7 +98,7 @@ kualitas tinggi dinilai Rp440-juta.
 #### Multihobi
 
 [caption id="attachment_14048" align="aligncenter" width="300"]![Kolam
-koi](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kolam-koi-
+koi](http://localhost/mitra/wp-content/uploads/2021/09/kolam-koi-
 mutakhir-300x222.jpg) Kolam koi berteknologi canggih[/caption] Pria bertubuh
 besar itu tidak hanya tergila-gila pada koi. Empat belas tahun lampau ia
 memelihara ratusan ayam bangkok. Tidak tanggung-tanggung, kocek Rp800-juta

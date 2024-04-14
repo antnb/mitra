@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-09-24 08:25:26
-blogger_orig_url: "http://localhost/mitra/bibit-buah-naga-kuning-hasil-pembiakan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bibit-buah-naga-kuning-hasil-pembiakan.html"
 ---
 
 Pekebun di Semboro, Kabupaten Jember, Jawa Timur, Asroful Uswatun, kewalahan
@@ -29,9 +29,9 @@ memasok bibit ke berbagai daerah seperti Bandung, Bogor, Medan, Batam,
 Pontianak, Makassar, dan Jayapura, la membanderol bibit buah naga kuning
 setinggi 30 cm Rp 20.000, sedangkan buah naga jingga Rp 30.000 per batang.
 [caption id="attachment_15966" align="aligncenter" width="300"][![Pohon buah
-naga kuning yang sudah siap di panen](http://127.0.0.1/mitra/wp-
+naga kuning yang sudah siap di panen](http://localhost/mitra/wp-
 content/uploads/2019/10/buah-
-naga_640x339-300x159.jpg)](http://127.0.0.1/mitra/wp-
+naga_640x339-300x159.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/buah-naga_640x339.jpg) Harga sekilogram buah naga
 kuning di tingkat pekebun mencapai Rp 200.000[/caption]
 
@@ -55,14 +55,14 @@ tergolong anyar. Asroful mengenal buah naga jingga dari rekan sesama
 penangkar. Dari penangkar itu, ia memperoleh 200 bibit lantas ditanam di
 kebunnya. Tanaman-tanaman itulah yang memasok kebutuhan bibit para calon
 pekebun. Menurut Asroful penampilan buah yang seronok dengan kulit berwarna
-jingga, daging [buah merah](http://127.0.0.1/mitra/topik/buah-merah "buah
+jingga, daging [buah merah](https://www.mitrausahatani.com/topik/buah-merah "buah
 merah"), bercitarasa manis, dan menguarkan aroma leci menarik minat calon
-pekebun dan citarasa seperti buah [semangka](http://127.0.0.1/mitra/panduan-
+pekebun dan citarasa seperti buah [semangka](https://www.mitrausahatani.com/panduan-
 bertani-semangka.html). Apalagi, buah naga jingga dapat dipanen saat berumur
 2,5 bulan pascabunga. [caption id="attachment_15967" align="aligncenter"
 width="300"][![bitbit buah naga kuning hasil perbanyakan stek
-petani](http://127.0.0.1/mitra/wp-content/uploads/2019/10/buah-
-naga_640x420-300x197.jpg)](http://127.0.0.1/mitra/wp-
+petani](http://localhost/mitra/wp-content/uploads/2019/10/buah-
+naga_640x420-300x197.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/buah-naga_640x420.jpg) Bibit buah naga kuning dan
 jingga menjadi incaran calon pekebun[/caption]
 
@@ -115,8 +115,8 @@ daerah di Kalimantan, Sumatera, bahkan Papua. Setiap bulan, ayah 1 anak itu
 sanggup menjual 2.000 bibit buah naga kuning. "Itu baru setengah dari total
 kebutuhan pasar," ujar Andi. [caption id="attachment_15965"
 align="aligncenter" width="300"][![buah naga kuning yang sudah
-matang](http://127.0.0.1/mitra/wp-content/uploads/2019/10/buah-
-naga_579x480-300x249.jpg)](http://127.0.0.1/mitra/wp-
+matang](http://localhost/mitra/wp-content/uploads/2019/10/buah-
+naga_579x480-300x249.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/buah-naga_579x480.jpg) Para penangkar kewalahan
 melayani permintaan bibit buah naga kuning dan jingga.[/caption] Padahal,
 permintaan bibit tanaman buah naga 3 tahun lalu hanya ratusan batang. Menurut

@@ -10,7 +10,7 @@ tags:
 - tomat
 
 modification_time: 2022-09-13 09:50:22
-blogger_orig_url: "http://localhost/mitra/grafting-tomat-untuk-mengendalikan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/grafting-tomat-untuk-mengendalikan.html"
 ---
 
 Tomat disambung? Ya, itulah yang dilakukan oleh Dr Mike Nichols, ahli
@@ -50,8 +50,8 @@ metode menyambung. Negara lain yang mengadopsi teknologi itu adalah Jepang dan
 Korea Selatan[3]. Selain tomat, pekebun di negara Asia Timur juga menerapkan
 teknik itu pada komoditas terung, mentimun dan paprika [caption
 id="attachment_15678" align="aligncenter" width="300"][![Grafting
-Tomat](http://127.0.0.1/mitra/wp-content/uploads/2021/12/grafting-
-adalah-300x169.jpg)](http://127.0.0.1/mitra/wp-
+Tomat](http://localhost/mitra/wp-content/uploads/2021/12/grafting-
+adalah-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/grafting-adalah.jpg) Grafting tanaman Tomat[/caption]
 Di Jepang, misalnya, dari 7.141 ha greenhouse tomat, 48 ha di antaranya
 menggunakan teknik menyambung. Sedangkan di lahan terbuka hanya 8 ha dari
@@ -102,8 +102,8 @@ pekerja terlatih. Jika terbiasa, seorang pekerja menghasilkan 1.000 tanaman
 hasil menyambung per hari. Jika populasi per ha 23.000 tanaman, dengan 5
 pekerja dapat memproduksi bibit dalam waktu5 hari. Dengan menyatukan 2
 individu itu, pekebun memperoleh banyak keuntungan seperti produksi menjulang.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/grafting-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/grafting-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/grafting.jpg)
 
 ## Cara Menggrafting Dengan Benar

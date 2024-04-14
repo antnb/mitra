@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 06:08:33
-blogger_orig_url: "http://localhost/mitra/menanti-buah-indonesia-di-pasar-dunia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/menanti-buah-indonesia-di-pasar-dunia.html"
 ---
 
 Baru-baru ini diadakan sidang Codex Alimentarius Commission (CAC) ke-26 di
@@ -25,7 +25,7 @@ melalui 8 tahap. Bila suatu rancangan telah mencapai tahap 8, artinya ia telah
 diterima sebagai standar internasional. Sidang itu dipimpin Thomas J. Billy
 asal Amerika Serikat sebagai Ketua Komisi Codex. Dihadiri 400 delegasi- wakil
 negara-negara anggota dan organisasi nonpemerintah (NGO). Indonesia
-mengirimkan wakil dari Departemen [pertanian](http://127.0.0.1/mitra/pertanian
+mengirimkan wakil dari Departemen [pertanian](https://www.mitrausahatani.com/pertanian
 "pertanian"), Badan Standarisasi Nasional, Badan POM, ahli pangan, GAPMMI,
 GAPKINDO, serta perwakilan Indonesia di Roma.
 

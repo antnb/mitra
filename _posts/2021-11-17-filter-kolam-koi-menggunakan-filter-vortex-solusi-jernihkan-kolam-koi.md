@@ -9,7 +9,7 @@ tags:
 - koi
 
 modification_time: 2022-09-19 07:15:41
-blogger_orig_url: "http://localhost/mitra/filter-biologis-kolam-koi-sistem-vortex.html"
+blogger_orig_url: "http://www.mitrausahatani.com/filter-biologis-kolam-koi-sistem-vortex.html"
 ---
 
 Koi adalah ikan yang indah dan menyenangkan untuk dilihat, tetapi mereka dapat
@@ -30,8 +30,8 @@ apalagi dengan model tertutup. Material tersaring akan segera memampatkan
 media. Akibatnya saringan tidak jalan. "Ini bisa menjadi masalah," tutur Dani
 Hutomo Lianto pemilik Mawar 21 Koi Centre di Surabaya. filter biologis vortex
 bekerja mengendapkan partikel, kemudian menyempurnakan hasil filtrasi dengan
-mekanisme biologis. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/klam-300x165.jpg)](http://127.0.0.1/mitra/wp-
+mekanisme biologis. [![](http://localhost/mitra/wp-
+content/uploads/2021/11/klam-300x165.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/klam.jpg)
 
 ## cara membuat filter vortex
@@ -63,8 +63,8 @@ saringan sistim vortex, dibangun pondasi beton berukuran panjang 400cm, lebar
 PVC berdiameter 4inci, mula-mula masuk ke tabung pertama. Agar sirkulasi air
 seimbang dibutuhkan pompa berkekuatan 100 liter/menit. Satu unit filter
 biologis ini mampu menjernihkan air kolam dengan volume 30ton. [![filter kolam
-koi sistim biologis](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/filter1-300x128.jpg)](http://127.0.0.1/mitra/wp-
+koi sistim biologis](http://localhost/mitra/wp-
+content/uploads/2021/11/filter1-300x128.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/filter1.jpg)
 
 ## Ruang pengendapan

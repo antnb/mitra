@@ -9,7 +9,7 @@ tags:
 - kemiri
 
 modification_time: 2021-01-03 09:53:22
-blogger_orig_url: "http://localhost/mitra/budidaya-kemiri-untung-rp15-juta-per-ha.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-kemiri-untung-rp15-juta-per-ha.html"
 ---
 
 budidaya kemiri _Aleurites moluccana_ memang menguntungkan. Lihat saja Mochtar
@@ -52,8 +52,8 @@ kg per lubang tanam. Beberapa hari sebelum penanaman tambahkan NPK 100 sampai
 ## Dormansi mekanis (menanam kemiri dari biji)
 
 [caption id="attachment_3184" align="alignleft" width="180"][![bibit
-kemiri](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_kemiri_523x768.jpg)](http://127.0.0.1/mitra/wp-
+kemiri](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_kemiri_523x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_kemiri_523x768.jpg) Kendala penanaman :
 mendapat bibit seragam[/caption] budidaya kemiri biasanya diperbanyak dengan
 biji. Biji berasal dari pohon induk yang sehat, pertumbuhan normal, berumur
@@ -104,7 +104,7 @@ Keping biji yang menempel pada batang dibuang untuk menghindari pembusukan.
 Bibit di polibag dipindahkan ke lahan setelah ber aur 3 sampai 4 bulan dari
 semai. Pada saat itu tinggi bibit 25 sampai 30 cm, batang mulai berkayu dengan
 diameter 0,8 sampai 1 cm. [caption id="attachment_18535" align="aligncenter"
-width="1024"]![](http://127.0.0.1/mitra/wp-content/uploads/2021/01/budidaya-
+width="1024"]![](http://localhost/mitra/wp-content/uploads/2021/01/budidaya-
 kemiri--1024x576.jpg) Kemiri adaptif di berbagai tempat[/caption]
 
 ## Pemupukan dan penyiangan tanaman gulma

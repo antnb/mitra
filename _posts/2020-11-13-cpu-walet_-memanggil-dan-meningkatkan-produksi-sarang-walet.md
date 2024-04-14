@@ -10,7 +10,7 @@ tags:
 - cpu
 
 modification_time: 2020-11-13 06:03:01
-blogger_orig_url: "http://localhost/mitra/cpu-walet-memanggil-dan-meningkatkan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cpu-walet-memanggil-dan-meningkatkan.html"
 ---
 
 Diputar minimal 7 jam setiap hari CD Player paling hanya bertahan 3-4 bulan.
@@ -33,8 +33,8 @@ Palembang, Riau, Bengkulu, dan Jambi, relatif cepat ketimbang di Jawa. Sebut
 saja di Riau, rumah walet berukuran 8 m x 20 m setinggi 5 tingkat, dalam waktu
 3 hari disinggahi 200-300 ekor. Perangkat pemanggil walet dipasang pada
 Februari 2003. Lalu, 2 bulan kemudian tepatnya April 2003 sudah terdapat 30
-sarang. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/CPU-
-walet.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/CPU-walet.jpg)
+sarang. [![](http://localhost/mitra/wp-content/uploads/2020/11/CPU-
+walet.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/CPU-walet.jpg)
 
 ## Memancing walet Dengan Efektif
 
@@ -49,7 +49,7 @@ enggan disebut namanya, kosong melompong. Padahal, persyaratan lingkungan baik
 makro maupun mikro kelembapan, suhu, dan pencahayaan dipenuhi. Ia kemudian
 mencoba memfasilitasi dengan alat pemanggil. “Ternyata efektif. Agustus 2002
 saya pasang, eh...pada Februari 2003 ada 80 sarang bergelayut di lagur,”
-tuturnya. Berdasarkan lacakan [Mitra Usaha Tani](http://127.0.0.1/mitra),
+tuturnya. Berdasarkan lacakan [Mitra Usaha Tani](https://www.mitrausahatani.com),
 pemanggil walet tak melulu untuk memancing, tapi juga meningkatkan produksi.
 Buktinya, rumah walet Lawi Sunarpin BSBA di Lubukpakam, Sumatera Utara, masih
 tetap diputarkan CD suara walet meski berproduksi lumayan banyak. Bahkan,
@@ -62,8 +62,8 @@ kecil,” ungkap Johannes Siegfried, praktisi walet di Medan. Tidak aneh ketika
 melewati J1 Perniagaan, Medan, atau di Lubukpakam, suara walet keluar dari
 twiter memekakkan telinga. Bagaimana tidak, suara itu saling bersahutan
 diputar dari pagi hingga malam, sehingga masyarakat setempat protes.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/CPU-burung-
-walet.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/CPU-burung-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/CPU-burung-
+walet.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/CPU-burung-
 walet.jpg)
 
 ## Bukan barang baru

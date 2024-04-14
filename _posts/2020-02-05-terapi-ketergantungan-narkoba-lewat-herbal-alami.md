@@ -11,7 +11,7 @@ tags:
 - pengobatan
 
 modification_time: 2020-02-05 16:09:46
-blogger_orig_url: "http://localhost/mitra/terapi-ketergantungan-narkoba-lewat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/terapi-ketergantungan-narkoba-lewat.html"
 ---
 
 Di sofa sebuah kantor polisi di Jakarta Selatan, seorang gadis tengah meregang
@@ -28,8 +28,8 @@ kameramen in action. Pengidap ketergantungan pada narkotika dan obat-obatan
 terlarang memang sangat menderita saat ketagihan alias sakaw. Seluruh bagian
 tubuh terasa nyeri hingga ke tulang. Malangnya, obat-obat analgetik
 (penghilang rasa nyeri) tidak mempan menumpas rasa sakit.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/narkoba-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/02/narkoba-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/narkoba.jpg)
 
 ## Efek Toxicity/Toksisitas Yang Merusak
@@ -58,8 +58,8 @@ mereka menurunkan minat pasien berobat. Di tempat seperti itu, penderita amat
 tersiksa. Saat sakaw, kaki dan tangan diikat, lalu direndam dalam air dingin.
 Pesakitan harus pasrah atas kondisi yang dialami selama berbulan-bulan. Upaya
 itu memang mengurangi ketergantungan, tapi tidak menghilangkan racun narkoba
-dalam tubuh. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/kecanduan-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+dalam tubuh. [![](http://localhost/mitra/wp-
+content/uploads/2020/02/kecanduan-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/kecanduan.jpg)
 
 ## Obat tradisional Dari Cina

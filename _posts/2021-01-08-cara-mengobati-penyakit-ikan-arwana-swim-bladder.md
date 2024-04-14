@@ -14,7 +14,7 @@ tags:
 - swimbladder
 
 modification_time: 2021-01-08 09:32:50
-blogger_orig_url: "http://localhost/mitra/penyakit-ikan-arwana-swimbladder.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penyakit-ikan-arwana-swimbladder.html"
 ---
 
 Pun bila harga itu diturunkan menjadi Rp 1-juta per ekor, tetap tak ada yang
@@ -58,8 +58,8 @@ pulih sepenuhnya.
 ## Penyakit Ikan Arwana Muncul Akibat Kualitas Pakan Yang buruk
 
 [caption id="attachment_7761" align="alignleft" width="293"][![swimbladder
-arwana](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_nungging_1024x574.jpg)](http://127.0.0.1/mitra/wp-
+arwana](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_nungging_1024x574.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_nungging_1024x574.jpg) Selain berenang
 nungging, tulang ekor turun[/caption] Menurut Mahmud, pakan berupa udang,
 jangkrik, dan kecoak memperparah penyakit ikan arwana. Musababnya, pakan-pakan
@@ -87,8 +87,8 @@ benar-benar sehat dan hindari stres pada ikan.
 ## Pengobatan Penyakit Ikan Arwana Menggunakan Tetracyclin
 
 [caption id="attachment_7762" align="alignleft" width="223"][![arwana
-sehat](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_nungging1_1024x646.jpg)](http://127.0.0.1/mitra/wp-
+sehat](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_nungging1_1024x646.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_nungging1_1024x646.jpg) Renang lurus, tanda
 Ikan sehat[/caption] Mahmud dan Heri sepakat menjaga kualitas air dan disiplin
 dalam pemeliharaan mutlak diperlukan untuk menjegal penyakit ikan arwana. Bila

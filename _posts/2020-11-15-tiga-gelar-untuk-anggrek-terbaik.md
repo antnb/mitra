@@ -12,7 +12,7 @@ tags:
 - Penentuan grand
 
 modification_time: 2022-09-14 11:07:36
-blogger_orig_url: "http://localhost/mitra/tiga-gelar-untuk-anggrek-terbaik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tiga-gelar-untuk-anggrek-terbaik.html"
 ---
 
 Ketika gulungan terakhir penilaian juri dibuka Susono Hadinugroho, ketua
@@ -70,9 +70,9 @@ tangkai dengan bunga prima. Namun, karena angraecum lebih sehat sehingga
 dipilih sebagai spesies terbaik. Di partai puncak, penentuan juara berlangsung
 menegangkan lantaran masing masing berpeluang menang. Pemiliknya pun terbawa
 suasana. Rizal Djaafarer meski terlihat santai, ternyata mengaku sedikit
-tegang. Demikian pula Santy yang agak grogi. [![](http://127.0.0.1/mitra/wp-
+tegang. Demikian pula Santy yang agak grogi. [![](http://localhost/mitra/wp-
 content/uploads/2020/11/bunga-Anggrek-
-Terbaik-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/bunga-
+Terbaik-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/bunga-
 Anggrek-Terbaik.jpg)
 
 ## Bunga terbalik
@@ -93,8 +93,8 @@ reines des violettes. Waktu itu ia mengalahkan Dendrobium densiflorum, juga
 koleksi Santy. Kegembiraan pemain Ketoprak Humor itu bertambah lantaran ia
 juga memboyong 16 penghargaan dari 26 tanaman yang disertakan. Sedangkan Rizal
 bisa tersenyum lantaran 12 dari 17 anggrek yang dilombakan meraih juara.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/anggrek-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/anggrek-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/anggrek.jpg)
 
 ## Anggrek Varietas Baru dan unik

@@ -3,7 +3,7 @@ layout: post
 title: 'Batang Durian Kokoh di 3 Kaki'
 categories: perkebunan
 date: 2021-01-24 02:45:32
-author: Anton N
+author: Yudianto
 image: media/Gambar_duren_1024x655.jpg
 tags:
 - batang durian
@@ -15,7 +15,7 @@ tags:
 - tunas baru
 
 modification_time: 2021-01-24 02:45:32
-blogger_orig_url: "http://localhost/mitra/batang-durian-kokoh-di-3-kaki.html"
+blogger_orig_url: "http://www.mitrausahatani.com/batang-durian-kokoh-di-3-kaki.html"
 ---
 
 Peremajaan (recovery) durian hal biasa di kebun Bernard. Banyak durian lokal
@@ -31,8 +31,8 @@ dengan monthong.
 ## Menara kaki tiga
 
 [caption id="attachment_7970" align="alignleft" width="251"][![sambung kaki
-3](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_3kaki_648x768.jpg)](http://127.0.0.1/mitra/wp-
+3](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_3kaki_648x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_3kaki_648x768.jpg) Kokoh bertumpu di 3
 kaki[/caption] Semula peremajaan dilakukan hanya dengan menyisakan 1 cabang di
 ujung batang. Kini 3 cabang terbaik dipertahankan. Ujung-ujung cabang itu

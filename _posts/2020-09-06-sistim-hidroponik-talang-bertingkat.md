@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 12:18:13
-blogger_orig_url: "http://localhost/mitra/sistim-hidroponik-talang-bertingkat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistim-hidroponik-talang-bertingkat.html"
 ---
 
 _Dari sekadar iseng-iseng seorang hobiis hidroponik mampu memasarkan beragam

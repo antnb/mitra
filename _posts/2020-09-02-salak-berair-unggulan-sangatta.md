@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-02 09:12:39
-blogger_orig_url: "http://localhost/mitra/salak-berair-unggulan-sangatta.html"
+blogger_orig_url: "http://www.mitrausahatani.com/salak-berair-unggulan-sangatta.html"
 ---
 
 Jika Anda ke Samarinda atau Tenggarong jangan lupa salak sangatta sebagai
@@ -31,7 +31,7 @@ Salak sangatta dijual per tandan berisi 20-25 buah berbobot 2-4 kg. Harga Rp
 3.000-Rp 3.500 per kg di tingkat pekebun. Harga itu lebih tinggi dibandingkan
 dengan salak lain. Lantaran harga jual tinggi dan stabil, masyarakat Sangatta
 tertarik menanam. Luas penanaman meningkat pesat 10 tahun terakhir. Menurut
-Jumairi Syah, Wakil Kepala Dinas [Pertanian](http://127.0.0.1/mitra/pertanian
+Jumairi Syah, Wakil Kepala Dinas [Pertanian](https://www.mitrausahatani.com/pertanian
 "Pertanian") Kutai Timur, pada 2001 pemerintah mempersiapkan 10.000 bibit
 untuk disebar ke masyarakat. Pada 2000, populasi tanaman di Kutai Timur
 mencapai 566.075 pohon seluas 275 ha. Salak itu tersebar di 5 kecamatan:

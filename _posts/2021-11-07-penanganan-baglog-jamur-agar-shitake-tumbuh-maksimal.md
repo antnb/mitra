@@ -10,7 +10,7 @@ tags:
 - jamur
 
 modification_time: 2022-09-19 08:45:29
-blogger_orig_url: "http://localhost/mitra/penanganan-baglog-jamur-tumbuh-maksimal.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penanganan-baglog-jamur-tumbuh-maksimal.html"
 ---
 
 Baglog untuk jamur shitake adalah sebuah bahan yang berfungsi sebagai media
@@ -59,8 +59,8 @@ dan jamur akan tumbuh baik. Untuk tahapan ini, kayu untuk bahan baglog jamur
 disusun dalam pola khusus. Melihat bentuknya, sebaiknya digunakan pelindung.
 Alat tersebut bisa diletakkan di rumah tanam untuk penyusunan dalam rak, atau
 di bawah pepohonan yang rindang. Bila vegetasi kurang dibuat tudung dari
-dedaunan, atap, atau rumbia. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/shitake-220x300.jpg)](http://127.0.0.1/mitra/wp-
+dedaunan, atap, atau rumbia. [![](http://localhost/mitra/wp-
+content/uploads/2021/11/shitake-220x300.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/shitake.jpg)
 
 ## Proses Perendaman Kayu Untuk Merangsang Pertumbuhan jamur
@@ -79,8 +79,8 @@ footcandle. Keunggulan perlakuan cahaya adalah tubuh buah terangsang tumbuh
 lebih cepat. Pada penanaman di alam, jamur tumbuh lambat. Waktu yang ideal
 untuk menanam, 1 sampai 2 minggu pada musim panas (musim semi). Sedangkan pada
 musim hujan (musim dingin), 1 sampai 7 hari jamur dapat tumbuh dan berkembang.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/baglog1-256x300.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/baglog1-256x300.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/baglog1.jpg)
 
 ## Penanganan Jamur Pada Masa panen

@@ -13,7 +13,7 @@ tags:
 - serama bulu mengkilap
 
 modification_time: 2021-02-14 08:39:29
-blogger_orig_url: "http://localhost/mitra/cara-merawat-ayam-serama-agar-selalu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-merawat-ayam-serama-agar-selalu.html"
 ---
 
 Cara merawat ayam Serama sebenarnya susah susah gampang. Begitu dilepas, si
@@ -32,8 +32,8 @@ dirawat maksimal, mulai dari kandang sampai mandi, dan berjemur.
 ## Ayam Serama Mudah Dalam Perawatan
 
 [caption id="attachment_8131" align="aligncenter" width="486"][![jemur ayam
-serama](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_bantam1_1280x828.jpg)](http://127.0.0.1/mitra/wp-
+serama](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_bantam1_1280x828.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_bantam1_1280x828.jpg) Serama Harus sering
 Dijemur agar sehat[/caption] Rudi, pemilik 20 ekor, Merawat Ayam Serama dengan
 memperhatikan semua aspek, termasuk konstruksi kandang. Ia memilih membeli
@@ -50,7 +50,7 @@ minum, dan tenggeran. Cegah kucing atau anjing mendekati kandang.
 Di tempat Rudi, ayam itu menyantap pakan buatan pabrik yang diwadahi mangkuk
 plastik. Tempat minum pun disediakan berdekatan dengan tempat pakan. "Ayam ini
 sebenarnya mau menyantap pakan apa saja, termasuk nasi, dedak, biji-bijian
-seperti [jagung](http://127.0.0.1/mitra/topik/jagung), padi, atau kacang
+seperti [jagung](https://www.mitrausahatani.com/topik/jagung), padi, atau kacang
 hijau. Bahkan hewan kecil, seperti serangga atau cacing pun mau. Daun-daunan
 hijau seperti kangkung, bayam, atau kecambah disantapnya asal dicincang
 halus," ucapnya. Namun, Rudi menyarankan pakan jadi, buatan pabrik, karena

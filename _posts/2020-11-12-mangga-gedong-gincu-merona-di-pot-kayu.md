@@ -10,7 +10,7 @@ tags:
 - Tabulampot
 
 modification_time: 2022-09-16 07:33:29
-blogger_orig_url: "http://localhost/mitra/gedong-gincu-merona-di-pot-kayu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gedong-gincu-merona-di-pot-kayu.html"
 ---
 
 Elok benar tabulampot itu. Limabelas buah kuning bersemburat merah di bagian
@@ -22,9 +22,9 @@ memboyong tabulampot senilai Rpl,5-juta itu dari seorang penangkar di Jakarta
 Utara. Nun di kawasan Sunter Agung, Jakarta Utara, Innasari pun tak sungkan-
 sungkan mendatangkan tabulampot mangga bergincu raksasa dalam ember kayu. Tiga
 pohon setinggi 2 m berumur 2 tahun 8 bulan. Hasilnya, pemandangan di sekitar
-kolam renang jadi terlihat atraktif. [![](http://127.0.0.1/mitra/wp-
+kolam renang jadi terlihat atraktif. [![](http://localhost/mitra/wp-
 content/uploads/2020/11/mangga-gedong-
-gincu-300x165.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/mangga-
+gincu-300x165.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/mangga-
 gedong-gincu.jpg)
 
 ## Berbuah 3 kali
@@ -56,8 +56,8 @@ pertama kali pada umur 18-20 bulan setelah okulasi. Stres air dan pemangkasan
 jadi kunci utama. Pemberian air cukup 2- 3 hari sekali dari semula setiap
 hari. Kalau dosis awal 10 liter atau 1 ember per pot, berikan setengahnya.
 Stres air terutama dilakukan saat kondisi daun tua.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/buah-gedong-
-gincu-300x209.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/buah-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/buah-gedong-
+gincu-300x209.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/buah-
 gedong-gincu.jpg)
 
 ## Berbunga kontet

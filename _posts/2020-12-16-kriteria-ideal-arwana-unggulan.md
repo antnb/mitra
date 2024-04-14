@@ -11,7 +11,7 @@ tags:
 - kesehatan ikan
 
 modification_time: 2020-12-16 13:15:35
-blogger_orig_url: "http://localhost/mitra/kriteria-ideal-arwana-unggulan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kriteria-ideal-arwana-unggulan.html"
 ---
 
 "Tak mudah untuk menilai arwana, karena perlu pengamatan menyeluruh. Selain

@@ -12,7 +12,7 @@ tags:
 - Universitas Trisakti
 
 modification_time: 2020-11-16 12:18:20
-blogger_orig_url: "http://localhost/mitra/tanaman-hias-tak-henti-berburu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-hias-tak-henti-berburu.html"
 ---
 
 Kumpulan kelapa di pot 30 cm itu tingginya cuma 50 cm. Uniknya, kelapa itu
@@ -59,8 +59,8 @@ lebih besar pernah diderita. Saat itu 100 kelapa mati berbarengan. Pasalnya,
 kelapa ditanam utuh dengan sabut lalu diletakkan di tempat terbuka. Karena
 sering disiram air sekaligus terik matahari, “Sama saja direbus, sehingga
 semua sabut membusuk dan akhirnya mati,” ungkap pria tinggi besar itu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/sikas.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/sikas.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/sikas.jpg)
 
 ## Koleksi Tanaman unik
@@ -79,8 +79,8 @@ Barbie, si boneka cantik. Di rumah Santoso juga ada bambu bercabang, palem
 waregu palem pakis haji, bercabang, dan belasan tanaman daun variegata,
 seperti melinjo, buni, ulmus, dan aneka palem. Sosok nolina variegata juga
 paling istimewa. Daun putih lebat dan bertajuk rapi.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sikas-
-keong.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sikas-keong.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/sikas-
+keong.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/sikas-keong.jpg)
 
 ## Sulit Untuk Dibonsai
 

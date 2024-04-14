@@ -11,7 +11,7 @@ tags:
 - tangkapan alam
 
 modification_time: 2020-12-17 08:26:59
-blogger_orig_url: "http://localhost/mitra/penerbang-rindu-sapu-sapu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penerbang-rindu-sapu-sapu.html"
 ---
 
 Keindahan pantai Kuta, Bali, tidak mengalihkan perhatian Agung dari sapu-sapu
@@ -37,7 +37,7 @@ Perkenalan Agung dengan sapu-sapu hias gara-gara membuka situs tentang pleco
 pada 1999. Di situs ditampilkan informasi tentang sapu-sapu, lengkap dengan
 foto dan cara pemeliharaan. "Ternyata sapu-sapu itu coraknya beragam dan
 cantik," ujar Agung. Karena penasaran, ia tertarik untuk membeli seekor.
-Pusat-pusat penjualan [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan
+Pusat-pusat penjualan [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan
 hias") di pelosok Jakarta ditelusuri. Namun, yang dijajakan kebanyakan jenis
 lokal. Ukurannya besar, berwarna hitam, dan polos. Suatu hari ketika singgah
 di pasar ikan Barito, Jakarta Selatan, matanya tertambat pada royal pleco.
@@ -57,8 +57,8 @@ jenis ikan koleksinya 10 merupakan hasil tangkapan alam.
 
 ## Dua akuarium
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_sapusapu_674x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_sapusapu_674x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_sapusapu_674x768.jpg)Yang jadi favorit
 penggemar basket itu jenis Scobinancistrus eareatus dan zebra. Sosok goldy
 nama dagang _Scobinancistrus aureatus_ mirip dengan _Baryancistrus sp_. Sedang

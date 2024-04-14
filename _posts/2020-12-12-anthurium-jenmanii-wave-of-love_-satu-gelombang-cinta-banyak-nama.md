@@ -12,7 +12,7 @@ tags:
 - gelombang cinta
 
 modification_time: 2020-12-12 12:51:04
-blogger_orig_url: "http://localhost/mitra/anthurium-jenmanii-satu-gelombang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anthurium-jenmanii-satu-gelombang.html"
 ---
 
 Anthurium wave of love baru dapat nama beberapa bulan terakhir. Pemberian nama
@@ -21,7 +21,7 @@ banyak diketahui orang. Berdasarkan penelusuran Trubus di kalangan pemain
 anthurium, ada puluhan nama yang mengiringi sebutan wave of love. Nama nama
 yang dimaksudkan untuk membedakan wave of love satu dengan lainnya itu saat
 ini belum baku. Itu karena setiap pemilik bisa memberikan nama. Contohnya
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") koleksi
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") koleksi
 Ginting Sri Kusmayadi di Sukohardio dan Hauw Lie diKaranganyar. Kedua pekebun
 itu memberikan nama yang hampir mirip pada koleksinya: brazilian dan brazil.
 Padahal, kedua sosok tanaman itu berbeda. Brazilian milik Ginting berdaun
@@ -44,7 +44,7 @@ Rina Iriani pada anthurium koleksinya, harganya hanya Rp3 sampai juta. Namun,
 begitu diganti jadi tirtawulung naik menjadi Rp7 sampai juta. "Dengan nama
 yang bagus dapat menambah kekayaan nama di anthurium dan naikkan harga,” kata
 Rina dalam sambutannya pada pembukaan pameran Karanganyar Green Expo 2017.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Anthurium-wave-of-
+![](http://localhost/mitra/wp-content/uploads/2020/12/Anthurium-wave-of-
 love-1024x694.jpg)
 
 ## Anthurium jenmanii wave of love
@@ -61,12 +61,12 @@ hingga mencapai tulang daun, serta urat daun menonjol. Sementara wave of love
 "tsunami” koleksi nurseri Hara karena lekukan di pinggir daun mirip gelombang
 tsunami. Wave of love "sisik ular” koleksi nurseri Sekar Jenar namanya diambil
 berdasarkan motif daun. Bercak bulat bulat berwarna hijau muda di daun menjadi
-ciri khas kerabat [aglaonema](http://127.0.0.1/mitra/topik/aglaonema
+ciri khas kerabat [aglaonema](https://www.mitrausahatani.com/topik/aglaonema
 "aglaonema") itu. Sedangkan wave of love "kok” koleksi Ginting berdaun tegak
 dan tersusun rapi. Sosok seperti kok bulutangkis. Banyak nama di wave of love
 menunjukkan varian gelombang cinta itu demikian beragam. [![Rumpun koleksi
-Riana Suma Putri, Jakarta](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/wave-of-love-1024x676.jpg)](http://127.0.0.1/mitra/wp-
+Riana Suma Putri, Jakarta](http://localhost/mitra/wp-
+content/uploads/2020/12/wave-of-love-1024x676.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/wave-of-love.jpg)
 
 

@@ -12,7 +12,7 @@ tags:
 - kuning kemerahan
 
 modification_time: 2020-12-08 06:49:43
-blogger_orig_url: "http://localhost/mitra/saat-kelezatan-durian-udang-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/saat-kelezatan-durian-udang-merah.html"
 ---
 
 Pantas bila kegembiraan langsung pecah begitu Khor Hun Hin menyodorkan udang
@@ -37,8 +37,8 @@ perburuan udang merah. Beruntung Sen mengambil jalan memutar menuju
 penginapan. Di tengah perjalanan itulah sebuah pick up yang diubah menjadi
 kios durian ditemui. Colt diparkir persis di pertigaan Jl. Macalister dengan
 Jl. Kek Chuan. Di sanalah putus asa berubah menjadi kegembiraan.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Lin-feng-
-jiao.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Lin-feng-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/Lin-feng-
+jiao.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/Lin-feng-
 jiao.jpg)
 
 ## Durian johan
@@ -68,8 +68,8 @@ karena mempunyai 2 keunggulan: rasa lezat dan warna menarik, kuning kemerahan.
 Di Indonesia durian berwarna kemerahan disebut-sebut turunan lai Durio
 kutejensis. Sayang, lai tak seenak durian _Durio zibethinus_. Reza menduga
 udang merah varietas Durio zibethinus yang mengalami kelainan warna.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Durian-
-johan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Durian-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/Durian-
+johan.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/Durian-
 johan.jpg)
 
 ## Durian udang merah
@@ -100,8 +100,8 @@ aktor terkenal Jacky Chan. Di kebun Fong seluas 3,24 ha terdapat 130 pohon
 durian. Selain 4 jenis itu udang merah, holo, kun fo, dan lin feng jiao masih
 ada ang jin dan siaw hong. Sayang, hari itu tak ada buah yang jatuh. Toh,
 perburuan kali ini tak sia-sia. Udang merah yang dicari tercecap sudah.
-Penantian selama 5 tahun pun terbayar lunas. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Durian-udang-merah.jpg)](http://127.0.0.1/mitra/wp-
+Penantian selama 5 tahun pun terbayar lunas. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/Durian-udang-merah.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Durian-udang-merah.jpg)
 
 

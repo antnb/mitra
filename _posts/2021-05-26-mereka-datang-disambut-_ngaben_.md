@@ -9,7 +9,7 @@ tags:
 - gandum
 
 modification_time: 2021-05-26 06:45:34
-blogger_orig_url: "http://localhost/mitra/mereka-datang-disambut-ngaben.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mereka-datang-disambut-ngaben.html"
 ---
 
 Kotak besi berukuran l,5mxlm yang dipenuhi benih jagung dari Thailand perlahan
@@ -30,8 +30,8 @@ dihancurkan.
 ## Tak lengkap
 
 [caption id="attachment_11477" align="aligncenter" width="499"][![Sosok
-Tilletia foetida superkecil ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/gandum.jpg)](http://127.0.0.1/mitra/wp-
+Tilletia foetida superkecil ](http://localhost/mitra/wp-
+content/uploads/2021/05/gandum.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/gandum.jpg) Sosok Tilletia toetida
 superkecil1[/caption] Menurut Kepala Laboratorium SKT-SH, Iman Suryaman gandum
 terinfeksi Tilletia foetida dan T caries. Sepuluh varietas gandum asal negeri

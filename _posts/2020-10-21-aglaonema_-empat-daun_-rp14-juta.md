@@ -9,13 +9,13 @@ tags:
 - 
 
 modification_time: 2020-10-21 16:52:38
-blogger_orig_url: "http://localhost/mitra/aglaonema-empat-daun-rp14-juta.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aglaonema-empat-daun-rp14-juta.html"
 ---
 
 Semburat merah pada aglaonema bak variegatanya tanaman hias. Poin itu demikian
 bernilai, sehingga banyak hobiis berlomba memburu corak paling sempurna.
 Semakin dominan warna merah, maka harga pun makin menjulang. Setelah "era"
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") Pride
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") Pride
 Sumatera, kini menyusul aglaonema Adelia Angelen dan silangan super merah dari
 Thailand. Mendengar obrolan para hobiis tentang harga aglaonema rilisan baru
 memang bisa bikin “pusing”. Bayangkan saja, tanaman itu tak lagi dinilai dari
@@ -26,7 +26,7 @@ keindahan sosoknya, acungan jempol pantas diberikan. Semburat merah warisan A.
 rotundum begitu sempurna melekat pada daun. Pada Adelia, warna merah muncul
 merata berpadu dengan hijau. “Corak ini sangat bagus dan berbeda dengan Pride
 Sumatera,” ujar Ny T Soerojo, pekebun [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di Cilandak, Jakarta
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di Cilandak, Jakarta
 Selatan. Tanaman kreasi Greg Hambali penyilang aglaonema itu kini telah
 diperbanyaknya dan siap dilepas.
 

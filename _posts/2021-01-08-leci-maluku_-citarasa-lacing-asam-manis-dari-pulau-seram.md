@@ -13,7 +13,7 @@ tags:
 - pulau seram
 
 modification_time: 2021-01-08 14:12:17
-blogger_orig_url: "http://localhost/mitra/leci-maluku-citarasa-lacing-asam-manis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/leci-maluku-citarasa-lacing-asam-manis.html"
 ---
 
 Lacing sampai begitu sebutan masyarakat Maluku untuk leci _Litchi sinensis_
@@ -31,8 +31,8 @@ berbuah.
 ## Buah Tepi pantai
 
 [caption id="attachment_7785" align="alignleft" width="301"][![buah
-leci](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_leci1_855x768.jpg)](http://127.0.0.1/mitra/wp-
+leci](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_leci1_855x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_leci1_855x768.jpg) budidaya leci Lebih
 menguntungkan daripada cengkih[/caption] Kehadiran lacing dari Provinsi Maluku
 menjadi kian istimewa lantaran adaptif ditanam di dataran rendah. Nun di Desa

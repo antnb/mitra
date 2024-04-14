@@ -9,11 +9,11 @@ tags:
 - 
 
 modification_time: 2020-08-18 07:22:04
-blogger_orig_url: "http://localhost/mitra/perawatan-pohon-durian-yang-terserang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perawatan-pohon-durian-yang-terserang.html"
 ---
 
 _Siang itu matahari bersinar terik memanggang kulit saat[[[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 menjelajahi kebun seluas 14 ha di Desa Murnisari, Kecamatan Mande, Cianjur.
 Lokasi itu adalah salah satu kebun durian milik Bernard Sadhani. Kebun lain-
 masih di Cianjur-hanya berjarak 3 km dari sana. Letaknya di Desa Mulyasari
@@ -93,7 +93,7 @@ SP-36 dan KC1. Selain itu, pupuk daun mengandung unsur mikro juga
 disemprotkan. Aplikasi sekali saat daun muda baru dan 2 kali ketika menjelang
 berbuah dengan selang 10 hari. Hasilnya memang terlihat jelas di kebun
 Bernard. Tanaman tumbuh sehat. Waktu [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) datang pada akhir
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) datang pada akhir
 Januari, panen tahap kedua baru saja dimulai. Panen berlangsung hingga Maret.
 Sebagian buah sudah dipetik pada panen tahap pertama, yaitu November-Desember.
 Produksi pada 2 tahun silam mencapai 50 ton per tahun dari 15 ha. “Kalau

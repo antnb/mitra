@@ -12,7 +12,7 @@ tags:
 - vas
 
 modification_time: 2020-11-24 09:13:49
-blogger_orig_url: "http://localhost/mitra/pachypodium-namaquanum-tumbuh-lambat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pachypodium-namaquanum-tumbuh-lambat.html"
 ---
 
 Pantas namaquanum gundul berharga mahal itu menjadi buruan hobiis. “Kita tak
@@ -52,8 +52,8 @@ Yogyakarta, dengan penyambungan, pertumbuhan brevicaule dapat didongkrak
 hingga 3 sampai 4 kali lipat. Itu karena perakaran batang bawah sampai lamerei
 dan geayi lebih kuat. Saat berdiameter 20 cm, batang bawah itu tak lagi
 kentara, sehingga sosoknya seperti brevicaule orisinil.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/P.-brevicaule.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/P.-brevicaule.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/P.-brevicaule.jpg)
 
 ## Pachypodium namaquanum
@@ -69,8 +69,8 @@ namaquanum setinggi 30 cm hanya bertambah 10 cm setelah dirawat 2 tahun. Rata-
 rata per tahun pertumbuhan 5 cm. Di pasaran namaquanum setinggi itu berharga
 Rp7,5-juta. Sedangkan, ukuran 8 sampai 10 cm, Rp750-ribu. Harga selangit
 karena pertumbuhan 3 sampai 4 kali lebih lambat ketimbang P. lamerei dan P
-geayi. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/P.-namaquanum.jpg)](http://127.0.0.1/mitra/wp-
+geayi. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/P.-namaquanum.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/P.-namaquanum.jpg)
 
 ## Pachypodium ambongense
@@ -79,8 +79,8 @@ Disebut ambongense karena ditemukan di daerah aliran Sungai Ambongo. Ia
 tergolong pendatang baru karena baru diperkenalkan pada 1995 oleh Prof W Rauh.
 Di alam, sosoknya menyerupai P. baronii dan P. decaryi. Uniknya, semaian
 menyerupai P. lamerei. Yang membedakan hanya tangkai daun hijau kelabu pucat.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Pachypodiums.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Pachypodiums.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodiums.jpg)
 
 ## P. baronii
@@ -99,11 +99,11 @@ kerikil untuk menambah porositas alias kemampuan melewatkan air.
 
 Dalam kelompok pachypodium, decaryi tergolong paling aneh. Dari jauh sosoknya
 terlihat tak berduri. Gordon Rowley menyebut decaryi sebagai jembatan antara
-pachypodium dengan [adenium](http://127.0.0.1/mitra/topik/adenium "adenium").
+pachypodium dengan [adenium](https://www.mitrausahatani.com/topik/adenium "adenium").
 Itu karena sosok bunga dan batangnya mirip mawar gurun. Penampilan tanaman
 cantik, caudex bawah membulat seperti bawang bombai, lalu cabang panjang dan
-kurus. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Pachypodium-
-decaryi.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Pachypodium-
+kurus. [![](http://localhost/mitra/wp-content/uploads/2020/11/Pachypodium-
+decaryi.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Pachypodium-
 decaryi.jpg)
 
 ## Pachypodium _succulentum_
@@ -114,8 +114,8 @@ agar terlihat. Di habitat asli cabang tumbuh 30 cm di atas permukaan tanah.
 Setelah dewasa ia disebut tanaman paling bandel yang mampu hidup di daerah
 panas. Di Indonesia, ia baru ditemukan di beberapa nurseri. Succulentum
 berukuran 22 sampai 25 cm dibandrol Rp750-ribu.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Pachypodium-
-succulentum.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Pachypodium-
+succulentum.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodium-succulentum.jpg)
 
 

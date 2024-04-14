@@ -9,7 +9,7 @@ tags:
 - jamur
 
 modification_time: 2021-12-03 07:15:43
-blogger_orig_url: "http://localhost/mitra/rahasia-menjaga-kualitas-jamur-bermutu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rahasia-menjaga-kualitas-jamur-bermutu.html"
 ---
 
 Mutu jamur merang cenderung anjlok pada musim hujan. Sahim mampu
@@ -20,8 +20,8 @@ rendah. Tubuh buah berwarna kehitaman. Padahal, saat kemarau mayoritas-lebih
 dari 75%-merang berkualitas baik, tubuh buah putih mulus, la menuai rata-rata
 120 kg jamur setiap hari. [caption id="attachment_15537" align="aligncenter"
 width="1024"][![Sahim: Kubah tinggi mempertahankan
-panas](http://127.0.0.1/mitra/wp-content/uploads/2021/12/jamur-
-merang-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/jamur-
+panas](http://localhost/mitra/wp-content/uploads/2021/12/jamur-
+merang-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/jamur-
 merang.jpg) Kubah tinggi mempertahankan panas[/caption] Jamur merang berwarna
 kehitaman itu memang masih aman konsumsi, tetapi konsumen kurang meminatinya
 karena tampak kotor. Keruan saja harga jamur merang yang menghitam lebih
@@ -65,7 +65,7 @@ puncak atap kubah. Tujuannya agar saat jendela dibuka, udara panas yang keluar
 hanya dari sekitar rak budidaya jamur bagian atas. Sementara udara panas di
 bawah lengkungan kubah hanya sedikit yang mengalir keluar. Itu sesuai sifat
 udara panas yang selalu menuju tempat tertinggi.
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/12/media-tanam-400x225.jpg)
+![](http://localhost/mitra/wp-content/uploads/2021/12/media-tanam-400x225.jpg)
 
 ## Persiapan Media tumbuh
 
@@ -91,8 +91,8 @@ merang, menaburkan media setebal 30 cm di atas bedengan rak, mempasteurisasi
 dengan uap panas selama 7 jam, lalu menyemprotkan air sisa steam sehingga
 kelembapan naik menjadi 90%. Hari berikutnya, saat suhu turun menjadi 33-35°C,
 Sahim pun menebarkan bibit jamur dengan kepadatan 1 baglog bibit per m2.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/kumbung-1024x432.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/kumbung-1024x432.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/kumbung.jpg)
 
   1. Posisi kumbung dalam berdinding plastik dan kumbung luar berdinding bilik bambu

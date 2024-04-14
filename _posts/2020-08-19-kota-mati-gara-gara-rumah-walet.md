@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-19 14:07:13
-blogger_orig_url: "http://localhost/mitra/kota-mati-gara-gara-rumah-walet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kota-mati-gara-gara-rumah-walet.html"
 ---
 
 _“Lingkungan akan tercemar, kenyamanan terganggu, kota pun menjadi sunyi-
@@ -82,7 +82,7 @@ kayu atau pertumbuhan tanaman yang semrawut akan memunculkan hama pengganggu,”
 papar Mulyadi. Sisi positif pun tampak bila dikaitkan dengan kegiatan
 pertanian andalan Metro. Ia bisa menjadi mitra petani dalam mengatasi hama-
 hama pengganggu. “Wereng-wereng yang mengancam
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") padi bisa
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") padi bisa
 terkendali karena disantap walet,” tambah Fatich. Bahkan petani bisa
 memperoleh tambahan pendapatan bila mau mengumpulkan dan menjualnya ke pemilik
 gedung.

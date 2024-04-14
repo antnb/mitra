@@ -11,7 +11,7 @@ tags:
 - sayuran
 
 modification_time: 2021-01-13 09:54:29
-blogger_orig_url: "http://localhost/mitra/peluang-bisnis-sayuran-fresh-cut.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peluang-bisnis-sayuran-fresh-cut.html"
 ---
 
 Itulah impian sampai terutama kaum perempuan yang sibuk. Impian itu tahun ini
@@ -34,8 +34,8 @@ Di sana tugasnya menjelaskan kelebihan sayuran siap masak itu kepada konsumen.
 
 ## Perlakuan khusus
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_vacum_858x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_vacum_858x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_vacum_858x768.jpg)Upaya Ari diimbangi dengan
 menstabilkan suhu tempat sayuran dipajang. Hasilnya, luar biasa. Permintaan
 mengalir deras sampai-sampai Saung Mirwan kelimpungan. Produk fresh cut
@@ -68,8 +68,8 @@ mencari sayur-mayur di sana.
 
 ## Pemasaran ke Mancanegara
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_label_845x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_label_845x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_label_845x768.jpg)Tak hanya pasar lokal yang
 bergairah menanti pasokan, tetapi juga pasar ekspor. PT Agroindo Usahajaya
 rata-rata memasok 72 sampai 200 kg sekali kirim ke Arab Saudi. Artinya, volume
@@ -90,8 +90,8 @@ adalah PT Alindo dan PT Masindo Mitra Mandiri, keduanya di Jakarta.
 
 ## Terkendala transportasi
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_label1_855x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_label1_855x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_label1_855x768.jpg)Biaya produksi satu kemasan
 sayur asam berbobot 0,5 kg sekitar Rp5.800. Ketimbang biaya transpor yang
 mencapai Rp20.000 per kg biaya produksi itu relatif kecil, hal ini membuat

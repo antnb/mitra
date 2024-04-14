@@ -11,7 +11,7 @@ tags:
 - siem madu
 
 modification_time: 2021-01-10 08:20:27
-blogger_orig_url: "http://localhost/mitra/jeruk-wangkang-dan-siem-madu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jeruk-wangkang-dan-siem-madu.html"
 ---
 
 Tak salah memang. _Citrus edulis_ itu manis rasanya. Selain itu, penampilannya
@@ -28,8 +28,8 @@ mulai sulit ditemukan juga salah satu “pesaing”.
 
 ## Lahan yang Produktif
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_wangkang1_765x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_wangkang1_765x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_wangkang1_765x768.jpg)Di Kabupaten Tanahkaro,
 penanaman siem madu dengan mudah ditemukan di kebun-kebun penduduk. Jeruk
 ditanam dengan jarak 4m x 4m. Dengan begitu saat tanaman dewasa berumur

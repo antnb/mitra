@@ -3,13 +3,13 @@ layout: post
 title: 'Manfaat Ubijalar Sebagai Pencegah Kanker'
 categories: Herbal|kesehatan|perkebunan
 date: 2020-07-26 16:16:47
-author: Anton N
+author: Yudianto
 image: media/ubi_1280x688.jpg
 tags:
 - 
 
 modification_time: 2020-07-26 16:16:47
-blogger_orig_url: "http://localhost/mitra/manfaat-ubijalar-sebagai-pencegah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-ubijalar-sebagai-pencegah.html"
 ---
 
 _Keampuhan Ipomoea batatas menangkal kanker dibuktikan oleh periset. “Asam
@@ -59,7 +59,7 @@ Rahayu demikian ia disapa bentuk umbi boko tetap apik walau ditanam di jenis
 tanah berbeda. **Untuk mencegah kanker** , kadar betakaroten 108,11 mkg boko
 dapat diandalkan. Apalagi kandungan vitamin C tinggi. 30,89 mg per 100 g
 bahan. Kelima varietas itu diliris pada Oktober 2001 oleh Menteri
-[Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian"), Prof Dr Ir Bungaran
+[Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian"), Prof Dr Ir Bungaran
 Saragih, MEc. Mereka menjadi harapan baru bagi peningkatan produktivitas
 ubijalar di Indonesia. Juga menjadi asa bagi penderita kanker.
 

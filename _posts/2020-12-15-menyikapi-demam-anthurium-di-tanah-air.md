@@ -12,19 +12,19 @@ tags:
 - perawatan anthurium
 
 modification_time: 2020-12-15 08:16:34
-blogger_orig_url: "http://localhost/mitra/menyikapi-demam-anthurium-di-tanah-air.html"
+blogger_orig_url: "http://www.mitrausahatani.com/menyikapi-demam-anthurium-di-tanah-air.html"
 ---
 
 Sungguh luar biasa anthurium. Sepanjang "karier" saya sebagai pencinta
-[tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), baru
+[tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"), baru
 sekali ini ada tanaman hias daun berharga aduhai. Saat tulisan ini dibuat,
 harga selembar daun Anthurium jenmanii "kobra" selebar piring makan dihitung
 Rpl5-juta. Maka, pecah sudah rekor yang dipegang
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") harlequeen
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") harlequeen
 hasil karya Gregori Garnadi Hambali, pemulia di Bogor, yang sebelumnya pernah
 dinilai Rp 11-juta per daun. Gejala aneh itu sebetulnya sudah mulai terendus
 sejak Mei 2007. Ketika itu tanpa diduga pamor
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") tiba-tiba
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") tiba-tiba
 mencorong lagi. Padahal, pamornya meredup akhir tahun lalu, saat kita sibuk
 menghadapi Idul Fitri, kesibukan anak sekolah, dan tutup tahun. Yang menarik,
 demam puber kedua ini tampaknya jauh lebih dahsyat daripada tren pada 2006.
@@ -83,8 +83,8 @@ ladang lain ikannya, lain pemilik lain namanya.
 ## latah
 
 [caption id="attachment_2885" align="alignleft" width="466"][![anthurium
-jemanii jenis kobra](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_jemanii_666x768.jpg)](http://127.0.0.1/mitra/wp-
+jemanii jenis kobra](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_jemanii_666x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_jemanii_666x768.jpg) Anthu,. jenmanii
 "kobra"[/caption] Kalangan end user ikut latah. Banyak hobiis yang tadinya
 sudah memiliki black beauty penasaran kepengen memiliki black velvet atau

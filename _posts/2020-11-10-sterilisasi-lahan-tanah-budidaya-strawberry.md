@@ -10,7 +10,7 @@ tags:
 - strawberry
 
 modification_time: 2020-11-10 13:45:43
-blogger_orig_url: "http://localhost/mitra/sterilisasi-lahan-tanah-budidaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sterilisasi-lahan-tanah-budidaya.html"
 ---
 
 Tiga tahun sudah PT Mustika Nusantara Abadi (MNA) meninggalkan methil bromida
@@ -32,8 +32,8 @@ Sahat Haloman Situmeang, penanggung jawab kebun MNA. Botrytis cineria momok
 bagi pekebun stroberi pun menyingkir. Serangan berbagai hama yang dapat
 dikendalikan antara lain ulat ergotes, larva kumbang uret, dan jangkrik. Wajar
 saja jika hingga kini produk MNA dikenal berkualitas dan dicari pasar.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Budidaya-
-Strawberry.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Budidaya-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Budidaya-
+Strawberry.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Budidaya-
 Strawberry.jpg)
 
 ## Perhatikan Kelembapan Tanah Yang pas
@@ -56,8 +56,8 @@ lantas dicairkan dalam 1.600-1.700 liter air sehingga diperoleh larutan 2.000
 liter yang disemprotkan ke seluruh permukaan lahan seperti saat kalibrasi.
 Lantaran methan sodium diberikan dalam bentuk cair, kelembapan mesti
 dipertahankan pada kisaran 60-70%. Maksudnya agar larutan berubah menjadi gas.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/lahan-Budidaya-
-Strawberry.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/lahan-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/lahan-Budidaya-
+Strawberry.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/lahan-
 Budidaya-Strawberry.jpg)
 
 ## Tahap pengetesan dan percobaan

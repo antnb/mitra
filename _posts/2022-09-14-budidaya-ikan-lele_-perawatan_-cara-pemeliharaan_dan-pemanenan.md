@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-15 11:09:58
-blogger_orig_url: "http://localhost/mitra/budidaya-ikan-lele.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-ikan-lele.html"
 ---
 
 Budidaya ikan lele adalah proses pemeliharaan ikan lele di lingkungan yang
@@ -25,7 +25,7 @@ makanan yang rendah merkuri. Ikan lele juga merupakan sumber asam lemak
 omega-3 yang baik, yang bermanfaat bagi jantung. Budidaya ikan lele dilakukan
 dengan cara yang ramah lingkungan dan tidak memerlukan penggunaan antibiotik.
 Ikan lele merupakan sumber makanan dan pendapatan penting bagi banyak keluarga
-di Indonesia. Sektor [Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan")
+di Indonesia. Sektor [Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan")
 terutama perikanan air tawar merupakan industri Aquaculture yang sedang
 berkembang di Indonesia. Ini menyediakan pekerjaan bagi orang-orang di daerah
 pedesaan dan membantu meningkatkan ekonomi. Ikan yang dibesarkan dalam
@@ -95,7 +95,7 @@ lezat dan diburu untuk dimakan. Jenis ikan lele yang umum diternakan oleh
 masyarakat indonesia dan mempunyai nilai ekonomis antara lain:
 
   1. Lele Dumbo
-  2. [Lele Sangkuriang](http://127.0.0.1/mitra/budidaya-ikan-lele-sangkuriang.html)
+  2. [Lele Sangkuriang](https://www.mitrausahatani.com/budidaya-ikan-lele-sangkuriang.html)
   3. Lele Phyton
   4. Lele Mutiara
   5. Lele Lokal Clarias batrachus
@@ -114,15 +114,15 @@ menggunakan sistem biologi bioflok.
 ## Pemilihan bibit ikan
 
 Untuk memperoleh bibit ikan lele, Anda bisa mendatangi toko ikan atau pusat
-[perikanan](http://127.0.0.1/mitra/perikanan "perikanan") terdekat. Bibit ikan
+[perikanan](https://www.mitrausahatani.com/perikanan "perikanan") terdekat. Bibit ikan
 lele yang bagus harus berumur kurang dari 4 bulan, beratnya sekitar 30-50
 gram, dan telah mengalami vaksinasi (biasanya yang dikelola oleh dinas
-[perikanan](http://127.0.0.1/mitra/perikanan "perikanan") setempat). Setelah
+[perikanan](https://www.mitrausahatani.com/perikanan "perikanan") setempat). Setelah
 membeli bibit ikan lele, segera masukkan ikan ke dalam aquarium atau kolam
 ikan yang sudah disiapkan. Pastikan ikan lele mendapatkan cukup oksigen dan
 air yang bersih. Ikan lele juga perlu pakan yang berkualitas agar tumbuh
-dengan sehat. [![](http://127.0.0.1/mitra/wp-content/uploads/2022/09/bibit-
-ikan-lele-300x195.jpg)](http://127.0.0.1/mitra/wp-
+dengan sehat. [![](http://localhost/mitra/wp-content/uploads/2022/09/bibit-
+ikan-lele-300x195.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/09/bibit-ikan-lele.jpg) Bibit ikan lele yang bagus harus
 memiliki ciri-ciri sebagai berikut: 1\. Warna tubuh ikan lele yang bagus
 adalah hitam atau kehitaman. Bibit ikan lele yang berwarna keputihan biasanya
@@ -150,8 +150,8 @@ langsung dengan sinar matahari.
   * Pastikan untuk menjaga kedalaman air tidak lebih dari 4 sampai 5 kaki di musim hujan.
   * Pastikan lokasi kolam aman dari hewan liar atau predator dari kolam.
 
-[![](http://127.0.0.1/mitra/wp-content/uploads/2022/09/kolam-lele-
-tanah-300x168.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2022/09/kolam-
+[![](http://localhost/mitra/wp-content/uploads/2022/09/kolam-lele-
+tanah-300x168.jpg)](http://localhost/mitra/wp-content/uploads/2022/09/kolam-
 lele-tanah.jpg)
 
 ## Budidaya ikan lele di kolam terpal
@@ -169,7 +169,7 @@ yang bagus. Bibit ikan lele yang bagus memiliki ciri-ciri sebagai berikut:
   * Ikan lele yang sehat tidak memiliki bau yang tidak sedap
 
 Bibit ikan lele yang memenuhi kriteria di atas dapat dibeli di toko ikan atau
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") ikan. Setelah
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") ikan. Setelah
 bibit ikan lele yang berkualitas didapatkan, selanjutnya adalah mempersiapkan
 kolam terpal untuk tempat budidaya ikan lele. Kolam terpal yang akan digunakan
 untuk budidaya ikan lele haruslah kolam terpal yang berukuran cukup besar.
@@ -204,7 +204,7 @@ Dengan menggunakan drum, Anda dapat dengan mudah memantau kondisi air dan
 memberi makan hewan dengan mudah Prosedurnya mudah dan biayanya relatif murah.
 Untuk memelihara lele di drum, Anda hanya perlu membeli sebuah drum bekas,
 membersihkannya, dan menyiapkan beberapa peralatan seperti selang air, pompa,
-dan kandang. ![](http://127.0.0.1/mitra/wp-
+dan kandang. ![](http://localhost/mitra/wp-
 content/uploads/2022/09/drum-300x225.jpg) Pemeliharaan ikan lele di drum
 mempunyai beberapa keuntungan. Pertama, Anda dapat dengan mudah mengontrol
 suhu air. Kedua, Anda dapat dengan mudah memantau kondisi ikan lele Anda.

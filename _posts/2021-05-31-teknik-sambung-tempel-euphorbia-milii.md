@@ -9,7 +9,7 @@ tags:
 - Euphorbia
 
 modification_time: 2021-05-31 11:49:37
-blogger_orig_url: "http://localhost/mitra/teknik-sambung-tempel-euphorbia-milii.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknik-sambung-tempel-euphorbia-milii.html"
 ---
 
 Ujung batang Euphorbia milii itu dipangkas 2 cm. Ketika getah putih segar
@@ -18,14 +18,14 @@ itu menggunakan Seutas tali rafia menyatukan kedua batang berduri itu. Kurang
 dari 1 menit Slamet, staf Godong ijo Nursery selesai menyambung euphorbia.
 Praktis dan efisien karena tidak ada batang yang terbuang. Teknik sambung
 tempel itu lazim digunakan pekebun euphorbia di Thailand. Itu Trubus saksikan
-pada pameran [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman
+pada pameran [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman
 hias") di Suan Luang, Thailand. Batang mulus tanpa sayatan seperti dilem. Saat
 tanaman digoyang, batang tetap berdiri tegar tak tergoyahkan.
 
 ## Teknik Sambung Tempel Ditujukan Untuk Mengejar Produksi Tanaman
 
 Menurut Anant Kulchaiwatna, pekebun
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") di negeri Siam, cara
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") di negeri Siam, cara
 itu biasa digunakan untuk mengejar produksi. Dengan teknik tempel dalam
 sebulan bisa dihasilkan ribuan tanaman. teknik sambung itu kemudian diadopsi
 Godongijo Nursery sejak sebulan lalu. "Ternyata sangat cepat dan efisien,"
@@ -37,8 +37,8 @@ lama dan ketelitian tinggi.
 
 ## Proses Sambung tempel Yang cukup Mudah
 
-[![teknik sambung tanaman hias euphorbia](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/euphorbia-2-1.jpg)](http://127.0.0.1/mitra/wp-
+[![teknik sambung tanaman hias euphorbia](http://localhost/mitra/wp-
+content/uploads/2021/05/euphorbia-2-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/euphorbia-2-1.jpg) Menyambung euphorbia dengan teknik
 sambung tempel relatif mudah. Untuk batang bawah gunakan E. milii berukuran
 besar, diameter 4 sampai 6 cm. Itu kebanyakan jenis lokal. Batang besar

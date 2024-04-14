@@ -11,7 +11,7 @@ tags:
 - Tilapia
 
 modification_time: 2020-11-18 10:13:59
-blogger_orig_url: "http://localhost/mitra/kemolekan-lou-han-kenikmatan-rudi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kemolekan-lou-han-kenikmatan-rudi.html"
 ---
 
 Teras dan ruang tamu sebuah rumah di Banjar Pemenang, Tahanan, Bali, itu kian
@@ -25,15 +25,15 @@ bertambah: menikmati pergerakan lou han di tengah keheningan malam. Tak jarang
 pria tinggi besar itu asyik-masyuk hingga pukul 03.00 dinihari. Yang
 dilakukan? Seperti hobiis lain, paling hanya mengelus nongnong, menggerak-
 gerakkan jari tangan dari balik kaca, atau sekadar memandang keelokan [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") itu. “Rasanya memberikan
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") itu. “Rasanya memberikan
 kepuasan dan kenikmatan tersendiri,” ujarnya. Lihatlah, aktivitas pertama yang
 dilakukan usai bangun tidur. Pria asal Jombang, Jawa Timur, itu bergegas
 menuju ruang keluarga di depan kamarnya. Di sana sembari menyeruput kopi
 hangat atau mengisap sebatang rokok, ia memelototi pergerakan lou han. Kamfa
 15 cm itu ditempatkan di sebuah akuarium besar di lantai 2 rumahnya. Walau
 kegiatan itu berlangsung hampir setiap pagi, kebosanan tak pernah menghampiri.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Lou-
-Han1.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Lou-Han1.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Lou-
+Han1.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Lou-Han1.jpg)
 
 ## Dekat
 
@@ -65,8 +65,8 @@ ke-5 dari 6 bersaudara itu ingin terus mengikuti perkembangan strain baru.
 Itulah sebabnya beberapa kali ia menjual ikan “kedaluwarsa” kepada teman
 temannya. Ketika kamfa naik daun saat ini, misalnya, sarjana Ekonomi itu
 melepas golden mercury 20 cm seharga Rp 1-juta.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-Lou-
-Han.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-Lou-Han.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/ikan-Lou-
+Han.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/ikan-Lou-Han.jpg)
 
 ## Perawatan Lohan Dilakukan Sendiri
 

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-24 04:39:42
-blogger_orig_url: "http://localhost/mitra/panah-merah-menancap-sasaran.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panah-merah-menancap-sasaran.html"
 ---
 
 Produk bertambah, omzet yang diraup meningkat. Demikian yang dirasakan
@@ -74,7 +74,7 @@ berkulit tebal dan resisten Fusarium. Bagian itu lantas meneruskan ke
 departemen riset dan pengembangan. Itu salah satu kiat memenangi persaingan
 yakni berupaya menyediakan benih berkualitas. “Adanya persaingan sebetulnya
 tantangan bagi kami untuk menghasilkan benih bermutu sehingga memuaskan
-petani,” ujar sarjana [pertanian](http://127.0.0.1/mitra/pertanian
+petani,” ujar sarjana [pertanian](https://www.mitrausahatani.com/pertanian
 "pertanian") alumnus Universitas Brawijaya itu. PM tak serta-merta menjelma
 menjadi salah satu raksasa produsen benih. Pada awal berdirinya perusahaan itu
 menyewa ruangan 50 m2. Seiring dengan kepercayaan konsumen menggunakan benih

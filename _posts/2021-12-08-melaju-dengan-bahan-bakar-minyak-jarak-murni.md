@@ -11,7 +11,7 @@ tags:
 - minyak
 
 modification_time: 2022-09-19 06:20:50
-blogger_orig_url: "http://localhost/mitra/melaju-dengan-minyak-jarak-murni.html"
+blogger_orig_url: "http://www.mitrausahatani.com/melaju-dengan-minyak-jarak-murni.html"
 ---
 
 Kandungan minyak jarak Murni ternyata Berpotensi untuk dirubah sebagai bahan
@@ -30,8 +30,8 @@ ke radiator terhambat. Otomatis konverter tak mendapatkan energi panas untuk
 menurunkan viskositas minyak jarak. [caption id="attachment_15740"
 align="aligncenter" width="300"][![mesin Membran filtrasi, menghilangkan
 pencemar minyak jarak sekaligus menurunkan
-keasaman](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/minyak1-300x224.jpg)](http://127.0.0.1/mitra/wp-
+keasaman](http://localhost/mitra/wp-
+content/uploads/2021/12/minyak1-300x224.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/minyak1.jpg) Membran filtrasi, menghilangkan pencemar
 minyak jarak sekaligus menurunkan keasaman[/caption] Minyak jarak menjadi
 kental sehingga alirannya terhambat saat melewati filter. Kendala itu teratasi
@@ -117,8 +117,8 @@ mobil jelajah itu, Robert hanya perlu menurunkan kadar asam lemak bebas (free
 fatty acid/ FFA) hingga 0,077% dengan teknologi membran filtrasi. Tak perlu
 penambahan zat apa pun, sehingga ongkos produksi lebih murah dan efisien.
 [caption id="attachment_15742" align="aligncenter" width="300"][![Biji jarak
-hasilkan 30% minyak untuk bahan bakar biodiesel](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/proses-minyak-300x169.jpg)](http://127.0.0.1/mitra/wp-
+hasilkan 30% minyak untuk bahan bakar biodiesel](http://localhost/mitra/wp-
+content/uploads/2021/12/proses-minyak-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/proses-minyak.jpg) Biji jarak hasilkan 30% minyak
 untuk bahan bakar diesel[/caption] Tiga kilogram biji seharga Rp500 sampai
 Rp750 per kg menghasilkan satu liter minyak jarak. Dengan ongkos pemurnian,

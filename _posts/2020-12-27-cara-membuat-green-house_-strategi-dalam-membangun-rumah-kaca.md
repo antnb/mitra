@@ -11,7 +11,7 @@ tags:
 - persemaian
 
 modification_time: 2020-12-27 09:59:32
-blogger_orig_url: "http://localhost/mitra/strategi-cara-membuat-green-house.html"
+blogger_orig_url: "http://www.mitrausahatani.com/strategi-cara-membuat-green-house.html"
 ---
 
 Membangun greenhouse yang baik harus sesuai dengan situasi dan kondisi yang
@@ -51,13 +51,13 @@ umum di kalangan penghobi. Tipe atau jenis struktur rumah kaca yang digunakan
 menentukan efisiensi dan produktivitas operasi rumah kaca. Karena ada begitu
 banyak desain untuk dipilih, penting untuk mempelajari Cara Membuat Green
 House dengan benar serta kelebihan dan kekurangan masing-masing.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/struct1.gif)
+![](http://localhost/mitra/wp-content/uploads/2020/12/struct1.gif)
 
 ## Agroklimat
 
 [caption id="attachment_3093" align="alignleft" width="382"][![pembangunan
-greenhouse](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_greenhouse2_954x768.jpg)](http://127.0.0.1/mitra/wp-
+greenhouse](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_greenhouse2_954x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_greenhouse2_954x768.jpg) Pastikan tanah rata
 untuk memudahkan pembangunan greenhouse[/caption] Berkaitan dengan lokasi,
 temperatur mempengaruhi pertumbuhan, produksi, dan kualitas produk. Jika
@@ -78,8 +78,8 @@ pengerjaan, pemasangan irigasi, dan pengaturan iklim mikro.
 ## Desain Greenhouse
 
 [caption id="attachment_3092" align="alignright" width="382"][![bahan baku
-greenhouse](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_greenhouse1_1024x750.jpg)](http://127.0.0.1/mitra/wp-
+greenhouse](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_greenhouse1_1024x750.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_greenhouse1_1024x750.jpg) Bahan disesuaikan
 dengan kondisi keuangan[/caption] Di Belanda greenhouse melindungi tanaman
 dari dingin dan cuaca panas di , luar. Di Indonesia kita membutuhkan

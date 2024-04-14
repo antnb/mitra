@@ -14,7 +14,7 @@ tags:
 - tropis
 
 modification_time: 2020-11-18 08:32:38
-blogger_orig_url: "http://localhost/mitra/di-bali-ikan-pembawa-hoki-menuju.html"
+blogger_orig_url: "http://www.mitrausahatani.com/di-bali-ikan-pembawa-hoki-menuju.html"
 ---
 
 Masyarakat Bali tengah gandrung lou han. Kelompok pencinta lou han dibentuk,
@@ -29,7 +29,7 @@ ujar anak ke sampai 2 dari delapan bersaudara itu. Di depan gedung berlantai 2
 itu terdapat papan nama 2.5 m x 1 m bercat merah. Gambar lou han tampak jelas
 dari kejauhan. Di bagian bawah terdapat tulisan singkat: Be Jegeg (bahasa
 Bali: be dibaca seperti pada kata belasungkawa=ikan, jegeg=cantik, red). Di
-situlah Aseng membuka pusat penjualan lou han. ![](http://127.0.0.1/mitra/wp-
+situlah Aseng membuka pusat penjualan lou han. ![](http://localhost/mitra/wp-
 content/uploads/2020/11/ikan3-400x235.jpg)
 
 ## Diserbu hobiis
@@ -43,7 +43,7 @@ melayani pembeli. Padahal alumnus Universitas Warmadewa itu dibantu 2
 karyawan. Sebagian pengunjung membeli lou han, yang lain mencari aksesori
 akuarium. Orang Bali tengah demam lou han, begitulah kesimpulan Aseng dan Edi
 senada. Mereka cepat mengendus peluang itu. Sebelumnya Edi menyediakan [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") air tawar lain seperti
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") air tawar lain seperti
 cupang. Namun, ketika tren cupang menukik, anak ke sampai 3 dari 4 bersaudara
 itu melirik lou han. Yang juga menggeluti lou han adalah Made Dicky Sumitra
 Yasa. Sebelum Kuta dilumat bom pada 12 Oktober silam, ia banyak mengerjakan
@@ -51,8 +51,8 @@ proyek properti. Namun, sejak pengeboman itu proyek yang ditangani melorot.
 "Kalau dulu 80% di bangunan dan 20% lou han, sekarang terbalik," ujar arsitek
 alumnus Universitas Trisakti itu. Pusat penjualan lou han bermodal Rpl00
 sampai juta yang dibuka pada Agustus 2002 itu akhirnya lebih ditekuni.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-
-hoki.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-hoki.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/ikan-
+hoki.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/ikan-hoki.jpg)
 
 ## Karena kontes
 

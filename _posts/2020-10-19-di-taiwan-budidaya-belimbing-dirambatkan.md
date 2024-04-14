@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-19 13:01:23
-blogger_orig_url: "http://localhost/mitra/di-taiwan-budidaya-belimbing.html"
+blogger_orig_url: "http://www.mitrausahatani.com/di-taiwan-budidaya-belimbing.html"
 ---
 
 Menyusuri kebun-kebun belimbing di Pingtung seperti memasuki tenda hijau
@@ -20,7 +20,7 @@ para-para.
 
 Pekebun di kota hortikultura di sebelah timur Kao Shiung-kota terbesar di
 Taiwan selatan- memang berani tampil beda.
-[Belimbing](http://127.0.0.1/mitra/topik/belimbing "Belimbing") tetap ditanam
+[Belimbing](https://www.mitrausahatani.com/topik/belimbing "Belimbing") tetap ditanam
 teratur dengan jarak 5 m x 5 m atau 6 m x 6 m.
 
 Setiap pekebun biasanya mengelola 0,25-1 ha. Di sela-sela barisan tanam

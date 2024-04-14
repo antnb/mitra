@@ -9,11 +9,11 @@ tags:
 - 
 
 modification_time: 2020-10-18 11:20:56
-blogger_orig_url: "http://localhost/mitra/ranchu-thailand-dan-china-rebut-pasar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ranchu-thailand-dan-china-rebut-pasar.html"
 ---
 
 Bandara Baiyun dan Don Muang kian sering disinggahi importir [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias"). Selama 6 bulan terakhir
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias"). Selama 6 bulan terakhir
 mereka mondar-mandir ke Guangzhou, RRCina, dan Thailand untuk berburu ranchu.
 Sang ratu maskoki itu kini lagi naik daun. Rancu thailand dan cina berebut
 pasar di sini. Ambil contoh Markus Ahadi. Sejak Mei hingga pertengahan
@@ -54,7 +54,7 @@ Jakarta, seperti di J1 Sumenep, J1 Barito, Jl. Kartini, dan Jatinegara ranchu
 belum muncul. Sebab ikan berkepala lebar mirip naga itu tergolong mahal. Kalau
 harga seekor maskoki tosa, mutiara, atau lion head Rp 20.000-Rp 50.000, ranchu
 minimal Rp 200.000. Penelusuran [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) ke berbagai pusat
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) ke berbagai pusat
 penjualan ikan hias memang menunjukkan tren ranchu semakin meningkat. Di Plaza
 Maspion, Jakarta, sejak 4 bulan lalu, misalnya, terlihat 2 gerai yang memajang
 ranchu. Demikian di pusat penjualan lou han Cempaka Mas, ada 1 kios yang
@@ -66,12 +66,12 @@ Ranchu impor tidak ada peminat karena harga terlampau tinggi. ’’Saya tak
 menyetoknya, kecuali ada pesanan,” tutur Bambang, pemilik kios Sumber Mas
 Akuarium di Jl Dr Sutomo, Yogyakarta. Toh, dalam seminggu Bambang sanggup
 menjual 200-300 ranchu Tulungagung dan Blitar. [caption id="attachment_1753"
-align="aligncenter" width="502"]![Ranchu cina](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="502"]![Ranchu cina](http://localhost/mitra/wp-
 content/uploads/2020/10/ranchu-370x250.jpg) Ranchu cina mendominasi[/caption]
 
 ### Ranchu Top view
 
-Lacakan [[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+Lacakan [[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 menunjukkan, ada 2 jenis ranchu impor di pasar: thailand dan cina. Sampai kini
 ranchu cina mendominasi pasar. Kedua jenis ranchu itu mempunyai karakteristik
 berbeda. Ranchu cina lebih cocok dinikmati dari samping atau side view, sedang
@@ -112,7 +112,7 @@ cm berkisar Rp 2-juta-Rp 5-juta/ekor. Itu sebabnya ketika pertama kali membawa
 dari cina ia kesulitan menjual. “Dulu, dengan harga Rp 2-juta/ ekor, setengah
 mati saya menjualnya,” kenang pria ramah itu. Ranchu-ranchu cina kualitas
 standar memang murah. Sebagaimana disaksikan reporter [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) Dian Adijaya Susanto
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) Dian Adijaya Susanto
 ketika berkunjung ke Ocean Aquarium di Tung Kwan Se Lung. Dangguan pertengahan
 Juni, ranchu ukuran 6-7 cm sekitar Rp 2.000. Paling mahal untuk ukuran di atas
 20 cm Rp l00.000/ekor harga partai. ’’Kita kirim ranchu ke Singapura, Amerika
@@ -128,7 +128,7 @@ kualitas bukan ukuran,” kata Somsak, pemilik Top Ten Ranchu di Bangkok.
 Menurut, peternak yang sudah menggeluti ranchu 10 tahun itu, kualitas rancu
 untuk kontes dibagi atas grade Top, HI, AAA, AA, dan A. Mungkin karena itu
 pula di Thailand sekalipun hanya orang-orang berduit yang mengoleksi ranchu.
-[[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) saksikan
+[[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) saksikan
 ranchu hanya ada di rumah-rumah gedongan. Di tempat-tempat umun tidak pernah
 dijumpai. Makanya perkembangan ranchu di Thailand lambat. Wajar, di Wiriyasup
 Fish Market, pusat penjualan ikan hias di Bangkok, pun tak ada yang

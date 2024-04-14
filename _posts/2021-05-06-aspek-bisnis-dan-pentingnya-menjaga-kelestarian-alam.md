@@ -13,7 +13,7 @@ tags:
 - tumbuhan
 
 modification_time: 2021-05-06 10:43:08
-blogger_orig_url: "http://localhost/mitra/aspek-bisnis-dan-pentingnya-menjaga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aspek-bisnis-dan-pentingnya-menjaga.html"
 ---
 
 Kekayaan bumi Indonesia menurut World Conservation Monitoring Committee (1994)
@@ -31,8 +31,8 @@ konvensi melalui Keputusan Presiden RI Nomor 43 tahun 1978 [1].
 
 ## Ikut aturan
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/cites-3.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/cites-3.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/cites-3.jpg)Konvensi itu mempunyai misi dan tujuan
 menghindarkan tumbuhan dan satwa mengalami kepunahan di alam. Baik melalui
 pengembangan sistem, pengendalian perdagangan satwa dan tumbuhan, serta
@@ -51,8 +51,8 @@ penangkaran (artificially propagated sources).
 
 ### Species yang dilindungi
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/cites-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/cites-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/cites-1.jpg)Appendix II memuat spesies yang walaupun
 saat ini belum langka, tetapi akan menjadi langka apabila perdagangan tidak
 terkendali. Sebagian besar tumbuhan masuk dalam kelompok ini. Hampir 17.000

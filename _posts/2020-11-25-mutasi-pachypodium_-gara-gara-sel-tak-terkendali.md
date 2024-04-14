@@ -12,7 +12,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2020-11-25 05:40:48
-blogger_orig_url: "http://localhost/mitra/mutasi-pachypodium-gara-gara-sel-tak.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mutasi-pachypodium-gara-gara-sel-tak.html"
 ---
 
 Pantas bila Edi berkomentar begitu. Mestinya lamerei berupa tanaman tunggal
@@ -21,15 +21,15 @@ duri tajam yang berpasangan. Terkadang muncul cabang di bagian pucuk. Namun,
 begitu berlabel kristata, sosoknya berubah 180°. Batang yang tunggal bersalin
 rupa jadi seperti lempengan yang bergelombang. Ukuran daun mengecil, sebagian
 duri berkumpul di tepi lekukan membentuk barisan rapi. Penampilan kerabat
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") itu pun jadi lebih
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") itu pun jadi lebih
 ciamik. Dari sepot lamerei kristatalah Edi mulai keranjingan mengoleksi. Total
 jenderal ada 10 pot lamerei kristata dikoleksi. "Habis tidak pernah ada
 kristata yang bentuknya sama,” begitu Edi beralasan. Selain lafaz Allah, ia
 juga mengoleksi kristata berbentuk merak, kudalumping, dan kristata berdaun
 superkecil. Toh, penggemar ayam serama itu belum berniat berhenti. Edi
 mengidamkan lamerei kristata berbentuk keranjang. Sayang, sang pemilik belum
-mau melepas. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Mutasi-
-Pachypodium-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+mau melepas. [![](http://localhost/mitra/wp-content/uploads/2020/11/Mutasi-
+Pachypodium-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Mutasi-Pachypodium.jpg)
 
 ## Tanaman bandel
@@ -41,7 +41,7 @@ Di kediaman nan asri, Mitra Usaha Tani melihat lamerei kristata berbentuk
 seperti siput dan ulat. Pun yang melenggak-lenggok tak beraturan, tapi tetap
 cantik. Pachypodium-pachypodium berbentuk nyeleneh itu didapat dari hasil
 perburuan dari nurseri ke nurseri. Menurut Ir Yos Sutioso, pakar [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di Jakarta, kristata
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di Jakarta, kristata
 salah satu bentuk mutasi. Kristata terjadi karena percepatan pertumbuhan yang
 tidak merata pada seluruh sel. "Misal hanya yang di dekat pucuk saja yang
 pertumbuhannya lebih cepat. Atau di batang saja,” ujar alumnus Institut
@@ -60,8 +60,8 @@ tanaman terhambat sehingga pertumbuhan menyamping. "Diduga pada tanaman
 kristata aktivitas hormon auksin yang berperan pada dominasi apikal
 terhambat,” tutur Lanny. Mutasi lain berupa perubahan warna dan bentuk daun
 jadi variegata atau alba dan bentuk membulat atau mlintir.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Pachypodium1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Pachypodium1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pachypodium1.jpg)
 
 ## Lamerei banyak
@@ -79,8 +79,8 @@ kristata di tangan kolektor berasal dari lamerei. Sebut saja kristata
 berbentuk seperti konde koleksi nurseri Nikku & Lavira, bentuk kapal Titanic
 milik Soeroso Soemopawiro, kristata simetris koleksi Pami Hernadi, dan bentuk
 naga kepunyaan Rusli Hadinata. Mutasi jenis lain, P. rosulatum kristata milik
-nurseri Nikku & Lavira dan Pami Hernadi. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/pachypodium.jpg)](http://127.0.0.1/mitra/wp-
+nurseri Nikku & Lavira dan Pami Hernadi. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/pachypodium.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/pachypodium.jpg)
 
 ## Mutasi buatan

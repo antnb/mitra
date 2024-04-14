@@ -10,7 +10,7 @@ tags:
 - rambutan
 
 modification_time: 2022-09-13 10:38:06
-blogger_orig_url: "http://localhost/mitra/ciri-dan-keistimewaan-rambutan-firba.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ciri-dan-keistimewaan-rambutan-firba.html"
 ---
 
 Setiap Juli-Agustus lautan merah menyala menjadi pemandangan lumrah di sudut-
@@ -18,7 +18,7 @@ sudut kota Pontianak. Namun jangan salah, itu bukan merahnya bendera untuk
 menyambut hari kemerdekaan. Saat itu Rambutan Firba, rambutan yang banyak di
 tanam di Kalimantan Barat sedang panen raya. Kalau diperhatikan dengan
 seksama, di antara dominasi merah [dari onggokan
-buah](http://127.0.0.1/mitra/buah-gitaan-komoditas-dari-borneo.html) berambut
+buah](https://www.mitrausahatani.com/buah-gitaan-komoditas-dari-borneo.html) berambut
 agak panjang itu tersembul warna hijau kekuningan. Itulah **ciri khas rambutan
 firba**. Meski matang, ujung-ujung rambut tetap hijau.
 
@@ -36,7 +36,7 @@ menghitam, tapi firba bisa tahan sampai empat hari," kata salah satu pedagang
 di Jl. Gajah Mada, Pontianak. Sejalan dengan bertambahnya waktu rambut-rambut
 memerah sebelum akhirnya menghitam. "Jika rambut memerah rasanya kurang enak,
 walau masih bisa dimakan," kata Anton Kamaruddin, staf perbenihan Dinas
-Pertanian [Tanaman Pangan](http://127.0.0.1/mitra/kedaulatan-benih-tanaman-
+Pertanian [Tanaman Pangan](https://www.mitrausahatani.com/kedaulatan-benih-tanaman-
 guna.html) Provinsi Kalimantan Barat. Makanya pekebun memanen firba saat kulit
 bersemburat kuning. Kala itu manisnya sudah optimal. Selain penampilan fisik
 sangat menarik firba manis luar biasa. "Ibarat gadis, firba cantik luar
@@ -62,9 +62,9 @@ gambut dan lahan biasa sama. Namun, mahasiswa pascasarjana IPB itu tak
 menjamin konsistensi genetik jika ditanam di luar provinsi. Alasannya,
 rambutan garuda yang ditanam di Pontianak ukurannya menjadi kecil dan masam.
 Demikian lebak bulus dan antalagi, asamnya lebih banyak bila dibandingkan
-dengan yang di Jawa. [![](http://127.0.0.1/mitra/wp-
+dengan yang di Jawa. [![](http://localhost/mitra/wp-
 content/uploads/2020/02/Rambutan-
-Firba-300x169.jpg)](http://127.0.0.1/mitra/wp-
+Firba-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/Rambutan-Firba.jpg)
 
 ## Harga Jual Rambutan Firba Rp 500/ikat

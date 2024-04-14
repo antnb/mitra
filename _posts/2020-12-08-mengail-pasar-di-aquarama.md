@@ -11,13 +11,13 @@ tags:
 - ikan hias dunia
 
 modification_time: 2020-12-08 08:04:23
-blogger_orig_url: "http://localhost/mitra/mengail-pasar-di-aquarama.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mengail-pasar-di-aquarama.html"
 ---
 
 Mulyadi pantas masygul. Seratus ikan berharga $SinlO setara Rp58.000/ekor itu
 ia peroleh dari 7 indukan. Ia membutuhkan 30 indukan untuk memenuhi banjir
 permintaan dari para pengunjung Aquarama Singapura. Padahal, Puntius denisonii
-itu sulit diperoleh. Dulu penangkar [ikan hias](http://127.0.0.1/mitra/ikan-
+itu sulit diperoleh. Dulu penangkar [ikan hias](https://www.mitrausahatani.com/ikan-
 hias "ikan hias") dari Bandung itu mendapatkannya dari eksportir ikan hias di
 Bandung. Di Aquarama 2015, Puntius denisonii tampil sebagai ikan hias new
 variety. Saat dipamerkan di dinding akuarium tampak biodata sang ikan: panjang
@@ -65,8 +65,8 @@ aquascaping sekarang sangat disukai, dan itu pasti membutuhkan ikan dan
 tanaman air dalam jumlah banyak,” ujar manajer operasional Hans Pets di kota
 Stuttgart itu. Sekali belanja Hans bisa menghabiskan 2.000 sampai 3.000 euro.
 [caption id="attachment_20488" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Aquarama-
-singapur.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Aquarama-
+width="1511"][![](http://localhost/mitra/wp-content/uploads/2020/12/Aquarama-
+singapur.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/Aquarama-
 singapur.jpg) Indonesia saat ini berada di peringkat 6 eksportir ikan hias
 dunia. Untuk memperbaiki peringkat itu, perlu upaya lebih keras dari peternak
 dan eksportir, serta dukungan pemerintah.[/caption]
@@ -92,8 +92,8 @@ langgeng,” ujar sekretaris jenderal Asosiasi Eksportir Ikan Hias Indonesia
 platy dan guppy baru yang perlu diternak oleh kita karena permintaan dunia
 tinggi. Apalagi pemainnya sedikit, hanya Srilanka dan Singapura,” tuturnya.
 Dari sekitar 30 jenis guppy baru 7 jenis yang dikembangkan di tanah air.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Aquarama.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/Aquarama.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Aquarama.jpg)
 
 ## Sarana Pemasaran Yang efektif
@@ -115,7 +115,7 @@ bagi brosur. Padahal, menurut Hendra Iwan Putra, cantiknya anjungan dipadu
 display ikan yang menarik pasti mengundang buyer datang dan ujung-ujungnya mau
 bertransaksi. Jika itu dilakukan bukan tak mungkin asa Dr Martani Huseini,
 dirjen Pemasaran dan Pengolahan Hasil
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") DKP untuk
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") DKP untuk
 memperbaiki peringkat Indonesia dari urutan ke-6 eksportir ikan hias dunia
 tercapai.
 

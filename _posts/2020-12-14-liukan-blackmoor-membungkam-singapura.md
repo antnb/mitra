@@ -12,7 +12,7 @@ tags:
 - kontes maskoki
 
 modification_time: 2020-12-14 10:58:51
-blogger_orig_url: "http://localhost/mitra/liukan-blackmoor-membungkam-singapura.html"
+blogger_orig_url: "http://www.mitrausahatani.com/liukan-blackmoor-membungkam-singapura.html"
 ---
 
 Harsono pantas bangga. Selain blackmoor, 2 maskoki lainnya oranda dan ryukin
@@ -21,11 +21,11 @@ Qian Hu Fish Farm (secara harfiah berarti seribu danau, red). Farm yang
 didirikan oleh Yap Tik Huai pada 1985 itu bermarkas di Sungeitengah
 Agrotechnology Park, kira kira 30 menit perjalanan dari Bandara Changi. Kini
 generasi kedua uuef Kenny Yap dan Yap Hey Cha mengendalikan perusahaan yang
-mengekspor 500 spesies [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan
+mengekspor 500 spesies [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan
 hias") ke 60 negara. Peserta kontes membeludak. Menurut catatan panitia adu
 molek itu diikuti oleh 300 maskoki. "Sepanjang pengalaman saya itulah lomba
 maskoki dengan peserta terbanyak," ujar [YB
-Hariantono](http://127.0.0.1/mitra/budidaya-maskoki-empat-lakon-yb.html),
+Hariantono](https://www.mitrausahatani.com/budidaya-maskoki-empat-lakon-yb.html),
 salah satu juri. Harsono satu-satunya hobiis Indonesia yang menyertakan
 ikannya. Peserta mancanegara juga datang dari Cina dan Malaysia. Hobiis
 maskoki tuan rumah Singapura, tampak mendominasi di berbagai kelas.
@@ -43,8 +43,8 @@ Chan (Guangzhou, Cina) tetap objektif memberi penilaian. Penjurian kontes yang
 berlangsung di bilangan Sungeitengah, Singapura, itu dimulai pukul 09.00 waktu
 setempat atau 08.00 WIB hingga tengah malam. Pada tahap pertama, setiap juri
 memilih 5 nominasi di masing-masing kelas. Ikan-ikan terpilih itu barulah
-dinilai. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/blackmoor.jpg)](http://127.0.0.1/mitra/wp-
+dinilai. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/blackmoor.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/blackmoor.jpg)
 
 ## Berbagi 3 Kelas
@@ -62,14 +62,14 @@ lalu bertarung kembali untuk memperebutkan gelar prestisius: grand champion.
 Jadi ada 6 kandidat peraih gelar bergengsi itu masing-masing mewakili kriteria
 dragon eye, mutiara, oranda ranchu, ryukin, dan varietas langka. Indonesia dan
 tuan rumah masing-masing menempatkan 3 ikannya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/blackmoor-
-goldfish.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/blackmoor-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/blackmoor-
+goldfish.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/blackmoor-
 goldfish.jpg)
 
 ## Menang mutlak
 
 [caption id="attachment_2838" align="alignleft" width="300"]![juri kontes
-maskoki](http://127.0.0.1/mitra/wp-
+maskoki](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_koki2_943x768.jpg) _Hariantono (kanan) bersama
 2 juri lain_[/caption] Prestasi luar biasa ditorehkan oleh hobiis maskoki
 Indonesia, Harsono Harjadi. Tiga jenis maskoki miliknya blackmoor, oranda, dan

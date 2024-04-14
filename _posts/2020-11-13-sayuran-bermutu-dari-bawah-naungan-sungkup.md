@@ -11,7 +11,7 @@ tags:
 - sayuran
 
 modification_time: 2020-11-13 06:27:06
-blogger_orig_url: "http://localhost/mitra/sayuran-bermutu-dari-bawah-naungan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sayuran-bermutu-dari-bawah-naungan.html"
 ---
 
 Deretan kangkung berlabel all natural tersusun rapi di gerai sayuran eksklusif
@@ -27,8 +27,8 @@ Sepintas bangunan itu mirip greenhouse mini. Yang membedakan, sungkup lebih
 sederhana. Lima bilah bambu ditancapkan dengan interval tertentu. Panjang 13 m
 dan lebar 6 m. Setelah itu plastik UV dihamparkan di atasnya. Supaya kuat,
 Ngalim menarik kuat-kuat plastik itu. Sebuah ujung sungkup ditutup, ujung lain
-dibuat mirip pintu sebagai jalan keluar-masuk. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/sayur.jpg)](http://127.0.0.1/mitra/wp-
+dibuat mirip pintu sebagai jalan keluar-masuk. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/sayur.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/sayur.jpg)
 
 ## Pembuatan irigasi Parit
@@ -51,8 +51,8 @@ familiar. Tidak sekadar hemat, tetapi juga lebih efisien dalam penyerapan
 matahari,” tutur Ir Yos Sutiyoso, praktisi hidroponik di Bogor. Maklum negara
 sakura itu beriklim subtropis. Jika diadopsi di Indonesia pemberian nutrisi
 harus optimal. Tanaman bisa lemas karena energi terkuras untuk pembentukan
-makanan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/sayuran.jpg)](http://127.0.0.1/mitra/wp-
+makanan. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/sayuran.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/sayuran.jpg)
 
 ## Greenhouse Tahan sampai Lima tahun
@@ -71,8 +71,8 @@ biji di bedengan. Cara itu lebih efektif lantaran Ngalim tidak membenihkan
 terlebih dulu. Hingga panen rata-rata umur 21 hari setelah semai Ngalim tak
 pernah memberikan pupuk. Ia rutin menuai rata-rata 10 kg masing-masing
 kangkung, sawi, dan selada keriting setiap 3 hari.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sayuran-
-bermutul.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sayuran-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/sayuran-
+bermutul.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/sayuran-
 bermutul.jpg)
 
 ## Harga jual tinggi

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-25 13:18:55
-blogger_orig_url: "http://localhost/mitra/makassar-koi-show-2019-shiro.html"
+blogger_orig_url: "http://www.mitrausahatani.com/makassar-koi-show-2019-shiro.html"
 ---
 
 Putri Sabrina pantas bangga. Shiro utsuri 70 cm-nya dinobatkan sebagai grand
@@ -44,7 +44,7 @@ Shiro utsuri grand champion
 Selain kelas dewasa (di atas 55 cm), diperebutkan pula 68 piala untuk kelas di
 bawah 25 cm, 25-40 cm, 40- 55 cm. Pada setiap kelas dipertandingkan kohaku,
 showa, taisho, tancho, shiro utsuri, dan campuran. [Mitra Usaha
-Tani](http://127.0.0.1/mitra) menyaksikan, kontestan sebagian besar bertarung
+Tani](https://www.mitrausahatani.com) menyaksikan, kontestan sebagian besar bertarung
 di kelas small. Kelas dewasa hanya diikuti rata-rata 3-4 ekor koi. Sebuah
 fenomena wajar sebagai awal mulai maraknya koi di Makassar. Kendatipun yang
 bertarung kebanyakan koi kelas small, tetapi kualitasnya memadai. Banyak di
@@ -84,11 +84,11 @@ ajang bergengsi yang pertama kali diselenggarakan di Makassar. Peserta
 sebagian besar berasal dari Sulawesi Selatan. Acara berlangsung meriah.
 Antusiasme pengunjung tinggi sekali. Terbukti arena kontes demikian padat
 ketika penilaian koi usai. Arifin Sarfa, kepala dinas
-[perikanan](http://127.0.0.1/mitra/perikanan "perikanan") provinsi Sulawesi
+[perikanan](https://www.mitrausahatani.com/perikanan "perikanan") provinsi Sulawesi
 Selatan turut hadir menyaksikan acara. “Saya sangat mendukung setiap usaha di
 bidang perikanan yang terbentuk dari bawah. Pemerintah hanya bisa mendukung
 dan mendorong agar lebih maju,” kata saijana
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") itu. Lomba yang
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") itu. Lomba yang
 diselenggarakan 9-10 Maret 2002 itu sekaligus menjadi acara peresmian dan
 pelantikan Makassar Koi Club. Dengan terbentuknya klub, “Tujuan kita tercapai,
 yaitu ingin memasyarakatkan koi di Makassar,” kata Norisen Horas, sang ketua.

@@ -12,7 +12,7 @@ tags:
 - walet
 
 modification_time: 2021-01-21 12:49:10
-blogger_orig_url: "http://localhost/mitra/panen-liur-emas-di-luar-jawa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-liur-emas-di-luar-jawa.html"
 ---
 
 Rumah walet yang dibangun sejak 4 tahun silam itu strategis. Daya dukung
@@ -32,8 +32,8 @@ ekor/menit," kata Arief.
 ## Pulau Jawa Mulai jenuh
 
 [caption id="attachment_7894" align="alignleft" width="347"][![rumah walet di
-luar jawa](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_walet1_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+luar jawa](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_walet1_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_walet1_1024x576.jpg) DI luar Jawa mulai tumbuh
 rumah-rumah “walet[/caption] Bukan tanpa alasan beberapa pengusaha walet
 mengincar lokasi-lokasi di luar Jawa sebagai tambang uangnya. Ramalan Boedi
@@ -68,8 +68,8 @@ lain, seperti Bengkulu, Tebingtinggi, hingga Kepulauan Riau pun potensial.
 
 ## Lokasi baru
 
-[![sortir kualitas sarang](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_walet3_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![sortir kualitas sarang](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_walet3_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_walet3_1024x576.jpg)Memulai bisnis walet di
 luar Jawa memang menguntungkan. Namun, sebelum memutuskan untuk membangun di
 daerah baru, sebaiknya melakukan survei lingkungan. Boedi berpatokan bila

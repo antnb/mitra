@@ -9,7 +9,7 @@ tags:
 - strawberry
 
 modification_time: 2020-10-30 04:19:20
-blogger_orig_url: "http://localhost/mitra/strawberry-varietas-unggulan-dari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/strawberry-varietas-unggulan-dari.html"
 ---
 
 Datanglah ke salah satu toko buah besar di seputaran Jakarta. Niscaya Anda
@@ -17,12 +17,12 @@ akan menemukan boks-boks plastik berisi temptation. Sebut saja di Total Buah
 Segar di kawasan Slipi, Jakarta Barat. Di sana ada si penggoda dari .
 California, Amerika Serikat. Menurut Takim, menejer toko, Fragaria vesca itu
 diimpor seminggu sekali sebanyak 80 kantong, dengan bobot 453 g per kantong.
-Pun ketika [Mitra Usaha Tani](http://127.0.0.1/mitra) menghubungi Sentra Buah
+Pun ketika [Mitra Usaha Tani](https://www.mitrausahatani.com) menghubungi Sentra Buah
 Segar. Toko buah di Muara Karang, Jakarta Utara itu, mendatangkan temptation
 dari Australia dan Amerika Serikat. Di Australia ia dijual 5 dolar Australia
 per kilogram. Di toko ini, temptation lebih laris dibandingkan stroberi lain.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Strawberry-alpine-
-yellow.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Strawberry-
+[![](http://localhost/mitra/wp-content/uploads/2020/10/Strawberry-alpine-
+yellow.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Strawberry-
 alpine-yellow.jpg)
 
 ## Stroberi Terbaik
@@ -46,7 +46,7 @@ ditanam dalam pot terlihat kompak. Temptation teruji tahan terhadap layu
 akibat cendawan Verticillium. Pun downy mildew alias embun tepung yang biasa
 menyerang stroberi. Pada penanaman skala hobi di daerah Ciater, Subang,
 temptation satu-satunya jenis yang tahan penyakit pada musim hujan. Sementara
-varietas lain terserang. ![](http://127.0.0.1/mitra/wp-
+varietas lain terserang. ![](http://localhost/mitra/wp-
 content/uploads/2020/10/Fragaria-vesca-400x225.jpg)
 
 ## Kuning dan putih

@@ -11,19 +11,19 @@ tags:
 - perawatan jalak suren
 
 modification_time: 2020-03-30 04:03:37
-blogger_orig_url: "http://localhost/mitra/omzet-puluhan-juta-rupiah-dari-usaha.html"
+blogger_orig_url: "http://www.mitrausahatani.com/omzet-puluhan-juta-rupiah-dari-usaha.html"
 ---
 
 Setiap bulan pesanan minimal 50 kali setara 150 pasang burung dari bisnis
 penangkaran jalak suren yang dikelolanya. Belum lagi pasokan rutin yang
 mencapai puluhan pasang. Harga jalak suren Rp 1,5-juta per pasang, pria 34
 tahun itu meraup [omzet puluhan juta rupiah setiap bulan hanya
-dari](http://127.0.0.1/mitra/sukses-raup-omzet-50-juta-dari.html) usaha
+dari](https://www.mitrausahatani.com/sukses-raup-omzet-50-juta-dari.html) usaha
 beternak jalak suren. Sejak bangun tidur hingga menjelang tidur lagi, Anda-
 panggilan Anda Priyono memang disibukkan dengan urusan burung. Menjawab
 pesanan lewat telepon genggam, mengontrol kesehatan _Gracupica contra_
 miliknya, atau mengirimkan pesanan ke berbagai kota. Ketika [mitra usaha
-tani](http://127.0.0.1/mitra) berkunjung ke sana, kelahiran Surabaya 18 Juli
+tani](https://www.mitrausahatani.com) berkunjung ke sana, kelahiran Surabaya 18 Juli
 1970 itu tengah sibuk menyiapkan 10 pasang jalak suren dan 3 pasang cucakrawa
 untuk memenuhi pesanan dari Surabaya, Jawa Timur. Aktivitas seperti itu rutin
 dijalani Anda setiap hari sejak 2 tahun silam semenjak mengeluti usaha
@@ -73,7 +73,7 @@ terjual. Saat itu harga jalak suren Rp 1.250.000, sehingga ia mengantongi Rp
 25-juta/bulan. Penghasilan dai usaha penangkaran jalak suren terbilang lumayan
 tinggi bila dibandingkan saat ia menjadi salesman yang hanya bergaji Rp
 2-juta/ bulan. [caption id="attachment_609" align="aligncenter"
-width="250"]![penangkaran jalak suren](http://127.0.0.1/mitra/wp-
+width="250"]![penangkaran jalak suren](http://localhost/mitra/wp-
 content/uploads/2020/03/Untitled_601x800.jpg) jalak suren jantan[/caption]
 
 ## Penangkaran Burung Jalak Duren Dan kemitraan Dengan Hobiis

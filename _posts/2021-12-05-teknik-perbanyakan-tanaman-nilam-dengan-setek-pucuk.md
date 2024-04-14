@@ -10,7 +10,7 @@ tags:
 - stek
 
 modification_time: 2021-12-05 11:46:27
-blogger_orig_url: "http://localhost/mitra/perbanyakan-setek-pucuk-tanaman-nilam.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perbanyakan-setek-pucuk-tanaman-nilam.html"
 ---
 
 Teknik baru perbanyakan Patchouli (tanaman nilam) dengan setek pucuk, lebih
@@ -21,8 +21,8 @@ menguji coba 100 tanaman. Melihat pertumbuhan tanaman anggota famili Lamiaceae
 berumur 2 bulan itu yang seragam, Aris berencana memperluas penanaman di lahan
 0,5 ha. [caption id="attachment_15649" align="aligncenter"
 width="376"][![Tanaman Nilam hasil perbanyakan dengan setek pucuk lebih cepat
-tumbuh](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/nilam1-376x400.jpg)](http://127.0.0.1/mitra/wp-
+tumbuh](http://localhost/mitra/wp-
+content/uploads/2021/12/nilam1-376x400.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/nilam1.jpg) Nilam hasil perbanyakan dengan setek pucuk
 lebih cepat tumbuh[/caption] Bibit yang ia gunakan bukan setek batang seperti
 kelaziman selama ini, tetapi pucuk setinggi 5 cm. Aris memperoleh bibit setek
@@ -72,7 +72,7 @@ komputer alumnus University of Brooklyn, Amerika Serikat, itu memindahkan
 bibit dari gelas plastik ke dalam nampan plastik berukuran 50 cm x 30 cm x 20
 cm. Media tanam yang digunakan sama, serasah dan kompos, la lalu meletakkan
 baki di tempat teduh. Setelah 2-3 hari bibit siap pindah tanam ke lahan.
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/12/nilam-1024x576.jpg)
+![](http://localhost/mitra/wp-content/uploads/2021/12/nilam-1024x576.jpg)
 
 ## Perhatikan Jumlah akar
 
@@ -90,8 +90,8 @@ tanaman nilam asal setek batang yang siap panen ketika berumur 6 bulan. Selain
 cepat panen, produksi tanaman asal setek pucuk lebih tinggi, yakni rata-rata 5
 ton per ha; sedangkan volume panen tanaman asal setek batang hanya kurang dari
 3 ton per ha. [caption id="attachment_15643" align="aligncenter"
-width="1024"][![Teknik Perbanyakan Nilam](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/akar-nilam-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+width="1024"][![Teknik Perbanyakan Nilam](http://localhost/mitra/wp-
+content/uploads/2021/12/akar-nilam-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/akar-nilam.jpg) Perbanyakan Nilam[/caption]
 
 ## Adaptasi teknologi penyulingan dengan fermentasi
@@ -114,8 +114,8 @@ serupa, la berencana menanam nilam di Cirebon, Jawa Barat Kini ia memiliki
 miliknya di Banjar, Jawa Barat. Dari tanaman induk itu Andrew akan memproduksi
 10.000 bibit varietas sidikalang untuk penanaman di lahan 0,5 hektar. [caption
 id="attachment_15650" align="aligncenter" width="400"][![cara perbanyakan
-nilam dengan stek](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/stek1-400x238.jpg)](http://127.0.0.1/mitra/wp-
+nilam dengan stek](http://localhost/mitra/wp-
+content/uploads/2021/12/stek1-400x238.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/stek1.jpg) cara perbanyakan nilam dengan stek
 pucuk[/caption]
 

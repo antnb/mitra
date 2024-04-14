@@ -10,7 +10,7 @@ tags:
 - salak
 
 modification_time: 2021-02-09 10:57:43
-blogger_orig_url: "http://localhost/mitra/salak-pondoh-lumajang-super-jumbo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/salak-pondoh-lumajang-super-jumbo.html"
 ---
 
 Ukuran boleh lebih besar, tapi rasa tetap sama seperti pondoh. Bahkan kerena
@@ -25,8 +25,8 @@ pusat produksi yang baru.
 ## Varietas Unggul
 
 [caption id="attachment_8092" align="aligncenter" width="717"][![panen salak
-pondoh](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_salak_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+pondoh](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_salak_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_salak_1024x576.jpg) Sortir buah sebelum
 dipasarkan[/caption] Keunggulan salak pondoh asal Lumajang teruji di arena
 kontes buah se-Jawa Timur 1997. Salak yang mulai dikembangkan sekitar 9 tahun
@@ -57,8 +57,8 @@ ari yang memisahkan siung tampak kasar.
 ## Dipetik Langsung dari kebun
 
 [caption id="attachment_8093" align="aligncenter" width="717"][![buah salak
-pondoh](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_salak_pondoh_1024x629.jpg)](http://127.0.0.1/mitra/wp-
+pondoh](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_salak_pondoh_1024x629.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_salak_pondoh_1024x629.jpg) Buah salak matang di
 pohon[/caption] Sekalipun unggul dan pemasarannya hampir meliputi seluruh Jawa
 Timur, salak pondoh lumajang belum punya sebutan paten. Di kardus-kardus
@@ -75,7 +75,7 @@ memanfaatkan salak pondoh lumajang.
 Sebagian bandar-bandar penampung memasok ke eksportir. Wajar karena ukuran
 memenuhi persyaratan. Kesegaran terjamin lantaran jarak lebih dekat. Sayangnya
 produksi masih terbatas, maklum total
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") yang berproduksi
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") yang berproduksi
 baru 35 ha. Saat panen raya ia memasok 6,5 kuintal per dua hari ke bandar di
 Surabaya. Masing-masing 1 kuintal keempat kios buah di Malang dan 1 kuintal di
 Jember. Namun, ketika produksi kurang, ke Surabaya hanya bisa 2 ton/bulan,

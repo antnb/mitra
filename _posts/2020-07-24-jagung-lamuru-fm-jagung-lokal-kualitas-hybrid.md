@@ -9,7 +9,7 @@ tags:
 - jagung
 
 modification_time: 2020-07-24 14:12:09
-blogger_orig_url: "http://localhost/mitra/jagung-lamuru-fm-jagung-lokal-kualitas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jagung-lamuru-fm-jagung-lokal-kualitas.html"
 ---
 
 _Pada Pameran Pekan Nasional XI KTNA di Tondano, Minahasa, jagung yang
@@ -31,7 +31,7 @@ untuk **Fadel Muhammad** , orang nomor 1 di daerah bekas wilayah Provinsi
 Sulawesi Utara itu. Maklum, kehadiran jagung temuan Balai Penelitian Tanaman
 Jagung dan Serealia Lain (Balitjas) Maros, itu di Gorontalo tak lepas dari
 campur tangan sang gubernur. Menurut Dr Ir Djamaluddin MS, kepala Dinas
-[Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") dan Ketahanan Pangan
+[Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") dan Ketahanan Pangan
 Provinsi Gorontalo, lamuru baru direkomendasikan penanamannya oleh Fadel
 Muhammad pada 2 tahun lalu. Karena hasilnya memuaskan, ia pun diminati
 pekebun. Kini penanaman meluas ke semua sentra penanaman. Mulai dari Kabupaten

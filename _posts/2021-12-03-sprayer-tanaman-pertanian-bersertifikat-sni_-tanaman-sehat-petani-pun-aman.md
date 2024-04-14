@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-20 08:33:53
-blogger_orig_url: "http://localhost/mitra/sprayer-tanaman-pertanian-bersertifikat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sprayer-tanaman-pertanian-bersertifikat.html"
 ---
 
 Pertanian telah berubah sejak zaman dulu. Peralatan pertanian telah mengalami
@@ -57,8 +57,8 @@ petani seharusnya melakukan penyemprotan searah dengan embusan angin dan
 menggunakan pakaian pelindung lengkap. Ahli pestisida dan nutrisi di Jakarta,
 Yos Sutiyoso, menuturkan pakaian yang digunakan sewaktu menyemprot pestisida
 harus terbuat dari bahan yang tebal agar pestisida tidak menembus tubuh.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/ptotective-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/ptotective-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/ptotective.jpg)
 
 ## Memilih sprayer tanaman terbaik

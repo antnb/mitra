@@ -9,7 +9,7 @@ tags:
 - jambu air
 
 modification_time: 2021-10-30 06:13:35
-blogger_orig_url: "http://localhost/mitra/jenis-jenis-jambu-air-unggulan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jenis-jenis-jambu-air-unggulan.html"
 ---
 
 Indonesia "gudangnya" jambu air. Hampir semua jenis jambu air unggulan berasal
@@ -33,7 +33,7 @@ Bicara soal pasar, Taiwan mengekspornya ke Jepang. Kemasan yang dipakai kardus
 berjendela dan disusun satu per satu agar penampilannya mulus dan menarik.
 Harganya pun mencapai sekitar Rp45.000 per kilogram. Kalau kita? Yah, biasanya
 ditumpuk dalam keranjang bambu, tidak tanggung-tanggung sampai 20kg. Akibatnya
-kulit buah lecet lalu cepat membusuk. ![](http://127.0.0.1/mitra/wp-
+kulit buah lecet lalu cepat membusuk. ![](http://localhost/mitra/wp-
 content/uploads/2021/10/jambu-air1-1024x576.jpg)
 
 ## Varietas Jambu Air Unggulan Incaran Pekebun Luar Negri
@@ -72,8 +72,8 @@ permintaan benih jambu air black diamond dilakukan melalui jalur resmi,
 misalnya pemerintah maka agak repot menolaknya. Tetapi biasanya kita bisa
 minta tukar-tambah dengan bibit unggulan dari negara bersangkutan. Artinya,
 kita tidak rugi-rugi amat, malah bisa untung-untungan dapat yang lebih bagus.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/jambu1-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/10/jambu1-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/jambu1.jpg)
 
 ## Kekayaan Plasma Nutfah

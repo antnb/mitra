@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 09:37:24
-blogger_orig_url: "http://localhost/mitra/langkah-menghasilkan-ranchu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/langkah-menghasilkan-ranchu.html"
 ---
 
 Selain Jepang, Thailand dikenal piawai menghasilkan ranchu berkualitas. Tak
@@ -40,7 +40,7 @@ Meski demikian, banyak yang menilai kepala ranchu tak seanggun lion head.
 Perbedaan lain, punggung ranchu berkualitas sangat melengkung mirip kurva,
 sementara punggung lion head cenderung lebih rata. Kalau pun melengkung hanya
 membentuk kurva dangkal. Dari berbagai farm di Thailand yang dikunjungi [Mitra
-Usaha Tani](http://127.0.0.1/mitra), rata-rata masih berskala rumahan. Yang
+Usaha Tani](https://www.mitrausahatani.com), rata-rata masih berskala rumahan. Yang
 terbesar adalah 24K Goldfish Farm, Bangkok, yang berdiri di atas lahan seluas
 3.200 m2. Indukan didatangkan dari Jepang. Tak heran, ranchu produksi Thailand
 kebanyakan bersifat top view.

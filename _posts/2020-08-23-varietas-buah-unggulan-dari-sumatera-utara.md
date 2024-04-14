@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-23 15:03:37
-blogger_orig_url: "http://localhost/mitra/varietas-buah-unggulan-dari-sumatera.html"
+blogger_orig_url: "http://www.mitrausahatani.com/varietas-buah-unggulan-dari-sumatera.html"
 ---
 
 _Yang khas dari Sumatera Utara ternyata tak hanya sirup markisa, durian, atau
@@ -27,7 +27,7 @@ Sayangnya, perkembangan ekspor buah-buahan dari Sumatera Utara selama lima
 tahun terakhir belum menggembirakan, kecuali untuk manggis dan jambu biji.
 Padahal masih banyak plasma nutfah buah dari daerah ini yang belum tergali
 potensinya. Di antaranya jeruk keprok sipirok, keprok maga, manggis, kweni,
-dan [belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") sembiring.
+dan [belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") sembiring.
 Untung saja pisang barangan merah, rambutan brahrang, jeruk siem madu, salak
 sidempuan merah, dan salak sidempuan putih sudah diakui sebagai varietas
 unggul. Tersedianya pohon induk sebagai sumber benih menjadi salah satu
@@ -43,7 +43,7 @@ agak kasar dengan ujung kehijauan. Daging buah putih, rasa manis, agak kering,
 ngelotok, dan kulit biji agak melekat. Penangkar yang memproduksi bibit
 rambutan ini di antaranya adalah Basirun, Jin. Perintis Kemerdekaan No. 443
 Kodya Binjai. [caption id="attachment_1506" align="aligncenter"
-width="545"]![Rambutan Brahrang](http://127.0.0.1/mitra/wp-
+width="545"]![Rambutan Brahrang](http://localhost/mitra/wp-
 content/uploads/2020/08/cincalo_1280x719.jpg) Rambutan Brahrang[/caption]
 **Pisang Barangan Merah** Pisang barangan merah merupakan buah meja paling
 populer di Sumatera Utara. Saat ini sudah memasuki pasar •Jakarta. Daya
@@ -64,7 +64,7 @@ per buah. Benih umumnya diperbanyak dengan anakan, bonggol, atau kultur
 jaringan. Namun, karena peka terhadap penyakit bakteri darah dan fusarium,
 perbanyakan dengan kultur jaringan menjadi prioritas utama. [caption
 id="attachment_1506" align="aligncenter" width="481"]![Pisang Barangan
-Merah](http://127.0.0.1/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg)
+Merah](http://localhost/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg)
 Pisang Barangan Merah[/caption] **Jeruk Siem Madu** Merupakan salah satu
 varietas jeruk yang paling luas pertanamannya di Kabupaten Tanah Karo. Bahkan
 sejak 1993-1997 luas areal tanamnya cenderung meningkat. Keunggulan yang
@@ -77,7 +77,7 @@ kuning kehijauan. Warna daging oranye dengan rasa manis segar. Jeruk siem madu
 mempunyai ciri khusus, yaitu bunga umumnya tunggal, dan hanya sebagian kecil
 bunga majemuk. Bentuk bunga mekar seperti bintang dan berwarna putih. [caption
 id="attachment_1506" align="aligncenter" width="464"]![Jeruk Siem
-Madu](http://127.0.0.1/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg)
+Madu](http://localhost/mitra/wp-content/uploads/2020/08/cincalo_1280x719.jpg)
 Jeruk Siem Madu[/caption] **Salak Padang Sidempuan Merah dan Putih** Salak
 sidempuan merah memiliki mutu hasil baik. Ukuran relatif besar dengan panjang
 6cm-8,5cm dan diameter terlebar 6,5cm. Bobot buah 50gram-ISOgram. Warna daging

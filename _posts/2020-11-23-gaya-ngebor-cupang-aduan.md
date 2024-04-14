@@ -11,7 +11,7 @@ tags:
 - ikan cupang
 
 modification_time: 2020-11-23 11:56:07
-blogger_orig_url: "http://localhost/mitra/gaya-ngebor-cupang-aduan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gaya-ngebor-cupang-aduan.html"
 ---
 
 Goyang ngebor Inul Daratista ditiru oleh cupang adu. Dengan gaya serang nombak
@@ -36,8 +36,8 @@ dilancarkan seperti menancap paku. Kepala lawan diincar dan dihantam keras.
 Repotnya, cupang ini cenderung lamban bertarung. Pukulan sesekali saja
 dilakukan dan seringkah terserang lebih dulu. Beruntung ia dibekali sisik
 sekeras batu dan bermental baja sehingga ia sulit dipecundangi.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-Cupang-
-Aduan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-Cupang-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/ikan-Cupang-
+Aduan.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/ikan-Cupang-
 Aduan.jpg)
 
 ## Cupang Paling kejam
@@ -58,8 +58,8 @@ jam pertarungan justru ia dibulan bulani pukulan lawan. Untung saja cupang ini
 dianugerahi mental baja hingga terus bertarung sampai tetes darah terakhir.
 Tipe cupang baling ngope dimiliki cupang impor Malaysia asal Penang,
 Kualalumpur, dan cupang adu asal Bengkalis, Riau.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Cupang-
-Aduan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Cupang-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Cupang-
+Aduan.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Cupang-
 Aduan.jpg)
 
 ## Lucky blow

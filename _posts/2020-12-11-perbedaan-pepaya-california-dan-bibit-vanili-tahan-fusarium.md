@@ -11,7 +11,7 @@ tags:
 - vanili
 
 modification_time: 2020-12-11 11:01:08
-blogger_orig_url: "http://localhost/mitra/perbedaan-pepaya-california-dan-bibit.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perbedaan-pepaya-california-dan-bibit.html"
 ---
 
 Saya memiliki beberapa pertanyaan mengenai pepaya dan vanili:

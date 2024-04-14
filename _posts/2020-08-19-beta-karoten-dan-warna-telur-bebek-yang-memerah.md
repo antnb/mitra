@@ -10,12 +10,12 @@ tags:
 - telur
 
 modification_time: 2020-08-19 08:22:04
-blogger_orig_url: "http://localhost/mitra/beta-karoten-dan-warna-telur-bebek.html"
+blogger_orig_url: "http://www.mitrausahatani.com/beta-karoten-dan-warna-telur-bebek.html"
 ---
 
 Singapura, Malaysia dan Hongkong perlu pasokan telur itik. Celakanya, yang
 mereka butuhkan tidak sembarang telur
-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek"). Selain ukuran besar dan
+[bebek](https://www.mitrausahatani.com/topik/bebek "bebek"). Selain ukuran besar dan
 seragam di atas 70g/butir, warna telur bebek pada bagian kuning telurnya harus
 merah. Persyaratan terakhir itulah yang sulit dipenuhi.
 
@@ -28,7 +28,7 @@ mau menerima warna kuning kemerahan yang berasal dari itik gembalaan. Namun,
 masalah yang kemudian timbul adalah konsistensi. Sebab, ketersediaan pakan
 itik gembalaan sangat tergantung pada musim. Sehingga, kualitas telur
 dikhawatirkan akan terpengaruh. Apalagi skala [usaha itik
-gembalaan](http://127.0.0.1/mitra/analisa-keuntungan-ternak-itik-dengan.html)
+gembalaan](https://www.mitrausahatani.com/analisa-keuntungan-ternak-itik-dengan.html)
 rata-rata kecil.
 
 ## Pakan Dicampur Beta Karoten Agar warna Telur sesuai Keinginan
@@ -41,7 +41,7 @@ oranye, bukan merah,” ungkap Junaedi, peternak kawakan dari Cilincing, Jakarta
 Utara. Junaedi menambahkan tepung udang 20% pada bahan pakan lain, sebagai
 pengganti tepung ikan. “Dengan betakaroten kuning telur bisa betul-betul merah
 sesuai keinginan eksportir,” papar Daniel, B. Adriant TP, warga Depok yang
-mengembangkan [peternakan](http://127.0.0.1/mitra/peternakan "peternakan")
+mengembangkan [peternakan](https://www.mitrausahatani.com/peternakan "peternakan")
 itik di Serang. Ia pernah mencoba terhadap 2 unit kandang itiknya yang masing-
 masing dihuni 120 ekor. Menurutnya, hanya dalam waktu seminggu harapan
 mendapatkan warna telur bebek sesuai harapannya menjadi kenyataan. Setiap

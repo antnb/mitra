@@ -13,10 +13,10 @@ tags:
 - tanaman
 
 modification_time: 2022-12-24 07:59:19
-blogger_orig_url: "http://localhost/mitra/menthailandkan-buah-indonesia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/menthailandkan-buah-indonesia.html"
 ---
 
-Sebuah advertorial [Mitra Usaha Tani](http://127.0.0.1/mitra) Maret lalu
+Sebuah advertorial [Mitra Usaha Tani](https://www.mitrausahatani.com) Maret lalu
 mengenai Exotic Thai Fruits Tour mengingatkan saya akan negara berpenduduk 8
 juta orang. Suatu seminar selama 3 hari di Bangkok menyisakan suatu kenangan
 buat saya. Di sana saya terpana melihat tanaman buah segar yang disajikan.
@@ -87,7 +87,7 @@ hingga pemasarannya. Caranya, dengan memberi kemudahan dalam pengembangan
 tanaman buah. Yang terjadi saat ini, para pengusaha harus berjuang sendiri
 mencari teknologi yang tepat untuk budidaya. Sekadar menyebut nama, Bernard
 Sadhani di durian; Soetanto untuk melon, pisang, pepaya, dan durian; Irawan
-Yuwono di [belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") Yang
+Yuwono di [belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") Yang
 tak kalah penting artinya adalah masalah pengawasan. Tidak ada artinya
 perencanaan yang baik, tanpa diimbangi pengawasan. Sebagai contoh, tindakan
 korupsi oknum-oknum pelaksana dalam penyaluran bibit/benih berkualitas. Juga

@@ -9,7 +9,7 @@ tags:
 - padi
 
 modification_time: 2022-09-15 13:01:05
-blogger_orig_url: "http://localhost/mitra/pertanian-padi-menggunakan-sistem.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pertanian-padi-menggunakan-sistem.html"
 ---
 
 Dari lahan seluas 2.000 nr'itu,sebelum menerapkan Pertanian Padi Sistem
@@ -65,22 +65,22 @@ diraih mencapai Rp 625-ribu. Yang juga istimewa, Pertanian Padi sistem
 singgang jauh lebih enak. "Lebih pulen dan legit," ujar Robert Heruatmaja,
 praktikus pertanian di Yogyakarta. Walau begitu, secara fisik butir padi lebih
 kecil seolah ia tumbuh liar. Itu bisa disebabkan malainya pun jauh lebih
-pendek dibanding [malai padi](http://127.0.0.1/mitra/topik/padi) yang
+pendek dibanding [malai padi](https://www.mitrausahatani.com/topik/padi) yang
 dibudidayakan secara konvensional. Karena sifatnya yang mirip padi liar, ia
 mempunyai daya adaptasi tinggi. Butir padi yang dijadikan benih jauh lebih
 baik dibanding [benih padi
-unggul](http://127.0.0.1/mitra/index.php/agrise/article/view/178) yang berasal
+unggul](https://www.mitrausahatani.com/index.php/agrise/article/view/178) yang berasal
 padi biasa. "Waktu kami coba di Gamping, benih dari Pertanian Padi singgang
 anakannya lebih banyak. Daun tumbuh tegak. Mungkin karena /benihnya lebih
 murmi," ujar Heru. ![Pertanian Padi Menggunakan Sistem
-Singgang](http://127.0.0.1/mitra/wp-
+Singgang](http://localhost/mitra/wp-
 content/uploads/2020/03/Singgang_879x800-300x273.jpg)
 
 ### Tentang Sistem singgang
 
 Menurut Agus Nugroho Setiawan, dosen Fakultas Pertanian Universitas
 Muhammadiyah Yogyakarta, singgang adalah tunas yang tumbuh dari mata tunas
-yang terdapat pada ketiak daun. [Mitra Usaha Tani](http://127.0.0.1/mitra)\-
+yang terdapat pada ketiak daun. [Mitra Usaha Tani](https://www.mitrausahatani.com)\-
 sebutan untuk tunas di Jawa Tengah-itu tumbuh menjadi batang sekunder,
 tersier, dan seterusnya. "Pada padi proses tumbuhnya tunas itu disebut
 pembentukan anakan," ujarnya. Proses itu sebenarnya juga terjadi pada tanaman

@@ -11,7 +11,7 @@ tags:
 - pengiriman
 
 modification_time: 2020-08-16 14:41:44
-blogger_orig_url: "http://localhost/mitra/teknik-packing-lobster-hidup-dengan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknik-packing-lobster-hidup-dengan.html"
 ---
 
 Belakang teknik Packing lobster hidup untuk pengiriman jarak jauh itu
@@ -76,7 +76,7 @@ Rak itu dibuat seukuran styrofoam. Dengan menggunakan teknik rak, volume
 Packing lobster hidup tidak banyak, maksimal 4 plastik. Masing-masing plastik
 berukuran 20 cm x 20 cm itu berisi 7-8 ekor. “Memakai rak bertingkat kematian
 bisa ditekan hingga 0% karena tidak terlalu padat,” ujar Pieter. Lain tempat
-lain pula caranya. [Peternak lobster](http://127.0.0.1/mitra/budidaya-lobster-
+lain pula caranya. [Peternak lobster](https://www.mitrausahatani.com/budidaya-lobster-
 air-tawar-dan.html) di Papua menggunakan sabut kelapa dan daun paku-pakuan
 sebagai alas. Sabut kelapa mudah diperoleh dan murah. Kalau tidak ada, serutan
 kayu pun kerap digunakan. Hanya saja ada beberapa jenis kayu mengeluarkan bau
@@ -86,7 +86,7 @@ ekspor. Alas-alas itu dikhawatirkan membawa penyakit. Oleh karena itu pilihlah
 teknik Packing lobster hidup dan bahan-bahan pengemasan yang nyaman dan aman
 bagi lobster. Sebab keberhasilan menerbangkan lobster jarak jauh identik
 dengan gemerincing rupiah mengalir ke pundi-pundi. ![packing
-lobster](http://127.0.0.1/mitra/wp-content/uploads/2020/08/yabby_1067x800.jpg)
+lobster](http://localhost/mitra/wp-content/uploads/2020/08/yabby_1067x800.jpg)
 
 ##### Keterangan
 

@@ -10,7 +10,7 @@ tags:
 - kebun durian
 
 modification_time: 2021-09-07 06:40:31
-blogger_orig_url: "http://localhost/mitra/durian-tong-medaye-si-raja-buah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-tong-medaye-si-raja-buah.html"
 ---
 
 Suatu hari, pada 1800-an, di luar kompleks Istana Narmada, Kerajaan Karangasem
@@ -38,8 +38,8 @@ Bogor, pun sependapat. "Itu durian luar biasa. Ia pilihan raja," katanya.
 Sebetulnya ke-20 pohon itu menghasilkan buah lezat. Tong medaye menjadi luar
 biasa karena ia terbaik di antara yang baik. [caption id="attachment_13940"
 align="aligncenter" width="1514"][![buah durian tong medaye yang matang di
-pohon](http://127.0.0.1/mitra/wp-
-content/uploads/2021/09/pulen.jpg)](http://127.0.0.1/mitra/wp-
+pohon](http://localhost/mitra/wp-
+content/uploads/2021/09/pulen.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/09/pulen.jpg) Durian Legit[/caption]
 
 ## Ketagihan Durian Tong Medaye
@@ -58,7 +58,7 @@ mempunyai bentuk tajuk dan percabangan meninggi.
 
 ## Ciri Ciri Fisik Pohon Durian Tong Medaye
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/09/duren.jpg) Pohon induk
+![](http://localhost/mitra/wp-content/uploads/2021/09/duren.jpg) Pohon induk
 Durian Tong Medaye tampak menonjol. Ia paling tinggi, 30 m dengan lebar tajuk
 20 m. Kedudukan percabangan rapat dan membentuk tajuk seperti piramida
 terbalik. Bentuk batang bulat, berwarna cokelat keabuan. Daun berwarna hijau

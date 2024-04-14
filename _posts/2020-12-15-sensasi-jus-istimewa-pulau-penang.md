@@ -10,7 +10,7 @@ tags:
 - jus
 
 modification_time: 2020-12-15 09:47:10
-blogger_orig_url: "http://localhost/mitra/sensasi-jus-istimewa-pulau-penang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sensasi-jus-istimewa-pulau-penang.html"
 ---
 
 Pantas para pengunjung Tropical Fruit Farm tak puas dengan segelas jus. Dahaga
@@ -30,8 +30,8 @@ sebut sebagai antikanker. Toh, bukan khasiat semata yang membuat Quah Ewe
 Kheng menyediakan Siang itu ruang jamuan Tropical Fruit Farm, Penang,
 Malaysia, dipenuhi pengunjung. Sepintas tak ada yang istimewa dengan
 pemandangan itu. Namun, siapa sangka, itu jus yang tak lazim ditemui. [![jus
-buah tin](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_juice_852x768.jpg)](http://127.0.0.1/mitra/wp-
+buah tin](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_juice_852x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_juice_852x768.jpg)Mereka tengah menikmati jus
 pala, kedondong, tin, atau campuran segala macam buah. jus buah aneh. “Selama
 ini buah-buahan itu dianggap inferior (tak komersial, red). Dengan dibuat jus,
@@ -50,7 +50,7 @@ ia menggunakan 5—10 buah kedondong muda untuk segelas jus. Pala dan tin dibuat
 dari buah matang. Segelas us pala berasal dari 7 buah—setara 500 g. Sedangkan
 segelas jus tin membutuhkan 11 buah—setara 700 g. Selain disuguhkan secara
 tunggal, Kheng juga menyediakan jus aneka ragam buah.
-[Belimbing](http://127.0.0.1/mitra/topik/belimbing "Belimbing"), nanas, melon,
+[Belimbing](https://www.mitrausahatani.com/topik/belimbing "Belimbing"), nanas, melon,
 semangka, ambu biji, dan jeruk dipotong-potong kecil ^alu digabung menjadi
 satu. Campuran buah sebanyak 500 g itu diblender, lalu dihidangkan dingin.
 “Rasanya campur-campur. Tak kentara lagi buah yang dominan,” ujar Fadil.

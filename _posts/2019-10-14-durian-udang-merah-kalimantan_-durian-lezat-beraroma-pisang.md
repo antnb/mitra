@@ -11,7 +11,7 @@ tags:
 - graveolens
 
 modification_time: 2022-10-17 07:26:26
-blogger_orig_url: "http://localhost/mitra/durian-otak-udang-galah-draveolens.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-otak-udang-galah-draveolens.html"
 ---
 
 Berkali-kali dalam belasan tahun terakhir menembus belantara Kalimantan, Lutfi
@@ -39,8 +39,8 @@ memamerkan daging buah-meskipun masih tergantung di dahan pohon. Warna
 mencolok itu memikat burung anggang untuk menyantap sehingga masyarakat
 menyebut graveolens itu durian anggang. [caption id="attachment_15932"
 align="aligncenter" width="300"][![Aziz Zakaria menyeleksi 40 pohon Durio
-Graveolens dan menghasilkan 15 pohon terbaik](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/durian_640x375-300x176.jpg)](http://127.0.0.1/mitra/wp-
+Graveolens dan menghasilkan 15 pohon terbaik](http://localhost/mitra/wp-
+content/uploads/2019/10/durian_640x375-300x176.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/durian_640x375.jpg) Aziz Zakaria menyeleksi 40 pohon
 dan menghasilkan 15 pohon terbaik[/caption]
 
@@ -58,8 +58,8 @@ durian merah dan durian pelangi merupakan silangan alami graveolens dengan
 zibethinus, maka warna buah durian merah di kebun milik Aziz Zakaria MSi PhD
 di Kelantan masih murni graveolens. [caption id="attachment_15934"
 align="aligncenter" width="300"][![Aziz Zakaria MSi PhD \(tengah\) koleksi
-Durio Graveolens asal Brunei sejak 1995](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/durian_640x387-300x181.jpg)](http://127.0.0.1/mitra/wp-
+Durio Graveolens asal Brunei sejak 1995](http://localhost/mitra/wp-
+content/uploads/2019/10/durian_640x387-300x181.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/durian_640x387.jpg) Aziz Zakaria MSi PhD (tengah)
 koleksi graveolens asal Brunei sejak 1995[/caption] Menurut Lutfi, kualitas
 buah graviolens di kebun Aziz mendekati zibethinus sehingga dapat dikonsumsi
@@ -68,7 +68,7 @@ Lutfi. Musababnya, graviolens itu hasil seleksi Aziz sejak awal 1990-an.
 Ketika itu anggota staf pengajar di Fakultas Teknik, Universitas Putra
 Malaysia, itu menjadi konsultan irigasi pertanian bagi Pemerintah Brunei
 Darussalam yang tengah [mengembangkan pertanian
-padi](http://127.0.0.1/mitra/biopestisida-pembasmi-hama-wereng.html).
+padi](https://www.mitrausahatani.com/biopestisida-pembasmi-hama-wereng.html).
 
 ## Hasil seleksi yang ketat
 
@@ -99,16 +99,16 @@ rata dengan kisaran 1-2 cm.
 
 [caption id="attachment_15935" align="aligncenter" width="300"][![Buah
 graveolens istimewa: berdaging buah tebal, lezat,dan beraroma
-pisang.](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/durian_486x480-300x296.jpg)](http://127.0.0.1/mitra/wp-
+pisang.](http://localhost/mitra/wp-
+content/uploads/2019/10/durian_486x480-300x296.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/durian_486x480.jpg) Buah graveolens istimewa:
 berdaging buah tebal, lezat,dan beraroma pisang.[/caption] Menurut Aziz, "Dari
 kualitas buah urutannya DG-4, DG-11, DG-2, dan DG-5." Warna merah daging buah
 DG-4 paling pekat, pongge paling tebal, [dan aroma
-pisang](http://127.0.0.1/mitra/manfaat-dan-keuntungan-budidaya-pisang.html)
+pisang](https://www.mitrausahatani.com/manfaat-dan-keuntungan-budidaya-pisang.html)
 muncul sejak buah terbelah. Sementara DG-11 berdaging buah lebih muda, tebal
 karena setiap juring terdiri atas 1-2 pongge. Graveolens DG-2 berdaging [buah
-merah](http://127.0.0.1/mitra/topik/buah-merah "buah merah") pekat, lebih
+merah](https://www.mitrausahatani.com/topik/buah-merah "buah merah") pekat, lebih
 tipis. Adapun DG-5 yang jingga itu berdaging buah tebal. Aziz juga menanam
 durian musang king yang sohor sebagai durian terbaik Malaysia. "Peluang
 terjadi persilangan alami antara musang king dan graveolens terbuka lebar.

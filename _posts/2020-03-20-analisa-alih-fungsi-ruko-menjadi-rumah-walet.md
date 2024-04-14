@@ -10,7 +10,7 @@ tags:
 - walet
 
 modification_time: 2020-03-20 18:58:22
-blogger_orig_url: "http://localhost/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/alih-fungsi-ruko-menjadi-sarang-walet.html"
 ---
 
 Saat senja mulai merayap, ribuan walet melayang di kawasan Pecinan Pati.
@@ -20,7 +20,7 @@ utara. Di situlah penghasil liur emas membentuk sarang dan beranak pinak.
 "Sekali panen bisa 3 kuintal," ujar H Ahmad Suyuti, praktisi walet di kota
 itu, sambil menunjuk sebuah rumah walet. Melihat hasil sebesar itu, Pati
 pontensial sebagai sentra walet. Pemilik rumah [walet itu minimal memetik 9
-kuintal sarang](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-
+kuintal sarang](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-
 walet.html) per tahun karena liur dipanen 3-4 kali. Dengan harga Rp l7,5-juta
 per kg, sang pemilik rumah walet bercat biru itu mengantongi pendapatan Rp
 15,75-miliyar. “Yang seperti itu tidak hanya satu,” ujar kelahiran Sukolilo 56
@@ -34,11 +34,11 @@ Wilayah perairan yang luas dikenal sebagai habitat asli anggota keluarga
 Apodidae itu. “Karena populasi di gua-gua di pegunungan dan pantai kian padat,
 mereka menyingkir ke tempat lain,” ujar Khoirul Amala, staf PT Amida Perkasa
 Nusantara, perusahaan yang banyak menangani jasa konsultasi walet. Ada juga
-yang menduga [walet](http://127.0.0.1/mitra/topik/walet) menyingkir karena
+yang menduga [walet](https://www.mitrausahatani.com/topik/walet) menyingkir karena
 kehidupan di alam terganggu. Ulah manusia merampas sarang di gua membuat walet
 tidak kerasan. Harap mafhum, jauh sebelum 1808 sarang walet sudah diburu di
 Pulau Jawa. Satu per satu walet meninggalkan huniannya untuk mencari tempat
-lain yang aman. ![ruko walet](http://127.0.0.1/mitra/wp-
+lain yang aman. ![ruko walet](http://localhost/mitra/wp-
 content/uploads/2020/03/Untitled_1280x792-370x250.jpg)
 
 ### Walet di Pecinan
@@ -71,7 +71,7 @@ dipancing. Ada juga sebagian _rumah Apodidae_ yang tetap kosong melompong.
 Musababnya, rumah kurang sejuk dan berbau sehingga tidak sesuai dengan habitat
 walet. Karena itu, menurut Suyuti perlu tindakan aktif pemilik rumah walet
 untuk mengundang penghasil liur emas itu. [mitra usaha
-tani](http://127.0.0.1/mitra) melihat beberapa rumah walet dipasangi batu bata
+tani](https://www.mitrausahatani.com) melihat beberapa rumah walet dipasangi batu bata
 bertumpuk yang disemprot air. Karena sifat batu bata mampu melepaskan air
 secara perlahan-lahan sehingga ruangan lebih sejuk dan lembap. Sebagian lain
 menggunakan batuan gamping sebagai campuran pasir dan semen untuk beton. “Itu
@@ -84,10 +84,10 @@ walet,” ujar Amala. Di Pati rumah walet dibangun multifungsi: sebagai rumah
 tinggal, toko, dan walet. Rumah didesain sedemikian rupa sehingga tak mirip
 rumah walet. “Biar kesenjangan sosial terhindar,” kata Suyuti. Dengan berbagai
 kreasi, jumlah pemilik rumah walet yang berhasil [mengundang
-walet](http://127.0.0.1/mitra/budidaya-sarang-walet-bisa-diternakan.html) jauh
+walet](https://www.mitrausahatani.com/budidaya-sarang-walet-bisa-diternakan.html) jauh
 lebih banyak dibanding yang gagal. Maka jangan kaget, bila Anda memasuki pintu
 gerbang kota bertuliskan Pati Bumi Mina Pati [dari arah Purwodadi,
-puluhan](http://127.0.0.1/mitra/omzet-puluhan-juta-rupiah-dari-usaha.html)
+puluhan](https://www.mitrausahatani.com/omzet-puluhan-juta-rupiah-dari-usaha.html)
 rumah walet menyambut kedatangan Anda.
 
 

@@ -11,12 +11,12 @@ tags:
 - rasa istimewa
 
 modification_time: 2021-02-13 12:31:45
-blogger_orig_url: "http://localhost/mitra/rambutan-cilengkeng-dan-basariah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rambutan-cilengkeng-dan-basariah.html"
 ---
 
 "Ehm...manis banget, dagingnya tebal lagi,"seru Elly Syahbana saat mencicipi
 rambutan cilengkeng. Sepintas penampilan Nephelium lappaceum itu tak
-meyakinkan. Kulit [buah merah](http://127.0.0.1/mitra/topik/buah-merah "buah
+meyakinkan. Kulit [buah merah](https://www.mitrausahatani.com/topik/buah-merah "buah
 merah") kusam dengan rambut pendek dan keriting. Toh, dengan rasa istimewa,
 anggota keluarga _Sapindaceae_ itu ludes diborong pengunjung Pameran Buah
 Nasional di Golden Ballroom Jakarta Hilton International Hotel. Semula banyak
@@ -52,8 +52,8 @@ rapiah disebut cilengkeng.
 ## Rambutan Basariah
 
 [caption id="attachment_8108" align="aligncenter" width="398"][![buah rambutan
-Basariah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_buah_1280x936.jpg)](http://127.0.0.1/mitra/wp-
+Basariah](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_buah_1280x936.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_buah_1280x936.jpg) Basariah, mirip
 binjai[/caption] Selain rambutan cilengkeng, Mubin Usman juga menanam
 basariah, rambutan asli Depok, Jawa Barat, yang populer sejak puluhan tahun

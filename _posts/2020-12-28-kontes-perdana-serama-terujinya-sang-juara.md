@@ -9,7 +9,7 @@ tags:
 - serama di indonesia
 
 modification_time: 2020-12-28 09:39:28
-blogger_orig_url: "http://localhost/mitra/kontes-perdana-serama-terujinya-sang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kontes-perdana-serama-terujinya-sang.html"
 ---
 
 Serama milik Ajong memang pantas juara. Dada menonjol ke depan dan sayap lurus
@@ -25,8 +25,8 @@ dihitung dengan jari. Wajar lomba yang mestinya dibagi menjadi 2 kelas A/B dan
 C itu digabung. Kelas C rencananya diikuti serama berbobot di atas 501 g,
 sedang kelas A/B untuk serama kurang dari 501 g. Semua kontestan langsung
 menuju babak penyisihan pada pukul 10.00, tanpa proses diskualifikasi.
-[![kontes ayam serama](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_serama_636x768.jpg)](http://127.0.0.1/mitra/wp-
+[![kontes ayam serama](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_serama_636x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_serama_636x768.jpg)Mereka ditimbang bobotnya
 dan dinilai oleh juri di atas 2 meja berukuran 60 cm x 60 cm. Juri terdiri
 dari 2 kelompok masing-masing beranggotakan 3 orang. Selama 3—5 menit mereka

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-19 12:29:49
-blogger_orig_url: "http://localhost/mitra/pisang-gapi-gorofio-khas-tanah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pisang-gapi-gorofio-khas-tanah.html"
 ---
 
 Di Pasar Pinasungkulan Karombasan, Manado, dijajakan pisang kuning berbintik

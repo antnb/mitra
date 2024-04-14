@@ -12,7 +12,7 @@ tags:
 - usaha pembesaran
 
 modification_time: 2020-12-08 12:07:34
-blogger_orig_url: "http://localhost/mitra/perihal-usaha-pembesaran-gurami.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perihal-usaha-pembesaran-gurami.html"
 ---
 
 Saya tertarik pembesaran gurami dan berminat untuk membudidayakannya. Yang
@@ -29,7 +29,7 @@ konsumsi, 500 g/ekor. Ciri benih yang baik gerakannya lincah, sisik mengkilap,
 bebas penyakit, dan ukuran seragam. Ikan berukuran lebih besar dipastikan
 pertumbuhannya lebih cepat, sementara yang kecil akan kuntet. Untuk
 mendapatkan benih gurami, silakan hubungi Dinas
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") dan Kelautan
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") dan Kelautan
 Kabupaten Ciamis, Jawa Barat atau petani pembenih gurami di Desa Singasari
 Kecamatan Karanglewas, Banyumas, Jawa Tengah. Kolam dengan luas 150 m2 bisa
 digunakan untuk budidaya gurami. Yang harus diperhatikan dasar kolam harus

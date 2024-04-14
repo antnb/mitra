@@ -11,7 +11,7 @@ tags:
 - scleropages jardini
 
 modification_time: 2022-09-11 00:58:43
-blogger_orig_url: "http://localhost/mitra/ikan-arwana-jardini-ekspor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ikan-arwana-jardini-ekspor.html"
 ---
 
 Arwana jardini atau ikan arwana yang berwarna hijau dan merah ini termasuk
@@ -45,21 +45,21 @@ arwana jardini irian. Maklum, Scleropages jardini tambang rupiah. Ia salah
 satu produk unggulan ekspor. Ikan itu ditangkap dari sungai-sungai di 23
 Kecamatan di Kabupaten Merauke, Papua. Hingga 2003 tercatat 600.000 jardini
 senilai Rp12-miliar dijual oleh 34 anggota Asosiasi Pengusaha [Ikan
-Hias](http://127.0.0.1/mitra/ikan-hias "Ikan Hias") Merauke (APIHIM). Jumlah
+Hias](https://www.mitrausahatani.com/ikan-hias "Ikan Hias") Merauke (APIHIM). Jumlah
 itu meningkat dibandingkan periode 2000 sampai 2002. Masing-masing terjual
 441.000 ekor dan 485.000 ekor senilai Rp8,82-miliar dan Rp9,7-miliar.
 
 ## Salah identifikasi
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/arwana-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/arwana-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/arwana-1.jpg) Gonjang-ganjing arwana jardini mulai
 menguak tatkala pemerintah melalui SK Menteri Kehutanan No. 516/KPTS-II/1995
 menetapkan Scleropages jardini dan S. formosus sebagai satwa dilindungi.
 Keputusan itu menimbulkan pertanyaan karena sehari sebelum dikeluarkan
 berlangsung pertemuan antara asosiasi bersama pengusaha dan lembaga terkait.
 Di antaranya Departemen Perdagangan (Ditjendaglu), Departemen Pertanian
-(Ditjen [Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan")), Departemen
+(Ditjen [Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan")), Departemen
 Kehutanan (Ditjen PHPA), dan LIPI. Hasilnya, S. jardini masih boleh
 dimanfaatkan untuk perdagangan dalam dan luar negeri. Setelah ditelusuri
 ternyata keputusan itu revisi dari keputusan Menteri Kehutanan No.
@@ -83,8 +83,8 @@ buru.
 
 ## Informasi Yang Tidak benar
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/arwana-3.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/arwana-3.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/arwana-3.jpg) Keputusan yang dipertegas lagi melalui
 [SK Dirjen Perlindungan Hutan dan Konservasi Alam No. 269/DJ-IV/ KKH 03 per 13
 Maret 2003](http://ksdae.menlhk.go.id/peraturan/post/105) itu lebih menekankan

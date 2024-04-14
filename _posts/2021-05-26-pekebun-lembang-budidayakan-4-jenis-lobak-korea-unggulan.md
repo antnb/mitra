@@ -3,7 +3,7 @@ layout: post
 title: 'Pekebun Lembang Budidayakan 4 Jenis Lobak Korea Unggulan'
 categories: perkebunan|Pertanian
 date: 2021-05-26 07:52:52
-author: Anton N
+author: Yudianto
 image: media/altari.jpg
 tags:
 - daebu
@@ -16,7 +16,7 @@ tags:
 - umbi lobak
 
 modification_time: 2021-05-26 07:52:52
-blogger_orig_url: "http://localhost/mitra/4-jenis-lobak-korea-unggulan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/4-jenis-lobak-korea-unggulan.html"
 ---
 
 Di dapur sebuah restoran di Melawai, Jakarta Selatan, suatu siang. Seorang
@@ -41,8 +41,8 @@ Lembang, Kabupaten Bandung. Inilah sosok mereka.
 
 ## Lobak Altari
 
-[![Bentuk unik altari ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/daikon.jpg)](http://127.0.0.1/mitra/wp-
+[![Bentuk unik altari ](http://localhost/mitra/wp-
+content/uploads/2021/05/daikon.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/daikon.jpg) Sosok umbinya sangat unik, mirip botol
 yang bagian bawahnya menggembung. Lazimnya umbi lobak korea berbentuk rata
 panjang atau membulat. Panjang altari 10 sampai 15 cm dengan diameter 5 sampai
@@ -62,8 +62,8 @@ tinggi. Untuk menghilangkan getah, masakan diramu dengan proses fermentasi.
 
 ### Lobak Daebu
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Daebu.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Daebu.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Daebu.jpg) Ia sering disebut lobak korea panjang
 karena ukurannya mencapai 30 sampai 50 cm. Diameter umbi 7 sampai 10 cm. Warna
 kulit mirip tae bek, putih bersih bersemburat hijau di bagian atas. Kalau
@@ -85,8 +85,8 @@ yulmu kimchi menantang sang pencicip.
 
 ## Mulai Marak Dikebunkan
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/penyiraman.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/penyiraman.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/penyiraman.jpg) Kehadiran Raphartus sativus asal Korea
 itu makin menyemarakkan kancah sayuran di tanah air. "Tak jarang, warga
 Indonesia turut membeli," ujar Marliana dari pasar swalayan korea, New Seoul,

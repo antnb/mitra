@@ -10,7 +10,7 @@ tags:
 - Tanaman Hias
 
 modification_time: 2020-06-03 09:02:17
-blogger_orig_url: "http://localhost/mitra/kreasi-bonsai-adenium-unik-nan-cantik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kreasi-bonsai-adenium-unik-nan-cantik.html"
 ---
 
 _Kreasi bonsai adenium unik milik Ahmad Susanto, hobiis di Jakarta, membuat
@@ -30,20 +30,20 @@ itu. Berikut adenium unik yang banyak dicari kolektor.
 
 ### Adenium sisik naga
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/06/asas_614x800.jpg) bonsai
+![](http://localhost/mitra/wp-content/uploads/2020/06/asas_614x800.jpg) bonsai
 adenium unik milik Sunamo SE, hobiis di Yogyakarta, itu terlihat kompak.
 Bonggol dan cabang sangat serasi karena menyebar ke segala arah tanpa
 berbenturan. Ujung batang bawah yang besar menandakan kesempurnaan pertumbuhan
 bonggol. Sepintas dari kejauhan mirip beringin. “Umumnya kamboja jepang lurus
 dan tinggi. Saya suka yang tak lazim,” kata Sunarno. Menurut Fransiscus K,
 dari Gama Kaktus, [mencari adenium yang bonggolnya
-kompak](http://127.0.0.1/mitra/kreasi-bonsai-adenium-unik-nan-cantik.html) ke
+kompak](https://www.mitrausahatani.com/kreasi-bonsai-adenium-unik-nan-cantik.html) ke
 segala arah sangat sulit.
 
 ### Tua-tua keladi
 
 Anda pasti tersenyum geli melihat sepasang adenium itu. Tua-tua keladi julukan
-yang diberikan kepada kedua [adenium](http://127.0.0.1/mitra/topik/adenium)
+yang diberikan kepada kedua [adenium](https://www.mitrausahatani.com/topik/adenium)
 kreasi Adeng itu. Ketika dipasangkan, kamboja jepang yang mirip pria telah
 berumur 14 tahun. Sebaliknya, mawar gurun pasangannya baru berumur 2 tahun.
 Menurut Adeng, bila dijual tunggal kamboja jepang itu dihargai murah, Rp
@@ -53,12 +53,12 @@ ujarnya.
 
 ### Adenium Inul
 
-![Adenium Unik](http://127.0.0.1/mitra/wp-
+![Adenium Unik](http://localhost/mitra/wp-
 content/uploads/2020/06/dfdf_659x800.jpg) Bonggol Adenium Unik asal stek itu
 berumur 4 tahun. Namun, ia sudah piawai bergoyang bak gaya Inul Daratista di
 atas panggung. Djajjuli Wimawan, pemiliknya, kepincut inul saat ia berkunjung
 ke Watuputih 2 tahun silam. “Lho, kok mawar gurun pakai celana?” ujar Djajjuli
-seperti ditirukan Adeng kepada [mitrausahatani](http://127.0.0.1/mitra/). Nama
+seperti ditirukan Adeng kepada [mitrausahatani](https://www.mitrausahatani.com/). Nama
 inul diambil dari nama pedangdut yang ngetren setahun silam. Sebelum itu, ia
 tanpa nama apa pun melekat padanya. Jungkir balik Bonggol itu mirip batu besar
 yang dikelilingi pepohonan. Tak ada satu pun cabang muncul dari umbi yang

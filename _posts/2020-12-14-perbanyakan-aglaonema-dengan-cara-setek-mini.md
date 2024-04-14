@@ -12,7 +12,7 @@ tags:
 - stek
 
 modification_time: 2020-12-14 14:55:19
-blogger_orig_url: "http://localhost/mitra/perbanyakan-aglaonema-dengan-cara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perbanyakan-aglaonema-dengan-cara.html"
 ---
 
 Bandingkan bila Songgo menunggu anakan hotlady muncul alami. Dengan perawatan
@@ -23,7 +23,7 @@ Terbukti dalam 5 menit, didapat 7 individu baru. Jumlah itu bakal membengkak
 jadi 10 anakan dalam 3 bulan. Penelusuran Trubus pada para pekebun
 menunjukkan, supaya cepat beranak pinak, sang ratu daun memang butuh dibantu.
 Di kawasan Bumi Serpong Damai, Tangerang, Handry Chuhairy menduplikasi
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") dengan sistem
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") dengan sistem
 cangkok. “Tapi dengan sistem cangkokbutuh 1 bulan untukmenumbuhkan akar, baru
 tanaman dipisah,” kata Songgo. Dengan cara ala Songgo, dengan seketika 1
 indukan digandakan menjadi beberapa individu baru.

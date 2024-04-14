@@ -15,7 +15,7 @@ tags:
 - lou han
 
 modification_time: 2021-01-30 06:45:27
-blogger_orig_url: "http://localhost/mitra/selendang-grand-champion-bagi-cinhua.html"
+blogger_orig_url: "http://www.mitrausahatani.com/selendang-grand-champion-bagi-cinhua.html"
 ---
 
 Sosok cinhua grand champion itu memikat. Nonong bulat penuh berkesan tebal,
@@ -32,8 +32,8 @@ Zamorano itu akhirnya tersungkur disaat voting.
 ## Sengit di cinhua A
 
 [caption id="attachment_7988" align="alignleft" width="365"][![Kontes
-perdana](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_lohan1_1024x631.jpg)](http://127.0.0.1/mitra/wp-
+perdana](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_lohan1_1024x631.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_lohan1_1024x631.jpg) Kontes perdana 2019 di
 Bandung sangat semarak[/caption] Ketatnya persaingan merebut juara kelas
 terjadi di kategori cinhua A, C,klasik, dan unik. Maklum ke 4 kategori
@@ -41,7 +41,7 @@ tersebut pesertanya cukup, kategori cinhua A, 41 ikan, cinhua C, 41 ikan,
 cinhua klasik, 20 ikan, dan unik, 25 ikan, dan . Di kategori cinhua C, pengisi
 akuarium 16 milik Puji dari Bandung sukses merebut juara setelah menaklukkan
 pengisi akuarium 15, 8, 19, dan 22. Dari pengamatan
-[Mitrausahatani](http://127.0.0.1/mitra/), kategori cinhua A yang paling
+[Mitrausahatani](https://www.mitrausahatani.com/), kategori cinhua A yang paling
 menyedot waktu paling lama saat kampiun dipastikan milik pengisi akuarium 03.
 Setidaknya 35 menit dihabiskan oleh para juri untuk berdiskusi dan menilai
 ulang kembali. Maklum, pesaing terberat dari akuarium 20 juga berpenampilan

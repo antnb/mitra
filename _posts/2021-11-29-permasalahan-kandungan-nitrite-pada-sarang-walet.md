@@ -9,7 +9,7 @@ tags:
 - walet
 
 modification_time: 2022-09-20 06:07:06
-blogger_orig_url: "http://localhost/mitra/kandungan-nitrite-pada-sarang-walet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kandungan-nitrite-pada-sarang-walet.html"
 ---
 
 Bisnis sarang walet atau apung-apung telah berkembang pesat di Indonesia dan
@@ -51,8 +51,8 @@ China menerapkan syarat ketat: sarang walet mesti bebas kandungan Nitrite
 dengan amina menjadi nitrosamin yang bersifat karsinogen atau memicu sel
 kanker. Namun, Nitrite dalam jumlah tertentu tidak akan membahayakan kesehatan
 manusia. [caption id="attachment_15442" align="aligncenter"
-width="300"][![Kandungan Nitrite](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/nitrat-walet-300x199.jpg)](http://127.0.0.1/mitra/wp-
+width="300"][![Kandungan Nitrite](http://localhost/mitra/wp-
+content/uploads/2021/11/nitrat-walet-300x199.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/nitrat-walet.jpg) Proses pencucian dan perendaman
 dapat menurunkan kadar nitrit pada sarang walet[/caption]
 
@@ -63,7 +63,7 @@ tinggi, sisa kotoran walet, atau bahan organik lain. Nitrite biasanya terserap
 atau menempel pada celah-celah yang terdapat di permukaan sarang. Berdasarkan
 hasil penelitian yang dilakukan oleh perguruan tinggi maupun lembaga riset,
 Nitrite di sarang walet terbentuk secara alami baik di gua-gua maupun rumah-
-rumah [peternakan](http://127.0.0.1/mitra/peternakan "peternakan") walet
+rumah [peternakan](https://www.mitrausahatani.com/peternakan "peternakan") walet
 Berdasarkan regulasi United States Food and Drug Administration (USFDA) pada 1
 April 2010 kandungan Nitrite dalam makanan yang diizinkan untuk dikonsumsi
 tidak lebih dari 200 ppm (part per million). Pemerintah Hongkong
@@ -91,8 +91,8 @@ eksportir yang bisa mengirimkan sarang walet ke China. Seandainya pemerintah
 China menetapkan kadar maksimal Nitrite 30 ppm pun kemungkinan hanya 10%
 sarang walet yang lolos ekspor. [caption id="attachment_15440"
 align="aligncenter" width="300"][![Kotoran di lantai rumah walet salah satu
-sumber nitrit](http://127.0.0.1/mitra/wp-content/uploads/2021/11/nitrat-
-sarang-walet-300x238.jpg)](http://127.0.0.1/mitra/wp-
+sumber nitrit](http://localhost/mitra/wp-content/uploads/2021/11/nitrat-
+sarang-walet-300x238.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/nitrat-sarang-walet.jpg) Kotoran walet di lantai rumah
 walet salah satu sumber nitrit[/caption]
 

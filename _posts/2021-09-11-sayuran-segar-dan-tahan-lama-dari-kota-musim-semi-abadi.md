@@ -9,7 +9,7 @@ tags:
 - sayuran
 
 modification_time: 2022-09-21 06:17:39
-blogger_orig_url: "http://localhost/mitra/usaha-sayuran-segar-dari-kota-musim.html"
+blogger_orig_url: "http://www.mitrausahatani.com/usaha-sayuran-segar-dari-kota-musim.html"
 ---
 
 Pagi itu sinar matahari malu-malu menerobos masuk di antara dahan-dahan pohon
@@ -28,8 +28,8 @@ daging, dan kulit "lumpia". "Kita pilih sendiri kombinasi sayuran dan lauknya.
 Taruh di kulit "lumpia", gulung, baru dimakan," tutur Ir Agus Setiyono, sales
 manager PT Seminis Vegetable Seed Indonesia yang berkunjung ke Dalat pada
 penghujung Agustus. [caption id="attachment_14019" align="aligncenter"
-width="300"][![Buah buahan di pasar](http://127.0.0.1/mitra/wp-
-content/uploads/2021/09/kebun-buah-300x199.jpg)](http://127.0.0.1/mitra/wp-
+width="300"][![Buah buahan di pasar](http://localhost/mitra/wp-
+content/uploads/2021/09/kebun-buah-300x199.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/09/kebun-buah.jpg) Buah-buahan juga dijajakan[/caption]
 Buat yang belum terbiasa, cara makan seperti itu memang merepotkan. Toh, masih
 ada pilihan lain. Macam-macam mie berbahan tepung beras layak dicoba. Lagi-
@@ -49,7 +49,7 @@ ditanam di sana. Sebut saja bawang bombai, tomat, dan kubis. "Tapi paling
 banyak sayuran daun dan rempah," kata Agus. Daerah yang punya julukan kota
 musim semi abadi karena udaranya selalu sehangat musim semi, bersuhu antara 15
 sampai 24°C juga produsen buah-buahan dan [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"). Stroberi bersosok
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"). Stroberi bersosok
 gemuk berwarna merah terang terlihat dijajakan di pasar-pasar tradisional di
 Dalat. Masih di tempat sama, tumpukan daun bawang, seledri, kacang kapri, bit,
 radichio, sayuran segar, dan artichoke tertata rapi. Semua bersih tanpa tanah
@@ -76,11 +76,11 @@ Dukungan kuat pemerintah memang salah satu kunci sukses pengembangan pertanian
 sayuran segar di Vietnam. Iklim investasi dibuat sekondusif mungkin untuk
 menarik minat investor luar. "’Selama 4 tahun pertama, investor tak perlu
 membayar pajak dan bunga pinjaman bank," ujar Torn Hooft dari Dalat Hasfarm
-Agrivina grup PT [Perkebunan](http://127.0.0.1/mitra/perkebunan "Perkebunan")
+Agrivina grup PT [Perkebunan](https://www.mitrausahatani.com/perkebunan "Perkebunan")
 Mangkurajo yang membuka kebun tanaman hias dan sayuran tahan lama di sana.
 [caption id="attachment_14017" align="aligncenter" width="300"][![gudangnya
-sayuran](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-
-sayuran-300x175.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-
+sayuran](http://localhost/mitra/wp-content/uploads/2021/09/kebun-
+sayuran-300x175.jpg)](http://localhost/mitra/wp-content/uploads/2021/09/kebun-
 sayuran.jpg) Dalat, gudangnya sayuran dan buah subtropis[/caption]
 
 ## Sayuran Segar Komoditas Ekspor

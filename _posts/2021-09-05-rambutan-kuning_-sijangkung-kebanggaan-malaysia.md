@@ -10,13 +10,13 @@ tags:
 - sikuning
 
 modification_time: 2021-09-05 04:25:51
-blogger_orig_url: "http://localhost/mitra/rambutan-kuning.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rambutan-kuning.html"
 ---
 
 Ada pemandangan menarik ketika Kami singgah di tempat peristirahatan jalan tol
 di wilayah Gantang, Malaysia. Di antara onggokan buah-buahan di jongko-jongko
 kaki lima terdapat rambutan warna kuning. Lazimnya
-[rambutan](http://127.0.0.1/mitra/topik/rambutan) berwarna merah merona.
+[rambutan](https://www.mitrausahatani.com/topik/rambutan) berwarna merah merona.
 Pantas kalau 2 teman yang turut menemani peliputan mengira Rambutan Kuning itu
 buah rambutan yang belum matang penuh. Buah rambutan warna kuning serupa Kami
 lihat saat berkunjung ke kebun Mulyono Sutedjo di Desa Sijangkung, Singkawang,
@@ -25,7 +25,7 @@ dewasa tengah memamerkan buah berambut kuning itu. Meski berbuah tak lebat,
 hanya beberapa dompol, tapi warnanya yang aktraktif menyita perhatian. "Tahun
 kemarin juga berbuah," ungkap Mulyono, pemilik kebun. [caption
 id="attachment_13878" align="aligncenter" width="1511"]![Buah rambutan si
-kuning](http://127.0.0.1/mitra/wp-content/uploads/2021/09/rambutan.jpg)
+kuning](http://localhost/mitra/wp-content/uploads/2021/09/rambutan.jpg)
 Sepintas mirip rapiah atau aceh kuning[/caption] Menurut pria yang hobi
 berkebun itu, rambutan kuning tergolong genjah. Pada umur 3,5 tahun ditanam
 dengan bibit okulasi mulai belajar berbuah. Kini menginjak umur 4,5 tahun,
@@ -47,7 +47,7 @@ tersisa di sela-sela gigi. Sayangnya daya tahan si emas kurang baik. Dua hari
 setelah dipetik rambut menghitam meski daging masih layak makan. Apalagi jika
 penanganan pascapanen salah, tidak sampai 24 jam Rambutan Kuning akan berubah
 hitam. Penampilannya menurun drastis, dari sangat menarik langsung menjadi
-buruk rupa. ![](http://127.0.0.1/mitra/wp-
+buruk rupa. ![](http://localhost/mitra/wp-
 content/uploads/2021/09/sikuning.jpg)
 
 ## Perkembangan buah Relatif cepat

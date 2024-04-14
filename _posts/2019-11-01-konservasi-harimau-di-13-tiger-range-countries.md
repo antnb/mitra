@@ -12,7 +12,7 @@ tags:
 - sumatera
 
 modification_time: 2019-11-01 11:14:00
-blogger_orig_url: "http://localhost/mitra/konservasi-dan-penangkaran-harimau-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/konservasi-dan-penangkaran-harimau-di.html"
 ---
 
 Satu setengah abad yang lalu, sekitar 1850-an diperkirakan masih ada 100.000
@@ -40,8 +40,8 @@ Ragunan," kata Isep Herdiana, kurator mamalia karnivora di hutan kota seluas
 140 hektar itu. TMR memang termasuk lembaga konservasi eks-situ yang sukses.
 Khusus untuk harimau sumatera, sudah dikirimkan seekor ke Bengkulu, 2 ekor
 (Semarang), 4 ekor (Jambi), dan 3 ekor (Surabaya).
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/macan_439x480.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/11/macan_439x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/macan_439x480.jpg)
 
 ## Kunci Sukses Penangkaran Harimau
@@ -85,10 +85,10 @@ diternakkan, tapi tidak bisa dijinakkan. Padahal, dengan hidup di kandang,
 semua harimau kehilangan naluri untuk berburu, dan sulit hidup di alam lepas.
 Di Harbin, Tiongkok, sebuah penangkaran harimau Siberia yang dibuka pada 1986
 kini memiliki lebih dari 1.000 ekor. Sekitar 100 ekor dipamerkan rutin untuk
-publik. Namun, [peternakan](http://127.0.0.1/mitra/peternakan "peternakan")
+publik. Namun, [peternakan](https://www.mitrausahatani.com/peternakan "peternakan")
 harimau masih mendapat tentangan keras di mana-mana. Sudah 11.000 tahun
 manusia beternak, tetapi harimau tetap tidak memenuhi syarat domestikasi. Di
-antara 6 syarat [hewan ternak](http://127.0.0.1/mitra/ektrak-temulawak-
+antara 6 syarat [hewan ternak](https://www.mitrausahatani.com/ektrak-temulawak-
 sebagai-antibiotik.html) adalah kemudahan memberi pakan, mengakui kepemimpinan
 manusia, jinak, dan mau berdampingan dengan ternak lainnya. Sebaliknya,
 perawatan harimau sulit, mahal dan umumnya dipelihara diam-diam bahkan secara
@@ -123,6 +123,6 @@ ke enam. Gagah, lucu, menggemaskan, tapi juga sangat berbahaya! WWF tentu
 tidak menghitung Sinar dan keluarganya, ketika memastikan hanya tersisa 2.000
 ekor benggala diraja dalam hutan di India, Bhutan, Nepal dan Myanmar. Namun,
 masyarakat awam tetap bersyukur ada yang bernama Sinar, lahir dan besar di
-belantara Jakarta. (**[MUT](http://127.0.0.1/mitra/)**)
+belantara Jakarta. (**[MUT](https://www.mitrausahatani.com/)**)
 
 

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-17 06:00:53
-blogger_orig_url: "http://localhost/mitra/potensi-bisnis-sarang-walet-di-negri.html"
+blogger_orig_url: "http://www.mitrausahatani.com/potensi-bisnis-sarang-walet-di-negri.html"
 ---
 
 _Perlahan-lahan badan perahu itu melepaskan diri dari pelabuhan. Raungan 2
@@ -52,7 +52,7 @@ lingkungan gua bersih, bebas polusi udara, dan pencemaran lain. Menurut
 alumnus Oral Roberts University jurusan Bisnis dan Marketing di Amerika
 Serikat itu, Vietnam termasuk beruntung mempunyai sarang walet gua yang
 berkualitas. Sebab, saat ini konsumen di mancanegara meminta [sarang walet
-alami](http://127.0.0.1/mitra/budidaya-sarang-walet-bisa-diternakan.html)
+alami](https://www.mitrausahatani.com/budidaya-sarang-walet-bisa-diternakan.html)
 tanpa proses pencucian. Sarang asal gua, “Lebih dipercaya, higienis, dan
 bersih,” ucap Hary. Tak heran bila setiap tahun 1 ton _yen sao_ (sarang walet
 dalam bahasa Vietnam, red) dari Pulau Salangane mengisi pasar lokal dan ekspor
@@ -82,7 +82,7 @@ Hary sedikitnya 1.000-1.500 walet bersarang di bawah bangku penonton setiap
 malam. “Walet itu sepertinya sudah lama bersarang di sana,” ujarnya. Penduduk
 di sana tidak berusaha memancing masuk ke rumah karena tidak mengetahui cara-
 caranya. ![Rumah lobster diperlukan untuk mencegah
-kanibalisme](http://127.0.0.1/mitra/wp-
+kanibalisme](http://localhost/mitra/wp-
 content/uploads/2020/08/lobster_1121x800.jpg)
 
 #### Masyarakat Vietnam Masih Gagap teknologi
@@ -97,13 +97,13 @@ pun dikelola sangat konvensional tidak seperti di Indonesia. Meski demikian,
 perusahaan minuman segar berbahan sarang walet justru banyak ditemui. Sebut
 saja Bach Khang, Nguyen Paht, Sanest, Hai Nam, dan Tien Nghiep yang produknya
 mengisi pasar swalayan dan pasar lokal di Vietnam. Untuk memproduksi [minuman
-berbahan liur walet](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-
+berbahan liur walet](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-
 walet.html) itu, perusahaan-perusahaan yang mayoritas berlokasi di Ho Chi Minh
 City itu mengandalkan produksi sarang walet dari gua. Perkembangan bisnis
 walet di Vietnam memang terbelakang. Itu lantaran beragam kendala yang seakan
 memasung, seperti birokrasi pemerintah, teknologi, dan kepercayaan masyarakat
 setempat. “Meyakinkan penduduk bahwa [walet bisa diternakkan di
-rumah](http://127.0.0.1/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html)
+rumah](https://www.mitrausahatani.com/alih-fungsi-ruko-menjadi-sarang-walet.html)
 sangat sulit,” ujar Hary. Namun, bila masyarakat sudah percaya dan bisa
 menggunakan teknologi perwaletan, tidak mustahil negara bekas jajahan Perancis
 itu bakal menjadi pemasok liur emas besar dari gua dan rumah.

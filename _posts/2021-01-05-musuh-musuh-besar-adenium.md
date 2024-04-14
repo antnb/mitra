@@ -11,7 +11,7 @@ tags:
 - media tanam
 
 modification_time: 2021-01-05 09:52:44
-blogger_orig_url: "http://localhost/mitra/musuh-musuh-besar-adenium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/musuh-musuh-besar-adenium.html"
 ---
 
 Kejadian itu kerap Chandra Gunawan alami saat musim hujan tiba. Tak hanya
@@ -32,14 +32,14 @@ yang digunakan digilir agar cendawan tidak kebal.
 ## Faktor Sanitasi kurang
 
 [caption id="attachment_7708" align="alignleft" width="284"][![spot
-putih](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_adenium_935x768.jpg)](http://127.0.0.1/mitra/wp-
+putih](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_adenium_935x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_adenium_935x768.jpg) Daun menguning akibat
 defisiensi hara[/caption] Musuh besar lain adalah spot-spot putih pada daun.
 Mula-mula hanya berupa bintik kecil pada daun, semakin lama semakin besar.
 Jika tidak ditanggulangi, daun akan menguning, kering dan akhirnya rontok.
 Bercak putik juga bisa muncul di batang. Itu tandanya cendawan sudah
-menyerang. Semua stadia umur [adenium](http://127.0.0.1/mitra/topik/adenium
+menyerang. Semua stadia umur [adenium](https://www.mitrausahatani.com/topik/adenium
 "adenium") bisa terkena. Menurut Handri Chuhairy dari Han Nursery, pemicunya
 ialah kekurangan sinar matahari, aerasi udara terhambat, atau sanitasi kurang.
 Untuk mengatasi semprotkan fungisida seperti Benlate, Dithane M45, atau
@@ -56,8 +56,8 @@ agar tidak terjadi kekebalan.
 ## Serang batang
 
 [caption id="attachment_7709" align="alignright" width="328"][![batang
-membusuk](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_adenium2_1024x760.jpg)](http://127.0.0.1/mitra/wp-
+membusuk](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_adenium2_1024x760.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_adenium2_1024x760.jpg) Bakteri menyebabkan
 batang membusuk[/caption] Keindahan bonggol dan batang juga bisa berkurang
 jika diganggu oleh bakteri atau nematoda. Bakteri membuat batang berubah

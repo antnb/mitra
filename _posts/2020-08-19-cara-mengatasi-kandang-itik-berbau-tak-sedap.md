@@ -11,7 +11,7 @@ tags:
 - kandang
 
 modification_time: 2022-09-11 01:13:37
-blogger_orig_url: "http://localhost/mitra/mengatasi-bau-kandang-itik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mengatasi-bau-kandang-itik.html"
 ---
 
 Anda pernah masuk ke kandang itik? Bau kurang sedap pasti menyerang hidung,
@@ -20,8 +20,8 @@ sedap, sehingga peternakan itik tidak mengganggu lingkungan sekitar. Kandang
 itik yang ada di belakang Kantor Walikota Jakarta Utara adalah suatu bukti.
 Bau kurang sedap yang dikhawatirkan akan mengundang protes warga ternyata tak
 terjadi. “Memang tidak bau,” seru Cici Setyowati, mahasiswa Institut Pertanian
-Bogor yang tengah magang di [Mitra Usaha Tani](http://127.0.0.1/mitra) ketika
-masuk ke dalamnya. [Peternakan](http://127.0.0.1/mitra/peternakan
+Bogor yang tengah magang di [Mitra Usaha Tani](https://www.mitrausahatani.com) ketika
+masuk ke dalamnya. [Peternakan](https://www.mitrausahatani.com/peternakan
 "Peternakan") itik milik Junaedi ini selalu dalam kondisi bersih. Setiap itik
 habis makan, lantai kandang itik yang terbuat dari semen disemprot air. Air
 cucian dialirkan ke kandang mentok (itik manila). Maksudnya, agar sisa makanan
@@ -54,8 +54,8 @@ nyaman. Keuntungan menggunakan kandang yang tertata dengan baik dan bersih
 adalah entok atau itik yang berada di dalam kandang itik ini akan lebih sehat
 dan tidak mudah terserang penyakit. Selain itu, entok atau itik yang berada di
 dalam kandang itik ini juga akan lebih cepat tumbuh dan berproduksi.
-[![kandang itik yang bebas dari bau](http://127.0.0.1/mitra/wp-
-content/uploads/2020/08/kandang-itik-300x168.jpg)](http://127.0.0.1/mitra/wp-
+[![kandang itik yang bebas dari bau](http://localhost/mitra/wp-
+content/uploads/2020/08/kandang-itik-300x168.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/08/kandang-itik.jpg)
 
 ## Solusi Atasi Bau Kandang Lantai tanah

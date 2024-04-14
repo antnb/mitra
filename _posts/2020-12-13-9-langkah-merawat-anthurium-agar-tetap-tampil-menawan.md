@@ -11,7 +11,7 @@ tags:
 - perawatan anthurium
 
 modification_time: 2020-12-13 06:28:57
-blogger_orig_url: "http://localhost/mitra/9-langkah-perawatan-anthurium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/9-langkah-perawatan-anthurium.html"
 ---
 
 Anthurium koleksi pemasar Jamu Jago itu memang prima. Waktu Trubus bertandang
@@ -36,10 +36,10 @@ lebih teduh. Secara berkala ditaburkan pupuk lambat urai. Itu ditambah
 penyemprotan pupuk daun dan vitamin 2 kali seminggu. Makanya daun terlihat
 vigor. Helaian bawah hingga atas membentuk putaran sempurna. Warnanya hijau
 solid dan bila diraba terasa tebal. Menurut Hauw Lie, pekebun di Karanganyar,
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") yang dirawat
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") yang dirawat
 di dataran tinggi lazimnya berdaun tebal dengan warna lebih segar. Di dataran
 rendah, daun cepat bongsor tapi lebih tipis dan warnanya lebih pucat. Toh di
-luar daerah sentra, kerabat [aglaonema](http://127.0.0.1/mitra/topik/aglaonema
+luar daerah sentra, kerabat [aglaonema](https://www.mitrausahatani.com/topik/aglaonema
 "aglaonema") itu tetap bisa tampil prima.
 
 ## Inilah 9 kunci poles anthos oura:

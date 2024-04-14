@@ -10,10 +10,10 @@ tags:
 - philodendron
 
 modification_time: 2020-04-07 15:51:36
-blogger_orig_url: "http://localhost/mitra/anthurium-andraeanum-sang-jawara.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anthurium-andraeanum-sang-jawara.html"
 ---
 
-Pesona [anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") hibrida
+Pesona [anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") hibrida
 itu memang tampak menonjol. Pantas ketiga juri Festival Hortikultura Greg
 Hambali, Anshori, dan Thanachai Charusom-sepakat mengganjar peserta bernomor
 75 itu sebagai jawara pertama. "Pola variegata rata di seluruh permukaan daun.
@@ -23,9 +23,9 @@ diraih kerabat talas itu mencapai 280. Bandingkan dengan perolehan angka
 pandan bali variegata yang merengkuh kampiun kedua. Koleksi Heri Syaefuddin
 itu membubukan angka 253. Tanaman itu sebetulnya tampil apik. Sayang, sosoknya
 masih kecil. Sedangkan jawara ketiga direbut _zamia variegata_ kebanggaan
-Chandra Gunawan Hendarto dengan nilai 250. [![](http://127.0.0.1/mitra/wp-
+Chandra Gunawan Hendarto dengan nilai 250. [![](http://localhost/mitra/wp-
 content/uploads/2020/04/euphorbia-
-cristata-1-1-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+cristata-1-1-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/euphorbia-cristata-1-1.jpg)
 
 ## Seleksi ketat Pada Festival Hortikultura Indonesia
@@ -37,7 +37,7 @@ digolongkan sebagai variegata. Buktinya, philodendron eceng gondok di pot
 nomor 49. Daun berbentuk lanset itu memang dihiasi bercak kuning. Sepintas tak
 ada bedanya dengan tanaman variegata lain. Namun, tunggu dulu! Setelah
 dicermati, alamak ternyata _philodendron_ itu tengah [terserang
-virus](http://127.0.0.1/mitra/biopestisida-pembasmi-hama-wereng.html). Apa
+virus](https://www.mitrausahatani.com/biopestisida-pembasmi-hama-wereng.html). Apa
 boleh buat, tanaman itu pun tereliminasi di babak awal. Itu berbeda dengan
 jawara pertama kategori variegata yang induknya pernah terkena penyakit.
 Bercak putih pada daun generasi berikutnya sudah permanen dan kondisinya pun
@@ -46,9 +46,9 @@ pola variegata, kelangkaan, dan keindahan. Hasil seleksi tahap pertama adalah
 7 tanaman variegata paling unik. Mereka adalah pandan bali koleksi Joyce di
 pot 01, palem waregu (Ukay/53), nolina (Chandra Gunawan/46), anthurium
 (Sugiono/75), kuping gajah (Chandra Gunawan/30). Berturut-turut mereka
-menyabet jawara 4-7. [![](http://127.0.0.1/mitra/wp-
+menyabet jawara 4-7. [![](http://localhost/mitra/wp-
 content/uploads/2020/04/pohon-euphorbia-
-cristata-1-2-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+cristata-1-2-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/pohon-euphorbia-cristata-1-2.jpg)
 
 ## Euphorbia cristata
@@ -68,10 +68,10 @@ Bangkok itu. Koleksi lain milik Ani sejatinya' berpeluang meraih kampiun
 pertama. Sayang, "Batang yang normal tumbuh membesar. Mestinya pemilik
 mengontrol pertumbuhan batang sejak dini," ujar Greg, ahli botani alumnus
 Institut Teknologi Bandung. Lomba [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") unik itu untuk
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") unik itu untuk
 memeriahkan Festival Hortikultura Indonesia. Festival selama 11 hari itu
 diselenggarakan oleh Majalah Pertanian
-[mitrausahatani](http://127.0.0.1/mitra) bekerja sama dengan Direktorat
+[mitrausahatani](https://www.mitrausahatani.com) bekerja sama dengan Direktorat
 Jenderal Produksi Hortikultura Departemen Pertanian. Kontes berlangsung di
 Taman Anggrek Indonesia Permai, Jakarta Timur, pada 22 September 2019.
 

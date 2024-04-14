@@ -12,7 +12,7 @@ tags:
 - pekebun
 
 modification_time: 2021-03-21 13:46:50
-blogger_orig_url: "http://localhost/mitra/populasi-turun-produksi-justru.html"
+blogger_orig_url: "http://www.mitrausahatani.com/populasi-turun-produksi-justru.html"
 ---
 
 Akibat "salah asuhan" produktivitas kentang atlantik hanya 14 ton per ha. Cara
@@ -31,8 +31,8 @@ bibit agak kecil, di bawah 50 gram per umbi 40 cm.
 ## Stolon panjang
 
 [caption id="attachment_8226" align="aligncenter"
-width="517"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/Untitled1.jpg)](http://127.0.0.1/mitra/wp-
+width="517"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/Untitled1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/Untitled1.jpg) Jarak tanam pengaruhi hasil
 panen[/caption] Jarak tanam diperlebar bukan tanpa alasan, “Atlantik perlu
 lebih lebar karena stolonnya banyak dan panjang,” ungkap H M Subchan, pekebun
@@ -58,8 +58,8 @@ hanya Rp21,5-juta.
 ### Dipanen Tepat waktu
 
 [caption id="attachment_8223" align="aligncenter"
-width="1512"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/kentang.jpg)](http://127.0.0.1/mitra/wp-
+width="1512"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/kentang.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/kentang.jpg) Hasil panen meningkat 30%[/caption]
 Masngudi pada awal penanaman menggunakan bibit dari perusahaan mitra inti.
 Namun penanaman kedua dan ketiga, bibit diperoleh dari hasil panen sendiri. Ia

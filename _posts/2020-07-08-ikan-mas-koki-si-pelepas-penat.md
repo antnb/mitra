@@ -10,7 +10,7 @@ tags:
 - ryukin
 
 modification_time: 2020-07-08 07:56:07
-blogger_orig_url: "http://localhost/mitra/ikan-mas-koki-si-pelepas-penat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ikan-mas-koki-si-pelepas-penat.html"
 ---
 
 _Begitulah cara Ferdinandes menangkap pancaran energi dari maskoki untuk
@@ -24,12 +24,12 @@ kata feng shui-warna-warni dari tubuh maskoki memancarkan energi. “Gerakan
 [maskoki](https://www.fishbase.se/Summary/SpeciesSummary.php?id=271&lang=bahasa)
 lemah gemulai. Pplan tapi pasti, itu prinsip hidup saya,” ujarnya. Lantaran
 ciri khasnya itu pula cinta Ferdinandes terhadap _Carassius auratus_ tak
-pernah luntur walau tren [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan
+pernah luntur walau tren [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan
 hias") selalu berubah. Karena itu ia tak segan-segan mencari Ikan Mas Koki
 berkualitas walau harus merogoh banyak uang. Dua puluh di antara maskokinya
 dibeli dengan harga di atas Rp 5-juta. Sisanya, di kisaran Rp 500-ribu-Rp 1
 -juta. [caption id="attachment_1237" align="aligncenter"
-width="364"]![](http://127.0.0.1/mitra/wp-
+width="364"]![](http://localhost/mitra/wp-
 content/uploads/2020/07/koki_799x800.jpg) Ferdinandes (kiri) bersama sang adik
 gandrung ranchu[/caption]
 
@@ -44,7 +44,7 @@ katanya. Sukses perdana itu membuat ayah dari Nicholas Adam Muliate dan Glenda
 Tania Muliate semakin ketagihan. Mei 2018, giliran blackmoor andalannya
 dikirim ke Jogja Goldfish Contes 2018. Si hitam pun berhasil melenggang ke
 kursi jawara di kelas open. Yang tak diduga klangenannya itu berhasil meraih
-the [best of the best](http://127.0.0.1/mitra/2-jenis-ikan-discus-unggulan-
+the [best of the best](https://www.mitrausahatani.com/2-jenis-ikan-discus-unggulan-
 hasil.html). “Dulu gelar grand champion hanya mimpi. Sekarang jadi kenyataan,”
 ujarnya. Sejak itu gelar demi gelar terus diraih oleh maskoki koleksinya.
 Sebagai bukti di kantornya ada akuarium yang di atasnya bertengger 12 piala
@@ -52,7 +52,7 @@ yang direbut sejak 5 bulan terakhir. Berkat prestasi itu nama Ferdinandes
 menjadi buah bibir baru di kalangan hobiis maskoki. Sanjungan pun datang dari
 pemain senior. Fatono misalnya, pemain kawakan maskoki di Jakarta pernah
 memuji. “Jarang ada ikan berukuran jumbo sebagus itu,” ujarnya.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_1246x800.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/07/koki_1246x800.jpg)
 
 ### Cinta Ikan Koi Sejak Kecil
 
@@ -73,7 +73,7 @@ ada 11 ranchu di kolam fiber di halaman belakang. Sisanya, 5 maskoki
 diletakkan di rumahnya di Muarakarang, Jakarta Utara. “Dipisah-pisah. Agar
 semua tempat yang kita sayangi ada maskokinya,” ujarnya. [caption
 id="attachment_1237" align="aligncenter" width="456"]![Jawara dari Kota
-Gudeg](http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_799x800.jpg)
+Gudeg](http://localhost/mitra/wp-content/uploads/2020/07/koki_799x800.jpg)
 Jawara dari Kota Gudeg[/caption]
 
 ### Keluarga Pun Menggemari Ikan maskoki
@@ -88,7 +88,7 @@ sekolah di dekat akuarium. Glenda, putrinya, lain lagi. Ia tak mau bangun
 pagi, sebelum dikatakan ikannya lapar. Sebab, bila tahu ikannya lapar, ia
 langsung melesat menuju akuarium untuk memberi pakan. Saking cintanya,
 keluarga mereka setiap minggu mengunjungi showroom ikan hias di Jakarta untuk
-[membeli aksesoris](http://127.0.0.1/mitra/evolusi-perdagangan-aksesori-ikan-
+[membeli aksesoris](https://www.mitrausahatani.com/evolusi-perdagangan-aksesori-ikan-
 hias.html), pakan, dan obat. Liburan keluarga ke luar negeri pun selalu
 dibayang-bayangi oleh maskoki. Misalnya, saat ke Hongkong mereka pasti
 menyempatkan ke Victoria Park, pusat ikan hias di sana. Sulung dari 3

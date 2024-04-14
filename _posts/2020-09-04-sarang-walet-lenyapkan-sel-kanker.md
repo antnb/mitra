@@ -3,13 +3,13 @@ layout: post
 title: 'Sarang Walet Lenyapkan Sel Kanker'
 categories: artikel|Herbal|kesehatan
 date: 2020-09-04 06:39:43
-author: Anton N
+author: Yudianto
 image: media/Gambar_Sarang-Walet_1043x800.jpg
 tags:
 - 
 
 modification_time: 2020-09-04 06:39:43
-blogger_orig_url: "http://localhost/mitra/sarang-walet-lenyapkan-sel-kanker.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sarang-walet-lenyapkan-sel-kanker.html"
 ---
 
 _Tangisan Ny. Ngkweklan kian keras dan menyayat. Ia kalut menghadapi kanker

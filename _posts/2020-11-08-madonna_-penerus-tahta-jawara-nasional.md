@@ -10,7 +10,7 @@ tags:
 - perkutut
 
 modification_time: 2020-11-08 06:23:42
-blogger_orig_url: "http://localhost/mitra/madonna-penerus-tahta-jawara-nasional.html"
+blogger_orig_url: "http://www.mitrausahatani.com/madonna-penerus-tahta-jawara-nasional.html"
 ---
 
 Lomba nasional HUT RI Cup di Pluit, Jakarta Utara, medio Agustus 2002
@@ -43,11 +43,11 @@ kebanggaan Hendrik asal Surabaya Juara Gubernur DKI Jakarta Cup Jun 2002 itu
 diam seribu bahasa sejak dikerek hingga turun gantangan. Peserta yang
 menyaksikan jalannya lomba mengakui keandalan kedua Madonna. “Setiap babak
 Madonna selalu tampil prima. Prediksi saya dia bakal meraih juara,” kata Iwan
-Santoso kepada [Mitra Usaha Tani](http://127.0.0.1/mitra) saat lomba
+Santoso kepada [Mitra Usaha Tani](https://www.mitrausahatani.com) saat lomba
 berlangsung. Perkutut koleksinya, Fujiyama hanya menyabet juara 7. [caption
 id="attachment_20703" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/perkutut.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/perkutut.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/perkutut.jpg) Tim selancar menyabet 2 juara[/caption]
 
 ## Yunior ramai
@@ -65,8 +65,8 @@ sebelumnya ia meraih mahkota juara pada kontes Gubernur DKI Cup. Prestasi
 perkutut milik Slamet asal Jakarta itu melorot pada urutan ke-4. Dewi fortuna
 juga menjauh dari pelawak kondang. Seruling milik Nurbuat. Burung ring
 Kythavin itu tak mampu berbuat banyak hingga babak ke-4 berakhir. Prestasinya
-anjlok di urutan ke-10. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/juara.jpg)](http://127.0.0.1/mitra/wp-
+anjlok di urutan ke-10. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/juara.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/juara.jpg)
 
 ### Cukup sukses

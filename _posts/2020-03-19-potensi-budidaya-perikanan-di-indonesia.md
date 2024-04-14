@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-03-19 09:52:29
-blogger_orig_url: "http://localhost/mitra/potensi-budidaya-perikanan-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/potensi-budidaya-perikanan-di.html"
 ---
 
 Dasar anak ikan!” itulah kata-kata yang tercetus sebelum terbentuknya Pulau
@@ -43,11 +43,11 @@ utama secara turun temurun, boleh dikata untuk hampir semua bangsa. Untuk
 bangsa bahari seperti Inggris, bahkan hanya kenal satu menu kebangsaan: fish &
 chip. Begitu juga Jepang dengan sashimi, alias ikan mentah. Pertanyaan kita
 sekarang adalah, apa yang harus dilakukan untuk mempertahankan
-**kemajuan[perikanan](http://127.0.0.1/mitra/perikanan "perikanan")
+**kemajuan[perikanan](https://www.mitrausahatani.com/perikanan "perikanan")
 indonesia**, bahkan mengembangkan berbagai jenis ikan? Pencemaran air di
 berbagai sungai, danau, dan lautan telah membuat berbagai varietas punah.
 Namun, bermacam upaya penangkaran dan budidaya [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias"), bisa sedikit menghibur.
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias"), bisa sedikit menghibur.
 Misalnya saja dengan semakin mantapnya kedudukan ikan koi sebagai status
 symbol kemapanan bagi banyak keluarga. Juga pengembangan jenis ornamental
 lainnya, lou han, arwana, mas koki, diskus, frontosa, dan seterusnya.
@@ -86,7 +86,7 @@ dipakai sebagai umpan. Singkatnya, ikan memberi peluang munculnya banyak
 pekerjaan dan rezeki buat manusia. Mulai dari pengadaan pakan, pembenihan,
 sampai teknik perawatan dan teknologi pengemasan ikan hidup untuk diekspor.
 Rakyat kecil mulai diuntungkan dengan munculnya
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") kutu air dan
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") kutu air dan
 cacing-sutera di sana-sini. Namun, sayang untuk artemia kita masih mengimpor.*
 De’fflikian juga berbagai makanan ikan hias. Padahal, kecintaan pada ikan ini
 bisa dimulai dari dapur, oleh setiap ibu Indonesia. Masalahnya kita sedang
@@ -101,7 +101,7 @@ sendiri.
 ## Maju bersama ikan
 
 Di bidang konsumsi pangan bangsa Indonesia, mestinya [sektor
-perikanan](http://127.0.0.1/mitra/perikanan) menjadi kebanggaan tersendiri.
+perikanan](https://www.mitrausahatani.com/perikanan) menjadi kebanggaan tersendiri.
 Sering kita merasa malu, bangsa ini menjadi pengimpor beras. Namun jarang kita
 sadari bahwa kita cukup kuat, bahkan nyaris mandiri dalam hal ikan. Sedikitnya
 20 juta dolar devisa bisa diraup dari ekspor ikan hias setiap tahunnya. Pada
@@ -124,7 +124,7 @@ dan Papua. Sudah jelas ikan berkah utama bagi bangsa bahari. Ikan tuna,
 cakalang, paus, sirip hiu, serta berbagai jenis makanan laut lain tetap
 menjadi andalan ekspor. Lebih penting lagi, ikan menjadi tumpuan harapan bagi
 anak-anak bangsa di masa depan. Latihan-latihan memantau tempat [pemijahan
-ikan](http://127.0.0.1/mitra/kiat-hobiis-cetak-cupang-jawara.html) seperti
+ikan](https://www.mitrausahatani.com/kiat-hobiis-cetak-cupang-jawara.html) seperti
 yang diadakan di Bunaken, harus sering diadakan. Demikian juga pengembangan
 teknologi eksplorasinya. Almarhum Prof Ir Johanes dari Universitas Gajah Mada
 pernah mengatakan, kecerdasan anak Indonesia merosot drastis ketika

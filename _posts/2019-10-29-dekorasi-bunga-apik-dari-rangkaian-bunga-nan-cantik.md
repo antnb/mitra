@@ -11,12 +11,12 @@ tags:
 - mawar
 
 modification_time: 2019-10-29 11:55:00
-blogger_orig_url: "http://localhost/mitra/dekorasi-apik-dari-rangkaian-bunga-nan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dekorasi-apik-dari-rangkaian-bunga-nan.html"
 ---
 
 _Apa jadinya jika daun anggur laut itu kering? Angin meluruhkan daun dari
 batang perdu itu. Daun tanaman anggota famili Polygonaceae itu biasanya
-terbuang sia-sia_ ******[Mitra Usaha Tani](http://127.0.0.1/mitra)** . Selain
+terbuang sia-sia_ ******[Mitra Usaha Tani](https://www.mitrausahatani.com)** . Selain
 daun anggur laut, Raras juga memanfaatkan bunga cantik daun puring, hanjuang,
 dan dracaena segar untuk mempercantik rangkaian. Sebagai langkah awal, Raras
 membuat pigura dari tripleks. Kemudian, membungkus bagian tepi pigura dengan
@@ -24,8 +24,8 @@ daun anggur laut kering. Perangkai bunga itu lalu menempelkan floral foam di
 bagian bawah, tengah, dan atas pigura untuk menempelkan daun-daun segar.
 [caption id="attachment_16108" align="aligncenter" width="640"][![buket bunga
 cantik dari rangkaian daun karya Sugiyanti
-Gowijaya](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/mawar_640x443.jpg)](http://127.0.0.1/mitra/wp-
+Gowijaya](http://localhost/mitra/wp-
+content/uploads/2019/10/mawar_640x443.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/mawar_640x443.jpg) Buket pengantin dari rangkaian daun
 karya Sugiyanti Gowijaya[/caption]
 
@@ -34,7 +34,7 @@ karya Sugiyanti Gowijaya[/caption]
 Bukan hanya daun anggur laut kering, Raras juga memanfaatkan daun anggur laut
 segar, la membentuknya menjadi corong lalu menempelkannya di bagian pojok kiri
 bawah dan tengah rangkaian. Sementara untuk daun dracaena [dan kordilin, ia
-melipat-lipat, mengikat dengan](http://127.0.0.1/mitra/budidaya-manggis-
+melipat-lipat, mengikat dengan](https://www.mitrausahatani.com/budidaya-manggis-
 dengan-teknik-kaki.html) kawat, lalu menempelkannya ke pojok kanan bawah dan
 bagian tengah rangkaian. "Teknik yang digunakan hanya lipat, gulung, ikat, dan
 tempel," ujarnya. Raras juga memanfaatkan batang kordilin atau hanjuang untuk
@@ -55,8 +55,8 @@ puluhan daun itu amat atraktif membentuk daun berukuran lebih besar. Bagian-
 bagian tanaman acap kali memang memberi inspirasi bagi para perangkai.
 [caption id="attachment_16107" align="aligncenter" width="206"][![dekorasi
 bunga dinding berpigura daun anggur laut kering karya Lucia
-Raras](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/mawar_206x480.jpg)](http://127.0.0.1/mitra/wp-
+Raras](http://localhost/mitra/wp-
+content/uploads/2019/10/mawar_206x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/mawar_206x480.jpg) Dekorasi dinding berpigura daun
 anggur laut kering karya Lucia Raras[/caption]
 

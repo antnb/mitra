@@ -10,15 +10,15 @@ tags:
 - Pupuk kandang
 
 modification_time: 2020-06-10 07:43:11
-blogger_orig_url: "http://localhost/mitra/memilih-media-tanam-yang-tepat-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/memilih-media-tanam-yang-tepat-untuk.html"
 ---
 
 _Media tanam kerap dianaktirikan. Hobiis[tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias) lebih sering memanfaatkan beragam
+hias](https://www.mitrausahatani.com/tanaman-hias) lebih sering memanfaatkan beragam
 suplemen dan pupuk supaya penampilan tanaman prima._ Padahal pupuk dan
 suplemen itu tidak bakal bekerja secara optimal jika media yang digunakan
 tidak sesuai. Pasalnya media menjadi dapur untuk akar sebelum disalurkan ke
-batang, daun, dan bunga. [Euphorbia](http://127.0.0.1/mitra/topik/euphorbia)
+batang, daun, dan bunga. [Euphorbia](https://www.mitrausahatani.com/topik/euphorbia)
 memiliki perakaran dalam sehingga membutuhkan media porous dan kering. Dengan
 media itu akar tidak terlalu lama mengikat air. Selain itu akar bisa lebih
 efisien memanfaatkan air. Itu sebabnya tanah merah dan atau tanah liat tidak
@@ -38,16 +38,16 @@ menyerap dan mengikat air. Gunakan serbuk kelapa segar karena yang lama banyak
 menyerap air. Pasir karang membuat penetrasi akar lebih mudah dan bebas
 bergerak. Sementara sekam bakar membuat media tidak terlalu padat sehingga
 tanaman tidak cepat busuk. Sekam segar juga bisa digunakan, tetapi kurang
-steril. Begitu juga dengan [Pupuk guano](http://127.0.0.1/mitra/dongkrak-
+steril. Begitu juga dengan [Pupuk guano](https://www.mitrausahatani.com/dongkrak-
 produksi-dan-kualitas-jambu.html) dan [pupuk
-kandang](http://127.0.0.1/mitra/topik/pupuk-kandang). Chandra sebisa mungkin
+kandang](https://www.mitrausahatani.com/topik/pupuk-kandang). Chandra sebisa mungkin
 menghindari penggunaan pupuk kandang. Alasannya, “Selain tidak steril
 komposisinya juga tidak jelas,“ ujar pemilik Godongijo Nursery itu. Pupuk
 kandang sebaiknya digunakan untuk tanaman di tempat terbuka karena tidak
 gampang menguap. Itu yang diterapkan penangkar euphorbia di Thailand. Mereka
 mencampurkan pupuk kandang dengan cacahan sabut kelapa dan pasir dengan
 perbandingan 3:4:3. Media itu hampir sama dengan
-[adenium](http://127.0.0.1/mitra/topik/adenium), tetapi pasirnya lebih banyak.
+[adenium](https://www.mitrausahatani.com/topik/adenium), tetapi pasirnya lebih banyak.
 Pupuk kandang cocok digunakan di negeri Siam karena suhunya relatif tinggi
 sehingga pupuk dan air gampang menguap. Nun di Semarang Franciscus Kusdianto,
 kolektor tanaman hias menggunakan media yang hampir sama. Ia menggunakan

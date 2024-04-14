@@ -10,7 +10,7 @@ tags:
 - kelapa
 
 modification_time: 2019-10-31 08:29:00
-blogger_orig_url: "http://localhost/mitra/produk-olahan-kelapa-pandan-wangi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/produk-olahan-kelapa-pandan-wangi.html"
 ---
 
 Selama dua generasi, K-Fresh hanya mengekspor kelapa pandan wangi segar dan
@@ -24,8 +24,8 @@ nata de coco, dan es krim. Bentuk kelapa nirsabut itu unik: tempurung kelapa
 utuh tanpa sabut dengan tuas pembuka mirip minuman kaleng. [caption
 id="attachment_16134" align="aligncenter" width="1024"][![Citarasa kelapa
 pandan wangi thailand berujung runcing lebih baik daripada yang berujung
-membulat](http://127.0.0.1/mitra/wp-content/uploads/2019/10/pohon-kelapa-
-pandan-wangi-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+membulat](http://localhost/mitra/wp-content/uploads/2019/10/pohon-kelapa-
+pandan-wangi-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/pohon-kelapa-pandan-wangi.jpg) Citarasa kelapa pandan
 wangi berujung runcing lebih baik daripada yang berujung membulat[/caption]
 
@@ -53,7 +53,7 @@ digunakan untuk mengemas produk susu segar. Masa simpan minuman kelapa
 produksi Prima Beverage dalam kemasan mencapai 2 tahun. Kemasan itu juga
 meyediakan kepraktisan bagi produsen. Mereka tidak lagi harus membuang ribuan
 ton bahan bakar untuk mengirim kelapa bulat [dengan sabut
-dan](http://127.0.0.1/mitra/budidaya-manggis-dengan-teknik-kaki.html)
+dan](https://www.mitrausahatani.com/budidaya-manggis-dengan-teknik-kaki.html)
 tempurung yang hanya terbuang di tempat tujuan. Satu kontainer minuman kelapa
 dalam kemasan praktis itu bisa setara 4 kontainer kelapa bulat.
 
@@ -74,8 +74,8 @@ merek olahan minuman kelapa yang beredar antara lain Hydro Coco, BioJANNA, dan
 BioTerra. Olahan kelapa tak sebatas minuman, tetapi juga minyak dan kosmetik.
 Salah satu produsen minuman ringan asal Amerika Serikat yang mendunia pun
 terjun mengolah kelapa pandan wangi di Thailand.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/kelapa-pandan-
-wangi-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/kelapa-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/kelapa-pandan-
+wangi-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/kelapa-
 pandan-wangi.jpg)
 
 ## Buah Kelapa Pandan Wangi Kaya unsur K

@@ -9,7 +9,7 @@ tags:
 - udang
 
 modification_time: 2021-01-08 11:50:18
-blogger_orig_url: "http://localhost/mitra/kualitas-air-tambak-alga-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kualitas-air-tambak-alga-merah.html"
 ---
 
 alga merah yang ditanam pada tambak terbukti dapat memperbaiki kualitas air.
@@ -52,8 +52,8 @@ kualitas air untuk budidaya tambak.
 ## Tanam gantung alga merah
 
 [caption id="attachment_7775" align="alignleft" width="231"][![Alga
-merah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_ganggang_1024x656.jpg)](http://127.0.0.1/mitra/wp-
+merah](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_ganggang_1024x656.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_ganggang_1024x656.jpg) Alga merah ditanam
 gantung[/caption] alga merah dapat ditanam di tambak dengan dua cara, yaitu:
 tanam gantung dan menanam di dasar tambak. Metode gantung dilakukan dengan
@@ -72,8 +72,8 @@ mampu dongkrak produksi.
 
 ## Kualitas air tambak yang buruk
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_Penaeusmonodon1_1024x629.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_Penaeusmonodon1_1024x629.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_Penaeusmonodon1_1024x629.jpg)Budidaya intensif
 udang windu gencar dilakukan sejak 1980 sampai 1990 justeru menyisakan sisi
 gelap. Orientasi menggenjot produksi diutamakan tanpa memperhatikan aspek

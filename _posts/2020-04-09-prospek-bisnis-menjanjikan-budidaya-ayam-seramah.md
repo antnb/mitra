@@ -11,7 +11,7 @@ tags:
 - unggas
 
 modification_time: 2020-04-09 04:25:40
-blogger_orig_url: "http://localhost/mitra/prospek-bisnis-menjanjikan-budidaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-bisnis-menjanjikan-budidaya.html"
 ---
 
 Sejak mengenal **ayam serama** pada awal 2019 Johan langsung tergila-gila.
@@ -34,8 +34,8 @@ dan pedagang sempat mengimpor, kualitasnya tidak sebaik milik Johan. "Mereka
 tidak mendatangkan dari Pulau Penang, Kelantan, atau Kedah, melainkan dari
 Johor, bahkan sebagian dari Thailand," ungkap Rudiasfie Sjofinal alias Rudi
 Pelung, pelopor pengembangan serama di Indonesia.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Budidaya-Ayam--
-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Budidaya-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Budidaya-Ayam--
+1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/Budidaya-
 Ayam-.jpg)
 
 ## Kebanjiran Pesanan serama
@@ -71,9 +71,9 @@ berproduksi. "Kalau mau terima, yang berniat inden serama daftarnya panjang
 sekali. Tapi karena produksi sedikit terpaksa saya ditolak," kata Yusuf.
 Selama ini pengusaha atap sirap itu baru melepas 30-40 serama berbagai umur
 hanya untuk teman-temannya. Peminat dari Ambon, Nusa Tenggara Timur, Papua,
-dan Makassar disuruh bersabar. [![](http://127.0.0.1/mitra/wp-
+dan Makassar disuruh bersabar. [![](http://localhost/mitra/wp-
 content/uploads/2020/04/telur-Ayam-
-Serama-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/telur-
+Serama-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/telur-
 Ayam-Serama.jpg)
 
 ## Jual ayam serama Skala Rumahan
@@ -86,7 +86,7 @@ menghasilkan 3 ekor per bulan, peternak bisa berpenghasilan Rp 5-juta-Rp
 bulan. Biaya pakan dan tenaga kerja tidak lebih dari Rp 400.000. Keuntungan
 akan menggelembung jika yang dihasilkan serama kualitas A berharga Rp 1-juta/
 ekor. Itu pula yang ada di Malaysia, serama dihasilkan dari peternak-peternak
-skala rumahan. Pantauan [Mitra Usaha Tani](http://127.0.0.1/mitra) ke
+skala rumahan. Pantauan [Mitra Usaha Tani](https://www.mitrausahatani.com) ke
 Kualalumpur, Pulau Penang, dan Kedah sentra-sentra serama di Malaysia hanya
 satu dua farm yang agak besar, berjumlah 25-50 induk. Selebihnya hobiis yang
 mempunyai 4- 6 ekor dan memanfaatkan waktu luang menemakan koleksinya. Albert
@@ -104,8 +104,8 @@ kebetulan belaka," ujar Chooi, sapaan akrab The Leong Toh. Untuk memelihara
 Ayam seramah tak perlu halaman luas, perawatan pun mudah dan murah. Albert
 menghitung biaya pakan ayam serama dewasa tidak lebih dari RM1 atau setara Rp
 2.500 per bulan. Sebab, ia tak perlu pakan istimewa, cukup voer yang mudah
-ditemukan di pasaran. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Ayam-Serama-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+ditemukan di pasaran. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Ayam-Serama-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Ayam-Serama.jpg)
 
 ## Lucu dan naik
@@ -116,7 +116,7 @@ tak boros pakan," kata Ghazali. Ia pun penghilang stres yang mujarab. Tak
 heran jika puluhan serama dikoleksi di kediamannya di Kampong Baru, Alor
 Setar, Kedah. Mungkin karena itu pula popularitas serama cepat meroket ke
 seluruh pelosok Malaysia. Buktinya sopir taksi yang mengantar [Mitra Usaha
-Tani](http://127.0.0.1/mitra) ke sebuah farm hingga pramuniaga pasar swalayan
+Tani](https://www.mitrausahatani.com) ke sebuah farm hingga pramuniaga pasar swalayan
 mengenal serama dengan baik. Puncak kepopuleran serama terjadi pada 2000-2001.
 Sayang pada saat tren lou han ia agak tenggelam. Kini sejalan popularitas lou
 han meredup, minat untuk mengoleksi serama muncul lagi. "Di sini tua-muda,
@@ -160,7 +160,7 @@ cm," tutur Albert. Meski demikian di negeri jiran serama-serama berbobot 500 g
 bukan berarti tidak ada. Para peternak yang kurang memperhatikan kualitas
 induk masih memungkinkan mendapatkan grade B itu. Serama-serama itulah yang
 dilarikan ke Indonesia atau Thailand. Pantauan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di Hat Yai, Thailand Selatan, dan pasar
+Tani](https://www.mitrausahatani.com) di Hat Yai, Thailand Selatan, dan pasar
 Chatuchak, Bangkok, kualitas serama di sana hampir sama dengan di Indonesia.
 Thailand juga mengimpor dari Malaysia seperti yang dilakukan Chong Poh Seng.
 Setiap 2 minggu, pedagang di pasar Chatuchak itu mendatangkan 73 ekor dari

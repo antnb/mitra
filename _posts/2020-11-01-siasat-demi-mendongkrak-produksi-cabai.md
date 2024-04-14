@@ -11,7 +11,7 @@ tags:
 - petani
 
 modification_time: 2020-11-01 10:41:03
-blogger_orig_url: "http://localhost/mitra/siasat-demi-mendongkrak-produksi-cabai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/siasat-demi-mendongkrak-produksi-cabai.html"
 ---
 
 Begitulah cara Totok Wigianto mendongkrak produksi cabai. Bandingkan jika
@@ -40,8 +40,8 @@ berlebihan,” ujar alumnus Universitas Jenderal Soedirman Purwokerto itu.
 Sedangkan di lahan miring, populasi dipengaruhi oleh derajat kemiringan.
 Penanaman di lahan miring sebaiknya dimulai dari posisi paling bawah.
 Tujuannya untuk menekan penyebaran penyakit dari tanaman tua melalui
-pengairan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Cabai.jpg)](http://127.0.0.1/mitra/wp-
+pengairan. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Cabai.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Cabai.jpg)
 
 ## Cabai Varietas unggul
@@ -68,8 +68,8 @@ produksi Capsicum annuum tak optimal. Itulah sebabnya Rudy Purwadi
 mengingatkan sebelum penanaman, calon pekebun sebaiknya mengetahui jenis
 tanah. Toh, untuk mengetahuinya cukup bertanya pada penyuluh. Faktor lain yang
 mempengaruhi tingkat produksi adalah perawatan seperti pemberian pupuk.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Produksi-
-Cabai.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Produksi-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Produksi-
+Cabai.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Produksi-
 Cabai.jpg)
 
 ### Empat kilo per pohon

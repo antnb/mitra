@@ -11,13 +11,13 @@ tags:
 - walet
 
 modification_time: 2020-04-14 08:37:55
-blogger_orig_url: "http://localhost/mitra/desain-ideal-rumah-walet-sarang-putih.html"
+blogger_orig_url: "http://www.mitrausahatani.com/desain-ideal-rumah-walet-sarang-putih.html"
 ---
 
 Rumah Walet sarang putih milik H Kholil itu unik. Sepintas gedung beratap
 genteng itu seperti rumah tinggal karena pintu, jendela, dan rolling door yang
 dulu dipakai sebagai garasi mobil masih ada. Namun, siapa sangka puluhan
-kilogram [sarang walet telah dituai](http://127.0.0.1/mitra/budidaya-sarang-
+kilogram [sarang walet telah dituai](https://www.mitrausahatani.com/budidaya-sarang-
 walet-bisa-diternakan.html) dari gedung yang dibangun sejak 1940 itu. Rumah
 yang terletak 7 km dari Laut Jawa itu terdiri dari 4 bangunan yang saling
 berhubungan membentuk huruf O. Awalnya, gedung utama terletak paling depan
@@ -30,9 +30,9 @@ bangunan. Ketika panen tiba, tempat itu biasa digunakan untuk menjemur padi.
 
 ## Lubang Masuk Rumah Walet sarang putih berada di tengah
 
-Entah sebab apa, tiba-tiba puluhan [walet](http://127.0.0.1/mitra/topik/walet)
+Entah sebab apa, tiba-tiba puluhan [walet](https://www.mitrausahatani.com/topik/walet)
 nyasar ke gudang pada 1996. Sang pemilik pun membiarkan [burung itu
-bersarang](http://127.0.0.1/mitra/kain-sekat-ruang-inap-rumah-walet.html)
+bersarang](https://www.mitrausahatani.com/kain-sekat-ruang-inap-rumah-walet.html)
 begitu saja. Toh kehadirannya tidak mengganggu aktivitas penghuni rumah.
 Lambat laun _Collocalia fuciphaga_ itu beranak-pinak. Bangunan lain pun
 dimasuki walet, termasuk rumah utama. “Dugaan saya walet tertarik lantaran
@@ -52,8 +52,8 @@ dibangun di sisi kanan gedung utama. Lubang utama pintu keluar-masuk Walet
 sarang putih berukuran 2 m x 3 m terletak tepat di atas bak air. Lubang itu
 dibuat dengan cara mengecor bagian atas ruangan kosong yang menghubungkan ke-4
 bangunan. Abeng butuh waktu sekitar 3 bulan untuk merenovasi rumah.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Desain-Rumah-
-Walet.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Desain-Rumah-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Desain-Rumah-
+Walet.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/Desain-Rumah-
 Walet.jpg)
 
 ## Desain Ideal Rumah Walet dan efektif
@@ -62,7 +62,7 @@ Menurut pria kelahiran Karawang 32 silam itu keputusan untuk merenovasi
 bangunan ternyata berdampak bagus. Setelah diamati, model itu mempunyai
 beberapa kelebihan. Lubang secara vertikal itu berdampak pada ruang gerak
 burung (rooving area) terbuka. Hal itu [memudahkan
-walet](http://127.0.0.1/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html)
+walet](https://www.mitrausahatani.com/alih-fungsi-ruko-menjadi-sarang-walet.html)
 melakukan manuver sebelum masuk ke rumah. Ia yakin, disain bangunan itu cocok
 dibangun untuk daerah sentra yang rata-rata jarak antar rumah waletnya
 berdekatan. Keunggulan lain, tempat berputar grooving room) di ruangan dalam
@@ -79,8 +79,8 @@ lipat ukuran lubang. Selain mampu menampung air lebih banyak, sinar matahari
 tidak memantul ke dinding. Ia memang belum mengukur suhu dan kelembapan di
 ruangan secara akurat. Namun, menurut pengalamannya selama 5 tahun menangani
 rumah walet, **suhu dan kelembapan relatif stabil**. Suhu ideal di ruangan 26-
-29°C, kelembapan 80-95%. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/rumah-walet.jpg)](http://127.0.0.1/mitra/wp-
+29°C, kelembapan 80-95%. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/rumah-walet.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/rumah-walet.jpg)
 
 ## 2 Rumah jadi 1

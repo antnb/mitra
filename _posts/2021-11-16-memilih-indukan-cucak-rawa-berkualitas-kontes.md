@@ -9,7 +9,7 @@ tags:
 - cucak rawa
 
 modification_time: 2022-09-19 07:25:32
-blogger_orig_url: "http://localhost/mitra/memilih-indukan-cucak-rawa-berkualitas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/memilih-indukan-cucak-rawa-berkualitas.html"
 ---
 
 Burung Cucakrawa merupakan spesies burung dari famili Cuculidae. Burung ini
@@ -31,13 +31,13 @@ rowo tidaklah murah. Untuk mendapatkan indukan cucak rowo yang bagus, Anda
 perlu mengeluarkan uang sekitar Rp1.000.000,- hingga Rp2.000.000,-. Harga
 tersebut tentu saja akan berbeda-beda tergantung pada faktor-faktor seperti
 umur, jenis kelamin, dan sebagainya. Saat ini sedang marak-maraknya penjualan
-burung cucak rowo di [peternakan](http://127.0.0.1/mitra/peternakan
+burung cucak rowo di [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan")-peternakan di seluruh Indonesia. Harga cucak rowo pun cukup
 mahal yaitu sekitar Rp 1.000.000 per ekor. Banyak peternak yang berlomba-lomba
 untuk mendapatkan satu ekor cucak rowo dengan harga segitu. Namun tahukah
 Anda, sebenarnya harga cucak rowo sebenarnya bukanlah harga yang mahal. Harga
 cucak rowo sebenarnya ditentukan oleh beberapa faktor seperti umur, jenis
-kelamin, dan juga lokasi [peternakan](http://127.0.0.1/mitra/peternakan
+kelamin, dan juga lokasi [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan"). Oleh karena itu, Anda tidak perlu khawatir akan mendapatkan
 cucak rowo dengan harga yang mahal. Indukan cucak rawa seperti apakah yang
 dapat menghasilkan bakalan kelas kontes? "Sembarangan cucakrawa juga bisa,"
@@ -47,8 +47,8 @@ tergantung pemeliharaan. "Cucakrawa itu ibarat kaset kosong," papar Oman.
 Artinya bisa diisi sekehendak kita. Misal Anda membeli cucakrawa keturunan
 roppel, tapi tidak ada kawan pendamping di rumah, maka suaranya pasti tidak
 karuan. Siulan orang, suara ayam, poksay, atau tekukur bisa masuk, lanjut
-geologis yang hobi memelihara cucakrawa itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/indukan-300x169.jpg)](http://127.0.0.1/mitra/wp-
+geologis yang hobi memelihara cucakrawa itu. [![](http://localhost/mitra/wp-
+content/uploads/2021/11/indukan-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/indukan.jpg)
 
 ## Kriteria indukan cucak rowo
@@ -86,7 +86,7 @@ kandang. Seandainya masih berkelahi maka dimandikan lagi sampai basah kuyup
 dan menggigil. Demikian terus menerus sampai kedua burung berdamai. Ada banyak
 cara untuk memadukan sepasang Indukan cucak rawa. Kalau punya banyak maka
 semuanya dapat disatukan dan diamati yang sudah berjodoh. [Telur yang dierami
-akan menetas](http://127.0.0.1/mitra/solusi-telur-perkutut-gagal-menetas.html)
+akan menetas](https://www.mitrausahatani.com/solusi-telur-perkutut-gagal-menetas.html)
 setelah 14 hari. Anakan baru lahir masih bugil, tanpa bulu seperti anak tikus.
 Kemudian tumbuh bulu lidi, bulu kipas, dan terakhir bulu kapas. Barulah dia
 bisa terbang sempurna. Semua itu masing-masing perlu waktu 7—9 bulan.
@@ -96,13 +96,13 @@ bisa terbang sempurna. Semua itu masing-masing perlu waktu 7—9 bulan.
 Setelah 3 kali ganti bulu burung cucak rawa masuk masa dewasa siap bertelur.
 Ada peternak yang memberi pakan tambahan berupa vitamin, dan obat-obatan.
 Hasilnya dalam waktu 1,5 tahun sudah siap bertelur. Teknik ini memerlukan
-biaya tinggi. [![](http://127.0.0.1/mitra/wp-content/uploads/2021/11/pakan-
-cucak-rawa-300x169.jpg)](http://127.0.0.1/mitra/wp-
+biaya tinggi. [![](http://localhost/mitra/wp-content/uploads/2021/11/pakan-
+cucak-rawa-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/pakan-cucak-rawa.jpg)
 
 ## Pakan Cucak rawa
 
-Oman memberi [pakan buatan serangga](http://127.0.0.1/mitra/tumbuhkan-
+Oman memberi [pakan buatan serangga](https://www.mitrausahatani.com/tumbuhkan-
 serangga-pakan-walet.html) hidup, dan buah-buahan untuk burung cucak rawa
 peliharaannya. Buah-buahan yang diberikan bisa pisang, pepaya, apel atau buah
 apa saja. Pakan buatan untuk Indukan cucak rawa ada yang impor seperti fancy

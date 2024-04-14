@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-20 07:56:43
-blogger_orig_url: "http://localhost/mitra/gemerincing-rupiah-berkat-salak-pondoh.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gemerincing-rupiah-berkat-salak-pondoh.html"
 ---
 
 Jam menunjukkan pukul 04.00. Beberapa pick up sarat muatan memasuki pelataran
@@ -129,7 +129,7 @@ dan C (diatas 15 buah).
 
 Tak heran bila kekurangan pasokan itu menjadi pemicu banyak orang menanam. Di
 Sleman, tempat asal mula pondoh, terjadi peningkatan areal dan populasi. Data
-dinas [Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") Provinsi
+dinas [Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") Provinsi
 Yogyakarta menunjukkan, pada 1998 populasi 1.540.000 tanaman dengan produksi
 19.622.100 kg. Pada 2001 populasi salak pondoh di Kabupaten Sleman mencapai 3
 juta pohon.

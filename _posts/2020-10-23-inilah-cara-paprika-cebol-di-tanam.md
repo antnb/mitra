@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-23 07:02:47
-blogger_orig_url: "http://localhost/mitra/inilah-cara-paprika-cebol-di-tanam.html"
+blogger_orig_url: "http://www.mitrausahatani.com/inilah-cara-paprika-cebol-di-tanam.html"
 ---
 
 Lantaran sosok yang "cebol", budidaya paprika pax berbeda dengan umumnya.
@@ -65,7 +65,7 @@ Setiap tanaman membutuhkan 400 cc nutrisi per hari. Ia diberi secara bertahap,
 nutrisi diberi berlebih dari 400 cc agar media siap tetap lembap. “Yang utama
 tidak terlalu basah. Pagi sekitar 10%, siang 30-40%, dan sisanya sore.
 Kepekatannya dipertahankan sekitar 2,3,” jelas alumnus Sekolah
-[Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") Larenstein, Belanda
+[Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") Larenstein, Belanda
 itu. Sejak berumur 3 bulan, seminggu sekali ruas ke-2 dari cabang sekunder
 diwiwil. Ia hanya disisakan 3 helai daun lantaran setiap cabang hanya
 dipertahankan 1 buah. Jika tidak diwiwil, pax akan melebar ke samping seperti

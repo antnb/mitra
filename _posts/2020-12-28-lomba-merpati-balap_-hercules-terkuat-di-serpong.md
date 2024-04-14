@@ -3,14 +3,14 @@ layout: post
 title: 'Lomba Merpati Balap: Hercules Terkuat di Serpong'
 categories: hobi
 date: 2020-12-28 08:30:07
-author: Anton N
+author: Yudianto
 image: media/Gambar_1234_1024x704.jpg
 tags:
 - merpati
 - merpati balap
 
 modification_time: 2020-12-28 08:30:07
-blogger_orig_url: "http://localhost/mitra/lomba-merpati-balap-hercules-terkuat-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/lomba-merpati-balap-hercules-terkuat-di.html"
 ---
 
 Hercules memang pantas menyandang gelar juara pertama. Penampilannya memukau

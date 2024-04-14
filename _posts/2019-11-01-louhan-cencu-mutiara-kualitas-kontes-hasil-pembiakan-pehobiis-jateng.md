@@ -11,7 +11,7 @@ tags:
 - louhan
 
 modification_time: 2019-11-01 13:02:00
-blogger_orig_url: "http://localhost/mitra/louhan-cencu-mutiara-kualitas-kontes.html"
+blogger_orig_url: "http://www.mitrausahatani.com/louhan-cencu-mutiara-kualitas-kontes.html"
 ---
 
 Taburan mutiara di tubuh Diamond membawanya meraih gelar baby champion.
@@ -24,8 +24,8 @@ Tomi Adi Prasetya, juri asal Kotamadya Surakarta, Provinsi Jawa Tengah.
 Kualitas itu meningkat pesat dibandingkan kontes regional di Bandung pada 18
 Juni 2014. [caption id="attachment_16180" align="aligncenter"
 width="640"][![Taburan mutiara di tubuh louhan mutiara membawanya meraih gelar
-baby champion](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/lohan_640x368.jpg)](http://127.0.0.1/mitra/wp-
+baby champion](http://localhost/mitra/wp-
+content/uploads/2019/11/lohan_640x368.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/lohan_640x368.jpg) Taburan mutiara di tubuh Diamond
 membawanya meraih gelar baby champion[/caption]
 
@@ -51,11 +51,11 @@ prestasi luar biasa, seluruhnya masuk 10 besar. Bahkan, Louhan Cencu Mutiara
 bonsai miliknya yang diberi nama Bakpau pun meraih juara kesatu. "Komposisi
 tubuhnya sempurna, antara panjang dan lebarnya satu berbanding satu," kata
 Hadi Senjaya. Bonsai 5 bulan itu dibelinya dari
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") Data Holic. Ade
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") Data Holic. Ade
 tidak memberi perlakuan spesial pada lou han miliknya. Alumnus Universitas
 Katolik Parahyangan, Bandung, itu hanya memberikan 4 balok cacing beku
 berukuran 1 cm x 1 cm [dan 10-15 butir pelet setiap hari, la pun memberikan
-dua potongan kecil udang tanpa](http://127.0.0.1/mitra/love-bird-gobi-dan-
+dua potongan kecil udang tanpa](https://www.mitrausahatani.com/love-bird-gobi-dan-
 gondo-mayyit.html) kulit setiap 3 hari. Setiap kali habis makan ia melatih lou
 han koleksinya dengan kaca selama 10 menit. Pembersihan akuarium dengan
 mengganti 50% air dilakukan saban 2 kali sepekan.
@@ -88,6 +88,6 @@ seperti Jaya menjadi harapan baru kemajuan louhan mutiara Indonesia. Kontes
 yang diselenggarakan di Mal Festival City Link, Bandung, itu diikuti 161 lou
 han dari berbagai kelas. "Antusias pengunjung pun sangat baik. Banyak yang
 mulai melirik lagi Louhan Cencu Mutiara," kata Jimmy, panitia kontes.
-([MUT](http://127.0.0.1/mitra/))
+([MUT](https://www.mitrausahatani.com/))
 
 

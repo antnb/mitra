@@ -11,7 +11,7 @@ tags:
 - diskus
 
 modification_time: 2020-04-02 13:18:06
-blogger_orig_url: "http://localhost/mitra/2-jenis-ikan-discus-unggulan-hasil.html"
+blogger_orig_url: "http://www.mitrausahatani.com/2-jenis-ikan-discus-unggulan-hasil.html"
 ---
 
 _Perjuangan pemilik Kitti Discus Farm itu memang tidak sia-sia. Keinginan
@@ -24,14 +24,14 @@ dengan leopard, Kitti-demikian ia disapa-mendapatkan tiger snake. Si loreng
 itu menjadi lebih anggun pada keturunan ke-4. “Ini perbaikan dari generasi-
 generasi sebelumnya. Strain sangat jelas dan bagus, karena asal indukan juga
 jelas dan berkualitas,” tutur Achmad Raharjo, staf Raiser [Ikan
-Hias](http://127.0.0.1/mitra/ikan-hias "Ikan Hias"), Cibinong.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/diskus-cross-
-breed.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/diskus-cross-
+Hias](https://www.mitrausahatani.com/ikan-hias "Ikan Hias"), Cibinong.
+[![](http://localhost/mitra/wp-content/uploads/2020/04/diskus-cross-
+breed.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/diskus-cross-
 breed.jpg)
 
 ### Tiger snake discus
 
-Berasal dari indukan bercorak apik, ikan discus jjenis tiger snake pun menjadi diskus yang super bagus. Harap mafhum, wild diskus = mewariskan corak unik pada bar hitam, ° sedangkan leopard menurunkan bar hitam. | Namun, garis hitam pada tiger snake lebih £ tajam dan tegas dibanding sang induk. Apalagi kombinasi bar antik itu berpadu indah dengan totol merah yang lebih halus. Tak heran bila si loreng menjadi buruan hobiis. Pada awal September 2004, Raiser [Ikan Hias](http://127.0.0.1/mitra/ikan-hias) Cibinong berhasil memboyong ratusan ikan bertubuh pipih itu dari negeri Gajah Putih. [Di akuarium berukuran](http://127.0.0.1/mitra/kiat-membuat-aquascape-minimalis.html) 1 m x 0,5 m x 0,5 m, 30 diskus keluaran terbaru itu memamerkan keanggunan. [Di Thailand](http://127.0.0.1/mitra/perawatan-ranchu-top-view-ala-thailand.html) para peternak sampai sekarang terus mengembangkannya hingga mata berwarna merah penuh. Maklum, semakin anggun dan apik / harga jual semakin tinggi. Diskus bercorak full dihargai sangat tinggi. Untuk ukuran 2 inci mencapai Rp 2-juta per ekor. Sedangkan ukuran biang, 4 inci belasan juta rupiah per ekor. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/ikan-cross-breed.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/ikan-cross-breed.jpg)
+Berasal dari indukan bercorak apik, ikan discus jjenis tiger snake pun menjadi diskus yang super bagus. Harap mafhum, wild diskus = mewariskan corak unik pada bar hitam, ° sedangkan leopard menurunkan bar hitam. | Namun, garis hitam pada tiger snake lebih £ tajam dan tegas dibanding sang induk. Apalagi kombinasi bar antik itu berpadu indah dengan totol merah yang lebih halus. Tak heran bila si loreng menjadi buruan hobiis. Pada awal September 2004, Raiser [Ikan Hias](https://www.mitrausahatani.com/ikan-hias) Cibinong berhasil memboyong ratusan ikan bertubuh pipih itu dari negeri Gajah Putih. [Di akuarium berukuran](https://www.mitrausahatani.com/kiat-membuat-aquascape-minimalis.html) 1 m x 0,5 m x 0,5 m, 30 diskus keluaran terbaru itu memamerkan keanggunan. [Di Thailand](https://www.mitrausahatani.com/perawatan-ranchu-top-view-ala-thailand.html) para peternak sampai sekarang terus mengembangkannya hingga mata berwarna merah penuh. Maklum, semakin anggun dan apik / harga jual semakin tinggi. Diskus bercorak full dihargai sangat tinggi. Untuk ukuran 2 inci mencapai Rp 2-juta per ekor. Sedangkan ukuran biang, 4 inci belasan juta rupiah per ekor. [![](http://localhost/mitra/wp-content/uploads/2020/04/ikan-cross-breed.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/ikan-cross-breed.jpg)
 
 ### Goldenruby discus
 

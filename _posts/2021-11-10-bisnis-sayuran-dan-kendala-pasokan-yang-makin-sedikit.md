@@ -10,7 +10,7 @@ tags:
 - sayuran
 
 modification_time: 2022-09-19 08:14:07
-blogger_orig_url: "http://localhost/mitra/persoalan-mahalnya-harga-sayuran-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/persoalan-mahalnya-harga-sayuran-dan.html"
 ---
 
 Indonesia adalah negara dengan berbagai macam sayuran yang tersedia. Oleh
@@ -38,8 +38,8 @@ mencari celah lain yang tak dilirik pekebun umumnya. Niche market, sebut saja
 begitu. Pasar Bisnis sayuran dengan konsumen dan volume terbatas. Karena serba
 terbatas, maka fluktuasi harga relatif rendah. Harga cenderung stabil.
 Dampaknya pekebun bisa menikmati keuntungan yang pasti dan marjin tinggi.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/kubis-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/kubis-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/kubis.jpg)
 
 ## Usaha Sayuran Segar - Salah Satu Usaha Menjanjikan Dalam Bidang Pertanian
@@ -119,8 +119,8 @@ produksi sekitar Rp7.500 per pohon. Sayangnya pasar yang dijajaki SM masih
 Jakarta. "Kita belum mencoba pasar lain. Kita masih kewalahan memenuhi
 permintaan pasar ekspor untuk paprika," ujar Dudi. Sementara Dewi Sri sudah
 menggarap Batam dan Surabaya dengan sayuran gobo, ubi jepang, dan daikon.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/sayuran1-300x171.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/sayuran1-300x171.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/sayuran1.jpg)
 
 ## Pembudidayaan Sayuran Jenis Tertentu

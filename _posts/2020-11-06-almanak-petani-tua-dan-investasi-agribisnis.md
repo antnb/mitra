@@ -9,7 +9,7 @@ tags:
 - petani
 
 modification_time: 2020-11-06 12:13:43
-blogger_orig_url: "http://localhost/mitra/almanak-petani-tua-dan-investasi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/almanak-petani-tua-dan-investasi.html"
 ---
 
 Setiap bulan Oktober begini, di Amerika, biasanya saya tenggelam membaca
@@ -78,8 +78,8 @@ dana Rp 68 miliar.” Nah, akibatnya apa? Manajemen sulit mengendalikan. Jadi,
 seperti tanaman yang ditimbuni pupuk, bisnis pertanian malah mampus.
 Masyarakat perlu belajar. Para pengusaha agribisnis juga perlu berpikir
 jernih, realistis, dan keras kepada masyarakat investor. Mereka tidak boleh
-diiming-imingi, dinina-bobokan lagi. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Old-Farmers-Almanac.jpg)](http://127.0.0.1/mitra/wp-
+diiming-imingi, dinina-bobokan lagi. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Old-Farmers-Almanac.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Old-Farmers-Almanac.jpg)
 
 ## Pengabdian besar para petani
@@ -151,7 +151,7 @@ bangsa kita. Kalau ada yang sangat sukses menyediakan pangan, biasanya terkait
 erat dengan tata-niaganya. Misalnya seperti diteladankan oleh Ibu Eva Hutapea,
 yang memimpin Indofood Sukses Makmur. Di Pulau Perca, atau Andalas, atau
 Sumatera itu, bukan pertanian intensif yang harus dibanggakan, tetapi
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan"). Jadi ’ bahasanya
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan"). Jadi ’ bahasanya
 bertumpu pada kelapa sawit dan karet yang terkenal di seluruh dunia. Kalau
 kita mau belajar pada Almanak Petani Tua, mestinya, perkebunan dan kehutanan
 bisa memberikan contoh yang lebih bijaksana. Atau, barangkali kita perlu 2Q0

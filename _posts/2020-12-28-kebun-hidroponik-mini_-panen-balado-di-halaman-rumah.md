@@ -14,7 +14,7 @@ tags:
 - pupuk
 
 modification_time: 2020-12-28 07:09:50
-blogger_orig_url: "http://localhost/mitra/kebun-hidroponik-mini-panen-balado-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kebun-hidroponik-mini-panen-balado-di.html"
 ---
 
 Kebun hidroponik mini itu bisa disaksikan di halaman rumah Daniel Laurente,
@@ -45,8 +45,8 @@ murah ketimbang membeli obat stres,” ujarnya.
 ## Konsep yang Sederhana
 
 [caption id="attachment_3110" align="alignleft" width="420"][![kebun sayur
-hidroponik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_hidrro2_1024x566.jpg)](http://127.0.0.1/mitra/wp-
+hidroponik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_hidrro2_1024x566.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_hidrro2_1024x566.jpg) Sayur bisa dipanen setiap
 saat[/caption] Meski tergolong teknologi mutakhir, tetapi bertanam cara
 hidroponik mudah diaplikasikan. Hanya pada setting awal yang membutuhkan
@@ -89,7 +89,7 @@ selama 24 jam.
 ## Mutu dan kualitas sayuran bagus
 
 Meski sederhana, kondisi tomat produksi halaman bisa menyaingi
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") serupa keluaran
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") serupa keluaran
 greenhouse. Padahal, Daniel dan Rose meletakkan polibag tanaman langsung di
 tanah dan tidak dinaungi. Hujan dan sinar matahari bebas menerpa. Kondisi itu
 amat riskan menerima gangguan hama dan penyakit. Karena itu Daniel puas dengan

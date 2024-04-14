@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-07 04:56:51
-blogger_orig_url: "http://localhost/mitra/rahasia-keperkasaan-jagoan-bangkok.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rahasia-keperkasaan-jagoan-bangkok.html"
 ---
 
 _**Ayam bangkok** kesohor sebagai petarung andal. Ia begitu tangguh hingga
@@ -69,6 +69,6 @@ berkhasiat untuk memperlancar aliran darah. Yang ia hindari, “Pemberian
 suplemen atau vitamin yang bersumber dari bahan kimiawi. Ayam kan ngga bisa
 ngomong, diberi apa saja mau. Tapi kan ada efek samping seperti kelihatan
 mengantuk,” kata Pramono.(Ir Nancy Martasuta, ahli alih informasi
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian") Thailand- Indonesia)
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian") Thailand- Indonesia)
 
 

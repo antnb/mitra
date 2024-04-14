@@ -9,7 +9,7 @@ tags:
 - rebung
 
 modification_time: 2022-09-19 08:26:01
-blogger_orig_url: "http://localhost/mitra/babak-baru-bisnis-rebung-tanah-air.html"
+blogger_orig_url: "http://www.mitrausahatani.com/babak-baru-bisnis-rebung-tanah-air.html"
 ---
 
 Pohon Bambu adalah jenis bambu yang sering ditanam di sekitar rumah. Tunas
@@ -29,9 +29,9 @@ ini menyebabkan harga bambu rebung terus meningkat. Untuk memenuhi permintaan
 ini, pemerintah telah mengizinkan pembangunan hutan bambu di berbagai daerah
 di Indonesia. Ini telah menyebabkan peningkatan produksi bambu rebung di
 negara ini. Selain itu, pemerintah juga telah meningkatkan investasi dalam
-sektor [perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") bambu. Ini
+sektor [perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") bambu. Ini
 telah meningkatkan jumlah petani dan
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") bambu di
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") bambu di
 Indonesia. Rebung biasanya tumbuh tegak dengan tinggi sekitar 1 meter. Daun
 rebung berwarna hijau tua dan berbentuk lebar. Bunga rebung berwarna ungu dan
 berbentuk seperti kupu-kupu. Buah rebung berwarna kuning dan berbentuk seperti
@@ -73,8 +73,8 @@ dikembangkan juga berbeda dengan lokal. Jenisnya diambil dari jepang, yakni
 mabamboo dan green bamboo. Berbeda dengan bambu betung yang butuh waktu
 bertahun-tahun, kedua tanaman itu berumur genjah yaitu 8 bulan. Hasilnya pun
 termasuk produktif, 40kg/tahun setiap rumpunnya (berisi 3 sampai 4 batang).
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/bamboshoot-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/11/bamboshoot-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/bamboshoot.jpg)
 
 ## Tahap Awal Mulai produksi
@@ -95,23 +95,23 @@ pabrik prosesing dengan membidik pasar ekspor," ucap Kung Chu Wu, expert ROC-
 ATM. Pasalnya Hongkong, Jepang, dan Amerika masih banyak memerlukan.
 "Diharapkan setelah 3 tahun luasan areal penanaman sudah mencapai 50 ha
 sehingga dapat memasok pabrik secara kontinu," tambah pria asal taiwan
-tersebut. [Budidaya Rebung Bambu](http://127.0.0.1/mitra/cara-budidaya-rebung-
+tersebut. [Budidaya Rebung Bambu](https://www.mitrausahatani.com/cara-budidaya-rebung-
 bambu-taiwan-8.html) Di luasan 20 ha, pekebun sebanyak 20 orang bisa
 memproduksi 500kg setiap minggunya. "Tiga kuintal dikirim ke Jakarta, sisanya
 ke Surabaya," tutur Tjondro. Jumlah tersebut sebenarnya masih jauh dari
 kurang. Untuk sementara target yang diminta pasar lokal sebanyak 1 ton per
 minggu. Perlahan tapi pasti Wu optimis bisa meningkatkan hasil. "Dengan makin
 mudahnya petani mendapatkan bibit, pengembangannya sekarang relatif lebih
-mudah," tambahnya. [![](http://127.0.0.1/mitra/wp-
+mudah," tambahnya. [![](http://localhost/mitra/wp-
 content/uploads/2021/11/Bambu-
-Taiwan-1-300x169.jpg)](http://127.0.0.1/mitra/wp-
+Taiwan-1-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Bambu-Taiwan-1.jpg)
 
 ## Hanya Mengembangkan Jenis Rebung Kualitas Unggul
 
 Jenis yang dikembangkan memang tergolong baru. "Keistimewaan rebung ini adalah
 kualitas rebungnya,"papar Wu, saat ditemui [mitra usaha
-tani](http://127.0.0.1/mitra). Keunggulan lainnya adalah tidak berserat.
+tani](https://www.mitrausahatani.com). Keunggulan lainnya adalah tidak berserat.
 Sehingga amat cocok untuk bahan baku sayuran segar, acar, campuran isi lumpia
 semarang, dan rebung kering. Untuk mabamboo bobot kotornya bisa mencapai 1 kg
 per rebung. Sesudah dikupas tinggal 850g. Sedangkan green bamboo ukurannya

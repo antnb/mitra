@@ -12,7 +12,7 @@ tags:
 - produksi
 
 modification_time: 2019-10-31 12:15:00
-blogger_orig_url: "http://localhost/mitra/pohon-tanaman-pinang-berkualitas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pohon-tanaman-pinang-berkualitas.html"
 ---
 
 Masyarakat daratan Hindustan menggunakan tanaman pinang antara lain untuk
@@ -23,8 +23,8 @@ molecular-biology/areca-catechu) itu tinggi. Untuk meredakan dahaga mereka,
 masyarakat India mengandalkan penghasil utama tanaman pinang di dunia, antara
 lain Indonesia, Malaysia, dan Myanmar. Salah satu sentra penghasil pinang
 Indonesia adalah Kabupaten Tanjung Jabung Barat, Provinsi Jambi.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/pinang_479x480.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2019/10/pinang_479x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/pinang_479x480.jpg)
 
 ## Harga Pinang Yang Berfluktuasi
@@ -47,8 +47,8 @@ pinang unggul. Sejak proklamasi kemerdekaan, pemerintah belum pernah merilis
 satu varietas pinang pun. India yang membeli pinang dari Indonesia malah sudah
 melepas beberapa varietas pinang unggul. [caption id="attachment_16156"
 align="aligncenter" width="604"][![Pembuatan parit penting untuk pemenuhan
-kebutuhan air](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/pinang_604x480.jpg)](http://127.0.0.1/mitra/wp-
+kebutuhan air](http://localhost/mitra/wp-
+content/uploads/2019/10/pinang_604x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/pinang_604x480.jpg) Pembuatan parit penting untuk
 pemenuhan kebutuhan air[/caption]
 
@@ -88,7 +88,7 @@ betara seacra mandiri, cara yang lazim digunakan pekebun, red) hanya 14,3 kg
 buah matang/ tahun, setara 2,9 kg kernel kering/tahun. "Pohon pinang asal
 India menjadi bahan perbandingan lantaran mereka lebih dulu melepas pohon
 pinang hasil pemuliaan,” ungkap Miftah. Pada pengujung 2012, Menteri Pertanian
-melepas pinang itu sebagai [varietas unggul](http://127.0.0.1/mitra/4-sayuran-
+melepas pinang itu sebagai [varietas unggul](https://www.mitrausahatani.com/4-sayuran-
 varietas-unggul-dari-negeri.html) dengan surat keputusan nomor [199/
 Kpts/SR.120/1/2013](https://www.litbang.pertanian.go.id/varietas/1035/) dengan
 nama Pinang betara. Sebanyak 250 pohon induk pinang betara di Bungatanjung,
@@ -96,8 +96,8 @@ Betara, Tanjungjabung Barat, berpotensi menghasilkan 165.000 biji/tahun. Jika
 sehektar lahan ditanami 1.000 pohon, jumlah itu setara dengan pertambahan
 luasan 165 ha per tahun. [caption id="attachment_16157" align="aligncenter"
 width="640"][![Budidaya pinang secara tumpangsari dengan kopi di Tanjung
-Jabung Barat, Jambi](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/pinang_640x416.jpg)](http://127.0.0.1/mitra/wp-
+Jabung Barat, Jambi](http://localhost/mitra/wp-
+content/uploads/2019/10/pinang_640x416.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/pinang_640x416.jpg) Budidaya secara tumpangsari dengan
 kopi di Tanjung Jabung Barat, Jambi[/caption]
 
@@ -106,7 +106,7 @@ kopi di Tanjung Jabung Barat, Jambi[/caption]
 Pohon Pinang betara bukan sembarang pinang, la memerlukan ketinggian tempat
 0-600 meter dari permukaan laut. Jenis tanah yang cocok antara lain laterik
 dan aluvial. [Tanah memiliki aerasi baik dengan kedalaman lapisan atas 1-2 m,
-tanpa](http://127.0.0.1/mitra/hobi-bertani-tanpa-media-tanah-ala.html) lapisan
+tanpa](https://www.mitrausahatani.com/hobi-bertani-tanpa-media-tanah-ala.html) lapisan
 padas dan sebaiknya datar. Budidaya pinang betara membutuhkan lahan dengan
 Curah hujan optimal 750-4.500 mm/ tahun yang merata sepanjang tahun atau hari
 hujan sekitar 100-150 hari. "Lebih baik lagi kalau budidaya pinang betara
@@ -131,10 +131,10 @@ itu dengan pestisida berbahan aktif dicofol seperti Hilfol, Kelthane, dan
 Acarin dengan dosis 1,86 ml/l air Penyakit yang sangat berbahaya adalah busuk
 pangkal batang. Penyebabnya adalah jamur Ganodermo lucidum. Penyakit itu
 muncul lantaran tanaman kurang terawat mengakibatkan tumbuhnya
-[gulma](http://127.0.0.1/mitra/topik/gulma) yang membuat kondisi sekitar akar
+[gulma](https://www.mitrausahatani.com/topik/gulma) yang membuat kondisi sekitar akar
 menjadi terlalu lembap. Pengendalian ganoderma dengan menggunakan organisme
 mikro musuh alaminya seperti Trichoderma sp dan Streptomyces sp. Dengan
 praktik budidaya yang baik, pinang betara bakal menjadi unggulan yang memikat
-pembeli asal Hindustan. ([**MUT**](http://127.0.0.1/mitra/))  
+pembeli asal Hindustan. ([**MUT**](https://www.mitrausahatani.com/))  
 
 

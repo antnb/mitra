@@ -10,18 +10,18 @@ tags:
 - maizena
 
 modification_time: 2020-02-25 14:36:41
-blogger_orig_url: "http://localhost/mitra/produk-olahan-jagung-manis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/produk-olahan-jagung-manis.html"
 ---
 
 Saat ini bus berbahan bakar etanol dari [Produk
-Olahan](http://127.0.0.1/mitra/produk-olahan-kelapa-pandan-wangi.html) jagung
+Olahan](https://www.mitrausahatani.com/produk-olahan-kelapa-pandan-wangi.html) jagung
 memang belum melintasi jalanan di Jakarta. Namun, di beberapa negara seperti
 Kanada atau Amerika Serikat wahana semacam itu lalu-lalang di jalanan. Impian
 itu tengah dirintis sebuah pabrik di Cilegon, Banten. Bukan tak mungkin,
 beberapa tahun ke depan PPD, Steady Safe, atau Mayasari Bakti-bus-bus kota
 yang beroperasi di Jakarta-yang kita naiki menggunakan bahan bakar dari olahan
 jagung. Maklum, butiran anggota famili _Gramineae_ itu kini banyak diolah “di
-luar kodratnya”. Kodrat [jagung diolah](http://127.0.0.1/mitra/budidaya-
+luar kodratnya”. Kodrat [jagung diolah](https://www.mitrausahatani.com/budidaya-
 jagung-tanah-pasir-sprinkler.html) antara lain menjadi tortila atau jagung
 bakar. Sekarang produk olahan jagung manis terasa nyeleneh. Contoh, rumput
 ajaib itu dapat diolah menjadi etanol, sejenis alkohol untuk bahan bakar. “Di
@@ -33,17 +33,17 @@ terus meningkat karena dapat diperbaharui dan ramah lingkungan. Untuk
 mewujudkan impian itu, olahan jagung manis mesti diolah dengan cara basah.
 Oleh karena itu diperlukan teknologi modem dengan beragam alat dan mesin
 penunjang berharga tinggi. Suba Indah, misalnya, menggunakan [teknologi
-penggilingan mutakhir](http://127.0.0.1/mitra/mesin-pemipil-jagung-otomatis-
+penggilingan mutakhir](https://www.mitrausahatani.com/mesin-pemipil-jagung-otomatis-
 dari.html) buatan Amerika Serikat, Jerman, dan Cina untuk membangun industri
 pengolahan jagung. ![Produk Olahan jagung tepung
-maizena](http://127.0.0.1/mitra/wp-
+maizena](http://localhost/mitra/wp-
 content/uploads/2020/02/ekstrak-1024x787.jpg)
 
 ## Olahan jagung manis
 
 Disebut penggilingan basah lantaran jagung direndam air lalu digiling tanpa
 harus dikeringkan terlebih dahulu. [Jagung
-kering](http://127.0.0.1/mitra/budidaya-jagung-tanah-pasir-sprinkler.html)
+kering](https://www.mitrausahatani.com/budidaya-jagung-tanah-pasir-sprinkler.html)
 pipil direndam air panas dan asam sulfur (asam belerang). Setelah itu digiling
 dengan grinder untuk menghancurkan butiran menjadi bubur. Bubur selanjutnya
 masuk ke dalam germ separator untuk memisahkan lembaga biji (germ). Setelah
@@ -69,7 +69,7 @@ tanpa berubah warna. Dengan teknologi pengolahan modem seperti itu, setiap ton
 jagung kering pipil menghasilkan 650-670 kg tepung pati, 60 kg tepung gluten,
 200 kg dedak, dan 75 kg lembaga biji yang dapat menghasilkan 30 kg minyak.
 Selain itu, diperoleh pula ampas lembaga (corn germ meal) untuk pakan ternak.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/pipil-1024x585.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/02/pipil-1024x585.jpg)
 
 ## Produk makanan yang terbuat dari jagung
 
@@ -84,7 +84,7 @@ biskuit, maupun es krim. Maltodekstrin dipakai untuk makanan bayi dan krim
 kopi. Gula jagung memang dikenal sebagai gula rendah kalori untuk diet. Produk
 olahan jagung manis dapat juga difermentasi menjadi alkohol, asam sitrat, asam
 amino, dan gula alkohol rendah kalori. [Bisa juga dimodifikasi
-secara](http://127.0.0.1/mitra/budidaya-sarang-walet-bisa-diternakan.html)
+secara](https://www.mitrausahatani.com/budidaya-sarang-walet-bisa-diternakan.html)
 fisika maupun kimiawi menjadi modified starch untuk keperluan industri.
 Centennial Food Corporation di Marilao, Bulacan, Filipina, misalnya,
 mengembangkan produk makanan yang terbuat dari jagung. Ia juga dipakai dalam
@@ -109,7 +109,7 @@ lebih berwarna. Ampas lembaga (corn germ meal) juga sangat baik untuk pakan
 ternak. Limbah pengolahan minyak jagung itu mengandung protein dan serat
 tinggi. Dengan kadar protein di atas 18%, serat di atas 10%, dan lemak di
 bawah 5%, ia cocok [sebagai campuran pakan
-ternak](http://127.0.0.1/mitra/ternak-kroto-skala-rumahan-untuk-pemula.html)
+ternak](https://www.mitrausahatani.com/ternak-kroto-skala-rumahan-untuk-pemula.html)
 ruminansia seperti sapi.
 
 ## Produk ekspor

@@ -10,7 +10,7 @@ tags:
 - sawah
 
 modification_time: 2022-09-19 05:24:25
-blogger_orig_url: "http://localhost/mitra/budidaya-padi-135-ton-ha-dari-padi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-padi-135-ton-ha-dari-padi.html"
 ---
 
 Januari tahun ini memberikan kebahagiaan tersendiri bagi Sumaji, ketua
@@ -20,8 +20,8 @@ padi/ha. Cerita itu berawal dari ajakan Funta dari CV Marindo yang berniat
 menguji coba penanaman batangsamo di Jawa Tengah. Pilihan jatuh ke Sumaji.
 Tawaran itu disambutnya dengan tangan terbuka. Selang 2 bulan, tepatnya
 Oktober 2014, ayah 3 orang anak itu mulai menanam batangsamo.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Padi-
-batangsamo-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Padi-
+batangsamo-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Padi-batangsamo.jpg)
 
 ## Lahirnya Padi batangsamo
@@ -49,8 +49,8 @@ ramping itu pun tahan rontok dan rebah. Soal rasa, “Orang Indonesia di luar
 Sumatera banyak yang gemar makan nasi pulen. Oleh karena itu kami selain
 mendesain varietas berproduksi tinggi, tahan hama penyakit, juga memperhatikan
 selera sebagian besar penduduk Indonesia,” kata Sumardi.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/sawah-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/sawah-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/sawah.jpg)
 
 ## Optimalkan budidaya padi
@@ -74,7 +74,7 @@ Sumaji menuai 13,5 ton/ha disambut antusias oleh petani-petani lain. Mereka
 pun berniat menanam batangsamo. Namun, sayang persediaan benih masih sedikit
 sehingga harga pun tinggi, Rp40.000/kg. Saat ini BPTP hanya mampu memproduksi
 [benih padi
-unggulan](http://127.0.0.1/mitra/index.php/agrise/article/view/178)
+unggulan](https://www.mitrausahatani.com/index.php/agrise/article/view/178)
 berkualitas bagus 1 ton/ha. Seandainya satu kali produksi dihasilkan 2 ton/ha,
 otomatis harga benih turun sekitar 50%. Hal itulah yang kini sedang diusahakan
 oleh para peneliti. Selain menghasilkan batangsamo BPTP Riau pun menghasilkan

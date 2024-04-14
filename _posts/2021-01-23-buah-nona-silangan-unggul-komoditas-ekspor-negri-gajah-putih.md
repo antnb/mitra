@@ -12,7 +12,7 @@ tags:
 - thailand
 
 modification_time: 2022-11-22 06:14:04
-blogger_orig_url: "http://localhost/mitra/buah-nona-silangan-unggul-komoditas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-nona-silangan-unggul-komoditas.html"
 ---
 
 Tebakan Greg tak salah. Petch pakchong, buah nona itu, hasil silangan si
@@ -43,8 +43,8 @@ pakchong yang mewarisi ciri-ciri unggul kedua induk. Dinamakan petch pakchong
 artinya permata dari Pakchong lantaran kelahiran Pakchong itu memiliki kulit
 buah mirip permata. Ia pun kemudian disebarluaskan kepada pekebun di beberapa
 sentra. Mulai dari Provinsi Nakom Ratchasima, Suphanburi, sampai ke Nakom
-Panom di wilayah timur laut Bangkok. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/buah-Noina.jpg)](http://127.0.0.1/mitra/wp-
+Panom di wilayah timur laut Bangkok. [![](http://localhost/mitra/wp-
+content/uploads/2021/01/buah-Noina.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/buah-Noina.jpg)
 
 ## Bobot Buah yang seragam

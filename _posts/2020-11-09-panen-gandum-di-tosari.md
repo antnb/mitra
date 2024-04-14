@@ -10,7 +10,7 @@ tags:
 - panen
 
 modification_time: 2020-11-09 09:37:17
-blogger_orig_url: "http://localhost/mitra/panen-gandum-di-tosari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-gandum-di-tosari.html"
 ---
 
 Impor gandum dari Australia, Kanada, dan Amerika Serikat kelak bisa jadi
@@ -26,8 +26,8 @@ lahan 1 juta ha, berarti kebutuhan gandum sebanyak 4 juta ton/tahun bisa
 terpenuhi. Gandum bukan tanaman baru untuk Tosari. Saat krisis pangan pada
 1960-an beberapa pekebun mencoba menanam gandum. Sayangnya tanaman asli
 Amerika itu kurang mendapat dukungan pemerintah dan swasta sehingga areal
-penanaman gandum tidak berkembang. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Gandum.jpg)](http://127.0.0.1/mitra/wp-
+penanaman gandum tidak berkembang. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Gandum.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Gandum.jpg)
 
 ## Potong siklus hama
@@ -48,8 +48,8 @@ kali/musim. Tanah yang cocok adalah pasir berdebu. Tanah cukup diratakan.
 Jarak antarbaris 30 cm, dengan panjang disesuaikan lahan. Pemupukan lengkap
 dengan NPK dilakukan sekali pada saat penyiangan pertama umur 21 hari setelah
 penanaman. [caption id="attachment_20415" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/kebun-
-Gandum.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/kebun-
+width="1511"][![](http://localhost/mitra/wp-content/uploads/2020/11/kebun-
+Gandum.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/kebun-
 Gandum.jpg) Panen gandum perdana di Kecamatan Tosari - ilustrasi[/caption]
 
 ### Terus dikembangkan

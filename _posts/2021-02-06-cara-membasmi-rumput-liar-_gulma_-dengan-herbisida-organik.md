@@ -10,7 +10,7 @@ tags:
 - herbisida
 
 modification_time: 2021-02-06 15:44:28
-blogger_orig_url: "http://localhost/mitra/cara-membasmi-rumput-liar-gulma-organik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-membasmi-rumput-liar-gulma-organik.html"
 ---
 
 Mati satu tumbuh seribu. Adagium itu pas buat menggambarkan keuletan hidup
@@ -41,8 +41,8 @@ stroberi, dan tomat. Walau efektif, Anda harus merogoh kocek dalam-dalam.
 ## Herbisida Organik
 
 [caption id="attachment_8076" align="alignleft" width="191"][![herbisida
-jagung](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_gulma_588x768.jpg)](http://127.0.0.1/mitra/wp-
+jagung](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_gulma_588x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_gulma_588x768.jpg) Jagung, jadikan
 herbisida[/caption] Setiap hektar cabai butuh 10 gulung setara dengan 200 kilo
 mulsa. Harganya, Rp15.000,00 per kilogram. Anda membutuhkan Rp3-juta untuk
@@ -53,7 +53,7 @@ protein itu mengandung dipeptida. Ia adalah zat penghambat pertumbuhan gulma.
 Ternyata gluten efektif menjegal kedatangan beragam gulma. Beberapa di
 antaranya: krokot (_Portulaca oleracea_), dieng abang (_Chenopodium album_),
 bayam liar (_Amaranthus hybridus_), rumput
-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek") (_Echinochloa sp_), dan
+[bebek](https://www.mitrausahatani.com/topik/bebek "bebek") (_Echinochloa sp_), dan
 rumput jampang (_Digitaria sp_). Cara pemakaiannya juga gampang. Campurkan
 saja gluten ke tanah sebelum pindah tanam. Bisa pula taburkan di tanah yang
 telah diolah 6 pekan sebelum tebar benih. Jangan harap benih yang Anda semai

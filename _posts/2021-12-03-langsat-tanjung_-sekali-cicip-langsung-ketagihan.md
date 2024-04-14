@@ -9,7 +9,7 @@ tags:
 - langsat
 
 modification_time: 2022-09-19 17:58:05
-blogger_orig_url: "http://localhost/mitra/langsat-tanjung-sekali-cicip.html"
+blogger_orig_url: "http://www.mitrausahatani.com/langsat-tanjung-sekali-cicip.html"
 ---
 
 Langsat adalah salah satu jenis buah yang banyak ditanam di Indonesia. Buah
@@ -36,8 +36,8 @@ khawatir kotor. Di balik kulit itu terlihat daging buah putih kusam dengan
 banyak pasi berbiji kecil. Daging buah juicy tapi tidak benyek. "Ini lebih
 enak daripada duku palembang," kata salah seorang dari mereka. Langsat bagi
 banyak orang identik dengan citarasanya yang masam; duku, manis.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/Langsat-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/12/Langsat-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/Langsat.jpg)
 
 ## Rasa Buah Dijamin manis
@@ -83,9 +83,9 @@ lalu mendata produktivitas dan mengamati kondisi tanaman. Terpilihlah pohon
 berumur 51 tahun-sekarang 61tahun-dengan produksi tertinggi. Pada setiap musim
 panen tanaman anggota keluarga Meliaceae itu menghasilkan 150 kg buah.
 Produktivitas pohon lain rata-rata 120-140 kg. Bobot buah mencapai 29.3 g.
-Umumnya 22-28 g per buah. [![](http://127.0.0.1/mitra/wp-
+Umumnya 22-28 g per buah. [![](http://localhost/mitra/wp-
 content/uploads/2021/12/buah-Langsat-
-Tanjung-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/buah-
+Tanjung-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/buah-
 Langsat-Tanjung.jpg)
 
 ## Buah Varietas unggul nasional

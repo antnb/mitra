@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-22 16:19:56
-blogger_orig_url: "http://localhost/mitra/kesempatan-berinvestasi-nanas-di-pulau.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kesempatan-berinvestasi-nanas-di-pulau.html"
 ---
 
 "Singapura dan Malaysia butuh nanas dalam jumlah besar" ungkap John
@@ -89,7 +89,7 @@ yang bisa sekaligus menutupi permodalan. Ia lebih senang jika dana di galang
 dari mereka yang punya modal terbatas. Dengan begitu akan terjadi pemerataan
 pendapatan.  ![Terus
 dikembangkan](https://1.bp.blogspot.com/-l0Sts78DBvs/X5GwKj1eNjI/AAAAAAAABsc/trjhVWXzbvQ4hLF5tulscyPMoNRH9i61gCLcBGAsYHQ/s749/pineapple1.jpg)
-[Perkebunan](http://127.0.0.1/mitra/perkebunan "Perkebunan") nanas
+[Perkebunan](https://www.mitrausahatani.com/perkebunan "Perkebunan") nanas
 
 ### Komoditas potensial
 

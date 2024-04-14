@@ -9,7 +9,7 @@ tags:
 - ayam
 
 modification_time: 2022-09-19 06:56:06
-blogger_orig_url: "http://localhost/mitra/ramuan-rimpang-pengusir-flu-burung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ramuan-rimpang-pengusir-flu-burung.html"
 ---
 
 Tukidi, peternak di Sukoharjo, Jawa Tengah, terpaksa gulung tikar. Hanya dalam
@@ -34,8 +34,8 @@ terinfeksi, virus ini akan menyebabkan peradangan pada sistem respirasi
 sehingga ayam akan sulit untuk bernafas. Ayam yang terinfeksi virus flu burung
 seringkali menyendiri. [caption id="attachment_15452" align="aligncenter"
 width="300"][![virus Flu burung menyerang unggas secara cepat dan
-mematikan](http://127.0.0.1/mitra/wp-content/uploads/2021/11/flu-
-burung-300x197.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/flu-
+mematikan](http://localhost/mitra/wp-content/uploads/2021/11/flu-
+burung-300x197.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/flu-
 burung.jpg) Flu burung menyerang unggas secara cepat  
 dan mematikan[/caption]
 
@@ -54,7 +54,7 @@ hujan serangan lebih banyak, sedangkan pada musim kemarau serangan jarang
 terjadi," ujarnya. Dibandingkan saat pertama kali mewabah pada 2006, serangan
 flu burung kini semakin berkurang karena para peternak sudah mengetahui cara
 menangani penyakit. Mereka memberikan vaksinasi, jamu, dan menjaga sanitasi
-lingkungan [peternakan](http://127.0.0.1/mitra/peternakan "peternakan"). Prof
+lingkungan [peternakan](https://www.mitrausahatani.com/peternakan "peternakan"). Prof
 drh Bambang Pontjo Priosoeryanto MS PhD APVet di Fakultas Kedokteran Hewan
 Institut Pertanian Bogor beserta rekan melihat potensi herbal alias jamu untuk
 mengatasi flu burung.
@@ -81,8 +81,8 @@ Bogor itu. Dosis dan formulasi temulawak, sambiloto, temuhitam, dan meniran
 yang digunakan belum dapat dipublikasikan karena masih dalam proses paten.
 [caption id="attachment_15453" align="aligncenter" width="300"][![Kombinasi
 temu lawak, sambiloto, meniran, dan temu hitam \(tiga terakhir foto dari kiri
-ke kanan\) mampu mencegah serangan flu burung](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/meniran1-300x249.jpg)](http://127.0.0.1/mitra/wp-
+ke kanan\) mampu mencegah serangan flu burung](http://localhost/mitra/wp-
+content/uploads/2021/11/meniran1-300x249.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/meniran1.jpg) Kombinasi temu lawak, sambiloto,
 meniran, dan temu hitam (tiga terakhir foto dari kiri ke kanan) mampu mencegah
 serangan flu burung[/caption]
@@ -128,7 +128,7 @@ terdapat kerusakan pada organ usus, hati, limpa, paru-paru, ginjal, dan otak
 hewan percobaan. "Penggunaan herbal atau yang dikenal dengan istilah jamu itu
 lebih aman daripada obat kimiawi karena berbahanalami dan tidak ada residu.
 Komponen zat aktifnya berbeda dengan obat kimia sehingga meski kelebihan
-dosis, penggunaan [tanaman obat](http://127.0.0.1/mitra/kesehatan "tanaman
+dosis, penggunaan [tanaman obat](https://www.mitrausahatani.com/kesehatan "tanaman
 obat") masih bersifat aman," ujar Desmiyati. Pada budidaya ternak ayam
 pemberian jamu bisa diberikan sejak ayam berusia 5 hari hingga siap panen
 dalam bentuk campuran pakan atau minuman. Riset Bambang menunjukkan formulasi

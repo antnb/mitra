@@ -13,7 +13,7 @@ tags:
 - laba besar
 
 modification_time: 2021-01-05 08:16:51
-blogger_orig_url: "http://localhost/mitra/dulang-laba-dari-anggrek-liar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dulang-laba-dari-anggrek-liar.html"
 ---
 
 Kesibukan terus berdenyut di ruang tamu Rini usai mengikuti festival
@@ -36,8 +36,8 @@ harga belinya jauh lebih kecil.
 ## Berburu anggrek keluar Masuk jurang
 
 [caption id="attachment_7694" align="alignleft" width="257"][![Rini pebisnis
-anggrek](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_anggrek_579x768.jpg)](http://127.0.0.1/mitra/wp-
+anggrek](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_anggrek_579x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_anggrek_579x768.jpg) Satu dasawarsa menggeluti
 anggrek spesies[/caption] Rini merasakan betul manisnya berniaga anggrek
 spesies. Pendapatannya jauh melambung bila dibandingkan dengan gaji sebagai
@@ -47,7 +47,7 @@ juta rupiah. Itu hanya ekshibisi selama 10 hari. Bisa dibayangkan jika
 celengannya kian gemuk. Ucapan temannya 9 tahun silam menjadi kenyataan.
 Ketika itu sang rekan berkata, "Tanam anggrek enak lo. Pas berbunga kita tak
 punya uang, dibawa ke Gondolangu (pasar [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di Yogyakarta, red)
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di Yogyakarta, red)
 anggrek jadi duit," ujarnya menirukan sang rekan. Malahan Rini tak perlu
 bersusah-payah menenteng anggrek ke Gondolangu. Soalnya, konsumen terus
 mengalir ke nurserinya. Menurut Rini, mereka tahu keberadaan Kepitu nama
@@ -69,8 +69,8 @@ harus tutup mata agar dunia seolah tak berputar-putar," katanya mengenang.
 ## Terus belanja anggrek unik
 
 [caption id="attachment_7695" align="alignleft" width="228"][![Dendrobium
-starobllantes](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_anggrek3_631x768.jpg)](http://127.0.0.1/mitra/wp-
+starobllantes](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_anggrek3_631x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_anggrek3_631x768.jpg) Dendrobium starobllantes
 asal Papua Nugini ditemukan di Papua[/caption] Setelah memeriksakan diri di
 rumah sakit, ia berhenti persis di sisi kebun anggrek di Maguwoharjo, Sleman.
@@ -116,8 +116,8 @@ bertekad untuk serius berniaga anggrek spesies. _Dendrobium strebloceras_
 ## Salah kirim
 
 [caption id="attachment_7696" align="alignright" width="281"][![angrek
-special](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_anggrek1_823x768.jpg)](http://127.0.0.1/mitra/wp-
+special](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_anggrek1_823x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_anggrek1_823x768.jpg) Dendrobium
 undulatum[/caption] Usai ekshibisi Rini kian intens memburu anggrek-anggrek
 spesies. Awalnya memang hanya di sekitar Yogyakarta seperti _Vanda tricolor_.

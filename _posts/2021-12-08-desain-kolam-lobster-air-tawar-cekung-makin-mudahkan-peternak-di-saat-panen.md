@@ -14,7 +14,7 @@ tags:
 - peternak
 
 modification_time: 2022-09-19 06:06:58
-blogger_orig_url: "http://localhost/mitra/desain-kolam-kobster-air-tawar-cekung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/desain-kolam-kobster-air-tawar-cekung.html"
 ---
 
 Dalam budidaya lobster air tawar, kolam lobster adalah salah satu komponen
@@ -65,9 +65,9 @@ panen dilakukan. Entah itu panen bibit atau pun ukuran konsumsi. Tanpa
 rooster, panen perlu jaring besar. Namun jika rooster ada, hanya lobster di
 rooster yang terpanen. Sisanya tetap perlu diambil dengan jaring. [caption
 id="attachment_15756" align="aligncenter" width="300"][![Konstruksi kolam
-lobster hatchery benih udang permudah panen](http://127.0.0.1/mitra/wp-
+lobster hatchery benih udang permudah panen](http://localhost/mitra/wp-
 content/uploads/2021/12/kolam-budidaya-lobster-air-
-tawar-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/kolam-
+tawar-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/kolam-
 budidaya-lobster-air-tawar.jpg) Konstruksi kolam hatchery benih udang permudah
 panen[/caption] Bagi peternak dengan jumlah kolam lobster air tawar sedikit
 hal itu tidak terlalu membebani.Berbeda jika jumlahnya sudah mencapai belasan
@@ -95,8 +95,8 @@ dibuka, air pelan-pelan akan menyusut. Saat itu pula lobster ikut bergerak
 masuk ke dalam cekungan berisi air yang tingginya setara tinggi cekungan.
 [caption id="attachment_15759" align="aligncenter" width="300"][![Saat air
 menyusut, indukan lobster akan terkumpul di tengah
-cekungan](http://127.0.0.1/mitra/wp-content/uploads/2021/12/indukan-
-lobster-300x168.jpg)](http://127.0.0.1/mitra/wp-
+cekungan](http://localhost/mitra/wp-content/uploads/2021/12/indukan-
+lobster-300x168.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/indukan-lobster.jpg) Saat air menyusut, lobster akan
 terkumpul di tengah cekungan[/caption] Menurut Cuncun Setiawan dari Bintaro
 Fish Farm di Tangerang, cara yang ditempuh Fatoni cukup efektif. “Cekungan

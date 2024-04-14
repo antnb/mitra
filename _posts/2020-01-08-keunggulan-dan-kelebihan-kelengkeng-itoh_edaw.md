@@ -10,7 +10,7 @@ tags:
 - Kelengkeng
 
 modification_time: 2022-09-13 16:17:49
-blogger_orig_url: "http://localhost/mitra/kelebihan-kelengkeng-itoh-edaw.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kelebihan-kelengkeng-itoh-edaw.html"
 ---
 
 _Kelengkeng termasuk dalam keluarga Sapindaceae dan buahnya dapat dikonsumsi
@@ -56,13 +56,13 @@ ternyata menjuntai ke bawah dan bergelombang. Itu ciri utama itoh, sebagaimana
 dilihat oleh Mitra Usaha Tani dan dinyatakan oleh Stevenson Chia di Kuching.
 Sayang, buahnya tak dapat dibandingkan lantaran saat ke Kuching pohon induknya
 tidak berbuah. Sedangkan di Indonesia belum ditemukan varietas itoh yang sudah
-berbuah. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/01/kelengkeng2-300x169.jpg)](http://127.0.0.1/mitra/wp-
+berbuah. [![](http://localhost/mitra/wp-
+content/uploads/2020/01/kelengkeng2-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/01/kelengkeng2.jpg)
 
 ## Keunggulan kelengkeng itoh super
 
-[Mitra Usaha Tani](http://127.0.0.1/mitra) mencatat, minimal ada 8 varietas
+[Mitra Usaha Tani](https://www.mitrausahatani.com) mencatat, minimal ada 8 varietas
 lengkeng yang ditanam di Thailand, tapi yang diunggulkan hanya 3: si chompu,
 biew kiew, dan Kelengkeng edaw. Yang paling banyak ditanam ialah kelengkeng
 itoh. Menurut Sainarong Rasananda, ahli lengkeng Thailand dalam milisnya di
@@ -88,8 +88,8 @@ dibandingkan dengan jenis kelengkeng lainnya.
 
 Dengan keunggulan-keunggulan di atas, Kelengkeng Itoh sangat cocok untuk
 dikonsumsi oleh semua orang. Selain itu, Kelengkeng Itoh juga sangat mudah
-ditemukan di pasar tradisional maupun modern. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/01/edaw-300x169.jpg)](http://127.0.0.1/mitra/wp-
+ditemukan di pasar tradisional maupun modern. [![](http://localhost/mitra/wp-
+content/uploads/2020/01/edaw-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/01/edaw.jpg)
 
 ## Kelengkeng edaw di pasar swalayan
@@ -103,7 +103,7 @@ Indonesia belum ditemukan kelengkeng itoh yang berbuah. Namun, buah itoh alias
 Kelengkeng edaw sebenarnya sudah akrab di sini. Sebab, hampir pasti lengkeng
 bangkok yang banyak dijajakan di kaki lima, pasar tradisional, dan pasar
 swalayan varietas Kelengkeng edaw. [Lengkeng
-bangkok](http://127.0.0.1/mitra/pesta-kelengkeng-tumpang.html) yang ada di
+bangkok](https://www.mitrausahatani.com/pesta-kelengkeng-tumpang.html) yang ada di
 sini bukan varietas si chompu. Salah satu unggulan Thailand itu warna daging
 buahnya pink dengan biji kecil. Di sini belum pernah ditemukan lengkeng
 berdaging pink. Biew kiew k daging buahnya putih. Kulitnya cokelat mirip

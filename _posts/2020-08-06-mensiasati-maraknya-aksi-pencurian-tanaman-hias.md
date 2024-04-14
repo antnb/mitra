@@ -9,24 +9,24 @@ tags:
 - 
 
 modification_time: 2020-08-06 11:35:32
-blogger_orig_url: "http://localhost/mitra/mensiasati-maraknya-aksi-pencurian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mensiasati-maraknya-aksi-pencurian.html"
 ---
 
 _Munaedi, karyawan bagian perawatan tanaman t nurseri Art Garden, segera
 memanggil rekan-rekannya. Mendapat laporan pencurian, Gunawan Widjaya, pemilik
 nurseri, bergegas meninggalkan rumahnya di bilangan Pejaten, Jakarta Selatan.
 Mobilnya meluncur ke lokasi kebun di Sentul, Kabupaten Bogor. “Pencurinya
-tahu[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema"). Mungkin
+tahu[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema"). Mungkin
 dia sudah lama mengincarnya,” ujar Gunawan getir._ Maklum, kerugiannya ratusan
 juta rupiah. Harga sebuah pot pride of sumatera terdiri atas 4-5 daun mencapai
-Rp 100.000. Tercatat 60 pot [aglaonema silangan](http://127.0.0.1/mitra/7-hal-
+Rp 100.000. Tercatat 60 pot [aglaonema silangan](https://www.mitrausahatani.com/7-hal-
 penting-dalam-merawat-aglaonema.html) Gregorius Garnadi Hambali itu. Artinya,
 Rp 6-juta menguap. Kecil? Tunggu dulu, coba perhitungkan 60 indukan legacy
 yang juga dicuri. Harga masing-masing Rp l,5-juta sehingga nilainya Rp
 90-juta. Total kerugian itu setara harga rumah tipe 36 di tepian Jakarta.
 Belum lagi bila 40 pot _red patricia_ yang dicuri juga diperhitungkan.
 Kerugian yang diderita pengusaha [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") itu bakal melonjak.
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") itu bakal melonjak.
 Si tangan panjang tentu leluasa memanjat pagar greenhouse besi bekas injakan
 kaki melengkung. Menurut Gunawan, pencuri cepat beraksi dengan hanya mengambil
 tanaman, tanpa pot. Anggota famili Araceae itu dimasukkan ke karung, sedangkan
@@ -60,7 +60,7 @@ putus sehingga si pencuri dapat masuk ke kebun yang diapit 2 jalan raya itu.
 Untuk mengatasi pencurian Yopie membangun pagar berlapis dan menanam palem
 Aiphanes caryotifolia di sepanjang pagar depan. Palem itu tumbuh menjulang, 3
 meter. Sekujur batang ditumbuhi duri-duri panjang dan tajam.
-![aglaonema](http://127.0.0.1/mitra/wp-content/uploads/2020/07/coconuts-tree-
+![aglaonema](http://localhost/mitra/wp-content/uploads/2020/07/coconuts-tree-
 dried-cocos-nucifera-coconut-tree-thumbnail_1072x800.jpg)
 
 ### Alarm Dog

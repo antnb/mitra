@@ -10,7 +10,7 @@ tags:
 - sawo
 
 modification_time: 2020-04-18 02:09:48
-blogger_orig_url: "http://localhost/mitra/keistimewaan-sawo-manila-dari-pare.html"
+blogger_orig_url: "http://www.mitrausahatani.com/keistimewaan-sawo-manila-dari-pare.html"
 ---
 
 _Pantas saja peneliti buah-buahan pada Balai Pengkajian Teknologi Pertanian
@@ -33,10 +33,10 @@ berwarna cokelat muda. Aroma khas menyeruak dari buah sawo yang telah matang.
 Daging buah yang kuning menggugah selera, tekstur halus dan tak berpasir.
 Dengan keistimewaan itu, pengunjung ke pemandian Ken Dedes dan Goa Maria kerap
 mampir di kios-kios yang menjajakan sawo pare di 2 lokasi wisata terkenal di
-Kediri itu. [Mitrausahatani](http://127.0.0.1/mitra/) juga melihat puluhan
+Kediri itu. [Mitrausahatani](https://www.mitrausahatani.com/) juga melihat puluhan
 kios berderet di Dusun Bunut, Desa Beringin, Kecamatan Pare, menjajakan sawo
 di atas baki berdiameter 40 cm. Di sana tumpukan [buah
-sawo](http://127.0.0.1/mitra/prospek-bisnis-menggiurkan-perkebunan.html)
+sawo](https://www.mitrausahatani.com/prospek-bisnis-menggiurkan-perkebunan.html)
 matang menjadi rebutan para pembeli. Maklum, melepas lelah sambil menikmati
 manis dan segarnya sawo saat terik matahari memang sungguh nikmat. “Rasanya
 sangat manis dan segar serta tidak ngeres,” kata salah seorang pembeli. Ia
@@ -47,7 +47,7 @@ berpasir.
 
 Sayang meski manis dan disenangi konsumen, penanaman pohon sawo manila tidak
 diusahakan intensif dalam skala luas.
-[mitrausahatani](http://127.0.0.1/mitra/) mengamati di Kota Ken Dedes itu, 3-5
+[mitrausahatani](https://www.mitrausahatani.com/) mengamati di Kota Ken Dedes itu, 3-5
 pohon Achras zapota menghiasi halaman rumah penduduk. Toh, tanpa pemupukan,
 pemangkasan, dan perawatan lain, produktivitasnya cukup tinggi. Dari 1 pohon
 berumur puluhan tahun dipanen 1.000- 2.000 buah per pohon. Sebut saja

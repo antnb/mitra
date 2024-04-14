@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 05:23:09
-blogger_orig_url: "http://localhost/mitra/migrasi-sayuran-mediteran-ke-buyan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/migrasi-sayuran-mediteran-ke-buyan.html"
 ---
 
 Sepiring salad tersaji di atas meja di sebuah restoran di Bali. Yang istimewa
@@ -39,7 +39,7 @@ Selama ini pasokan mengandalkan lahan 3 ha.
 
 Pemilik PT Raw Nature itu membudidayakan sayuran rempah di atas guludan
 berukuran 7 m x 1 m. Ketika [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) ke sana, aroma sayuran
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) ke sana, aroma sayuran
 begitu menyengat. Apalagi saat angin berembus dari bukit Wanagiri yang berdiri
 di sisi danau, bau khas itu sangat kentara. Berikut beberapa sayuran rempah
 yang dikembangkan suami dari Filipa.

@@ -10,7 +10,7 @@ tags:
 - sale
 
 modification_time: 2020-10-28 13:02:17
-blogger_orig_url: "http://localhost/mitra/kisah-juragan-sale-pisang-raup-rupiah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kisah-juragan-sale-pisang-raup-rupiah.html"
 ---
 
 Sebutlah nama Ani panggilan akrab Kasrih Andayani bila Anda datang ke Desa
@@ -32,8 +32,8 @@ Seharian penuh ia menawarkan dagangannya dari rumah ke rumah. Panas terik tak
 dihiraukan. Namun, untung yang diperoleh tak seberapa. Ani pun lantas banting
 setir menjual bawang kulakan. Gagal di bawang perempuan berkacamata itu
 kemudian mengadu peruntungan dengan berjualan bakso. Lagi-lagi labanya tak
-seberapa. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Sale-
-Pisang.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Sale-
+seberapa. [![](http://localhost/mitra/wp-content/uploads/2020/10/Sale-
+Pisang.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/Sale-
 Pisang.jpg)
 
 ## Titik balik
@@ -97,8 +97,8 @@ menyumbang 50%. Pantas bila kini bangunan rumah yang semula semi permanen
 berubah jadi bangunan bertingkat. Lantai tanah diganti dengan keramik putih.
 Untuk mengirim produk lahan ke tangan konsumen tak lagi menggunakan sepeda
 motor atau berjalan kaki. Ani sudah sanggup membeli mobil angkutan.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/Sale.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/10/Sale.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/Sale.jpg)
 
 ## Membuka Lapangan kerja baru

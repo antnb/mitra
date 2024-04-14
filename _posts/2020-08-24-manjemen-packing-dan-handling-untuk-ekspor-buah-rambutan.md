@@ -10,7 +10,7 @@ tags:
 - rambutan
 
 modification_time: 2020-08-24 12:04:33
-blogger_orig_url: "http://localhost/mitra/ekspor-buah-rambutan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ekspor-buah-rambutan.html"
 ---
 
 Ekspor buah Rambutan harus dilakukan Maksimal 7 hari setelah panen rambutan
@@ -23,7 +23,7 @@ Ekspor buah Rambutan meminta persyaratan daging buah harus tebal dan ngelotok
 mudah dipisahkan dari kulit biji. Persentase bagian daging harus besar. Warna
 daging harus transparan dengan kadar manis 18 briks-20 briks. Tidak boleh ada
 perubahan rasa saat dikonsumsi, misalnya menjadi tawar atau masam. Kita
-memiliki cukup banyak [rambutan](http://127.0.0.1/mitra/topik/rambutan)
+memiliki cukup banyak [rambutan](https://www.mitrausahatani.com/topik/rambutan)
 varietas unggulan yang memenuhi kriteria tersebut. Di antaranya lebak bulus,
 binjai, rapiah, aceh, dan simacan. Namun, perlakuan panen dan pascapanen akan
 mempengaruhi daya jual mereka di pasar ekspor.
@@ -43,7 +43,7 @@ buah tidak boleh mengenai tanah, melainkan ditampung dalam keranjang plastik.
 Keranjang sebaiknya tidak terlalu dalam dan berventilasi baik. Buah di dalam
 keranjang tidak boleh ditumpuk terlalu penuh agar rambut tidak rusak.
 Kerusakan pada rambut menghilangkan kadar air dalam buah. Akibatnya [buah
-menjadi tidak segar](http://127.0.0.1/mitra/topik/buah-segar), berwarna
+menjadi tidak segar](https://www.mitrausahatani.com/topik/buah-segar), berwarna
 cokelat, dan mengurangi daya simpan sehingga menurunkan nilai jual. Selama
 proses pemetikan hingga dibawa ke gudang pengepakan, hindari sengatan terik
 matahari lanpwing. Cahaya berlebihan mempercepat penguapan air dari buah.
@@ -76,7 +76,7 @@ kelembapan 85%-95% sebelum dikirim. Pre-cooling dilakukan selama 2-3 jam
 menggunakan palet atau rak di dalam ruang pendingin. Waktu pre-cooling menjadi
 8-12 jam kalau sudah dikemas dalam kotak karton. Kalau mungkin, ekspor buah
 rambutan dikirim pada hari yang sama segera setelah diberi perlakuan
-pascapanen. ![packaging rambutan](http://127.0.0.1/mitra/wp-
+pascapanen. ![packaging rambutan](http://localhost/mitra/wp-
 content/uploads/2020/08/pkg_1203x800.jpg)
 
 ## Jenis Packing Kemasan Ekspor Rambutan
@@ -85,14 +85,14 @@ Banyak macam kotak kemas untuk rambutan. Bisa dengan peti kayu, keranjang
 plastik, atau keranjang rotan. Namun, untuk keperluan ekspor kotak karton
 bergelombang (KKG) dan kotak plastik styrofoam dapat dipilih. Keduanya
 memenuhi standarisasi SNI. Pengemasan untuk tujuan [ekspor adalah penunjang
-utama mengantarkan buah](http://127.0.0.1/mitra/mereka-yang-bergelut-di-
+utama mengantarkan buah](https://www.mitrausahatani.com/mereka-yang-bergelut-di-
 ekspor-impor.html) eksotis seperti rambutan sampai ke mancanegara. Importir
 biasanya akan memberikan persyaratan spesifik kemasan Ekspor buah rambutan
 segar Bila spesifikasi tidak diberikan, eksportir layak mengajukan spesifikasi
 dan atau contoh uji kemasan ekspor rambutan. Hendaknya spesifikasi itu
 disetujui terlebih dahulu oleh importir sebelum dipesan dan diproduksi untuk
 dipergunakan. Kemasan rambutan siap
-[ekspor](http://127.0.0.1/mitra/topik/ekspor)
+[ekspor](https://www.mitrausahatani.com/topik/ekspor)
 
 ## Packing Menggunakan Karton bergelombang
 

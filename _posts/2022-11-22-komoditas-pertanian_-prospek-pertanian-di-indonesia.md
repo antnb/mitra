@@ -21,12 +21,12 @@ tags:
 - tanaman
 
 modification_time: 2022-11-22 09:05:21
-blogger_orig_url: "http://localhost/mitra/komoditas-pertanian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/komoditas-pertanian.html"
 ---
 
 Pertanian di Indonesia berkembang pesat dan sekarang telah menjadi salah satu
 sektor ekonomi terpenting di negara ini. Pertanian Indonesia mencakup sektor
-pertanian, perkebunan, dan [peternakan](http://127.0.0.1/mitra/peternakan
+pertanian, perkebunan, dan [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan"). Pertanian Indonesia telah berkembang pesat sejak 1970-an. Pada
 tahun 1980, sektor pertanian menyumbang sekitar 18,7% dari PDB Indonesia.
 Pertumbuhan sektor pertanian berhenti pada tahun 1990-an, namun sejak tahun
@@ -41,7 +41,7 @@ pertanian.
 Indonesia
 
 Komoditas unggulan di Indonesia biasanya berasal dari hasil pertanian,
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan"), perikanan, dan
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan"), perikanan, dan
 kehutanan. Di Indonesia, komoditas unggulan telah lama dimanfaatkan sebagai
 sumber pendapatan utama masyarakat. Salah satu komoditas unggulan Indonesia
 yang terkenal di dunia adalah kopi. Kopi asal Indonesia telah mendapatkan

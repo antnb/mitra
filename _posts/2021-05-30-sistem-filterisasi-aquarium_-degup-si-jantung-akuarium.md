@@ -3,7 +3,7 @@ layout: post
 title: 'Sistem Filterisasi Aquarium: Degup si Jantung Akuarium'
 categories: hobi|ikan hias
 date: 2021-05-30 06:47:39
-author: Anton N
+author: Yudianto
 image: media/filter-1.jpg
 tags:
 - filter akuarium
@@ -13,7 +13,7 @@ tags:
 - sistem filter
 
 modification_time: 2021-05-30 06:47:39
-blogger_orig_url: "http://localhost/mitra/sistem-filterisasi-aquarium-degup-si.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistem-filterisasi-aquarium-degup-si.html"
 ---
 
 Model filterisasi aquarium murah itu mirip rumah siput seukuran kardus mie.
@@ -32,7 +32,7 @@ tetangga, Singapura.
 ## Filter Aquarium Murah tapi bagus
 
 Filter aquarium selalu menjadi incaran para hobiis [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias"). Maklum peran utamanya
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias"). Maklum peran utamanya
 mengubah senyawa berbahaya hasil dekomposisi kotoran dan sisa pakan tidak
 dapat tergantikan. Pemelihara ikan tanpa filter ibarat menyuruhnya mati. Sebab
 itu filter sering dijuluki hearts of the Aquarium. "Dari semua aksesori,
@@ -63,8 +63,8 @@ Beberapa merek pilihan antara lain; Resun, Boyu, Jeco, Altman, dan Aquila.
 
 ### Mahal tetap diminati
 
-[![filter kolam aquarium murah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/filter-2.jpg)](http://127.0.0.1/mitra/wp-
+[![filter kolam aquarium murah](http://localhost/mitra/wp-
+content/uploads/2021/05/filter-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/filter-2.jpg) Meski pasar filterisasi aquarium murah
 cukup besar, tapi filter filter kolam berharga jutaan hingga ratusan juta
 rupiah tetap ada peminatnya. Mereka hobiis berkocek tebal dan memiliki

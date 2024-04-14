@@ -3,7 +3,7 @@ layout: post
 title: 'Panen Rezeki dari Selembar Daun'
 categories: tanaman hias
 date: 2021-01-05 06:25:49
-author: Anton N
+author: Yudianto
 image: media/Gambar_agaolema_894x768.jpg
 tags:
 - bisnis tanaman
@@ -11,7 +11,7 @@ tags:
 - kolektor tanaman hias
 
 modification_time: 2021-01-05 06:25:49
-blogger_orig_url: "http://localhost/mitra/panen-rezeki-dari-selembar-daun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-rezeki-dari-selembar-daun.html"
 ---
 
 Setahun terakhir minimal 1.500 lembar daun terjual dalam sebulan kecuali
@@ -21,9 +21,9 @@ ribu rupiah. Mari ditelisik. Selembar daun chiang may dihargai Rp50.000 sampai
 Rp 1-juta adelia, Rp50.000 sampai Rp 125.000. Semua tergantung mutu. Dengan
 harga jual paling murah saja, Rp 10.000 untuk selembar daun, omzet Ansori Rp
 15-juta sebulan. Volume penjualan sebetulnya dapat ditingkatkan. Sayang,
-ketersediaan [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman
+ketersediaan [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman
 hias") daun itu langka karena pertumbuhan relatif lambat. Ia memperbanyak
-sekitar 50 [aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema")
+sekitar 50 [aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema")
 beragam warna dan bentuk. Insting bisnis Ansori memang tajam. Dua tahun lalu
 saat pertama kali melihat adelia di kediaman Tati Soerojo, langsung memborong
 beberapa pot. Masing-masing terdiri atas 12 sampai 15 daun. Tati, kolektor
@@ -44,8 +44,8 @@ lantaran minimnya persediaan jenis aglaonema tertentu.
 ## Batal melaut Demi aglaonema
 
 [caption id="attachment_7675" align="alignleft" width="263"][![bapak Ansori
-pebisnis aglaonema](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_agaolema2_533x768.jpg)](http://127.0.0.1/mitra/wp-
+pebisnis aglaonema](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_agaolema2_533x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_agaolema2_533x768.jpg) Ansori sukses
 berkecimpung dalam dunia tanaman hias[/caption] Dengan berniaga aglaonema dan
 tanaman hias lain, Ansori menata kehidupannya. Itulah buah dari keputusannya
@@ -89,8 +89,8 @@ hingga 60%. Saat ini tentu agak sulit lantaran persaingan kian ketat.
 ## Hambatan dalam menekuni bisnis tanaman hias
 
 [caption id="attachment_7676" align="alignleft" width="237"][![Aglaonema
-lipstick](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_agaolema1_692x768.jpg)](http://127.0.0.1/mitra/wp-
+lipstick](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_agaolema1_692x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_agaolema1_692x768.jpg) Aglaonema lipstick
 banyak diminta konsumen[/caption] Tentu saja tak melulu kisah manis yang
 dialami pria bertubuh gempal itu. Belum lama ini, misalnya, batang chiang may

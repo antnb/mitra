@@ -3,7 +3,7 @@ layout: post
 title: 'Khasiat Buah Makasar untuk Pengobatan Kanker Hati'
 categories: Herbal
 date: 2021-01-06 11:38:46
-author: Anton N
+author: Yudianto
 image: media/Gambar_makasar1_916x768.jpg
 tags:
 - brucea javanica
@@ -13,7 +13,7 @@ tags:
 - sel kanker
 
 modification_time: 2021-01-06 11:38:46
-blogger_orig_url: "http://localhost/mitra/khasiat-buah-makasar-untuk-pengobatan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-buah-makasar-untuk-pengobatan.html"
 ---
 
 Senyum mengembang di bibirnya. Derita kanker hati itu menjadi kenangan lama
@@ -40,8 +40,8 @@ roda dipakai hanya kalau pergi ke luar kamar.
 ## Kanker hati
 
 [caption id="attachment_7725" align="alignleft" width="256"][![j Sri
-Harjati](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_harjati_859x768.jpg)](http://127.0.0.1/mitra/wp-
+Harjati](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_harjati_859x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_harjati_859x768.jpg) j Sri Harjati, sudah
 terbebas dari kanker hati[/caption] Empat bulan berlalu dalam kondisi lemah
 sampai akhirnya sang jabang bayi keluar. Untunglah bayi perempuan berbobot 3,3
@@ -63,8 +63,8 @@ jaringan di hati. Hati sakit kok diambil," ujarnya.
 ## Resep kakek
 
 [caption id="attachment_7726" align="alignright" width="291"][![rebusan buah
-makasar ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_makasar_810x768.jpg)](http://127.0.0.1/mitra/wp-
+makasar ](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_makasar_810x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_makasar_810x768.jpg) rebusan buah makasar
 Brucea javanica[/caption] Beberapa hari setelah operasi, Sri malah
 diperbolehkan pulang. Namun, itu bukan kabar gembira karena dokter ahli di
@@ -83,7 +83,7 @@ liter air sampai tersisa 0,5 liter. Ramuan lain, 0,5 ons meniran, 2 ons
 temulawak, satu rimpang kencur, 5 ons bidara upas, 1 sendok makan adas
 pulawaras, dan sesendok makan serbuk leunca dimasukkan ke rebusan buah
 makasar. Rebusan diminum pada pagi dan sore. "Ramuan harus habis sehari," ujar
-Tjipto yang menemani [mitrausahatani](http://127.0.0.1/mitra). Hasilnya
+Tjipto yang menemani [mitrausahatani](https://www.mitrausahatani.com). Hasilnya
 sungguh luar biasa. Tiga bulan berselang, kesehatan Sri berangsur-angsur
 pulih. "Yang semula duduk di kursi roda, saya sudah bisa jalan meski harus
 memegang dinding," ujarnya. Kondisi tubuh benar-benar pulih setelah 2 tahun

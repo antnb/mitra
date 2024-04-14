@@ -15,7 +15,7 @@ tags:
 - taman anggrek
 
 modification_time: 2021-01-22 14:50:41
-blogger_orig_url: "http://localhost/mitra/leopard-prince-terbaik-se-asia-pasifik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/leopard-prince-terbaik-se-asia-pasifik.html"
 ---
 
 Penampilan leopard prince itu amat prima. Sebuah tangkai bercabang 5 dilekati
@@ -36,8 +36,8 @@ akan memberi pemasukan jauh lebih tinggi daripada harga beli.
 ## Perlu Ruang khusus
 
 [caption id="attachment_7917" align="alignleft"
-width="210"][![Dendrobium](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_angrek2_713x768.jpg)](http://127.0.0.1/mitra/wp-
+width="210"][![Dendrobium](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_angrek2_713x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_angrek2_713x768.jpg) Dendrobium tipe
 nobile[/caption] Leopard mengungguli pesaingnya yang berlomba di grup C. Grup
 itu mempertandingkan phalaenopsis, doritis, dan doritaenopsis, disingkat dtps.
@@ -72,8 +72,8 @@ anggrek aneka jenis dan warna.
 ## Lautan anggrek
 
 [caption id="attachment_7918" align="alignleft" width="286"][![Wenny
-Herlinadi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_angrek1_1024x718.jpg)](http://127.0.0.1/mitra/wp-
+Herlinadi](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_angrek1_1024x718.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_angrek1_1024x718.jpg) Wenny Herlinadi antara
 lautan anggrek[/caption] Lomba berlangsung di Taiwan Beru Exhibition Center di
 Tainan, 400 km selatan Taipeh, Ibukota Taiwan. Ribuan anggrek bulan warna

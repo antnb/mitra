@@ -10,7 +10,7 @@ tags:
 - thailand
 
 modification_time: 2022-09-20 06:13:29
-blogger_orig_url: "http://localhost/mitra/legenda-perkutut-jawa-di-negri.html"
+blogger_orig_url: "http://www.mitrausahatani.com/legenda-perkutut-jawa-di-negri.html"
 ---
 
 Perkutut Bangkok adalah salah satu jenis perkutut yang populer di Indonesia.
@@ -37,8 +37,8 @@ Turunannya tersohor di Indonesia sebagai perkutut bangkok. Masyarakat Siam
 kuno percaya, perkutut burung pemberian dewa. Konon menurut legenda, di antara
 200-ribu jenis burung penghuni surga, diturunkan sepasang burung. Pasangan ini
 turun di sebuah gunung yang tanahnya subur. Itulah tanah Jawa.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/11/perkutut-
-jawa-300x195.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/perkutut-
+[![](http://localhost/mitra/wp-content/uploads/2021/11/perkutut-
+jawa-300x195.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/perkutut-
 jawa.jpg)
 
 ## Mitos membawa berkah
@@ -62,8 +62,8 @@ sekarang, yaitu raja ke-9 (Bhumibol Adulyadej). Hobi memelihara perkutut
 semakin merakyat. Penggemar burung itu tersebar ke pelosok desa di Thailand,
 mulai dari Provinsi Pattani di selatan terus ke Nakornsrithammarat, Nakorn RL-
 tchasima, Petchburi, sampai ke Chiang Mai di utara [![perlombaan burung
-perkutut jawa](http://127.0.0.1/mitra/wp-content/uploads/2021/11/burung-
-perkutut-jawa-300x169.jpg)](http://127.0.0.1/mitra/wp-
+perkutut jawa](http://localhost/mitra/wp-content/uploads/2021/11/burung-
+perkutut-jawa-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/burung-perkutut-jawa.jpg)
 
 ## Orangnya dilombakan

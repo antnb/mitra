@@ -15,7 +15,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2020-11-18 09:20:05
-blogger_orig_url: "http://localhost/mitra/puring-daun-berpilin-bernama-croton.html"
+blogger_orig_url: "http://www.mitrausahatani.com/puring-daun-berpilin-bernama-croton.html"
 ---
 
 Pantas bila nara pirom namanya, diambildari nama kanal didaulat jadi juara.
@@ -29,8 +29,8 @@ TG Airlines Thailand itu juga menyabet gelar juara. Namanya tawe wattana.
 Warna daun serupa dengan nara pirom, tapi bentuknya berbeda. Daun tawe wattana
 melebar di tengah, lantas menyempit dan agak runcing di ujung. Beberapa
 ujungnya melengkung ke atas, sedangkan kebanyakan daunnya sedikit mengatup.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/puring-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/puring-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/puring.jpg)
 
 ## Puring kembali Jadi Primadona
@@ -47,7 +47,7 @@ Krairoj, PhD, presiden Ornamental Plants Variety Developer Club. Salah satu
 penyilang adalah Suarsak. Dari sekian banyak jenis croton di Thailand, jenis
 berpilin kini tengah digandrungi. Maklum, itu varian yang paling anyar. Si
 daun mlintir baru muncul 2 sampai 3 tahun silam. Pantas waktu Mitra Usaha Tani
-menyusuri pasar [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman
+menyusuri pasar [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman
 hias") Chatuchak, Bangkok, jenis itu tak terlihat. Yang mendominasi codiaeum
 berdaun keriting dan bulat. Suarsak beruntung mendapatkannya lantaran untuk
 menghasilkan si berpilin butuh waktu lama, sekitar 10 tahun. Toh hasilnya tak
@@ -55,15 +55,15 @@ sia-sia. Sebut saja sai buri, diambil dari nama sebuah kabupaten di Provinsi
 Pattani, seng chan berarti cahaya bulan, dan kot cha si berarti kepala gajah
 badan singa. Sosok bagian atas kot cha si sepintas memang nampak seperti gajah
 berbelalai, sedangkan bagian bawahnya mirip misai singa.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/croton-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/croton-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/croton.jpg)
 
 ## Euforia croton
 
 Dari negeri Siam, euforia croton menular ke tanahair. Di Tanahbaru, Depok,
 sudah etahun terakhir Lastini Chandra mengganti koleksi
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") dengan puring.
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") dengan puring.
 “Puring ik kalah indah daripada tanaman hias lain,” tutur ibu 3 putri itu.
 Dari 40 jenis koleksi, hampir separuh didatangkan dari Thailand dan Australia.
 Salah satunya jenis puring kura. Kerabat euphorbia bermotif daun seperti

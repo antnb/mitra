@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-06-05 11:42:29
-blogger_orig_url: "http://localhost/mitra/perawatan-taman-dengan-pepohonan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perawatan-taman-dengan-pepohonan.html"
 ---
 
 Adi Gardnadi berkali-kali berfikir bagaimana cara merawat taman miliknya, ia
@@ -33,7 +33,7 @@ sudah terbuka itu. Tujuannya menaikkan pH dan memperbaiki sifat fisik tanah.
 Tambahkan tanah, pasir, dan pupuk kandang dengan perbandingan 2:1:1. Berikan
 kapur pertanian secukupnya agar keasaman tanah meningkat. Biarkan media itu
 selama 10 hari agar oksigen menyusup ke dalam tanah. Jangan lupa buat [pola
-taman](http://127.0.0.1/mitra/tips-membuat-taman-indoor-rumah.html). Lebih
+taman](https://www.mitrausahatani.com/tips-membuat-taman-indoor-rumah.html). Lebih
 baik lagi bila dilengkapi dengan sketsa sehingga taman benar-benar terencana.
 Di situ pemilik bisa memasukkan berbagai elemen taman mulai dari hard scape
 hingga soft scape, lengkap dengan aksesori. Bila menghadirkan kolam, sebaiknya
@@ -51,12 +51,12 @@ permukaan rata dengan sekitarnya. Halaman pun siap ditanami.
 Tidak semua jenis tanaman tumbuh dengan baik di bawah naungan. Beberapa jenis
 menghendaki intensitas sinar matahari yang tinggi. Sedangkan jenis lain
 toleran terhadap kondisi teduh. Paling aman bila memasukkan elemen [kolam
-taman](http://127.0.0.1/mitra/kolam-taman-minimalis-penghilang.html) di areal
+taman](https://www.mitrausahatani.com/kolam-taman-minimalis-penghilang.html) di areal
 yang tidak mendapat sinar sama sekali. Pilih tanaman bersosok tinggi yang agak
 tahan naungan untuk ditanam paling belakang. Contohnya pakis tiang, pandan
 bali, dracaena tricolor, cordylin, palem waregu, kedondong laut (polyscias),
 dan palem chamaedorea. Di depannya, pilih yang bersosok pendek: _filodendron
-xanadu, dieffenbachia,[aglaonema](http://127.0.0.1/mitra/topik/aglaonema
+xanadu, dieffenbachia,[aglaonema](https://www.mitrausahatani.com/topik/aglaonema
 "aglaonema"), bromelia, pakis kelabang, palisota_, dan lili brazil.
 Groundcover-nya aneka jenis marantha, krisdoren, dan alang hijau. Sayangnya,
 di lokasi temaung jenis tanaman berbunga terbatas. Yang bisa dihadirkan
@@ -73,7 +73,7 @@ hadirkan banyak batu-batuan atau jalan setapak di area itu. Untuk melengkapi
 keindahan taman, tambahkan beberapa aksesori. Misal gentong, pancuran air,
 jalan setapak, atau lampu hias, misal toro untuk gaya jepang. Tempatkan
 aksesori itu dengan tepat sehingga menambah keindahan taman.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/06/ghhg_1070x800.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/06/ghhg_1070x800.jpg)
 
 ### Perawatan
 

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-19 06:23:31
-blogger_orig_url: "http://localhost/mitra/delima-jumbo-asli-dari-colo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/delima-jumbo-asli-dari-colo.html"
 ---
 
 "Istimewa" komentar Gregori Hambali, MSc, pakar buah di Bogor ketika mendengar
@@ -34,7 +34,7 @@ lagi,” kata Surati, salah satu pedagang di sana.
 Begitu delima berdiameter 10 cm itu dibelah terlihat biji-biji merah tersusun
 padat. Biji agak lunak dan kenyal tidak mengganggu kenikmatan waktu buah
 dilahap. [[[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 mencicipi satu buah. Rasa asam dan sedikit manis langsung menyergap lidah.
 Segar karena kandungan air banyak.
 
@@ -61,7 +61,7 @@ Buah masak ditandai kulit kuning kemerahan
 
 ### Hiasan
 
-Di desa penghasil [alpukat](http://127.0.0.1/mitra/topik/alpukat "alpukat")
+Di desa penghasil [alpukat](https://www.mitrausahatani.com/topik/alpukat "alpukat")
 dan pamelo itu, delima sudah merakyat. Ia ditanam di pekarangan-pekarangan
 penduduk. Setiap rumah rata-rata memiliki 2-3 pohon. Sayang, hingga kini asal-
 usul buah itu tidak diketahui secara pasti. “Ketika saya kecil, pohon itu

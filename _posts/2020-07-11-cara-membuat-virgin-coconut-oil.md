@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-07-11 08:55:36
-blogger_orig_url: "http://localhost/mitra/cara-membuat-virgin-coconut-oil.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-membuat-virgin-coconut-oil.html"
 ---
 
 _**Virgin coconut oil adalah minyak kelapa murni yang diproses secara alami
@@ -55,12 +55,12 @@ kelapa serta pengolahannya**.
 Blondo yang terpisah dipanaskan kembali untuk mendapatkan minyak goreng
 kualitas tinggi.
 
-  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Keluarkan daging kelapa dari tempurung[/caption]
-  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Diparut dengan alat pemarut[/caption]
-  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Peras santan dengan alat atau dengan tangan[/caption]
-  * [caption id="attachment_1265" align="aligncenter" width="386"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800.jpg) Pisahkan krim dari air, baik dengan alat atau secara manual[/caption]
-  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Masak krim pada suhu rendah[/caption]
-  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Diamkan setelah blondo terbentuk[/caption]
-  *   * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Saring dengan kertas saring untuk mendapatkan minyak kelapa murni[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Keluarkan daging kelapa dari tempurung[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Diparut dengan alat pemarut[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Peras santan dengan alat atau dengan tangan[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="386"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800.jpg) Pisahkan krim dari air, baik dengan alat atau secara manual[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Masak krim pada suhu rendah[/caption]
+  * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Diamkan setelah blondo terbentuk[/caption]
+  *   * [caption id="attachment_1265" align="aligncenter" width="200"]![](http://localhost/mitra/wp-content/uploads/2020/07/1_698x800-262x300.jpg) Saring dengan kertas saring untuk mendapatkan minyak kelapa murni[/caption]
 
 

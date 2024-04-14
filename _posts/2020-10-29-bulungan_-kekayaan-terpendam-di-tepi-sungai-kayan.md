@@ -12,7 +12,7 @@ tags:
 - rambutan
 
 modification_time: 2020-10-29 12:07:37
-blogger_orig_url: "http://localhost/mitra/bulungan-kekayaan-terpendam-di-tepi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bulungan-kekayaan-terpendam-di-tepi.html"
 ---
 
 Sepuluh menit kemudian, perjalanan selama 15 menit dari Tanjungselor, ibukota
@@ -21,22 +21,22 @@ menit menyusuri tepi hutan yang temaram karena naungan tajuk-tajuk pohon
 setinggi 10-20 m. Kawasan itu bagai tak berpenghuni, tetapi di sanalah lokasi
 kebun jambu air madu seluas 4 ha. Itulah halaman rumah Fidelis Tupen Liwun.
 "Di sini saya tanam jambu air madu hijau dan merah," ujar Fidelis saat
-menyambut kedatangan [Mitra Usaha Tani](http://127.0.0.1/mitra). Saat memasuki
+menyambut kedatangan [Mitra Usaha Tani](https://www.mitrausahatani.com). Saat memasuki
 kebun yang berbukit dan terjal itu perasaan takjub langsung membuncah. Sekitar
 1.000 pohon jambu air madu setinggi 2-3 m berbuah lebat tanda perawatan
-intensif. [Mitra Usaha Tani](http://127.0.0.1/mitra) melihat setiap cabang
+intensif. [Mitra Usaha Tani](https://www.mitrausahatani.com) melihat setiap cabang
 pohon digelayuti 3- 5 buah. Bermodal kerja keras dan semangat hidup tinggi,
 Paulus-sapaan akrab Fidelis- berhasil membawa buah berbentuk lonceng itu
 menjadi jawara dan pemenang harapan LBUN 2004 kategori jambu air.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/Bulungan.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/10/Bulungan.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/Bulungan.jpg)
 
 ## Sentra duku Bulungan
 
 Usai mengitari kebun jambu air madu selama 1 jam, Paulus dan Ir Luthfi Bansir,
 staf Dinas Pertanian Bulungan, mengajak [Mitra Usaha
-Tani](http://127.0.0.1/mitra) berkunjung ke kebun duku. "Di Bulungan, duku
+Tani](https://www.mitrausahatani.com) berkunjung ke kebun duku. "Di Bulungan, duku
 antutan jagoannya," kata Luthfi. Speedboat yang dikemudikan Abdul Hafis lalu
 keluar dari anak sungai itu dan kembali menyusuri Sungai Kayan. Tak sampai
 sepenginangan, sang motoris- sebutan sopir speedboat-menepikan perahunya di
@@ -60,8 +60,8 @@ sekitar Sungai Kayan. Di kebun seluas 10 ha milik Dinas Pertanian Bulungan itu
 terhampar ratusan pohon rambutan berbagai jenis: binjai, rapia, lebakbulus,
 dan jenis lokal. Semua pohon Nephelium lapaceum di atas tanah rawa itu tengah
 berbuah lebat. "Rambutan di sini setiap musim berbuah lebat," kata Luthfi,
-penanggung jawab kebun. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/Bulungan-agrowisata.jpg)](http://127.0.0.1/mitra/wp-
+penanggung jawab kebun. [![](http://localhost/mitra/wp-
+content/uploads/2020/10/Bulungan-agrowisata.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/Bulungan-agrowisata.jpg)
 
 ### Pasar buah bilangan Sengkawit
@@ -70,7 +70,7 @@ Semua buah-buahan yang berasal dari seputar Sungai Kayan bermuara di Pasar
 Induk di bilangan Sengkawit, Bulungan. Pada akhir pekan, biasanya kuantitas
 dan keragaman jenis lebih banyak. Sebab pada saat itu para pedagang yang rata-
 rata Suku Dayak turun gunung untuk menjual hasil kebun. [Mitra Usaha
-Tani](http://127.0.0.1/mitra) yang berbaur di antara para pedagang menemukan
+Tani](https://www.mitrausahatani.com) yang berbaur di antara para pedagang menemukan
 buah-buahan istimewa asal Bulungan turut dijajakan. Sekadar menyebut nama,
 durian berayut,lengkeng mata kucing dan mata anjing, serta duku antutan.
 Nanas, langsat telur, lai, jambu air madu, dan rambutan binjai juga ada. "Mata
@@ -78,9 +78,9 @@ kucing paling laku," ujar Imbung Alung, pekebun asal Dayak Lepuk Tepu. Maklum
 lengkeng dataran rendah itu kualitasnya tak kalah dengan lengkeng impor.
 Menurut Imbung setiap minggu ia membawa minimal 25 kg mata kucing ke pasar dan
 terjual habis. Matahari mulai terbenam ketika [Mitra Usaha
-Tani](http://127.0.0.1/mitra) beringsut dari pusat pasar. Namun, bukan berarti
+Tani](https://www.mitrausahatani.com) beringsut dari pusat pasar. Namun, bukan berarti
 berhenti mencari buah-buahan khas Bulungan. Di bilangan Sudirman di tepi
-Sungai Kayan, [Mitra Usaha Tani](http://127.0.0.1/mitra) menyusuri jalan
+Sungai Kayan, [Mitra Usaha Tani](https://www.mitrausahatani.com) menyusuri jalan
 sambil memelototi pedagang yang berbaris sepanjang 1-2 km. Malam itu di bawah
 sinar bulan purnama, perjalanan ditutup dengan menikmati lezatnya buah-buahan
 khas Kalimantan Timur di tepi Sungai Kayan.

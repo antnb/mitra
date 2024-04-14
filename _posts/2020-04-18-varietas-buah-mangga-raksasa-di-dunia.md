@@ -9,11 +9,11 @@ tags:
 - Mangga
 
 modification_time: 2020-04-18 15:35:57
-blogger_orig_url: "http://localhost/mitra/varietas-buah-mangga-raksasa-di-dunia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/varietas-buah-mangga-raksasa-di-dunia.html"
 ---
 
 Di perhentian tol di Gantang, sekitar 224 km dari Kualalumpur menuju Penang,
-Malaysia, [Mitra Usaha Tani](http://127.0.0.1/mitra) juga melihat mangga
+Malaysia, [Mitra Usaha Tani](https://www.mitrausahatani.com) juga melihat mangga
 raksasa berpenampilan menarik. Mangifera indica berwarna hijau kekuningan itu
 langsung menyedot perhatian para pengguna jalan bebas hambatan yang sedang
 beristirahat. Maklum bobot mencapai 1,2-1,5 kg per buah. Ukurannya 3-4 kali
@@ -21,15 +21,15 @@ lipat besar arumanis. Mangga datuk begitu mangga raksasa itu disebut,
 dijajakan dengan cara digantung seikat-seikat seperti rambutan di kedai-kedai
 penjual buah-buahan. Satu ikat berisi 5-6 buah. Dengan mengeluarkan RM6 setara
 Rp 18.000 per kg, pembeli dapat menikmati manis segarnya daging buah berwarna
-kuning. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/mangga-
-bengkulu.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/mangga-
+kuning. [![](http://localhost/mitra/wp-content/uploads/2020/04/mangga-
+bengkulu.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/mangga-
 bengkulu.jpg)
 
 ## Buah Mangga Berukuran Besar
 
 Untuk urusan mangga raksasa, koleksi plasma nutfah Indonesia tak kalah dengan
 negeri jiran. Salah satu bukti dari 16 peserta Lomba Buah Unggul [Mitra Usaha
-Tani](http://127.0.0.1/mitra) 2003 kategori mangga, 10 di antaranya bersosok
+Tani](https://www.mitrausahatani.com) 2003 kategori mangga, 10 di antaranya bersosok
 bongsor. Sebut saja _mangga bengkulu_. Bobot anggota ordo _Sapindales_ asal
 Desa Kebunkiwat, Kelurahan Beler, Kecamatan Gondangcempaka, Bengkulu, itu
 mencapai 1,2 kg per buah. Dr Mohammad Reza Tirtawinta, pakar buah, pernah
@@ -40,8 +40,8 @@ per buah. Menurut Leon Budi Prasetyo, sang pemilik, bobot tertinggi mencapai
 tak beraturan. Warna kulit hijau dengan semburat kuning di bagian pangkal. Ia
 paling enak dikonsumsi setelah kulit berwarna kuning. Saat itu daging buah
 yang oranye sudah empuk dan mengeluarkan aroma harum.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/mangga-
-gajah.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/mangga-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/mangga-
+gajah.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/mangga-
 gajah.jpg)
 
 ## Lancetilla terbesar

@@ -10,7 +10,7 @@ tags:
 - ulat
 
 modification_time: 2021-03-23 14:52:07
-blogger_orig_url: "http://localhost/mitra/pestisida-alami-hama-ulat-grayak.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pestisida-alami-hama-ulat-grayak.html"
 ---
 
 Gerus 250 ulat [Helicoverpa
@@ -33,8 +33,8 @@ air. Ia bisa tinggal di daun atau di atas tanah.
 
 ## Pestisida alami Mudah dibuat
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/grayak1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/03/grayak1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/grayak1.jpg) Pestisida alami untuk ulat itu mudah
 dibuat. Bahannya bisa diperoleh di kebun. Silakan berkeliling kebun dan
 mencari kedua jenis hama itu. Cirinya, berwarna hitam, bertubuh gendut, dan
@@ -65,8 +65,8 @@ simpan hingga 1 tahun. Untuk menggunakannya, ambil 150 g dan larutkan dalam
 ## Serangan hebat
 
 [caption id="attachment_8351" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/grayak2.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/grayak2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/grayak2.jpg) Hancur lantaran spodoptera (insert:
 Spodoptera litura)[/caption] Pemakaian virus NPV bermanfaat andai serangan
 Ulat tentara meluas. Seperti yang pernah terjadi di Ponorogo, Jawa Timur pada

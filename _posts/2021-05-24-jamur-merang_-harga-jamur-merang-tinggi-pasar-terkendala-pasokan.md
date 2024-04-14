@@ -3,7 +3,7 @@ layout: post
 title: 'Jamur Merang: Harga Jamur Merang Tinggi Pasar Terkendala Pasokan'
 categories: perkebunan
 date: 2021-05-24 10:55:22
-author: Anton N
+author: Yudianto
 image: media/Jamur-Merang.jpg
 tags:
 - budidaya jamur
@@ -12,7 +12,7 @@ tags:
 - kumbung jamur
 
 modification_time: 2022-09-19 13:13:09
-blogger_orig_url: "http://localhost/mitra/harga-jamur-merang-terkendala-pasokan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/harga-jamur-merang-terkendala-pasokan.html"
 ---
 
 Harga jamur merang yang terus merangkak akhir akhir ini membuat Jari jari
@@ -40,8 +40,8 @@ cara membangun kemitraan.
 
 ## Pasokan Tetap Mampu Di Serap Pasar
 
-[![Tidak perlu mewah ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/jamur-300x267.jpg)](http://127.0.0.1/mitra/wp-
+[![Tidak perlu mewah ](http://localhost/mitra/wp-
+content/uploads/2021/05/jamur-300x267.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/jamur.jpg) Menurut Basuki yang juga sekretaris MAJI
 Bandung Raya kebutuhan Jawa Barat, Jakarta, dan Banten terhadap jamur mencapai
 16 ton per hari. "Jumlah itu bisa seperti masuk ke laut saja," ujarnya. Itu
@@ -86,7 +86,7 @@ budidaya jamur merang juga tampak di Sragen, Jawa Tengah. Sebagian besar
 mereka adalah pekebun melon yang merugi dan kini melirik straw mushroom.
 Maklum, saat ini harga melon di perbatasan Provinsi Jawa Tengah dan Jawa Timur
 itu melorot tajam. Sudamo, guru Sekolah Dasar di Desa
-[Belimbing](http://127.0.0.1/mitra/topik/belimbing "Belimbing"), Kecamatan
+[Belimbing](https://www.mitrausahatani.com/topik/belimbing "Belimbing"), Kecamatan
 Sambirejo, Sragen pun menyambi berkebun jamur. Sembari berangkat mengajar ia
 menenteng puluhan kg jamur yang dipetik dari 2 kumbung. Selain melayani
 pesanan sesama pendidik, dengan harga jamur merang yang cukup bersaing ia
@@ -98,8 +98,8 @@ omzet mengusahakan jamur merang menjadi tambahan pendapatan yang lumayan.
 
 ## Awasi langsung
 
-[![harga jamur merang terus mengalami kenaikan](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/jamur1-300x264.jpg)](http://127.0.0.1/mitra/wp-
+[![harga jamur merang terus mengalami kenaikan](http://localhost/mitra/wp-
+content/uploads/2021/05/jamur1-300x264.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/jamur1.jpg) Yang juga mengandalkan jamur merang
 sebagai penopang hidup adalah H Supardi di Desa Bayurlor, Kecamatan Cilamaya
 Kulon, Karawang. Di wilayah yang terletak di sebelah timur laut atau 0,5 jam

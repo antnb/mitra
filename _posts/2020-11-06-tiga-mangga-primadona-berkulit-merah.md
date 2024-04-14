@@ -9,7 +9,7 @@ tags:
 - Mangga
 
 modification_time: 2020-11-06 08:48:25
-blogger_orig_url: "http://localhost/mitra/tiga-mangga-primadona-berkulit-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tiga-mangga-primadona-berkulit-merah.html"
 ---
 
 Observasi Balitbu, Solok, pada 1996 membuktikan konsumen sekarang lebih suka
@@ -50,8 +50,8 @@ di pangkal dan kuning di ujung. Ia dipetik 112 hari sejak bunga mekar. Marifta
 dengan permintaan konsumen. Kulit buah paling tipis dibanding 2 kultivar lain.
 Daging tebal berwarna kuning, serat buah kasar, dan memanjang. Biji berbentuk
 bulat oval dan tebal. Rasa buah manis dan segar karena berair banyak. Kadar
-gula 18,4-19,3 brix. Aroma agak menyengat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/mangga.jpg)](http://127.0.0.1/mitra/wp-
+gula 18,4-19,3 brix. Aroma agak menyengat. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/mangga.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/mangga.jpg)
 
 ### Mangga sari 315
@@ -69,8 +69,8 @@ gula hanya 12,8-13,6 brix. Bentuk biji sedang dan sebagian berserat pendek. Ia
 cocok dimanfaatkan sebagai pasta, selai atau puree karena kadar airnya rendah.
 Sari315 dapat dipetik setelah 95 hari sejak bunga mekar dengan daya simpan
 9-15 hari. Produktivitas per pohon 67,6-123,5 kg/tahun untuk umur produktif 5
-tahun. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/sari315.jpg)](http://127.0.0.1/mitra/wp-
+tahun. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/sari315.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/sari315.jpg)
 
 ### Mangga ken layung

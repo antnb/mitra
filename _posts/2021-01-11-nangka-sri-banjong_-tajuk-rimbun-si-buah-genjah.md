@@ -9,7 +9,7 @@ tags:
 - nangka
 
 modification_time: 2021-01-11 08:32:34
-blogger_orig_url: "http://localhost/mitra/nangka-sri-banjong.html"
+blogger_orig_url: "http://www.mitrausahatani.com/nangka-sri-banjong.html"
 ---
 
 Bukan itu saja keistimewaan Nangka Sri Banjong. Nangka kebanggaan masyarakat
@@ -39,8 +39,8 @@ Desember sampai Januari. Panen berlangsung pada April sampai Mei.
 
 ## Tajuk rimbun
 
-[![pohon nangka](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_nangka_556x768.jpg)](http://127.0.0.1/mitra/wp-
+[![pohon nangka](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_nangka_556x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_nangka_556x768.jpg)Sosok pohon Nangka Sri
 Banjong tergolong pendek. Pada umur 3 tahun tinggi tanaman hanya 1,5 sampai 2
 meter. Meski begitu tajuk tanaman sangat rimbun. Bentuk tajuk membulat,

@@ -9,7 +9,7 @@ tags:
 - asparagus
 
 modification_time: 2020-11-14 10:15:49
-blogger_orig_url: "http://localhost/mitra/asparagus-silangan-2-negara-di-dataran.html"
+blogger_orig_url: "http://www.mitrausahatani.com/asparagus-silangan-2-negara-di-dataran.html"
 ---
 
 Bertanam asparagus tidak lagi monopoli pekebun dataran tinggi. Setelah
@@ -30,8 +30,8 @@ Keunggulan marry Washington tahan penyakit karat yang kerap jadi momok. Sosok
 asparagus asal Amerika Serikat itu kecil karena jumlah rumpun banyak. Beda
 dengan locullus asal Belanda, ukuran rebung besar dan panjang, rumpun tidak
 banyak, lunak, dan berwarna putih. [caption id="attachment_20459"
-align="aligncenter" width="1369"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Asparagus.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1369"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/Asparagus.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Asparagus.jpg) Asparagus bisa juga ditanam di dataran
 rendah[/caption]
 
@@ -53,8 +53,8 @@ rendah tetapi curah hujannya harus tinggi. Lantaran ia doyan air untuk
 pertumbuhan tunas muda. Selain itu suhu juga jadi faktor keberhasilan.
 Idealnya 25° sampai 30°C, lebih dari itu kandungan seratnya meningkat sehingga
 mutu turun. Tanah yang dikehendaki berpasir atau lempung dan berdrainase baik
-karena perakaran asparagus luas dan dalam. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Asparagus-super.jpg)](http://127.0.0.1/mitra/wp-
+karena perakaran asparagus luas dan dalam. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Asparagus-super.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Asparagus-super.jpg)
 
 ## Panen mencapai 60 kg per hari

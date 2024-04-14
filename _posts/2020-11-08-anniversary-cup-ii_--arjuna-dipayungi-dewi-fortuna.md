@@ -10,7 +10,7 @@ tags:
 - merpati balap
 
 modification_time: 2020-11-08 06:08:13
-blogger_orig_url: "http://localhost/mitra/anniversary-cup-ii-arjuna-dipayungi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anniversary-cup-ii-arjuna-dipayungi.html"
 ---
 
 Dewi fortuna terus memayungi Arjuna, merpati balap andalan Trisna Wijaya. Di
@@ -31,8 +31,8 @@ Merpati Balap Sprint Indonesia (PPMBSI) pusat, undian memungkinkan untuk
 menentukan juara kontes nasional. Itu terjadi karena peserta membludak dari
 berbagai daerah. Di meja panitia saja tercatat kurang lebih 414 burung.
 "Jumlah itu melebihi target yang ditentukan panitia, sekitar 300 peserta.”
-kata hobiis dari Bandung itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/lomba.jpg)](http://127.0.0.1/mitra/wp-
+kata hobiis dari Bandung itu. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/lomba.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/lomba.jpg)
 
 ## Persaingan ketat
@@ -65,8 +65,8 @@ hanya Raja Elang yang mampu bertahan hingga babak final. Mata Elang dikalahkan
 Berlian di babak ke-4. sedang Elang Super terdepak sejak putaran pertama.
 “Kalau tidak lepas dari genggaman joki, Mata Elang dipastikan lolos ke
 semifinal,” kata pemilik Elang Hitam Bird Farm itu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/merpati.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/merpati.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/merpati.jpg)
 
 ### Kurang beruntung

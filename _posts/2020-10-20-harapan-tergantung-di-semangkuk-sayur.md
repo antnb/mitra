@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-20 13:51:07
-blogger_orig_url: "http://localhost/mitra/harapan-tergantung-di-semangkuk-sayur.html"
+blogger_orig_url: "http://www.mitrausahatani.com/harapan-tergantung-di-semangkuk-sayur.html"
 ---
 
 Istirahat siang tak pernah disia-siakan oleh Juniarti. Wakil presiden direktur
@@ -31,7 +31,7 @@ Beras, telur, susu, dan bahan pangan lain harus organik. Bahan pangan itu
 dimasak tanpa minyak atau mentega. “Cukup disteam atau dibakar supaya
 kandungan vitamin dan mineral utuh,” ujar Kint-sapaan Carmen Fabian De Kint
 Quinoa-kepada Bertha Hapsari dari [[[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)](http://127.0.0.1/mitra).
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)](https://www.mitrausahatani.com).
 
 Perempuan kelahiran Meksiko setengah abad silam itu mafhum, residu pestisida
 dalam sayuran bersifat karsinogenik alias memicu kanker. Itulah sebabnya sejak
@@ -113,7 +113,7 @@ tak melulu di Malang, tetapi juga meluas hingga ke Surabaya
 ### Berjenjang
 
 Penelusuran [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) menunjukan, pasar
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) menunjukan, pasar
 swalayan besar seperti Hero di Malang dan Yogyakarta, Matahari, dan Ranch 99,
 menyediakan gerai khusus organik. Itu jelas memudahkan konsumen untuk
 memperolehnya. Sebab, banyak yang mengeluh, sulit mendapat pasokan secara
@@ -133,7 +133,7 @@ Pada tahap bebas pestisida saja sangat enak di lidah, apalagi yang organik.
 Yang lebih penting menyehatkan tubuh. Wajar jika Carmen Fabian De Kint Quinoa
 mau bersusah-payah bila bepergian. Ia senantiasa menenteng sendiri masakannya
 yang organik. Kalau tak sempat? Di perjamuan biasanya hobiis [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") itu cuma menikmati
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") itu cuma menikmati
 salad atau’sup. Ingin sehat seperti mereka? Menyantap sayuran organik salah
 satu jalannya.
 

@@ -13,7 +13,7 @@ tags:
 - sahabat burung indonesia
 
 modification_time: 2021-05-07 13:29:42
-blogger_orig_url: "http://localhost/mitra/sangkar-burung-dan-kelestarian-burung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sangkar-burung-dan-kelestarian-burung.html"
 ---
 
 Seorang Sahabat Burung Indonesia (SBI), Hapsoro, protes keras atas perlombaan
@@ -30,8 +30,8 @@ gubernur Sumatera Selatan.
 
 ## Antara Surga dan sangkar burung
 
-[![sangkar burung langka](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/sangkar.jpg)](http://127.0.0.1/mitra/wp-
+[![sangkar burung langka](http://localhost/mitra/wp-
+content/uploads/2021/05/sangkar.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/sangkar.jpg)Burung berkicau telah berabad-abad menjadi
 bagian dari masyarakat kita. Sebelum ada radio, televisi, VCD, DVD, film, dan
 kaset, burung telah dimohon atau dipaksa menyanyi untuk manusia. Karena itu
@@ -80,7 +80,7 @@ alternatif yang harus diperhitungkan.
 
 ## Penangkaran Burung Mulai Bermunculan
 
-Oleh sebab itu, berkembanglah [peternakan](http://127.0.0.1/mitra/peternakan
+Oleh sebab itu, berkembanglah [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan") burung di berbagai tempat, khususnya Bandung, Malang, dan
 seperti yang diliput Trubus, Agustus 2004, di Palembang. Pada saat terjadi
 krisis, muncul perjuangan luar-biasa untuk memperbaiki keadaan. Misalnya

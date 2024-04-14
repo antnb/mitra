@@ -9,7 +9,7 @@ tags:
 - krisan
 
 modification_time: 2022-09-09 12:17:30
-blogger_orig_url: "http://localhost/mitra/tanaman-bunga-zinnia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-bunga-zinnia.html"
 ---
 
 Nasib bunga zinnia ibarat Cinderella pada siang hari, tak dilirik oleh hobiis.
@@ -50,8 +50,8 @@ tak pernah naik pangkat. “hal Itu karena leher bunga zinnia berlubang sehingga
 gampang merunduk,” ungkap 2 Ida Widaningsih, manajer Bina Usaha Flora. Karena
 cepat layu setelah dipotong, sambutan konsumen dingin saat diperkenalkannya
 pada 1999. [caption id="attachment_13860" align="aligncenter"
-width="300"][![bunga kertas tanaman zinnia](http://127.0.0.1/mitra/wp-
-content/uploads/2021/09/Zinnia-300x194.jpg)](http://127.0.0.1/mitra/wp-
+width="300"][![bunga kertas tanaman zinnia](http://localhost/mitra/wp-
+content/uploads/2021/09/Zinnia-300x194.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/09/Zinnia.jpg) Warna bunga oranye nan langka[/caption]
 Toh, Ida tidak putus asa. Pada 2014, ia memperkenalkan tanaman zinnia baru
 jenis _Oklahoma_ dan _giant blue_. Ada beberapa varietas baru yang didatangkan

@@ -10,14 +10,14 @@ tags:
 - udang windu
 
 modification_time: 2021-05-27 08:14:59
-blogger_orig_url: "http://localhost/mitra/udang-organik-si-bongkok-melenggang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/udang-organik-si-bongkok-melenggang.html"
 ---
 
 Petambak udang organik kerap gigit jari lantaran udangnya ditolak pasar ekspor
 gara-gara mengandung antibiotik chloramphenicol. Udang windu produksi petambak
 di Buduran, Sidoarjo, malah jadi rebutan pasar. Swedia saja meminta 3.500 ton
 per tahun. Maklum Pennaeus monodon di sana dibudidayakan secara organik.
-Mantan kepala Dinas Kelautan dan [Perikanan](http://127.0.0.1/mitra/perikanan
+Mantan kepala Dinas Kelautan dan [Perikanan](https://www.mitrausahatani.com/perikanan
 "Perikanan") Kabupaten Sidoarjo Ir Sunaryo, menuturkan kecil kemungkinan udang
 windu Sidoarjo mengandung zat antibiotik. Sejak 1991, para petambak menerapkan
 metode pemeliharaan secara tradisional dan menggunakan pupuk organik. Dari
@@ -34,8 +34,8 @@ Agriculture Movements](https://www.ifoam.bio/)) di Swedia.
 ## Jalan berliku Menuju Kesuksesan
 
 [![Ganggang sebagai pakan alami tambak udang organik
-](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/udang.jpg)](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-
+content/uploads/2021/05/udang.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/udang.jpg) Tak mudah bagi Ali dan kawan-kawan
 mendapatkan sertifikat itu. Awalnya kerjasama dengan ATJ (Alter TradeJapan)
 pada 1999. ATJ merupakan gabungan 9 koperasi di Jepang yang menampung udang
@@ -94,8 +94,8 @@ bongkok yang tercecap di lidah, tetapi juga menyehatkan lingkungan.
 
 ## Pemanfaatan Gedebok Pisang
 
-[![Windu organik buruan eksportir ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/windu1.jpg)](http://127.0.0.1/mitra/wp-
+[![Windu organik buruan eksportir ](http://localhost/mitra/wp-
+content/uploads/2021/05/windu1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/windu1.jpg) Aji Subhan petambak udang windu di
 Sawohan, Sidoarjo, sukses menghambat white spot. la hanya memanfaatkan gedebok
 pisang. Selama ini batang itu terbuang setelah buah dipanen. Setelah
@@ -109,7 +109,7 @@ dengan ukuran masing-masing 0,5 m. White spot disebabkan parasit
 _Ichthyophthirius multifiliis_. la merupakan momok bagi pembudidaya udang
 organik. Gejalanya ditandai bintik putih di permukaan kulit. Penularannya
 akibat infeksi dari ikan atau tanaman air. Pada budidaya [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias"), gempuran white spot
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias"), gempuran white spot
 biasanya diatasi dengan penggunaan methyline blue atau obat antiwhitespot. Di
 budidaya udang, gedeboklah solusinya. Menurut Ir Koko dari Kontrol Tani dan
 Lingkungan Hidup, Surabaya, gedebok pisang memunculkan bakteri Pf (Pseudomonas

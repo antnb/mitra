@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-06-14 15:50:05
-blogger_orig_url: "http://localhost/mitra/bisnis-ikan-louhan-paska-booming.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bisnis-ikan-louhan-paska-booming.html"
 ---
 
 Saat berjaya segala jenis ikan louhan termahal seperti _cencu_ , _kemalau_ ,
@@ -25,7 +25,7 @@ Bahkan tak jarang 1 akuarium berisi anakan 2,5 cm seharga Rp l25-ribu menjadi
 rebutan. Wajar jika Bensi dapat menangguk laba besar, Rp 200-juta- Rp 300-juta
 per bulan. Menurut kelahiran Palembang 42 tahun silam itu, tak hanya pemain
 ikan yang untung. Penjual kaca hingga penjaja [mainan
-ikan](http://127.0.0.1/mitra/evolusi-perdagangan-aksesori-ikan-hias.html) lou
+ikan](https://www.mitrausahatani.com/evolusi-perdagangan-aksesori-ikan-hias.html) lou
 han pun menangguk laba. Meski kini gerainya sepi ia tidak rela bila ikan
 kualitas tinggi dihargai murah.
 
@@ -48,7 +48,7 @@ untuk menaikkan gairah pedagang dan hobiis lou han di ibukota Kalimantan
 Selatan itu, perlu diadakan kontes. Wajar bila pada penghujung Juli nanti akan
 diadakan kontes lou han bertaraf nasional di kota kelahiran Pangeran Antasari
 itu. Tak ada yang menyangkal bila lou han masih “hidup”. Hasil lacakan [[Mitra
-Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) di sentra-sentra
+Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) di sentra-sentra
 ikan hias di Surabaya, Jakarta, dan Bandung terdapat gerai-gerai menjajakan
 lou han. Walaupun tampak lengang tanpa pembeli, akuarium berisi cencu, kamfa,
 dan kemalau setia mengisi pojok-pojok ruangan. “Meski penjualan turun drastis,
@@ -56,13 +56,13 @@ pesanan tetap ada,” tutur Rudi Wahyudin, pemilik Atlantik Akuarium di Bandung.
 Tiga tahun silam ia mampu menjual 50.000 ekor per bulan, kini hanya 1.000 ekor
 per bulan. Harga pun turun. Seekor cencu berkualitas tinggi yang dulu mencapai
 Rp 50-juta-Rp 100-juta per ekor kini hanya dihargai Rp 15-juta. Hal serupa
-dialami pedagang-pedagang [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan
+dialami pedagang-pedagang [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan
 hias") di Plasa Maspion, Jakarta Pusat. Keruntuhan lou han tampak jelas
 membekas. Saat kejayaan lou han, belasan showroom seakan memanjakan pengunjung
 dengan kilau mutiaranya di semua akuarium. Kini kilauan itu kian pudar. Yang
 tersisa hanya 4-5 gerai yang masih setia menjajakan lou han. [caption
 id="attachment_1202" align="aligncenter" width="799"]![ikan lou
-han](http://127.0.0.1/mitra/wp-content/uploads/2020/06/index_1280x681.jpg)
+han](http://localhost/mitra/wp-content/uploads/2020/06/index_1280x681.jpg)
 Andry, Mencoba peruntungan dikawasan indonesi timur[/caption]
 
 ### Ikan louhan berkualitas tetap dicari hobiis
@@ -93,7 +93,7 @@ ialah meringkuk di penjara selama 2 tahun. Jika pelanggaran dianggap berat,
 Anda bisa terkena sanksi kedua-duanya sekaligus. Bukan tanpa alasan pemerintah
 Negeri Jiran menerapkan tindakan tegas itu. “Lou han bersifat teritorial dan
 agresif yang menyebabkan kematian terhadap spesies lain,” kata Datuk Junaidi
-Che Ayub, Ketua Pengarah Jabatan [Perikanan](http://127.0.0.1/mitra/perikanan
+Che Ayub, Ketua Pengarah Jabatan [Perikanan](https://www.mitrausahatani.com/perikanan
 "Perikanan"). Menurutnya, pada fase pembiakan, ikan nongnong itu dapat
 memangsa spesies ikan lain. Jadi, keseimbangan ekosistem perairan pasti
 terganggu. Mereka yang bersalah akan dihukum sesuai aturan yang tertera di

@@ -12,7 +12,7 @@ tags:
 - murai batu
 
 modification_time: 2019-11-03 05:39:00
-blogger_orig_url: "http://localhost/mitra/love-bird-gobi-dan-gondo-mayyit.html"
+blogger_orig_url: "http://www.mitrausahatani.com/love-bird-gobi-dan-gondo-mayyit.html"
 ---
 
 Kenny Rafsanjani, juri asal Kotamadya Depok, Jawa Barat, berpendapat sama.
@@ -23,8 +23,8 @@ Suzuki dari Cirebon, Jawa Barat, itu menjadi jawara. "Penampilannya konsisten
 sehingga layak menjadi juara," ujar Kenny. Love bird bernama Gondo Mayyit juga
 meraih gelar prestisius di dua kelas berbeda, yakni kelas Bang Yos dan 268 BC.
 Tampil bak raja yang berpidato di hadapan rakyatnya, burung paruh bengkok itu
-anteng tegak berdiri sambil terus berkicau. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/kontes_640x471.jpg)](http://127.0.0.1/mitra/wp-
+anteng tegak berdiri sambil terus berkicau. [![](http://localhost/mitra/wp-
+content/uploads/2019/11/kontes_640x471.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/kontes_640x471.jpg)
 
 ## Durasi Kicau Yang Panjang Menjadi Kriteria
@@ -51,7 +51,7 @@ hadiah Rp10-juta," tuturnya. Selain muraibatu dan lovebird, burung cucak hijau
 juga mencuri perhatian para juri. Cucak hijau Halimun mendapat juara ke-1 di
 kelas Ebod Vit. "Irama dan lagu yang bagus di tambah stamina yang fit menjadi
 modal besar para jawara," ujar Koko. Sementara kelas E-Bodre gelar jawara
-diraih Dolpino. ![](http://127.0.0.1/mitra/wp-
+diraih Dolpino. ![](http://localhost/mitra/wp-
 content/uploads/2019/11/murai-400x225.jpg)
 
 ## Gengsi Tinggi

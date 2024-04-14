@@ -13,7 +13,7 @@ tags:
 - mengoleksi anthurium
 
 modification_time: 2021-02-01 15:38:19
-blogger_orig_url: "http://localhost/mitra/mereka-yang-tersihir-anthurium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mereka-yang-tersihir-anthurium.html"
 ---
 
 Anthurium-anthurium koleksinya tertata rapi di halaman rumahnya bergaya joglo
@@ -23,7 +23,7 @@ solid berbentuk mangkuk sehingga disebut jenmanii mangkuk. Di tanahair, tak
 lebih 10 orang yang mempunyai jenis itu. Total jenderal koleksinya mencapai 40
 pot terdiri atas 30-an jenis. Untuk memperolehnya Budi menebus dengan harga
 jutaan rupiah per pot. Sekarang saat masyarakat tergila-gila kemolekan
-anthurium, harga [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman
+anthurium, harga [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman
 hias") itu meroket. Sebagai gambaran, harga sebuah pot jenmanii berkualitas
 prima mencapai Rpl50-juta. Tanaman hias itulah yang memikat hati pria
 kelahiran 11 Oktober 1947. Buktinya Budi banyak menghabiskan waktu untuk
@@ -34,8 +34,8 @@ sendiri. Pantas ia paham betul karakteristik setiap koleksinya.
 ## Dipandang Sebelah mata
 
 [caption id="attachment_8017" align="alignleft" width="368"][![terpikat
-anthurium sejak remaja](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_anthurium1_1024x720.jpg)](http://127.0.0.1/mitra/wp-
+anthurium sejak remaja](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_anthurium1_1024x720.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_anthurium1_1024x720.jpg) Ricky Edward Mandagie
 terpikat anthurium sejak remaja[/caption] Setahun lampau Budi Tjahjana
 bukanlah hobiis anthurium. Justru istrinya Christina Damayanti yang sejak 10
@@ -78,7 +78,7 @@ sekarang. Itulah sebabnya harganya relatif murah. Contoh Anthurium superbum
 terdiri atas 6 daun "cuma" Rp400.000; sekarang, mencapai Rp5-juta. Pada masa
 itu memang jarang yang mengoleksi anthurium sehingga harganya relatif murah.
 Pada 2000 sampai 2002 masyarakat tengah demam
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") dan aglaonema. Oleh
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") dan aglaonema. Oleh
 karena itu setiap kali mencari anthurium, pedagang selalu menawari pria
 kelahiran Mandailingnatal 9 Juni 1959 itu adenium dan aglaonema. "Saya tak mau
 dipengaruhi orang," ujar Ada juga pedagang yang mengolok-olok, "Di sini tak
@@ -105,8 +105,8 @@ istrinya.
 ## Minat terhadap tanaman hias tumbuh Sejak remaja
 
 [caption id="attachment_8019" align="alignleft" width="255"][![ terpikat
-anthurium](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_anthurium2_589x768.jpg)](http://127.0.0.1/mitra/wp-
+anthurium](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_anthurium2_589x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_anthurium2_589x768.jpg) Mencari philodendron,
 Horas Pordomuan Batubara justru terpikat anthurium[/caption] Dengan perawatan
 optimal, anthurium koleksi Domu berpenampilan prima sehingga memikat banyak

@@ -9,7 +9,7 @@ tags:
 - Adenium
 
 modification_time: 2020-06-03 12:16:54
-blogger_orig_url: "http://localhost/mitra/mempercepat-pertumbuhan-adenium-dengan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mempercepat-pertumbuhan-adenium-dengan.html"
 ---
 
 _Banyak orang tak percaya teknik ala Frans panggilan akrab Fransiscus bisa
@@ -22,7 +22,7 @@ Begitu seterusnya,” ujar alumnus Fakultas Arsitektur dan Lansekap Universitas
 Trisakti itu sambil menunjuk bak perendaman. _Mawar gurun_ yang direndam
 pertumbuhannya 2-3 kali lebih bongsor. **Cara itu juga membuat adenium rajin
 berbunga**. Ia mencontohkan, satu [jenis
-adenium](http://127.0.0.1/mitra/kreasi-bonsai-adenium-unik-nan-cantik.html)
+adenium](https://www.mitrausahatani.com/kreasi-bonsai-adenium-unik-nan-cantik.html)
 yang biasanya berbunga selama 1-2 bulan akan mengalami masa istirahat selama 3
 minggu. Perendaman mempersingkat masa istirahat itu menjadi hanya 1-2 minggu.
 Hasil itu sebetulnya bukan sesuatu yang aneh. Sebab, media yang diairi dengan
@@ -39,7 +39,7 @@ Agar kondisi kering-basah-kering tercapai, jangan rendam adenium setiap hari.
 Perendaman cukup 3-4 hari sekali sekaligus menambah hara. Siapkan pupuk-media
 dan daun-dengan dosis 1/4-1/3 dosis anjuran. Lalu alirkan air dengan
 selang'sampai setinggi 5 cm sambil melarutkan pupuk. Air dibiarkan merendam
-[pot-pot adenium](http://127.0.0.1/mitra/topik/adenium) selama semalam agar
+[pot-pot adenium](https://www.mitrausahatani.com/topik/adenium) selama semalam agar
 meresap ke media secara merata. Baru pada pagi hari lubang pengeluaran dibuka.
 Menurut Frans, perendaman di bak beton hanya cocok untuk pemilik nurseri
 lantaran mahal. Pada 2003, biaya untuk membuat bak beton per 1 m2 Rp 40.000.

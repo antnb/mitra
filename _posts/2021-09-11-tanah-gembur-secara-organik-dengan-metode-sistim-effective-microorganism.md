@@ -19,7 +19,7 @@ tags:
 - meningkatkan kualitas tanah
 
 modification_time: 2021-09-11 08:09:48
-blogger_orig_url: "http://localhost/mitra/tanah-gembur-effective-microorganism.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanah-gembur-effective-microorganism.html"
 ---
 
 Hasil panen cabai pada Awal tahun sebanyak 16 ton/ha membuat Dian Sofyan
@@ -47,7 +47,7 @@ dukung lahan menyebabkan kualitas tanah turun, lalu rusak. Celakanya, begitu
 tanaman terserang penyakit, pekebun "menghantam” dengan menyemprot pestisida
 dalam dosis berlebihan. "Manajemen seperti ini jelas tidak menyelesaikan
 masalah. Bahkan, akan membuat masalah pada hari-hari berikutnya,” ucap alumnus
-Fakultas [Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") UPN
+Fakultas [Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") UPN
 Veteran, Yogyakarta. Buktinya, beberapa pekebun di Brebes, Jawa Tengah,
 mengeluh lantaran kadar residu pestisida dalam bawang merah tinggi. Beberapa
 pekebun yang sadar akan hal itu mencoba berpaling ke produk-produk yang dapat
@@ -77,8 +77,8 @@ pestisida. "Raja Thailand sangat mendukung program itu. Apalagi, ada semacam
 mitos siapa pun yang menyelamatkan tanah akan dikaruniai Tuhan,” kata alumnus
 Fakultas Pertanian, Universitas Nasional Jakarta itu. [caption
 id="attachment_14029" align="aligncenter" width="470"][![Para pekebun sedang
-membuat tanah gembur](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-
-cabai-petani.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-
+membuat tanah gembur](http://localhost/mitra/wp-content/uploads/2021/09/kebun-
+cabai-petani.jpg)](http://localhost/mitra/wp-content/uploads/2021/09/kebun-
 cabai-petani.jpg) Pekebun bisa meramu sendiri[/caption]
 
 ## Tanah Gembur Dengan Bantuan Proses Fermentasi organik
@@ -98,7 +98,7 @@ Ambil 80% bahan organik, seperti jerami dan sekam padi, 10% pupuk kandang,
 serta 10% dedak halus. Campurkan bahan itu, lalu guyur EM-4 dengan dosis
 setiap 10 ton bahan butuh 1 liter EM-4. Setelah seminggu, ramuan itu bisa
 ditebar ke lahan dan siap ditanami. Pemakaian Bioplasma dan [Mitra
-Tani](http://127.0.0.1/mitra) dari Biotama langsung diguyur ke tanaman. Hamony
+Tani](https://www.mitrausahatani.com) dari Biotama langsung diguyur ke tanaman. Hamony
 BS dan Chitosan produksi PT Tani Unggul Sarana pun sama. Yang jelas pemakaian
 produk pembenah tanah relatif mudah. "Ibaratnya, pekebun yang tidak mengenyam
 pendidikan tinggi pun bisa melakukannya,” kata Zakky.

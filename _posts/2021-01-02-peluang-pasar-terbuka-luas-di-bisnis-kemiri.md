@@ -12,7 +12,7 @@ tags:
 - peluang pasar
 
 modification_time: 2022-09-11 07:14:44
-blogger_orig_url: "http://localhost/mitra/peluang-pasar-terbuka-luas-di-bisnis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peluang-pasar-terbuka-luas-di-bisnis.html"
 ---
 
 Siang itu satu kontainer penuh berisi kemiri kupasan asal Medan memang sedang
@@ -60,8 +60,8 @@ Toh, potensi bahan bakunya juga besar.
 ## Permintaan pasar akan kemiri cukup tinggi
 
 [caption id="attachment_3174" align="alignleft" width="301"][![kemiri
-gelondongan](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_kemiri_1024x616.jpg)](http://127.0.0.1/mitra/wp-
+gelondongan](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_kemiri_1024x616.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_kemiri_1024x616.jpg) Daya serap pasar cukup
 tinggi[/caption] Tingginya permintaan kemiri diendus PT Kamilah Indo Pratama
 (KIP). Sejak 3 bulan lalu, pemasok dan eksportir lidah buaya itu mulai

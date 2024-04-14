@@ -12,7 +12,7 @@ tags:
 - semut
 
 modification_time: 2022-12-29 13:09:04
-blogger_orig_url: "http://localhost/mitra/ternak-kroto-skala-rumahan-untuk-pemula.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ternak-kroto-skala-rumahan-untuk-pemula.html"
 ---
 
 Di bangunan sederhana itulah ia beternak semut rangrang penghasil kroto di
@@ -37,8 +37,8 @@ Di bagian tengah ruangan itu juga terdapat rak bertingkat dua. Ukurannya lebih
 lebar dan panjang dipenuhi tumpukan pipa PVC dan stoples plastik bening.
 [caption id="attachment_16193" align="aligncenter" width="640"][![ternak kroto
 Bila tidak mendapatkan sarang, semut akan membangun sarang di
-luar](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/kroto_640x337.jpg)](http://127.0.0.1/mitra/wp-
+luar](http://localhost/mitra/wp-
+content/uploads/2019/11/kroto_640x337.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/kroto_640x337.jpg) Bila tidak mendapatkan sarang,
 semut akan membangun sarang di luar[/caption]
 
@@ -54,12 +54,12 @@ pertimbangan dalam usahanya bergelut di bidang budidaya kroto Kelebihannya ia
 bisa menyusun pipa secara rapat sehingga efisien. Semut pun menyukai sehingga
 langsung membuat sarang pada hari pertama pemasangan. Kelemahannya, lebih
 repot karena peternak harus memotong pipa. Kondisi di dalam sarang
-[semut](http://127.0.0.1/mitra/topik/semut) pun sulit terpantau setelah semut-
+[semut](https://www.mitrausahatani.com/topik/semut) pun sulit terpantau setelah semut-
 semut itu menutup permukaan lubang. Peternak di Desa Sukahati, Kecamatan
 Cibinong, Kabupaten Bogor, Jawa Barat, Yono, memanfaatkan stoples transparan
 berukuran 1 kg sebagai sarang. Kelebihannya, peternak dapat memantau kondisi
-dalam sarang. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/kroto-1024x549.jpg)](http://127.0.0.1/mitra/wp-
+dalam sarang. [![](http://localhost/mitra/wp-
+content/uploads/2019/11/kroto-1024x549.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/kroto.jpg)
 
 ## Cara Membuat Tempat Ternak Kroto Dengan Bahan Toples plastik Bekas
@@ -67,7 +67,7 @@ content/uploads/2019/11/kroto.jpg)
 Selain itu, Yono tidak harus membeli wadah makan dan minum karena memanfaatkan
 tutup stoples. Yono memang memasang stoples dalam kondisi terbalik, yaitu
 mulut stoples menghadap ke bawah. Sebagai jalan [masuk
-semut](http://127.0.0.1/mitra/sarang-semut-penangkal-kanker-payudara.html), ia
+semut](https://www.mitrausahatani.com/sarang-semut-penangkal-kanker-payudara.html), ia
 memberi pengganjal setebal 1 cm. Lewat celah itu semut masuk dan keluar
 sarang. Semut akan menutup sebagian celah itu dengan serat dan hanya
 menyisakan lubang 1 cm sebagai jalan keluar-masuk. Adanya serat halus menjadi
@@ -83,8 +83,8 @@ mereka meninggalkan sarang dan pindah ke tempat yang lebih nyaman. Keberadaan
 cicak juga membuat semut bersembunyi. [caption id="attachment_16194"
 align="aligncenter" width="640"][![Semut mencari pakan dalam radius yang jauh.
 Jadi dalam 1 rak bisa disediakan I wadah berisi air
-gula](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/kroto_640x470.jpg)](http://127.0.0.1/mitra/wp-
+gula](http://localhost/mitra/wp-
+content/uploads/2019/11/kroto_640x470.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/kroto_640x470.jpg) semut rangrang mencari pakan dalam
 radius yang jauh. Jadi dalam 1 rak bisa disediakan I wadah berisi air
 gula[/caption]
@@ -121,8 +121,8 @@ mencegah predator masuk ke dalam kandang. Untuk kelancaran aktivitas petugas,
 terdapat lampu. Ketika lampu padam, cahaya tetap masuk lewat atap fiber dengan
 intensitas 10-20%. [caption id="attachment_16192" align="aligncenter"
 width="516"][![Jika lingkungan sesuai, budidaya kroto cepat berkembang biak,
-populasi dua kali lipat dalam 2 bulan](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/kroto_516x480.jpg)](http://127.0.0.1/mitra/wp-
+populasi dua kali lipat dalam 2 bulan](http://localhost/mitra/wp-
+content/uploads/2019/11/kroto_516x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/kroto_516x480.jpg) Jika lingkungan sesuai, semut cepat
 berkembang biak, populasi dua kali lipat dalam 2 bulan[/caption]
 
@@ -146,7 +146,7 @@ yang siap memberi pakan. Namun, ketika stres karena baru didatangkan terkadang
 semut menolak makan hingga lebih dari sepekan. Pakan dan air gula yang
 tersedia tidak disentuh sama sekali. Namun, jika suhu dan kelembapan sesuai
 serangga itu cepat berkembang biak. Dalam setahun 100 stoples bibit berkembang
-menjadi 30.000 [sarang semut](http://127.0.0.1/mitra/sejuta-manfaat-dan-
+menjadi 30.000 [sarang semut](https://www.mitrausahatani.com/sejuta-manfaat-dan-
 khasiat-sarang.html).
 
 

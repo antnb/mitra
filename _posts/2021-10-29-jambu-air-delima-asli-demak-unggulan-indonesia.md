@@ -10,14 +10,14 @@ tags:
 - jambu air
 
 modification_time: 2022-09-21 01:23:52
-blogger_orig_url: "http://localhost/mitra/jambu-air-delima-asli-demak.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jambu-air-delima-asli-demak.html"
 ---
 
 Belimbing Demak punya saingan, namanya jambu air delima. Sejak tahun ’80-an ia
 ditanam di sana. . Kini ia dijual di Jakarta dengan nama jambu taiwan. Di Desa
 Betoan dan Tempura, Kecamatan Demak Kota, hampir semua pekarangan rumah
 penduduk minimal berisi satu pohon jambu air. Di dua desa itu pertumbuhan
-jambu air telah mengalahkan [belimbing](http://127.0.0.1/mitra/topik/belimbing
+jambu air telah mengalahkan [belimbing](https://www.mitrausahatani.com/topik/belimbing
 "belimbing"). _Syzigium samarangen_ , juga dikenal sebagai Jambu Air Delima,
 Jambu lilin, apel cinta atau buah lonceng, adalah buah tropis asli Indonesia.
 Ini adalah buah bulat atau lonjong dengan kulit tipis seperti lilin yang bisa
@@ -36,8 +36,8 @@ Semarang.Orang mulai ramai menanamnya pada 1986. Penduduk Desa Krapyak, dekat
 Demak Kota yang pertama kali menanam. Lalu meluas ke Betoan dan Tempura. Di
 Betoan itu diperkirakan ada sekitar 100.000 pohon. Umumnya ditanam di halaman
 rumah, belum banyak yang mengebunkan. [![Jambu Air
-Delima](http://127.0.0.1/mitra/wp-content/uploads/2021/10/jambu-
-delima-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/10/jambu-
+Delima](http://localhost/mitra/wp-content/uploads/2021/10/jambu-
+delima-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/10/jambu-
 delima.jpg)
 
 ## Mirip jambu semarang prada
@@ -77,8 +77,8 @@ Namun, itu tergantung ketersediaan barang. "Kalau hanya 2 kuintal, sejumlah
 itulah yang dibawa." Musim buah terbanyak pada Juli, terutama kalau tidak
 hujan. Dalam satu tahun, ia bisa mengirim buah empat periode. Tipan mencari
 jambu air delima ke Desa Meranak, Kecamatan Wonosalam, Cabean, Kalikondang,
-Brantal. Yang terbanyak di Tempura dan Betoan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/delima-300x169.jpg)](http://127.0.0.1/mitra/wp-
+Brantal. Yang terbanyak di Tempura dan Betoan. [![](http://localhost/mitra/wp-
+content/uploads/2021/10/delima-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/delima.jpg)
 
 ## Pertumbuhan Jambu Demak Lebih Cepat dengan Setek
@@ -114,8 +114,8 @@ bulan dipindah ke polibag untuk pembesaran. Media di polibag sudah berupa
 tanah dan pupuk kandang. Tanaman siap ditanam di lahan pada umur 7 sampai 8
 bulan. Setinggi 40 sampai 60 cm. Pada umur 2 tahun, tanaman sudah mulai
 berbunga. Jadi sama saja dengan bila dicangkok.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/10/jambu-
-air-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/10/jambu-
+[![](http://localhost/mitra/wp-content/uploads/2021/10/jambu-
+air-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/10/jambu-
 air.jpg)
 
 ## Jenis Jambu Air Khas Demak
@@ -140,7 +140,7 @@ air delima mirip semarang prada. Apapun nama jambu itu, hal terpenting ialah
 penanganan pascapanen. Buah dipetik dan ditumpuk di keranjang sehingga lecet
 dan mudah busuk. Inilah yang tidak terjadi pada jambu air delima. Panen
 dilakukan dengan tangan, dan yang dipetik hanya [buah
-merah](http://127.0.0.1/mitra/topik/buah-merah "buah merah"). Pemanen berdiri
+merah](https://www.mitrausahatani.com/topik/buah-merah "buah merah"). Pemanen berdiri
 di para-para bambu.
 
 

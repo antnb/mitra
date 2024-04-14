@@ -10,7 +10,7 @@ tags:
 - singkong
 
 modification_time: 2021-09-09 15:51:31
-blogger_orig_url: "http://localhost/mitra/rekonsiliasi-sektor-agribisnis-tanah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rekonsiliasi-sektor-agribisnis-tanah.html"
 ---
 
 Saya lahir 100 tahun setelah singkong gencar ditanam di Pulau Jawa. Teman
@@ -51,7 +51,7 @@ mahal dan berisiko tinggi. Teman saya dari NTT itu, Peter A. Rohi,
 menyelidikinya dengan seksama, dan menemukan sesuatu yang membuat kecewa.
 Jangankan urusan kuda, singkong pun jadi masalah, karena tak ada cadangan
 pangan yang mudah ditanam dan dipanen. Kampung halamannya jadi rawan paceklik.
-Mudah terlindas bencana kelaparan [2]. ![](http://127.0.0.1/mitra/wp-
+Mudah terlindas bencana kelaparan [2]. ![](http://localhost/mitra/wp-
 content/uploads/2021/09/agro.jpg)
 
 ## Semua tamu
@@ -77,7 +77,7 @@ tertentu. Padahal, seperti kita dengar pada awal pembicaraan ini, setiap
 produk unggulan itu punya asal muasal dan tempat leluhur sendiri. Buktinya,
 singkong yang paling murah pun datang dari negeri di balik bumi. Dan kita
 menyaksikan, hampir setiap saat muncul pendatang baru, baik dari [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), pohon pelindung,
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"), pohon pelindung,
 tanaman industri, ternak, dan buah-buahan. Kenyataannya, meskipun diberi nama
 duku palembang, umumnya datang dari Jambi. Terong belanda banyak di Medan.
 Asam jawa dan cabai jawa subur di Malaysia, dan seterusnya. Moralnya sudah
@@ -87,7 +87,7 @@ seperti inilah paling pas untuk renungan akhir tahun. Pertanyaannya, bagaimana
 aspek agribisnis bagi tanaman dan ternak tamu ini? Secara 5 3 ekonomis
 seringkali dominan, " karena membawa aspek dan finansial tinggi. Namun, dari
 bisnis, produk tamu dikhawatirkan bakal membunuh, bahkan melenyapkan hasil dan
-kerja di dalam negeri. ![](http://127.0.0.1/mitra/wp-
+kerja di dalam negeri. ![](http://localhost/mitra/wp-
 content/uploads/2021/09/agrobisnis.jpg)
 
 ## Proteksi dan rekonsiliasi

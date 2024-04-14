@@ -9,7 +9,7 @@ tags:
 - Ayam serama
 
 modification_time: 2021-01-20 13:16:53
-blogger_orig_url: "http://localhost/mitra/jenis-ayam-serama-persilangan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jenis-ayam-serama-persilangan.html"
 ---
 
 Hingga kini jenis ayam serama hasil persilangan the smallest bantam itu terus
@@ -30,8 +30,8 @@ mempunyai keistimewaan.
 ## Banyak dicari- serama tipe ball
 
 [caption id="attachment_7878" align="alignleft" width="178"][![ayam serama
-jenis ball](http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_tipe-
-serama2_779x768.jpg)](http://127.0.0.1/mitra/wp-
+jenis ball](http://localhost/mitra/wp-content/uploads/2021/01/Gambar_tipe-
+serama2_779x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_tipe-serama2_779x768.jpg) ayam serama[/caption]
 Pada awal kemunculan, persilangan serama berorientasi pada bobot. Namun, kini
 para penangkar di Malaysia mulai mengklasifikasikan serama berdasarkan tinggi
@@ -52,8 +52,8 @@ sedikit.
 ## Gerakan lincah- serama tipe slim
 
 [caption id="attachment_7879" align="alignleft" width="164"][![ayam serama
-slim](http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_tipe-
-serama1_786x768.jpg)](http://127.0.0.1/mitra/wp-
+slim](http://localhost/mitra/wp-content/uploads/2021/01/Gambar_tipe-
+serama1_786x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_tipe-serama1_786x768.jpg) Tipe slim disuka
 karena lincah[/caption] Ayam Serama disebut slim bila memiliki tinggi 20 cm
 dan lebar 5 cm. Penampilannya tampak jangkung karena kaki dan leher panjang.
@@ -66,8 +66,8 @@ kurang membusung. Meski begitu ia tetap disukai karena atraktif dan lincah.
 ## Ayam yang Lucu- serama tipe bulat
 
 [caption id="attachment_7880" align="alignleft" width="152"][![serama
-bulat](http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_tipe-
-serama_838x768.jpg)](http://127.0.0.1/mitra/wp-
+bulat](http://localhost/mitra/wp-content/uploads/2021/01/Gambar_tipe-
+serama_838x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_tipe-serama_838x768.jpg) Tubuh bulat tampak
 kompak[/caption] Jenis ayam serama tipe bulat memiliki tinggi tubuh 20 cm dan
 lebar 12 cm. Munculnya bentuk itu diduga kuat karena darah katai jepang sangat

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-14 07:11:52
-blogger_orig_url: "http://localhost/mitra/memburu-kenikmatan-di-sebatang-cerutu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/memburu-kenikmatan-di-sebatang-cerutu.html"
 ---
 
 _Budi Yuhanto mestinya dapat langsung ke apartemen untuk beristirahat setelah
@@ -81,7 +81,7 @@ pikirannya jadi tenang. Ketika itulah ia teringat 3 tahun silam ia pernah
 mendatangkan band yang sama. Akhirnya dokumen lama pun dibongkar. “Saya kerap
 menemukan ide atau jalan keluar seperti itu ketika menyigar,” kata pria
 kelahiran 21 Juli 1966 itu. [caption id="attachment_1673" align="aligncenter"
-width="511"]![cerutu](http://127.0.0.1/mitra/wp-
+width="511"]![cerutu](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_cerutu_1132x800.jpg) cerutu[/caption]
 
 ### Legenda kuba
@@ -156,9 +156,9 @@ Pengusaha muda itu mengenal cerutu sejak 10 tahun silam karena didorong rasa
 ingin tahu. Bagi pemula, boleh jadi cerutu kurang nikmat. “Awalnya batuk-
 batuk. Tapi lama-kelamaan nikmat juga,” ujar Hendardi, ketua majelis
 Perhimpunan Bantuan Hukum dan Hak Azazi Manusia Indonesia kepada [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra). Mereka, para penyigar,
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com). Mereka, para penyigar,
 kerap meluangkan waktu untuk berkumpul bersama di sebuah cigar lounge. Itulah
-yang [[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+yang [[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 saksikan di sebuah senja pada medio Desember tahun silam. Seorang tampak
 mengambil sekotak Ninfas dari laci penyimpanan. Ia mempersilakan 3 rekannya
 yang duduk di atas kursi empuk masing-masing seharga Rp 7,5-juta untuk

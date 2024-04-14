@@ -12,7 +12,7 @@ tags:
 - tongkol
 
 modification_time: 2019-10-30 04:49:00
-blogger_orig_url: "http://localhost/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tiga-jagung-manis-unggul-jagung-bonanza.html"
 ---
 
 Anas Ma’ruf lazim memperoleh 3-4 ton jagung bonanza di lahan jagung seluas 0,5
@@ -23,8 +23,8 @@ menggunakan varietas jagung baru, la menggunakan jagung super asian honey. Itu
 jagung anyar rakitan PT Asian Hybrid Seed Technologies Indonesia (PT AHSTI)
 sejak 2012. Sebelumnya Anas menggunakan jagung varietas lain dari produsen
 berbeda. "Saya tertarik menanam asian honey karena lebih manis dan
-pertumbuhannya bagus," kata ayah 2 anak itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/bonanza-1024x675.jpg)](http://127.0.0.1/mitra/wp-
+pertumbuhannya bagus," kata ayah 2 anak itu. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/bonanza-1024x675.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/bonanza.jpg)
 
 ## Jagung Super Madu Asia
@@ -56,8 +56,8 @@ Anas memerlukan 12 bungkus benih asian honey. Satu bungkus benih jagung
 bonanza berisi sekitar 1.750 biji seharga Rp 60.000. Jadi, total jenderal ia
 menanam 21.000 asian honey. [caption id="attachment_15954" align="aligncenter"
 width="308"][![Tanaman jagung Asian honey dengan tingkat kemanisan
-14-15°briks](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/jagung_308x480.jpg)](http://127.0.0.1/mitra/wp-
+14-15°briks](http://localhost/mitra/wp-
+content/uploads/2019/10/jagung_308x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/jagung_308x480.jpg) Asian honey jagung dengan tingkat
 kemanisan 14-15°briks[/caption]  
 
@@ -70,7 +70,7 @@ mengatakan daun jagung bonanza menggulung dan bulir jagung tidak terisi penuh
 jika kekurangan air. Jika jagung kelebihan air, maka daun menguning dan ukuran
 jagung lebih kecil daripada biasanya. Oleh karena itu Anas selalu mencukupi
 kebutuhan air tanaman budidayanya, tidak [kelebihan
-dan](http://127.0.0.1/mitra/kelebihan-kelengkeng-itoh-edaw.html) juga tidak
+dan](https://www.mitrausahatani.com/kelebihan-kelengkeng-itoh-edaw.html) juga tidak
 kekurangan air. Menurut pria berumur 33 tahun itu jenis jagung manis asian
 honey diminati konsumen. "Pembeli mengetahui asian honey dari kulitnya yang
 lebih hijau dibanding jenis lain," kata Anas. PT AHSTI bukan hanya

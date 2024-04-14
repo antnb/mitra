@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-26 06:03:03
-blogger_orig_url: "http://localhost/mitra/tanaman-hias-kuningnya-anggrek-kaki.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-hias-kuningnya-anggrek-kaki.html"
 ---
 
 _Penampilan Phaius kuning milik Satria Wira mirip Calathea. Warna bunga kuning

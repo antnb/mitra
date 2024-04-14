@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-21 15:37:39
-blogger_orig_url: "http://localhost/mitra/bisnis-bibit-kentang-terganjal.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bisnis-bibit-kentang-terganjal.html"
 ---
 
 _Bisnis bibit kentang sebenarnya berprospek cerah untuk dikembangkan. Jika
@@ -61,7 +61,7 @@ dipanen, dan sisanya (AeciZ-Red) dibibitkan,” kata Asep. Padahal bibit seperti
 itu tidak dijamin kemurniannya. Cerita yang sama dikemukakan oleh Wildan.
 “Banyak petani yang selain bertani kentang untuk segar, juga sekaligus menjual
 bibit,” kata Wildan. Bibit itu bisa jadi hasil sampingan, atau hasil “kloter”
-terakhir dari [pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman")
+terakhir dari [pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman")
 utamanya. Pada awalnya petani membeli bibit yang bersertifikat, kemudian
 dibibitkan sendiri sampai 4 generasi pertanaman. Namun hanya sebagian yang
 secara sadar menggunakan bibit yang terjamin kualitasnya. Tak jarang asal

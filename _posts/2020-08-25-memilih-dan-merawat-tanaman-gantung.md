@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-25 07:58:55
-blogger_orig_url: "http://localhost/mitra/memilih-dan-merawat-tanaman-gantung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/memilih-dan-merawat-tanaman-gantung.html"
 ---
 
 _Hati Eva Yanti masygul. Tanaman hias gantung di rumah yang dikontrakkanny
@@ -24,7 +24,7 @@ mengerti cara merawat tanaman itu.
 ## Pilih Tanaman yang Berbobot ringan
 
 Menurut Ny. Soeroyo, hobiis dan pengusaha [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di Cilandak, Jaksel,
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di Cilandak, Jaksel,
 sebenarnya mudah merawat tanaman gantung. Caranya tidak berbeda jauh dengan
 tanaman yang diletakkan di lantai. Pilih media berbobot ringan seperti humus
 atau kompos 4 bagian dan tanah 1 bagian. Pilihan lain ialah kokopit yang juga
@@ -34,7 +34,7 @@ agar keindahannya bisa dinikmati dari bawah. Contoh yang berbunga : lipstick
 plant, columnea, dan episcia; berdaun indah, pilih pakis-pakisan, seperti
 boston dan nephrolepis. Juga sering dipakai lili paris pillea, sirih gading,
 sukulen, tillandsia, hedera, zebra plant, dan
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") dasi yang
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") dasi yang
 masih eksklusif.
 
 ### Perawatan Rutin

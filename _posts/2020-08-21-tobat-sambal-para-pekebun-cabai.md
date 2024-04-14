@@ -9,7 +9,7 @@ tags:
 - cabai
 
 modification_time: 2022-09-17 10:00:56
-blogger_orig_url: "http://localhost/mitra/tobat-sambal-para-pekebun-cabai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tobat-sambal-para-pekebun-cabai.html"
 ---
 
 _Para pekebun cabai ibarat makan sambal. Ketika harga menukik tajam mereka
@@ -20,7 +20,7 @@ bergerak naik-turun mengikuti medan. Celakanya, naik-turunnya kuda pacu itu
 sulit ditebak. Menjelang Lebaran lalu, diprediksikan harga cabai bakal
 merangkak naik setidaknya mencapai Rp 5.000 per kilogram. Prediksi itu tak
 muluk-muluk. Sudah tradisi, menjelang Lebaran harga cabai di
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") cabai tradisional
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") cabai tradisional
 biasanya memang meninggi. Lebaran yang bertepatan dengan musim hujan semakin
 mengkukuhkan bahwa ramalan itu mendekati kebenaran. Soalnya, pada musim hujan
 serangan penyakit kian intens akibatnya produksi cabai pun menukik.
@@ -38,7 +38,7 @@ H-l hingga H-6 banyak cabai membusuk. Salah satu penyebabnya, “Kucuran KUT
 (Kredit Usaha Tar;, Red). Orang yang memperoleh kredit berlomba-lomba menanam
 cabai. Akibatnya, pasar tak mampu menyerap sehingga harga jatuh,” papar
 pemerhati cabai, Ir Final Prajnanta, MM. Di sentra
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") cabai di Brebes,
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") cabai di Brebes,
 Jawa Tengah misalnya, areal penanaman melonjak hingga 100%. Bila pada 2018
 hanya terdapat 1.500 ha penanaman, maka setahun kemudian menjadi 3.000 ha.
 Indikasi lain dapat terbaca dari tingginya penjualan benih pada Oktober dan
@@ -71,7 +71,7 @@ harus membuat mereka hengkang. “Karakter cabai memang begitu. Ada saatnya
 harga rendah, ada kalanya tinggi,” tutur pekebun cabai Garin Mayangkara.
 Semakin lama mengebunkan cabai, ia memahami karakter si pedas sehingga mampu
 menekan risiko kerugian. Sebelum menanam, “Saya survei lahan
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") cabai ke beberapa
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") cabai ke beberapa
 sentra dan menanyakan berapa banyak benih terjual kepada distributor,” ujar
 Garin membuka rahasia. Itulah sebabnya saat 12 September silam masyarakat
 antusias membudidayakan cabai, “Saya memutuskan untuk menunda. Paling cepat

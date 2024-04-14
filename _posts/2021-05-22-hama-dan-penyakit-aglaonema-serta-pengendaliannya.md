@@ -13,21 +13,21 @@ tags:
 - serangan cendawan
 
 modification_time: 2021-05-22 08:16:43
-blogger_orig_url: "http://localhost/mitra/hama-dan-penyakit-aglaonema-serta.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hama-dan-penyakit-aglaonema-serta.html"
 ---
 
 Punah sudah harapan Yenny Widjaya untuk berlomba di Flona tahun ini, Jakarta.
 Daun aglaonema andalannya rusak terserang penyakit aglaonema. Andai tanaman
 itu sehat, Yenny memperkirakan koleksinya bakal "berbicara" di kontes lantaran
 ia juara ke-3 pada Flona tahun ini. Sang cendawan menyerang
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") koleksi Yenny
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") koleksi Yenny
 Widjaya pada awal musim hujan. Hobiis di Purwokerto itu mengaku lalai merawat
 karena kesibukan kerja. Gara-gara terlalu banyak disiram oleh pekebunnya,
 cendawan pun bersorak. Tanpa ampun tanaman aglaonema bernilai belasan juta
 rupiah itu diserang. Pemilik Indo Computer itu berusaha menyelamatkannya
 dengan menyemprot fungisida. Sayang, tindakan itu terlambat. [![hama dan
-penyakit tanaman Penyakit Aglaonema](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Aglaonema-2-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+penyakit tanaman Penyakit Aglaonema](http://localhost/mitra/wp-
+content/uploads/2021/05/Aglaonema-2-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Aglaonema-2.jpg)
 
 ## Hama Dan Penyakit Yang Umum Menyerang Aglaonema Serta Pencegahannya

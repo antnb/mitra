@@ -13,15 +13,15 @@ tags:
 - pride of sumatera
 
 modification_time: 2021-05-22 06:56:23
-blogger_orig_url: "http://localhost/mitra/perjalanan-ke-negeri-seribu-satu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perjalanan-ke-negeri-seribu-satu.html"
 ---
 
 Tanyalah para penggila aglaonema, ke mana mereka memburu jenis terbaru?
 Thailand niscaya menjadi pilihan. Di sana puluhan penangkar tumplek blek di
 Bangkok dan seputaran ibukota negara Gajah Putih itu. Masing-masing getol
 "menelurkan" koleksi terbaru agar tak kalah pamor dari pesaing. Jadilah
-Thailand negara seribu satu [aglaonema](http://127.0.0.1/mitra/topik/aglaonema
-"aglaonema"). Di penghujung Juli, [Mitra Usaha Tani](http://127.0.0.1/mitra)
+Thailand negara seribu satu [aglaonema](https://www.mitrausahatani.com/topik/aglaonema
+"aglaonema"). Di penghujung Juli, [Mitra Usaha Tani](https://www.mitrausahatani.com)
 atas undangan Leman, kolektor aglaonema di Jakarta Utara, mengunjungi beberapa
 nurseri di sana. Perjalanan yang menakjubkan karena hampir setiap kebun
 memiliki andalan berbeda. Beberapa mirip dengan yang dihasilkan Greg Hambali
@@ -48,8 +48,8 @@ merah. Lazimnya Ciu lemang menjual tanaman seukuran itu.
 
 ## Aglaonema Kelas kakap
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Aglaonema2.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Aglaonema2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Aglaonema2.jpg) Persinggahan berikutnya, nurseri milik
 Praktin di Suphanburi, sekitar 100 km dari Bangkok. Pria bersahaja itu
 mengoleksi jenis-jenis berdaun hijau putih atau hijau perak. Masih di kota
@@ -82,14 +82,14 @@ Harganya lebih murah ketimbang di tanah air. Tanaman berdaun 4 lembar dijual
 80 baht setara Rp 16.000. Di Indonesia, pride of sumatera masih dibanderol Rp
 15.000 per helai. Saat matahari menjelang tenggelam, giliran kebun Prapuntong
 Pangpit di Distrik Taweewatana disambangi. Ternyata di sanalah gudang
-[aglaonema putih](http://127.0.0.1/mitra/aglaonema-putih-di-antara-
+[aglaonema putih](https://www.mitrausahatani.com/aglaonema-putih-di-antara-
 merahnya.html) dengan bercak hijau seperti yang dilihat di kediamaan Bua.
 Hanya saja ukuran daun standar.
 
 ## Aglonema Corak merah darah
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Aglaonema.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Aglaonema.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Aglaonema.jpg) Hari ke-3 perjalanan membutuhkan energi
 cukup besar. Maklum kali ini nurseri yang dikunjungi terletak di Rayong,
 sekitar 2 sampai 3 jam peijalanan darat dari Bangkok. Toh, waktu tempuh cukup
@@ -106,7 +106,7 @@ Boleh dibilang dialah yang pertama sukses memperbanyak dengan cara kultur
 jaringan. Sayang, waktu Mitra Usaha Tani ke sana Sombat justru sedang
 berkunjung ke Bangkok. Langkah selanjutnya, mengunjungi Pasar Chatuchak. Di
 pasar tradisional itulah pada setiap Rabu tumpah ruah seluruh [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") dari seantero
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") dari seantero
 Thailand. Di sanalah hobiis pemula yang tak sanggup merogoh kocek terlalu
 dalam, mengincar aglaonema "lama" yang tetap menarik. Nah, buat Anda yang
 berminat membeli aglaonema langsung ke Thailand, semoga laporan perjalanan

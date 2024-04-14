@@ -10,7 +10,7 @@ tags:
 - daging buah
 
 modification_time: 2020-12-19 00:48:53
-blogger_orig_url: "http://localhost/mitra/belimbing-unggulan-kala-dewa-dan-dewi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/belimbing-unggulan-kala-dewa-dan-dewi.html"
 ---
 
 Penampilan belimbing koleksi Mubin Usman, penangkar di Depok, itu memang
@@ -26,14 +26,14 @@ terbaik di kelas buah bintang.
 ## Tetua dari tempat sampah
 
 [caption id="attachment_3010" align="alignright" width="367"][![Belimbing Dewi
-murni](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_belimbing2_1024x663.jpg)](http://127.0.0.1/mitra/wp-
+murni](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_belimbing2_1024x663.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_belimbing2_1024x663.jpg) Belimbing Dewi murni,
 juara ke-2 bercitarasa manis[/caption] Mubin Usman pertama kali mendapatkan
 bibit dewa dari sebuah pameran di kawasan Ancol, Jakarta Utara, pada 1977.
 Waktu itu pohon berumur 1,5 tahun dibeli di dalam pot. Setelah sampai ke
 kebun, carambola itu dipindah ke tanah. Dari 3 pohon induk, lantas
-[belimbing](http://127.0.0.1/mitra/topik/belimbing "belimbing") diperbanyak.
+[belimbing](https://www.mitrausahatani.com/topik/belimbing "belimbing") diperbanyak.
 “Yang dikirim untuk lomba berasal dari pohon berumur 19 tahun,” ujar ayah 3
 anak itu. Produktivitas tanaman mencapai 750 buah per panen. Mubin menyebutnya
 dewa baru. Tetua sang dewa dimiliki seorang haji di Kampung Kandang,
@@ -50,8 +50,8 @@ menuai gelar juara.
 ## Juara 1994
 
 [caption id="attachment_3009" align="alignleft" width="230"][![Mubin
-Usman](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_belimbing1_489x768.jpg)](http://127.0.0.1/mitra/wp-
+Usman](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_belimbing1_489x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_belimbing1_489x768.jpg) Mubin Usman kesuksesan
 memborong 2 gelar[/caption] Mubin pantas sumringah. Selain dewa, juri LBUN
 2003 juga menobatkan dewi dari kebunnya sebagai pemenang ke-2. Meski berukuran

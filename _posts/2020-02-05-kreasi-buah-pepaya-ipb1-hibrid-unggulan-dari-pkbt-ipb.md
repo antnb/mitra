@@ -11,7 +11,7 @@ tags:
 - PKBT
 
 modification_time: 2022-09-24 06:38:22
-blogger_orig_url: "http://localhost/mitra/pepaya-ipb1-hibrid-unggulan-kreasi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pepaya-ipb1-hibrid-unggulan-kreasi.html"
 ---
 
 Pepaya merupakan salah satu jenis buah tropis yang banyak ditanam di
@@ -56,8 +56,8 @@ juicy, sehingga sangat nikmat untuk dimakan. Pepaya keluaran Pusat Kajian
 Buah-Buahan Tropika (PKBT), Institut Pertanian Bogor (IPB), itu berumur
 genjah. Umur panen hanya 140 hari setelah bunga mekar. Lazimnya, 170- 200
 hari. Produktivitasnya mencapai 50 kg/pohon. Di pasar, Pepaya IPB1 laku dijual
-Rp 3.500-Rp 5.000/kg. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/pepaya-ipb1-300x180.jpg)](http://127.0.0.1/mitra/wp-
+Rp 3.500-Rp 5.000/kg. [![](http://localhost/mitra/wp-
+content/uploads/2020/02/pepaya-ipb1-300x180.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/pepaya-ipb1.jpg)
 
 ## Pepaya Unggulan Dikebunkan
@@ -70,13 +70,13 @@ bagian bawah bila tiba saatnya dipetik. Umur panen lebih lama ketimbang
 IPB-1,150 hari setelah bunga mekar. Produksi tinggi, dari 1 pohon dituai 60-70
 kg buah. "Uniknya setelah Pepaya IPB1 dibelah biji buah langsung berguguran,
 hingga tak repot melepaskan biji," ujar Ali Bosar, pekebun di Caringin, Bogor.
-Ucapan itu terbukti, ketika [Mitra Usaha Tani](http://127.0.0.1/mitra)
+Ucapan itu terbukti, ketika [Mitra Usaha Tani](https://www.mitrausahatani.com)
 membelah beberapa buah. Meski warna daging buah tidak semerah IPB-1, tetapi
 Pepaya IPB1 mempunyai rasa dan tekstur daging buah yang renyah sehingga
 menjadi daya tarik tersendiri. Kelemahannya, sosok mirip cibinong, sehingga di
 tingkat pengepul hanya dihargai Rp 500/kg. Duet pepaya jebolan PKBT itu
 dikembangkan melalui Riset Unggulan Strategis [Nasional pada program
-Pengembangan Buah](http://127.0.0.1/mitra/permasalahan-seputar-rantai-pasok-
+Pengembangan Buah](https://www.mitrausahatani.com/permasalahan-seputar-rantai-pasok-
 buah.html) Unggulan Nasional. Penelitian itu dimulai pada 2000 oleh Dr Ir
 Sriani Sujiprihati, MS. Empat tahun kemudian, 11 Agustus 2004, pada Hari
 Kebangkitan Teknologi Nasional ke-9 di PUSPITEK, Serpong, keduanya dirilis.
@@ -91,15 +91,15 @@ asal Malaysia yang berkulit mulus dan lebih tahan disimpan. Hasil turunan para
 tetua itu telah menyebar ke para pekebun di daerah Cimahpar, Cinagara, dan
 Cibatok, semua di Bogor. "Permintaan benih datang dari Bandung, Batam, sampai
 Manado," ujar dosen Departemen Budidaya Pertanian IPB itu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/pepaya1-300x192.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/02/pepaya1-300x192.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/pepaya1.jpg)
 
 ## Buah Pepaya Dari Negri Matahari terbit
 
 Jika Pepaya IPB1 dan IPB-2 diperoleh dari riset, maka sunrise adalah varietas
 yang didatangkan dari Taiwan. Ia ditemukan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di Pangmilang, Singkawang, Kalimantan Barat.
+Tani](https://www.mitrausahatani.com) di Pangmilang, Singkawang, Kalimantan Barat.
 Sunrise milik Hendrik Virgillus itu bobotnya hanya 500 g. Hendrik mendapatkan
 benih dari seorang rekan beberapa tahun silam. Kini tanaman berumur 1,5 tahun
 itu masih rajin berbuah. Selain berukuran mini, si matahari terbit itu manis

@@ -11,16 +11,16 @@ tags:
 - khaw chaw wang
 
 modification_time: 2021-01-23 04:01:52
-blogger_orig_url: "http://localhost/mitra/pramote-rojruangsang-sang-penghulu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pramote-rojruangsang-sang-penghulu.html"
 ---
 
 Aglaonema berumur 3 tahun itu menghias sudut-sudut istana kesultanandi
 Bandarseribegawan, ibukota Brunei Darussalam. Ada yang merah darah berbercak
 hijau dan bertangkai putih. Yang lain, daun kuning cerah berbentuk hati dan
 merah muda berhias bercak hijau tua di tepinya.
-[Aglaonema](http://127.0.0.1/mitra/topik/aglaonema "Aglaonema")-aglaonema itu
+[Aglaonema](https://www.mitrausahatani.com/topik/aglaonema "Aglaonema")-aglaonema itu
 menjadi kesayangan Sultan Hasanah Bolkiah. Itulah salah satu hasil silangan
-Pramote Rojruangsang. [Tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+Pramote Rojruangsang. [Tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "Tanaman hias") anggota famili Araceae produksi Pramote memang dikenal
 bermutu. Wajar jika kolektor tanaman hias di Bangkok, Thailand, rela merogoh
 kocek 1 -juta baht setara dengan Rp200-juta untuk aglaonema setinggi 20 cm.
@@ -29,8 +29,8 @@ Penampilannya elok, daun berbentuk lanset, kompak, dan berwarna merah cerah.
 ## Aglaonema Jawara kontes
 
 [caption id="attachment_7933" align="alignleft" width="287"][![Aglaonema juara
-](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_aglaoema2_932x768.jpg)](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_aglaoema2_932x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_aglaoema2_932x768.jpg) Aglaonema juara balang
 thong tunggal[/caption] Di Thailand, Pramote tersohor sebagai pencetak
 aglaonema-aglaonema indah. Hasil tangkarannya banyak merebut juara di berbagai
@@ -78,8 +78,8 @@ Ribuan aglaonema kemudian memadati pekarangan rumahnya seluas 3.000 m2.
 ## Laku dipasaran
 
 [caption id="attachment_7934" align="alignleft"
-width="294"][![aglaonema](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_aglaoema1_934x768.jpg)](http://127.0.0.1/mitra/wp-
+width="294"][![aglaonema](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_aglaoema1_934x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_aglaoema1_934x768.jpg) aglaonema juara khan
 khaw x chaw wang tunggal[/caption] Koleksi bejibun tak juga memuaskan Pramote.
 Maka ia pun menyilang-nyilangkan untuk mendapatkan jenis baru. “Ternyata

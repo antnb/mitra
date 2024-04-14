@@ -3,13 +3,13 @@ layout: post
 title: 'Khasiat Herbal Ekstrak Meniran Untuk Bermacam Penyakit'
 categories: artikel|Herbal|kesehatan
 date: 2020-08-11 13:09:33
-author: Anton N
+author: Yudianto
 image: media/meniran_1067x800.jpg
 tags:
 - 
 
 modification_time: 2020-08-11 13:09:33
-blogger_orig_url: "http://localhost/mitra/khasiat-herbal-ekstrak-meniran-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-herbal-ekstrak-meniran-untuk.html"
 ---
 
 _Ketika obat-obatan medis tak B & menyudahi penderitaan itu, Syahrizal BB

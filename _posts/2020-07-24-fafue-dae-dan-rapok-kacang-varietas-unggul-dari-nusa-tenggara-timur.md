@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-07-24 13:49:27
-blogger_orig_url: "http://localhost/mitra/fafue-dae-dan-rapok-kacang-varietas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/fafue-dae-dan-rapok-kacang-varietas.html"
 ---
 
 _Di Belanda kacang rote tak sekadar camilan. Anggota famili Leguminoceae itu
@@ -35,11 +35,11 @@ berketinggian 10 m dpi itu masa produksi fafue dae-sebutan kacang di Rote
 Ndao-3 bulan. Sosok polong khas, bulat montok. Sekilas penampilannya mirip
 varietas gajah. “Jauh sebelum gajah masuk ke Rote, masyarakat di sana sudah
 mengenal kacang ini,” kata Siprianus kepada
-[Mitrausahatani](http://127.0.0.1/mitra). Rasanya khas agak manis, gurih, dan
+[Mitrausahatani](https://www.mitrausahatani.com). Rasanya khas agak manis, gurih, dan
 renyah. Wajar jika permintaan meski dalam skala kecil datang dari Australia
 dan Belanda. “Kacang Rote merupakan varietas unggul lokal yang prospek untuk
 dikembangkan,” katanya. [caption id="attachment_1312" align="aligncenter"
-width="375"]![kacang gajah](http://127.0.0.1/mitra/wp-
+width="375"]![kacang gajah](http://localhost/mitra/wp-
 content/uploads/2020/07/kacang_813x800-370x250.jpg) Kacang pelat bahan camilan
 nan lezat[/caption]
 

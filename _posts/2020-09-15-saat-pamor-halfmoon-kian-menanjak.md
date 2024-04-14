@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-15 12:36:35
-blogger_orig_url: "http://localhost/mitra/saat-pamor-halfmoon-kian-menanjak.html"
+blogger_orig_url: "http://www.mitrausahatani.com/saat-pamor-halfmoon-kian-menanjak.html"
 ---
 
 _Pantas jika rupiah yang digelontorkan Heri lumayan besar. Maklum puluhan
@@ -46,7 +46,7 @@ lomba, yang banyak peserta kan di kelas solid,” ujar kelahiran Surabaya 18
 tahun silam itu memberi alasan. Jenis baru bukannya tidak mau dimiliki, tapi
 harganya dianggap masih belum bersahabat. [caption id="attachment_1688"
 align="aligncenter" width="646"]![Joty Atmadjaja, gencar menangkarkan varian
-baru halfmoon](http://127.0.0.1/mitra/wp-
+baru halfmoon](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_cupang_1280x684.jpg) Joty Atmadjaja, gencar
 menangkarkan varian baru halfmoon[/caption]
 
@@ -89,14 +89,14 @@ Banteng pertengahan tahun silam menjadi salah satu pemicu. Yang lain belum ada
 kejelasan kategori untuk jenis baru. “Kalau copper masuk ke warna dasar gelap
 jelas kalah. Begitu pula nasib black copper yang masuk kelas kombinasi.
 Kecuali bila bertanding di luar negeri,” tuturnya.
-![](http://127.0.0.1/mitra/wp-
+![](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_cupang_1280x684.jpg)
 
 #### Serit masih teratas
 
 Di luar serbuan halfmoon yang identik dengan Thailand, pasar cupang hias lokal
 seperti serit kini sedang menuju tren seperti kurun 2001-2002. Hasil lacakan
-[[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+[[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 menunjukan gairah di berbagai sentra lama. Tengok saja Muhhamad Yakin di
 Surabaya. Peternak sekaligus pedagang di bilangan Tambak Rejo itu mengaku
 kewalahan memenuhi order. “Sejak kontes rutin diselenggarakan, permintaan naik

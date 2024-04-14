@@ -14,7 +14,7 @@ tags:
 - sistem perbuahan nasional
 
 modification_time: 2021-05-05 12:35:51
-blogger_orig_url: "http://localhost/mitra/buah-indonesia-dan-sistem-perbuahan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-indonesia-dan-sistem-perbuahan.html"
 ---
 
 Pada periode 1996 sampai 2000, impor buah indonesia seperti jeruk, apel, dan
@@ -42,15 +42,15 @@ kebun rakyat, diperlukan waktu seminggu. Sampai kini, banyak varietas unggul
 durian dilepas oleh Menteri Petanian. Namun, pasar masih menyajikan beragam
 jenis berkualitas rendah. Sementara, monthong asal Thailand lambat tapi pasti
 ’’menguasai” pasar-pasar swalayan di tanah air. Kasus serupa terjadi pada
-[lengkeng](http://127.0.0.1/mitra/topik/kelengkeng). Bahkan
-[alpukat](http://127.0.0.1/mitra/topik/alpukat "alpukat") asal Australia
+[lengkeng](https://www.mitrausahatani.com/topik/kelengkeng). Bahkan
+[alpukat](https://www.mitrausahatani.com/topik/alpukat "alpukat") asal Australia
 seharga Rp30.000 per kg tetap laku di Jakarta dan kota-kota besar lain. Seolah
 tidak ada alpukat lokal berkualitas.
 
 ## Permasalahan utama
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/buah.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/buah.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/buah.jpg)Ada 6 permasalahan utama yang dihadapi buah
 buahan indonesia. Yaitu, terlalu banyaknya varietas yang dikembangkan, belum
 ada sentra produksi berupa hamparan berskala ekonomis, pengelolaan kebun yang
@@ -105,8 +105,8 @@ pemenuhan kebutuhan konsumen dalam dan luar negeri tidak harus dari Jawa.
 
 ## 4 langkah
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/nasional.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/nasional.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/nasional.jpg)Untuk itu perlu dilakukan klonalisasi
 varietas di sentra produksi kebun rakyat. Maksudnya, jenis buah indonesia di
 sentra produksi atau kawasan pengembangan tertentu diganti dengan satu

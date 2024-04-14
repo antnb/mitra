@@ -11,7 +11,7 @@ tags:
 - halfmoon gold
 
 modification_time: 2021-01-07 13:17:54
-blogger_orig_url: "http://localhost/mitra/halfmoon-generasi-emas-dari-thailand.html"
+blogger_orig_url: "http://www.mitrausahatani.com/halfmoon-generasi-emas-dari-thailand.html"
 ---
 
 Ketiga pendatang baru itu dibawa oleh Hermanus J Hariyanto, hobiis halfmoon di
@@ -35,8 +35,8 @@ halfmoon. Berikut 3 jenis gold yang bermukim di tanah air:
 ## Doubletail halfmoon gold
 
 [caption id="attachment_7750" align="alignleft" width="251"][![Doubletail
-halfmoon gold](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_tail_967x768.jpg)](http://127.0.0.1/mitra/wp-
+halfmoon gold](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_tail_967x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_tail_967x768.jpg) Doubletail halfmoon gold,
 terbaik Singapura[/caption] Halfmoon bermental baja itu tubuhnya diselimuti
 warna keemasan. Sayang, di bagian ekor masih tampak semburat biru. Berekor
@@ -65,8 +65,8 @@ moyang jantan cupper gold.
 ## Lavender halfmoon
 
 [caption id="attachment_7748" align="alignleft" width="295"][![halfmoon
-generasi kedua](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_lavender_982x768.jpg)](http://127.0.0.1/mitra/wp-
+generasi kedua](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_lavender_982x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_lavender_982x768.jpg) Generasi kedua berkilau
 emas[/caption] Walau pendatang anyar di tanah air, lavender tidak asing lagi
 di kalangan hobiis. Pasalnya, ia adalah generasi kedua dari lavender yang

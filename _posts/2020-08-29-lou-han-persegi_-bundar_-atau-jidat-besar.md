@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-29 10:49:26
-blogger_orig_url: "http://localhost/mitra/lou-han-persegi-bundar-atau-jidat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/lou-han-persegi-bundar-atau-jidat.html"
 ---
 
 _Lantaran masih bergantung pada sedikit sumber, jangan heran kalau bentuk lou
@@ -49,7 +49,7 @@ bulat. “Ini memang bentuk khas produk kami,” tutur Lim. Bentuk ini menurutny
 digemari. Lou han bulat 10 inci kebanggaan Lim pernah ditawar 35.000 ringgit
 setara Rp lOO-juta. Lou han itu pun akhirnya menjadi maskot. [caption
 id="attachment_1552" align="aligncenter" width="596"]![ukir
-louhan](http://127.0.0.1/mitra/wp-content/uploads/2020/08/louhan.jpg)
+louhan](http://localhost/mitra/wp-content/uploads/2020/08/louhan.jpg)
 Coronation Link[/caption]
 
 ### Porsi kepala
@@ -69,7 +69,7 @@ bagaikan tak bertanduk. KK. Lim, menciptakan lou han dengan kepala kurang
 menonjol. Lengkungan kepala menyatu dengan badan. Kalau kedua model Meng dan
 koleksi KK. Lim cenderung lebar di tengah, sehingga tampak bulat. [caption
 id="attachment_1549" align="aligncenter" width="635"]![Lou
-Han](http://127.0.0.1/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg)
+Han](http://localhost/mitra/wp-content/uploads/2020/08/louhan_1200x800.jpg)
 mermaid fish[/caption]
 
 #### Nama Dan istilah Yang beragam
@@ -88,7 +88,7 @@ menyebut lou han temakannya flower leopard series. Terence Jiam, bos Meng
 Aquarium itu memberi nama flower hom berdasar imajinasi saja. Ambil contoh
 coronations link, artinya yang paling sempurna. “Badan, ekor, wama, corak,
 semuanya luar biasa,” ujar Terence Jiam yang ditemui [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) di Selangor. Contoh
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) di Selangor. Contoh
 lain perfect harmony bermakna semua kecantikan ada padanya. Meng atau Mermaid
 akuarium memberi nama lou han berdasarkan penampakan corak keseluruhan,
 ‘'‘'Beautiful lady with bikini is our mermaid inspiration," tutur Y.C. Cheah.

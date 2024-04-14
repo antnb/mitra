@@ -11,7 +11,7 @@ tags:
 - telur
 
 modification_time: 2020-11-07 16:15:35
-blogger_orig_url: "http://localhost/mitra/mengunjungi-farm-itik-terpadu-di-kota.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mengunjungi-farm-itik-terpadu-di-kota.html"
 ---
 
 Sebanyak 32 bangunan masing-masing berukuran 75 m x 15 m itu berjajar rapi.
@@ -37,8 +37,8 @@ Belgia dengan harga US$35/kg. Kandang berada di satu blok yang diasuh oleh 4
 karyawan. Mereka bertugas memanen telur, memberi pakan pagi, siang, dan
 petang. Setiap blok dipisahkan jalan semen yang rapi. Dari 320.000 ekor
 diharapkan itik berproduksi 50% atau 160.000 telur per hari.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Farm-
-Itik-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Farm-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/Farm-
+Itik-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Farm-
 Itik.jpg)
 
 ### Penggilingan padi
@@ -50,7 +50,7 @@ pakan dengan memanfaatkan menir dan bahan dari laut,” tutur Ade Suhidin. Menir
 atau pecahan beras menu pokok. Karena kapasitas produksi terbatas kekurangan
 dipasok dari penggilingan unit lain. Kebutuhan protein dicukupi dengan
 membudidayakan kerang hijau di bagan. Ada 45 bagan bambu didirikan di laut, 1
-km dari lokasi [peternakan](http://127.0.0.1/mitra/peternakan "peternakan").
+km dari lokasi [peternakan](https://www.mitrausahatani.com/peternakan "peternakan").
 Setiap unit menghabiskan biaya Rp4,5-juta. Setelah dengan produksi 5 ton.
 Kerang ukuran besar dijual untuk konsumsi manusia; kecil untuk pakan itik.
 Sumber protein lain berupa ikan pirik dan ecol yang dihasilkan bagan ikan
@@ -74,8 +74,8 @@ Rp 12.500/ kg. Setelah 4-5 bulan kepiting dijual Rp45.000/kg berisi 2 ekor
 kepiting telur dan Rp 17.500 kepiting biasa. Setiap pagi hewan bercangkang itu
 diberi pakan ikan pirik. Kepiting menikmati bangkai itik bakar yang dicacah
 pada sore hari. Setiap hari 25-30 ekor itik peliharaan mati karena sakit.
-Untuk membakarnya, dibangun krematorium kecil. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/ternak-Itik-1024x525.jpg)](http://127.0.0.1/mitra/wp-
+Untuk membakarnya, dibangun krematorium kecil. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/ternak-Itik-1024x525.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/ternak-Itik.jpg)
 
 ### Sulap lahan margin
@@ -95,14 +95,14 @@ tetas dengan lampu teplok sebagai sumber panas. Setiap mesin terdiri atas atas
 6 rak dengan total kapasitas 600 telur. Dengan suhu 37°°C telur menetas dalam
 28 hari. Penetasan dengan mesin tradisional cukup merepotkan. Sebab telur
 harus di bolak balik secara periodik. Karena itulah yang sering dioperasikan
-mesin tetas modem. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/bebek-1024x559.jpg)](http://127.0.0.1/mitra/wp-
+mesin tetas modem. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/bebek-1024x559.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/bebek.jpg)
 
 ### Mesin modern
 
 Add Farm memiliki ahli sortir antara
-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek") jantan dan betina. Add
+[bebek](https://www.mitrausahatani.com/topik/bebek "bebek") jantan dan betina. Add
 Farm mengoperasikan 2 mesin tetas chick master yang diimpor dari Amerika
 Serikat. Kedua mesin berukuran 3 m x 5 m itu mampu "mengerami” 115.640 telur.
 Telur disusun miring di atas rak. Keberhasilan mesin penetas itu 60%. Setelah

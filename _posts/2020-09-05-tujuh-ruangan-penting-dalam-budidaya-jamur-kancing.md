@@ -9,7 +9,7 @@ tags:
 - jamur
 
 modification_time: 2020-09-05 11:55:40
-blogger_orig_url: "http://localhost/mitra/tujuh-ruangan-penting-dalam-budidaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tujuh-ruangan-penting-dalam-budidaya.html"
 ---
 
 _Dulu, di Eropa champignon lazim dibudidayakan dalam gua-gua untuk memperoleh

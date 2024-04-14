@@ -12,7 +12,7 @@ tags:
 - pupuk organik
 
 modification_time: 2021-05-24 08:21:31
-blogger_orig_url: "http://localhost/mitra/trik-dan-langkah-bungakan-kembali.html"
+blogger_orig_url: "http://www.mitrausahatani.com/trik-dan-langkah-bungakan-kembali.html"
 ---
 
 > "Habis manis sepah dibuang," seperti pepatah itu nasib beberapa pot anggrek
@@ -24,7 +24,7 @@ blogger_orig_url: "http://localhost/mitra/trik-dan-langkah-bungakan-kembali.html
 Nasib anggrek bulan di Jakarta memang tragis. Setelah bunganya layu, ia
 dicampakkan. Ia kadang diletakkan di tempat yang menerima sinar matahari terik
 sehingga daun terbakar. Saat musim hujan, ia dibiarkan kehujanan. Praktis
-perawatan disamakan dengan [tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+perawatan disamakan dengan [tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias") lain. Padahal, anggrek bulan dapat berbunga kembali di Jakarta
 atau pun daerah panas lain. Yang penting ia diperlakukan seperti sebelum
 berbunga.
@@ -32,8 +32,8 @@ berbunga.
 ## Langkah awal Perawatan
 
 [![Kesehatan tanaman melorot drastis setelah
-berbunga](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/bunga.jpg)](http://127.0.0.1/mitra/wp-
+berbunga](http://localhost/mitra/wp-
+content/uploads/2021/05/bunga.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/bunga.jpg) Begitu bunga layu, segera pangkas
 tangkainya. Bila dibiarkan, ia ikut menggunakan energi tanaman. Setelah itu,
 perhatikan kondisi media. Bila media— umumnya sphagnum moss—sudah hitam
@@ -60,8 +60,8 @@ hingga 14 jam per hari.
 ### Frekuensi Penyiraman
 
 [![Ganti media dengan membuang sphagnum moss hingga
-bersih](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/bunga1.jpg)](http://127.0.0.1/mitra/wp-
+bersih](http://localhost/mitra/wp-
+content/uploads/2021/05/bunga1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/bunga1.jpg) Penyiraman tergantung cuaca. Ubah
 komposisi kandungan pupuk. Pilih pupuk organik dengan kandungan NPK rendah.
 Pupuk itu dapat dicampur dengan pupuk kimia yang mengandung P lebih tinggi

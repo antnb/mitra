@@ -13,7 +13,7 @@ tags:
 - walet
 
 modification_time: 2022-12-24 08:09:57
-blogger_orig_url: "http://localhost/mitra/cantik-dan-sehat-berkat-liur-walet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-walet.html"
 ---
 
 Sarang walet memiliki banyak manfaat bagi kesehatan dan kecantikan. Penelitian
@@ -35,8 +35,8 @@ kematian. Namun, berkat rutin mengkonsumsi sarang walet, melancong ke kebun
 keluarga di Bogor kini dilakoni setiap pekan. itulah manfaat nyata sarang
 burung walet untuk kesehatan [caption id="attachment_15848"
 align="aligncenter" width="800"][![Sarang merah diduga paling
-manjur](http://127.0.0.1/mitra/wp-
-content/uploads/2019/09/walet_800x571.jpg)](http://127.0.0.1/mitra/wp-
+manjur](http://localhost/mitra/wp-
+content/uploads/2019/09/walet_800x571.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/09/walet_800x571.jpg) Sarang walet merah diduga paling
 manjur[/caption] Sarang burung walet memiliki banyak manfaat bagi manusia.
 Sarang burung walet mengandung banyak nutrisi dan mineral seperti kalsium,
@@ -82,23 +82,23 @@ diduga memberi efek penyegar. Misteri senyawa bioaktif yen ou, baru terkuak
 belakangan dengan teknologi identifikasi modem, seperti HPLC (High Performance
 Liquid Chromatography) dan GC-MS (Gaz Chromatograph Mass Spectrophotometry).
 [caption id="attachment_15847" align="aligncenter" width="711"][![Semangkuk
-sarang walet mempunyai beragam khasiat](http://127.0.0.1/mitra/wp-
-content/uploads/2019/09/walet_711x600.jpg)](http://127.0.0.1/mitra/wp-
+sarang walet mempunyai beragam khasiat](http://localhost/mitra/wp-
+content/uploads/2019/09/walet_711x600.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/09/walet_711x600.jpg) Semangkuk sarang walet beragam
 khasiat[/caption] Mineral-mineral sarang walet tak kalah manjur dan bermanfaat
 sarang burung walet untuk mendukung aktivitas tubuh. Dinasti Ming [Popularitas
-sarang walet](http://127.0.0.1/mitra/alih-fungsi-ruko-menjadi-sarang-
+sarang walet](https://www.mitrausahatani.com/alih-fungsi-ruko-menjadi-sarang-
 walet.html) menanjak sejak zaman dinasti Ming (1368-1644). Lalu benar-benar
 meledak pada zaman dinasti Ching atau Manchu (1644-1912). Dalam kisah Cina
 kuno diceritakan, sang raja yang beranjak tua tetap ingin tampak muda. Para
 penasehatnya lalu memberi sup sarang walet. Untuk memenuhinya, panglima
 perang, Zeng Ho berburu sarang walet sampai ke Philipina, Indonesia, Thailand,
 dan India. Begitu tenarnya [Bisnis Sarang Walet Kini Bisa Diternakan Secara
-Aktif](http://127.0.0.1/mitra/budidaya-sarang-walet-bisa-diternakan.html),
+Aktif](https://www.mitrausahatani.com/budidaya-sarang-walet-bisa-diternakan.html),
 berbagai cerita silat merujuknya sebagai penyembuh. Kisah silat terkenal di
 Taiwan, empat perempuan cantik Si Dai Me Nu menyebutkan salah satu jagoan,
 Diaochan, mengobati luka dalam dengan [liur
-walet](http://127.0.0.1/mitra/topik/walet). Di negara-negara mayoritas
+walet](https://www.mitrausahatani.com/topik/walet). Di negara-negara mayoritas
 beretnis Cina, sarang walet adalah santapan spesial. Ia hanya didapat pada
 menu di hotel-hotel berbintang 4 dan 5. Liur dari keluarga burung layang-
 layang itu disajikan di mangkuk kecil dengan harga 100-120 yuan setara Rp

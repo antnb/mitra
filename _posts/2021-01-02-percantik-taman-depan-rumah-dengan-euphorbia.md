@@ -10,7 +10,7 @@ tags:
 - Taman
 
 modification_time: 2022-09-20 08:24:13
-blogger_orig_url: "http://localhost/mitra/percantik-taman-rumah-dengan-euphorbia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/percantik-taman-rumah-dengan-euphorbia.html"
 ---
 
 Taman depan rumah adalah tempat untuk bersantai dan menikmati pemandangan
@@ -75,7 +75,7 @@ Hal itu dilakukan untuk memupus kesedihan setelah ditinggal putranya untuk
 selama-lamanya. Penderitaan Wiewie bertambah sejak dokter menemukan virus
 parkinson bersarang di tubuhnya. Nenek 7 cucu itu tak bisa beraktivitas
 seperti biasa. Kesibukan di perusahaan kontraktor pun ditinggalkan. Sebagai
-gantinya ia mengumpulkan [tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+gantinya ia mengumpulkan [tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias") seperti palem-paleman, sikas, kelapa, dan bonsai. Kegiatan itu
 pun didukung sang dokter. “Dokter menyarankan banyak melihat tanaman berwarna
 untuk membantu proses penyembuhan," ujar Wiewie. Meski tak bisa bergerak
@@ -95,8 +95,8 @@ jenis, melebihi koleksi pedagang.
 ## Bukit euphorbia
 
 [caption id="attachment_3168" align="alignleft" width="292"][![taman
-cantik](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_taman_1024x725.jpg)](http://127.0.0.1/mitra/wp-
+cantik](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_taman_1024x725.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_taman_1024x725.jpg) Cantik bersanding dengan
 bromelia[/caption] Semua koleksi itu ditata di atas hamparan rumput r .nila.
 Kehadiran pak sien hwa ahasa Cina berarti bunga dalam dewa itu membuat
@@ -104,7 +104,7 @@ penampilan halaman depan rumah mewah di kawasan Pluit, Jakarta Utara, itu
 istimewa. Begitu memasuki pintu gerbang di sudut kiri tampak gundukan tanah
 setinggi 2 m mirip bukit. Bagian teratas dibangun gua kecil bak tempat
 persembahan. Di depannya bertengger
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") berbonggol besar
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") berbonggol besar
 diwadahi pot keramik. Euphorbia setinggi 30 sampai 40 cm tumbuh merata dari
 puncak hingga bawah. Jenis yang ditanam kebanyakan berwarna merah dan kuning
 muda. Meski bukan jenis teranyar tetapi penampilannya tetap cantik. Agar
@@ -130,8 +130,8 @@ jenis euphorbia yang paling populer untuk taman meliputi:
 ## Penghias Tembok Taman
 
 [caption id="attachment_3169" align="alignleft" width="234"][![bunga tembok
-taman](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_euphorbia_983x768.jpg)](http://127.0.0.1/mitra/wp-
+taman](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_euphorbia_983x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_euphorbia_983x768.jpg) Euphorbia percantik
 dinding[/caption] Pemandangan di halaman belakang pun tak kalah cantik.
 Euphorbia warna merah, putih, hijau, dan merah muda menghampar bak permadani

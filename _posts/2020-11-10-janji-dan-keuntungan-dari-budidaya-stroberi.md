@@ -10,7 +10,7 @@ tags:
 - strawberry
 
 modification_time: 2020-11-10 10:56:01
-blogger_orig_url: "http://localhost/mitra/janji-dan-keuntungan-dari-stroberi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/janji-dan-keuntungan-dari-stroberi.html"
 ---
 
 Sekitar 4.000 karung berderet rapi di lahan 3.600 m2. Setiap karung setinggi
@@ -50,8 +50,8 @@ tanaman dalam bedengan-bedengan bermulsa plastik di lahan 2.500 m2. Di akhir
 musim stroberi hanya dipertahankan sampai berumur 6 bulan lalu lahan ditanami
 sayuran laba Rp7.000 per tanaman mengisi kantungnya. Setidaknya ada 50-an
 orang yang mengusahakan stroberi. Rata-rata kepemilikan lahan 1.500-2.000 m2
-per petani. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/petani-
-mencuci-buah-strawberry-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+per petani. [![](http://localhost/mitra/wp-content/uploads/2020/11/petani-
+mencuci-buah-strawberry-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/petani-mencuci-buah-strawberry.jpg)
 
 ## Harga Jual strawberry Yang stabil
@@ -77,8 +77,8 @@ populasi 20.000 tanaman ia hanya sanggup memanen 160 kg per minggu. Makanya ia
 menolak permintaan hotel di Bali 25 kg per hari dan 1 ton per hari dari sebuah
 perkantoran di Bandung.
 
-## [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/budidaya-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+## [![](http://localhost/mitra/wp-
+content/uploads/2020/11/budidaya-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/budidaya.jpg)
 
 ## Laba Dan Keuntungan Mencapai 15% per tahun
@@ -93,7 +93,7 @@ B (Rp30.000), dan A (Rp40.000). Pemasaran mudah karena ada 4 distributor siap
 menampung hasil panen. “Pasar stroberi bertambah 15% per tahun,” ujar Hendra
 Tandiono dari Hokky. Maklum saja, kini masyarakat semakin tertarik khasiat
 stroberi untuk kesehatan. Hampir setiap pasar swalayan menjajakan [buah
-merah](http://127.0.0.1/mitra/topik/buah-merah "buah merah") terang itu.
+merah](https://www.mitrausahatani.com/topik/buah-merah "buah merah") terang itu.
 Kemchick, di kawasan Kemang, Jakarta Selatan, menjual stroberi dari kebun
 Strawberindo Lestari. Buah dalam kemasan 250 g dijual Rp25.000. Sementara Hero
 di kawasan Pajajaran, Bogor, memajang buah asal Mitraberi distributor
@@ -103,11 +103,11 @@ dikonsumsi segar. Ia diolah menjadi selai, kue, manisan, dan minuman. Lili
 petani dan penampung di Cibogo, Lembang menampung hasil panen dari petani di
 sekitar kebun, Ciwidey, dan Pangalengan. Itu supaya dapat memenuhi permintaan
 minimal 500 kg setiap 3 hari ke pabrik selai di Jakarta. Padahal dari lacakan
-[Mitra Usaha Tani](http://127.0.0.1/mitra) ke berbagai pasar swalayan tak
+[Mitra Usaha Tani](https://www.mitrausahatani.com) ke berbagai pasar swalayan tak
 kurang dari 12 merek selai stroberi dijajakan. Bila volume permintaan setiap
 produsen sama dengan pelanggan Lili, setidaknya dibutuhkan 6 ton stroberi
-segar per hari. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/panen-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+segar per hari. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/panen-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/panen.jpg)
 
 ## Target Pemasaran Yang Luas

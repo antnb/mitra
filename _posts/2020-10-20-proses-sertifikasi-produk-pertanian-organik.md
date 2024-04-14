@@ -9,12 +9,12 @@ tags:
 - 
 
 modification_time: 2020-10-20 16:44:38
-blogger_orig_url: "http://localhost/mitra/proses-sertifikasi-produk-pertanian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/proses-sertifikasi-produk-pertanian.html"
 ---
 
 "Itu palsu. Di sini belum ada standar nasional untuk organik," tutur Dr Ananto
 Kusuma Seta, kepala Sub Direktorat Pengelolaan Lingkungan, Departemen
-[Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian"). Ia menanggapi
+[Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian"). Ia menanggapi
 beredarnya label organik di kemasan sayuran. Label itu lazimnya berwarna
 merah, kuning, dan hijau sesuai kadar residu yang dikandung. Demi alasan
 kesehatan produk organik kini jadi santapan rutin ekspatriat dan masyarakat di

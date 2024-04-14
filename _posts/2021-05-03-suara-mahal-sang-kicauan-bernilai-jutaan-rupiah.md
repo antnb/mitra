@@ -3,7 +3,7 @@ layout: post
 title: 'Suara Mahal Sang Kicauan Bernilai Jutaan Rupiah'
 categories: artikel|hobi
 date: 2021-05-03 09:06:39
-author: Anton N
+author: Yudianto
 image: media/kacer.jpg
 tags:
 - burung kicauan
@@ -14,7 +14,7 @@ tags:
 - raja pentet
 
 modification_time: 2021-05-03 09:06:39
-blogger_orig_url: "http://localhost/mitra/suara-mahal-sang-kicauan-bernilai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/suara-mahal-sang-kicauan-bernilai.html"
 ---
 
 Gaya Ayu nama kacer itu atraktif bagai penyanyi rock and roll Elvis Presley di
@@ -30,8 +30,8 @@ burung berkicau di Surabaya pun melepaskan Ayu
 ## Raih Gengsi Via kontes
 
 [caption id="attachment_10156" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/burungkacer.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/05/burungkacer.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/burungkacer.jpg) Merdunya kacer memikat
 hobiis[/caption] Kontes memang acap dijadikan sarana untuk memantau mutu
 burung. Dari sanalah transaksi puluhan kadang ratusan juta rupiah demi seekor
@@ -58,7 +58,7 @@ Nusukan, Solo. Baru pada Januari cucak rawa itu berpindah tangan. Harganya?
 Seekor cucak rawa berumur 8 bulan "hanya" Rp75-juta. Pycnonoctus zeylanicus
 seumur itu sebetulnya baru belajar berkicau. Namun, kalau sudah cinta mau
 bilang apa? Mengapa mereka mau membeli [burung berharga
-mahal](http://127.0.0.1/mitra/penangkaran-burung-hias-menggunakan.html)? Bagi
+mahal](https://www.mitrausahatani.com/penangkaran-burung-hias-menggunakan.html)? Bagi
 Hananto Prasetyo, mantan petinju nasional yang kini gandrung burung, kicauan
 menenteramkan jiwa. "Suara kicauan dapat mengusir stres dan beban berat hidup
 sehari-hari," ujar kelahiran Solo 30 Juni 1961. Pantas jika pemegang sabuk dan
@@ -73,8 +73,8 @@ seharga Rp30-juta.
 ### Tak Bergeming Meski Di Tawar Mahal
 
 [caption id="attachment_10158" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/kacer1.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/05/kacer1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/kacer1.jpg) Raja pentet ditawar jutaan
 rupiah[/caption] Iming-iming harga tinggi tak selamanya meluruhkan hati
 pemiliknya. Buktinya Frans A. Djaya, hobiis di Kelapa gading, Jakarta Utara.

@@ -13,7 +13,7 @@ tags:
 - silangan jambal
 
 modification_time: 2020-12-09 09:35:15
-blogger_orig_url: "http://localhost/mitra/pasupati-patin-hibrid-silangan-jambal.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pasupati-patin-hibrid-silangan-jambal.html"
 ---
 
 Hal itu menjadi sebuah prestasi besar dibandingkan tetuanya, patin jambal dan
@@ -43,8 +43,8 @@ memang kental mewarisi leluhurnya. Sosoknya mirip siam, tapi dengan tambahan
 corak biru di punggung. Daging putih seperti jambal. Ia adaptif pada
 lingkungan berkadar oksigen rendah, kurang dari 3 ppm. Bandingkan dengan
 jambal, minimal 5 ppm. Pasupati juga tumbuh baik pada suhu tinggi 28 sampai
-32°C dan salinitas 10 sampai 15 ppt. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Patin-Pasupati-.jpg)](http://127.0.0.1/mitra/wp-
+32°C dan salinitas 10 sampai 15 ppt. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/Patin-Pasupati-.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Patin-Pasupati-.jpg)
 
 ## larva patin pasupati yang Steril

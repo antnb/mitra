@@ -13,10 +13,10 @@ tags:
 - tanaman
 
 modification_time: 2019-10-29 10:05:00
-blogger_orig_url: "http://localhost/mitra/adenium-bonggol-besar-pilihan-para.html"
+blogger_orig_url: "http://www.mitrausahatani.com/adenium-bonggol-besar-pilihan-para.html"
 ---
 
-[Adenium](http://127.0.0.1/mitra/topik/adenium "Adenium") Bonggol Besar
+[Adenium](https://www.mitrausahatani.com/topik/adenium "Adenium") Bonggol Besar
 spesial itu milik sebuah nurseri di Jerman.tanaman adenium itu diperkirakan
 berumur 10 tahun. Dalam lelang yang berlangsung pada Januari awal tahun,
 Sugita bersaing dengan peserta dari seluruh dunia. Lantaran tak ingin tanaman
@@ -24,8 +24,8 @@ idaman itu jatuh ke tangan kolektor lain, ia memberikan penawaran terbaik.
 Pehobi kaktus dan sukulen di Surabaya, Jawa Timur, itu berhasil menjadi
 pemenang. [caption id="attachment_16100" align="aligncenter"
 width="436"][![tanaman adenium Adenia kirkii bonggol kembar sangat
-langka](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/adenia_436x480.jpg)](http://127.0.0.1/mitra/wp-
+langka](http://localhost/mitra/wp-
+content/uploads/2019/10/adenia_436x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/adenia_436x480.jpg) Adenia kirkii bonggol kembar
 sangat langka[/caption]
 
@@ -61,12 +61,12 @@ adenia untuk melengkapi koleksi. Tanaman anggota keluarga _Passifloraceae_ itu
 tumbuh liar di padang pasir kering Afrika hingga hutan hujan tropis Asia
 tenggara. Semua spesies adenia merupakan tanaman tahunan, tetapi memiliki tipe
 tumbuh berbeda. Ada yang berupa semak, liana, terna, dan pohon. [Adenia
-memiliki sistem](http://127.0.0.1/mitra/prospek-budidaya-bunga-krisan-di-
+memiliki sistem](https://www.mitrausahatani.com/prospek-budidaya-bunga-krisan-di-
 gowa.html) perakaran serabut atau membentuk umbi sebagai tempat cadangan
 makanan. [caption id="attachment_16099" align="aligncenter"
 width="305"][![media tanam untuk adenium A. glauca berasal dari Afrika bagian
-selatan dan Botswana](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/adenia_305x480.jpg)](http://127.0.0.1/mitra/wp-
+selatan dan Botswana](http://localhost/mitra/wp-
+content/uploads/2019/10/adenia_305x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/adenia_305x480.jpg) A. glauca berasal dari Afrika
 bagian selatan dan Botswana[/caption]
 

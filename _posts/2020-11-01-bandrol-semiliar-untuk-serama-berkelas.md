@@ -10,7 +10,7 @@ tags:
 - serama
 
 modification_time: 2020-11-01 09:29:25
-blogger_orig_url: "http://localhost/mitra/bandrol-semiliar-untuk-serama-berkelas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bandrol-semiliar-untuk-serama-berkelas.html"
 ---
 
 Sore itu matahari telah condong ke ufuk barat. Udara tidak terlampau menyengat
@@ -33,8 +33,8 @@ sana 25 kandang berukuran I,5mx3mx2m berderet rapi, masing-masing berisi
 betina dan pejantan dengan perbandingan 3:1. Rencananya, 20 kandang bakal
 dibangun lagi. Selain di tanahair, ia mempunyai 8 pejantan dan 25 betina yang
 diternak di Desa Intan Serama, Trengganu, Malaysia.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/serama.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/serama.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/serama.jpg)
 
 ## Berawal Dari Rasa Penasaran
@@ -73,8 +73,8 @@ melihat antusias penonton di kontes, Jerry memprediksi pasar serama masih
 terbuka luas. Bukan hanya pasar lokal, potensi ekspor kian terbentang. “Bukan
 tidak mungkin bila kualitas serama Indonesia meningkat. Nantinya Indonesia
 menjadi negara pengekspor,” ujar suami Rosmeiwati Soebandi itu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/bantam.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/bantam.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/bantam.jpg)
 
 ### Jatuh hati

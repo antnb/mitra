@@ -9,7 +9,7 @@ tags:
 - kaktus
 
 modification_time: 2020-04-05 16:08:24
-blogger_orig_url: "http://localhost/mitra/kreasi-kaktus-mini-dengan-konsep-dry.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kreasi-kaktus-mini-dengan-konsep-dry.html"
 ---
 
 kaktus mini hias....Mungkin kenangan itulah yang muncul saat Yuliana C Leo
@@ -32,7 +32,7 @@ Kreasi Yuliana itu terinspirasi dari konsep dry garden-taman kering. Berbagai
 jenis tanaman berduri itu ditata rapi sebagai ornamen taman. Namun, ibu 2 anak
 itu memadukan kaktus mini berukuran kecil di sebuah pot sehingga lebih pas
 disebut taman mini. Menurut pemilik Griya Kaktus itu ada 3 hal yang perlu
-diperhatikan agar taman mini [tampil cantik](http://127.0.0.1/mitra/dekorasi-
+diperhatikan agar taman mini [tampil cantik](https://www.mitrausahatani.com/dekorasi-
 apik-dari-rangkaian-bunga-nan.html). Pertama, lokasi untuk memajang rangkaian
 itu, seperti sudut ruangan, meja, atau di samping kursi tamu. "Itu jelas
 berbeda cara menatanya. Kalau di sudut, maka hanya tampak satu sisi saja.
@@ -44,8 +44,8 @@ seperti wadah dari rotan atau eceng gondok," kata Yuliana. Yang tak kalah
 penting adalah **kualitas kaktus mini yang dipakai untuk rangkaian**. Tanaman
 harus sehat dan mengkilap. Setelah itu baru pilih besar atau kecil, tinggi
 atau rendah, bentuk bulat atau pipih, berbulu atau tidak, lalu warna.
-[![Menarik dipajang di meja](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/cactus-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![Menarik dipajang di meja](http://localhost/mitra/wp-
+content/uploads/2020/04/cactus-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/cactus.jpg)
 
 ## Konsep Penyusunan Komposisi Rangkaian Kaktus
@@ -75,8 +75,8 @@ tak melulu memadukan berbagai kaktus dalam pot. Hanya dengan memasukkan
 Gymnocalycium "pinkcap" ke sebuah cangkir cantik, lalu diberi hiasan boneka
 sudah tampil menarik. Kreasi itu cocok untuk suvenir atau kado ulang tahun.
 "Anak-anak suka sebagai penghias meja belajar," katanya. [![tanaman kaktus
-mini dikombinasikan dengan batuan suseki](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/mini-cactus-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+mini dikombinasikan dengan batuan suseki](http://localhost/mitra/wp-
+content/uploads/2020/04/mini-cactus-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/mini-cactus.jpg)
 
 ## Perawatan Kaktus Mini Yang Cukup Mudah

@@ -11,7 +11,7 @@ tags:
 - pertanian padi
 
 modification_time: 2021-01-17 05:06:55
-blogger_orig_url: "http://localhost/mitra/imunisasi-padi-8-9-ton-ha.html"
+blogger_orig_url: "http://www.mitrausahatani.com/imunisasi-padi-8-9-ton-ha.html"
 ---
 
 Inovasi yang dilakukan Sarnadi dan Surya layak diacungi jempol. Pasalnya, cara
@@ -29,8 +29,8 @@ dan Surya:
 
 ## Dengan cara manual
 
-[![benih padi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_padi1_463x768.jpg)](http://127.0.0.1/mitra/wp-
+[![benih padi](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_padi1_463x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_padi1_463x768.jpg)Padi harus tumbuh optimal,
 begitu prinsip yang dipegang Sarnadi. Karena itu tempat persemaian pun harus
 lebih luas. Untuk bibit 1 ha digunakan persemaian berukuran 20 m x 10 m atau

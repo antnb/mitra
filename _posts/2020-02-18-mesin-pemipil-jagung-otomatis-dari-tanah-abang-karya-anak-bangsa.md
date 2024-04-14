@@ -10,7 +10,7 @@ tags:
 - mesin pertanian
 
 modification_time: 2020-02-18 12:45:07
-blogger_orig_url: "http://localhost/mitra/mesin-pemipil-jagung-otomatis-dari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mesin-pemipil-jagung-otomatis-dari.html"
 ---
 
 Sekali merengkuh dayung, dua tiga pulau terlampaui. Itulah **mesin pemipil
@@ -21,7 +21,7 @@ Margamekar, Sumedang Selatan, onggokkan tongkol jagung tak terlihat lagi. Itu
 semenjak mesin giling jagung integral hadir di sana. Tongkol dihancurkan
 menjadi dedak yang kaya protein sebagai pakan ternak atau ikan. Faedah lain,
 sebagai bahan penyubur tanah setelah [melalui
-fermentasi](http://127.0.0.1/mitra/sistem-tanam-jajar-legowo-tanaman.html).
+fermentasi](https://www.mitrausahatani.com/sistem-tanam-jajar-legowo-tanaman.html).
 
 ## Mesin perontok jagung kapasitas besar
 
@@ -35,7 +35,7 @@ jagung yang masih menempel di tongkol. Setelah butiran jagung terlepas dari
 tongkol, kemudian masuk ke unit pengering. Di unit itulah kadar air jagung
 pipilan dibakukan sesuai kualitas. Yang terakhir, unit penghancur gunanya
 melumat tongkol jagung menjadi dedak untuk pakan ternak maupun ikan.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/mesin-
+![](http://localhost/mitra/wp-content/uploads/2020/02/mesin-
 pemipil-1024x576.jpg)
 
 ## Mesin Giling Jagung Otomatis
@@ -44,7 +44,7 @@ Mesin pemipil jagung _ini bekerja cukup sederhana dan semua proses berjalan
 secara otomatis_. Tongkol jagung yang telah kering angin ditempatkan di sebuah
 conveyor (ban berjalan, red). Dengan pasokan energi dari generator 30 KPA,
 secara otomatis tongkol jagung menuju mesin perontok jagung. Di situ akan
-dipisahkan [butir-butir jagung](http://127.0.0.1/mitra/bibit-jagung-hibrida-
+dipisahkan [butir-butir jagung](https://www.mitrausahatani.com/bibit-jagung-hibrida-
 terbaik-golden.html) dengan tongkolnya. Bahan baku itu berlanjut ke sebuah
 blower (penghembus, red) yang akan memisahkan bahan menjadi 3 bagian
 berdasarkan bobot. Masing-masing berupa pipilan jagung, tongkol, dan abu.
@@ -58,7 +58,7 @@ memisahkan pati dengan serat. Khusus jagung berkadar pati 70% dimanfaatkan
 dengan baik sebagai bahan baku bubur jagung instan dan tepung jagung.
 "Kapasitas pembuat pati mencapai 1 ton/minggu,” ujar alumnus Institut
 Pertanian Bogor itu. [caption id="attachment_19280" align="aligncenter"
-width="1024"]![mesin giling jagung](http://127.0.0.1/mitra/wp-
+width="1024"]![mesin giling jagung](http://localhost/mitra/wp-
 content/uploads/2020/02/mesin-giling-jagung-1024x576.jpg) mesin menggiling
 jagung menjadi dedak[/caption]
 
@@ -66,7 +66,7 @@ jagung menjadi dedak[/caption]
 
 Secara ekonomi mesin pemipil jagung Hasil produksi institusi di Kecamatan
 Tanahabang, Jakarta itu layak usaha dan menguntungkan. Mesin ini digunakan
-petani yang [membudidayakan jagung](http://127.0.0.1/mitra/budidaya-jagung-
+petani yang [membudidayakan jagung](https://www.mitrausahatani.com/budidaya-jagung-
 tanah-pasir-sprinkler.html) untuk meningkatkan kualitas jagung pipilan. Alat
 ini ditempatkan di Kabupaten Sumedang yang memproduksi 30-35 ribu ton /tahun.
 Hasil uji coba mesin pemipil jagung pada 20 Juli 2009 menunjukkan, kapasitas

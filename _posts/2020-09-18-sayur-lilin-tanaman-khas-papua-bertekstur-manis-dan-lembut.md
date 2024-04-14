@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-11 06:39:32
-blogger_orig_url: "http://localhost/mitra/sayur-lilin-tumbuhan-khas-papua.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sayur-lilin-tumbuhan-khas-papua.html"
 ---
 
 Masyarakat Papua menyebutnya pohon sayur lilin papua. Boleh jadi lantaran
@@ -56,7 +56,7 @@ _Saccharum edule_ antara lain digulai" papar Verra Gorianto, warga Bogor yang
 menghabiskan masa kecil di Banggai, Sulawesi Tengah. Masyarakat Jakarta dan
 Bogor pun sudah lama mengenal tanaman yang banyak tumbuh di wilayah Bogor ini.
 Di sekitar Jabotabek anggota keluarga Gramineae itu umumnya direbus sebelum
-dimakan seperti menyantap [jagung](http://127.0.0.1/mitra/topik/jagung) atau
+dimakan seperti menyantap [jagung](https://www.mitrausahatani.com/topik/jagung) atau
 dibuat sambal goreng. Masyarakat Jawa menyebutnya telur tebu lantaran sosok
 mirip telur ikan. Sedangkan masyarakat Sunda mengenalnya sebagai tiwu (tebu,
 red). Pohon sayur lilin papua dipanen dari tanaman sejenis rumput-rumputan
@@ -70,7 +70,7 @@ mencapai 3 m dengan diameter batang 2-3 cm. Ruas-ruas batang pendek,
 mengembang, dan tertutup pelepah. Daun memanjang hingga 60 cm dan lebar 4-6
 cm. Permukaan daun agak berbulu, tepi daun tajam. Pucuk tanaman tertutup daun-
 daun pelepah dan membengkak di bagian bawah. [caption id="attachment_1735"
-align="aligncenter" width="353"]![sayur lilin](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="353"]![sayur lilin](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_sayur-lilin_660x800.jpg) tanamannya mirip
 tebu[/caption]
 

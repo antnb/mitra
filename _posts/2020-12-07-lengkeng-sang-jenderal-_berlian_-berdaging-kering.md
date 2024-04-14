@@ -13,7 +13,7 @@ tags:
 - lengkeng
 
 modification_time: 2020-12-07 12:19:26
-blogger_orig_url: "http://localhost/mitra/lengkeng-sang-jenderal-berlian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/lengkeng-sang-jenderal-berlian.html"
 ---
 
 Pantas Prayitno memberanikan diri menelpon redaksi. Sudah 3,5 tahun mantan
@@ -33,8 +33,8 @@ membuncah. Setiap pagi dari balik kamar mandi yang terletak di samping tanaman
 lengkeng dian ayah 3 putra itu melongok perkembangan bunga. Tiga bulan
 berselang bunga itu bersalin rupa menjadi buah yang siap dicicip. Saat itulah
 ia membutuhkan kepastian jenis lengkeng yang selama ini dirawat penuh harap.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/lengkeng1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/lengkeng1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/lengkeng1.jpg)
 
 ## Kelengkeng Istimewa
@@ -62,8 +62,8 @@ diamond river, ini yang paling kering yang pernah saya cicip,” kata pemilik
 nurseri Tebuwulung itu. Sungai berlian kering pernah ditemukan di kebun
 Hendrik Virgilius, di Singkawang, Kalimantan Barat. Bedanya, 2 diamond river
 milik Hendrik merupakan kelainan dari 178 diamond river yang ditanam .
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/tabulampot-1024x654.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/tabulampot-1024x654.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/tabulampot.jpg)
 
 ## Tanda tanya

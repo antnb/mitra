@@ -9,7 +9,7 @@ tags:
 - kolam
 
 modification_time: 2020-03-30 07:28:57
-blogger_orig_url: "http://localhost/mitra/kolam-taman-minimalis-penghilang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kolam-taman-minimalis-penghilang.html"
 ---
 
 _Setahun terakhir tiada waktu di sore hari terlewatkan Rahmawati Dharmawan
@@ -35,7 +35,7 @@ melintas Furniture Shop Mutschler Leonberg di Munich, Jerman. Di toko
 spesialis furniture itu, matanya tertambat pada permainan air mancur kolam
 taman di lobi. “Rasanya ingin menaruhnya di rumah,” ujar alumnus New South
 Wales Univesity, Australia itu. Sejak itu pula setiba [di
-tanah](http://127.0.0.1/mitra/budidaya-jagung-tanah-pasir-sprinkler.html) air
+tanah](https://www.mitrausahatani.com/budidaya-jagung-tanah-pasir-sprinkler.html) air
 ia mengontak kolega yang berprofesi sebagai **tukang kolam** untuk membantunya
 membuat kolam minimalis didepan rumah. Ia ingin halaman belakang rumah seluas
 150 m2 ditata. Kolam taman 6 m x 1,5 m berkedalaman 60 cm pun dibuat dengan
@@ -46,7 +46,7 @@ sistem filter terdiri dari biotron 25, biotec 10, dan skimmer surface. Masing-
 masing bagian berfungsi sebagai antilumut, filter biologi, dan penyaring
 kotoran-kotoran besar seperti daun. Semua perangkat itu diletakkan di ruang 1
 m x 0,5 m x 0,5 tepat di belakang tembok yang dibangun khusus. Dinding tembok
-yang diukir timbul bentuk aneka [ikan hias](http://127.0.0.1/mitra/ikan-hias
+yang diukir timbul bentuk aneka [ikan hias](https://www.mitrausahatani.com/ikan-hias
 "ikan hias") itu berfungsi sebagai tempat tumpahan air dari pompa. “Karena
 dindingnya agak bergelombang, suara air yang jatuh terdengar gemericik,” ujar
 Rahmawati. Untuk menciptakan kolam taman itu, kelahiran Semarang 42 tahun
@@ -68,7 +68,7 @@ melihat semburan air yang mirip air terjun cukup dengan memutar panel adjuster
 saja,” ujar ayah 2 putri itu. Karena merancang sendiri, biaya pembuatan kolam
 taman minimalis yang dikeluarkan pengusaha biro perjalanan itu tidak banyak,
 hanya Rp 7-juta. [caption id="attachment_628" align="aligncenter"
-width="363"]![kolam taman](http://127.0.0.1/mitra/wp-
+width="363"]![kolam taman](http://localhost/mitra/wp-
 content/uploads/2020/03/kolam_1115x800.jpg) kolam minimalis dengan Water decor
 lifestyle[/caption]
 
@@ -95,7 +95,7 @@ berukuran 3 m x 4 m berkedalaman 60-80 cm dan berbahan beton, biaya mencapai
 Rp 5-juta-Rp 6-juta. Jika dipakai bahan liner akan lebih murah 25%. Jika tak
 mau repot-repot kolam taman preform berbahan fiber bisa dipilih. Yang menarik
 kolam preform menawarkan aneka miniatur dari [berbagai danau terkenal di dunia
-seperti danau Salt dan](http://127.0.0.1/mitra/produk-olahan-jagung-
+seperti danau Salt dan](https://www.mitrausahatani.com/produk-olahan-jagung-
 manis.html) danau Victoria di Amerika Serikat. “Untuk pompa, filter, dan
 skimmer jika dipakai buatan Jerman menelan biaya sekitar Rp l4-juta,” ungkap
 Djaka. Pompa fountain seri aquamax bisa menyedot biaya Rp 5-juta. Untuk filter
@@ -109,7 +109,7 @@ Eropa pilihan tepat.
 ## China Keranjingan Kolam Taman Tipe Musikal
 
 Justru Cina yang kini menggemari tipe musikal. [Di Beijing, misalnya, 2 taman
-umum di kawasan Dongguan dan](http://127.0.0.1/mitra/prospek-budidaya-bunga-
+umum di kawasan Dongguan dan](https://www.mitrausahatani.com/prospek-budidaya-bunga-
 krisan-di-gowa.html) Tianji memiliki kolam taman raksasa. Saat matahari
 terbenam pertunjukan di kedua tempat itu segera dimulai. Diiringi alunan musik
 setempat, nozel dari pompa menyemprotkan air berbentuk elips berulang-ulang.
@@ -122,7 +122,7 @@ memborong pompa untuk keperluan tipe musikal,” ujar Yennyta SE, kepala
 pemasaran representatif produk Eheim, Menurut Hendra Suria, representatif
 Ocean Free di Indonesia, saat berlangsung pameran aksesori dan ikan hias,
 Aquaria Cina 2004, tuan [rumah pun banyak menampilkan produk pompa
-untuk](http://127.0.0.1/mitra/manfaat-program-kawasan-rumah-pangan.html) kolam
+untuk](https://www.mitrausahatani.com/manfaat-program-kawasan-rumah-pangan.html) kolam
 taman berukuran kecil. Jebo misalnya menurunkan seri pompa API 150-AP5600.
 Boyu dengan seri pompa FP-1002B-FpllOOB dan SP700-SP1500. Seri AP1150
 contohnya dengan kapasitas listrik 80 watt, ia mampu menyemburkan air setinggi

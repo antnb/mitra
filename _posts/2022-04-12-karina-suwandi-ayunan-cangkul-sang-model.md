@@ -9,7 +9,7 @@ tags:
 - organik
 
 modification_time: 2022-04-12 12:41:38
-blogger_orig_url: "http://localhost/mitra/karina-suwandi-ayunan-cangkul-sang-model.html"
+blogger_orig_url: "http://www.mitrausahatani.com/karina-suwandi-ayunan-cangkul-sang-model.html"
 ---
 
 Malam itu penampilan Karina Suwandi sungguh anggun. Gaun rancangan Oscar
@@ -55,8 +55,8 @@ kakaknya. Ir Suwandi, ayah tercinta kerap membantu mengumpulkan daun salam
 kering untuk diolah menjadi pupuk. Ibunda, Edith Hyskova dan Romi Suwandi,
 kakak, ikut menyiram atau menyiangi. “Semua turun tangan. Maklum di sini ngga
 punya tukang kebun,” tutur anak bungsu dari 3 bersaudara itu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/batola2.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/batola2.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/batola2.jpg)
 
 ## Kebun Organik

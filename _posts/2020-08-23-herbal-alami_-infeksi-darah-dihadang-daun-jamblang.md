@@ -3,13 +3,13 @@ layout: post
 title: 'Herbal Alami: Infeksi Darah Dihadang Daun Jamblang'
 categories: artikel|Herbal|kesehatan
 date: 2020-08-23 05:43:31
-author: Anton N
+author: Yudianto
 image: media/buah-jamblang_1280x718.jpg
 tags:
 - 
 
 modification_time: 2020-08-23 05:43:31
-blogger_orig_url: "http://localhost/mitra/herbal-alami-infeksi-darah-dihadang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/herbal-alami-infeksi-darah-dihadang.html"
 ---
 
 _Akibat infeksi darah Titik Fajarwati menderita lumpuh total. Dua tahun ia

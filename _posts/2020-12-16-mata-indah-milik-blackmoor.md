@@ -13,7 +13,7 @@ tags:
 - grand champion
 
 modification_time: 2020-12-16 06:41:36
-blogger_orig_url: "http://localhost/mitra/mata-indah-milik-blackmoor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mata-indah-milik-blackmoor.html"
 ---
 
 Blackmoor telah menyihir hobiis-hobiis di negeri jiran. Itu setelah kemenangan
@@ -44,8 +44,8 @@ Membersihkan akuarium dan mempertahakan kebersihan air beberapa tip untuk
 menjaga kesehatan mata. Di samping itu hindari pencampuran blackmoor dengan
 tossa. Mata blackmoor yang menonjol menjadi daya tarik bagi tossa ganjen.
 Dalam sekejap, mata si hitam manis itu terluka diserang tossa.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/goldfish.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/goldfish.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/goldfish.jpg)
 
 ## Tumbal penolak ilmu hitam
@@ -68,15 +68,15 @@ hobiis di Cina percaya, blackmoor penolak bala. Mereka lazimnya memelihara 8
 maskoki sebagai simbol hoki. Itu disempurnakan oleh kehadiran seekor blackmoor
 sehingga total jumlahnya 9 ekor. Konon bila terjadi kesialan atau guna-guna,
 blackmoor itulah yang bakal mati duluan. Kasihan jadi tumbal.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/ikan1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/ikan1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/ikan1.jpg)
 
 ## Blackmoor Bukan black demekin
 
 [caption id="attachment_2909" align="alignleft" width="300"][![ikan koi black
-demekin](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_blackdemekin_918x768.jpg)](http://127.0.0.1/mitra/wp-
+demekin](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_blackdemekin_918x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_blackdemekin_918x768.jpg) Blackmoor Bukanlah
 Demekin[/caption] Tampang blackmoor sangat mirip dengan black demekin. Itulah
 sebabnya, banyak orang menganggap mereka sama saja. Blackmoor ya black demekin

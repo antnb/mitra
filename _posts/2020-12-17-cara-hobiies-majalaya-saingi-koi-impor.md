@@ -11,7 +11,7 @@ tags:
 - mutu koi
 
 modification_time: 2020-12-17 13:08:40
-blogger_orig_url: "http://localhost/mitra/cara-hobiies-majalaya-saingi-koi-impor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-hobiies-majalaya-saingi-koi-impor.html"
 ---
 
 Koi lokal sebenarnya berasal dari indukan impor yang disilang di sini.
@@ -52,8 +52,8 @@ mengacu tren di Jepang, tubuh tebal dan memanjang," ujarnya.
 ## Seleksi ketat
 
 [caption id="attachment_2964" align="alignleft" width="173"][![Indukan
-koi](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_kolam_koi1_302x768.jpg)](http://127.0.0.1/mitra/wp-
+koi](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_kolam_koi1_302x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_kolam_koi1_302x768.jpg) Induk terpilih untuk
 mendapat keturunan berkualitas[/caption] Walaupun bisa dilakukan sepanjang
 tahun, Setiadi memilih waktu yang baik untuk pemijahan. Musim penghujan pada

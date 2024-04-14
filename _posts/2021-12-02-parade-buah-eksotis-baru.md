@@ -11,7 +11,7 @@ tags:
 - nangka
 
 modification_time: 2021-12-02 06:27:22
-blogger_orig_url: "http://localhost/mitra/parade-buah-eksotis-baru.html"
+blogger_orig_url: "http://www.mitrausahatani.com/parade-buah-eksotis-baru.html"
 ---
 
 Buah Eksotis itu layak mendapat julukan nanas bertanduk atau bisa juga **nanas
@@ -24,8 +24,8 @@ buah nanas terdiri atas 50 mata tunas yang menonjol. Pada Agustus 2011, Ricky
 menyemprotkan ethrel pada tanaman berumur hampir setahun itu. Tujuannya untuk
 memunculkan bunga. [caption id="attachment_15491" align="aligncenter"
 width="400"][![buah Alkesa Jumbo ini bobotnya mencapai 250 g per
-buah](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/buah3-400x356.jpg)](http://127.0.0.1/mitra/wp-
+buah](http://localhost/mitra/wp-
+content/uploads/2021/12/buah3-400x356.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/buah3.jpg) Alkesa Jumbo ini bobotnya mencapai 250 g
 per buah[/caption] Sebulan pascapenyemprotan, bunga nanas muncul dan membentuk
 buah 30 hari kemudian. Luar biasa! Penampilan buah bak medusa-persis induknya,
@@ -82,8 +82,8 @@ sebutan lain-itu tumbuh di dalam pot. Pemilik nurseri Hara itu memperoleh
 tanaman kerabat gardenia itu dari seorang rekan di Blitar, Jawa Timur, yang
 mendapatkannya dari Wonosobo. [caption id="attachment_15493"
 align="aligncenter" width="381"][![buah Nangkadak malaysia, nyamplung padat
-walau menyerbuk sendiri](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/nangka-381x400.jpg)](http://127.0.0.1/mitra/wp-
+walau menyerbuk sendiri](http://localhost/mitra/wp-
+content/uploads/2021/12/nangka-381x400.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/nangka.jpg) Nangkadak malaysia, nyamplung padat walau
 menyerbuk sendiri[/caption] Di kebun Chandra Mitra Usaha Tani mendapatkan
 alkesa Lucummo nervosa jumbo, berbobot 250 g per buah. Lazimnya bobot buah

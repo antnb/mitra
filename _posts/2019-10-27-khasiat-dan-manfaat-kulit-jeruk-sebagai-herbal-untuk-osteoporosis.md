@@ -14,7 +14,7 @@ tags:
 - tulang
 
 modification_time: 2022-12-30 09:43:49
-blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-kulit-jeruk-sebagai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-ekstrak-kulit-jeruk-sebagai.html"
 ---
 
 Kulit jeruk kaya akan serat, vitamin, dan polifenol penangkal penyakit, yang
@@ -37,8 +37,8 @@ Ibu tiga anak itu mengonsumsi segelas susu setara 300 ml setiap hari. Namun,
 konsumsi susu tinggi kalsium tak juga meluruhkan nyeri yang dirasakan
 perempuan berusia 51 tahun itu. [caption id="attachment_16041"
 align="aligncenter" width="479"][![buah dan kulit jeruk
-bali](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
-mini_479x480.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
+bali](http://localhost/mitra/wp-content/uploads/2019/10/biji-
+mini_479x480.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/biji-
 mini_479x480.jpg) khasiat kulit jeruk bali mampu tingkatkan kepadatan
 tulang[/caption]
 
@@ -63,8 +63,8 @@ replacement therapy. Namun, peningkatan berlebih hormon esterogen memicu
 menstruasi tidak teratur dan endometriosis alias kanker rahim. Cara lain
 biasanya dengan konsumsi susu tinggi kalsium atau suplemen kalsium [caption
 id="attachment_16042" align="aligncenter" width="640"][![buah jeruk nipis
-dalam mangkuk](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
-mini_640x376.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
+dalam mangkuk](http://localhost/mitra/wp-content/uploads/2019/10/biji-
+mini_640x376.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/biji-
 mini_640x376.jpg) Senyawa naringin dan hesperidin juga terdapat dalam kulit
 jeruk nipis[/caption]
 
@@ -118,8 +118,8 @@ mengonsumsi temumangga, seperti saran Andjarwati. Caranya dengan konsumsi
 kapsul temumangga dua kapsul tiga kali sehari. Atau rebus rimpang temumangga
 lalu konsumsi airnya tiga kali sehari masing-masing satu gelas setara 250 ml.
 [caption id="attachment_16045" align="aligncenter"
-width="640"][![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
-mini_640x451.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/biji-
+width="640"][![](http://localhost/mitra/wp-content/uploads/2019/10/biji-
+mini_640x451.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/biji-
 mini_640x451.jpg) naringin dan hesperidin[/caption]
 
 ## Sistim kerja

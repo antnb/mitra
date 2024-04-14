@@ -11,7 +11,7 @@ tags:
 - sayuran
 
 modification_time: 2022-09-11 06:59:23
-blogger_orig_url: "http://localhost/mitra/modoinding-sentra-sayuran-terbesar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/modoinding-sentra-sayuran-terbesar.html"
 ---
 
 Dengan topografi dataran berombak, berbukit-bukit, dan bergunung, deretan
@@ -34,10 +34,10 @@ dijualnya. Sentra sayuran berlokasi di Modoinding. Sentra sayuran menyediakan
 berbagai sayuran segar mulai dari sayuran hijau, berwarna kuning, merah, ungu,
 dan putih. Selain sayuran, sentra sayuran juga menjual buah-buahan segar.
 Kondisi agroklimat Modoinding memang sangat mendukung untuk pertumbuhan
-[sayuran](http://127.0.0.1/mitra/strategi-pemasaran-sayuran-organik.html)
+[sayuran](https://www.mitrausahatani.com/strategi-pemasaran-sayuran-organik.html)
 dataran tinggi. Maklum [jenis tanah di sana andosol yang kaya unsur hara,
 ketebalan topsoil di atas 30 cm, suhu udara 13-32°C,
-dan](http://127.0.0.1/mitra/kelebihan-kelengkeng-itoh-edaw.html) curah hujan
+dan](https://www.mitrausahatani.com/kelebihan-kelengkeng-itoh-edaw.html) curah hujan
 3.000 mm/tahun. Dengan dukungan alam seperti itu pantas bila berbagai jenis
 sayuran dapat tumbuh dengan baik. Apalagi di sana terdapat beberapa sumber air
 yang dapat diandalkan, di antaranya Sungai Modoinding dan Sungai Poigar yang
@@ -48,12 +48,12 @@ antaranya ditanami sayuran. Sisanya padi ladang, jagung, kacang-kacangan, dan
 ubi-ubian. Wajar,“Sayuran menjadi komoditas andalan masyarakat setempat,”
 papar mantan dosen Fakultas Pertanian Universitas Sam Ratulangi itu. Hingga
 saat ini terdapat sekitar 22 kelompok tani yang secara aktif melakukan
-kegiatan [pertanian](http://127.0.0.1/mitra/pertanian) di 8 desa di kawasan
+kegiatan [pertanian](https://www.mitrausahatani.com/pertanian) di 8 desa di kawasan
 sentra sayuran ini. Di antaranya kelompok tani Esa Waya dan Maju Bersama di
 Desa Pinasungkulan. Semuanya mengembangkan beragam jenis sayuran seperti
 kentang, kubis, petsai, tomat, hingga wortel. [caption id="attachment_436"
 align="alignnone" width="524"]![Kentang, andalan
-Modoinding](http://127.0.0.1/mitra/wp-
+Modoinding](http://localhost/mitra/wp-
 content/uploads/2020/03/Untitled_1280x747.jpg) _Kentang, andalan
 Modoinding_[/caption]
 
@@ -69,7 +69,7 @@ kelompok tani Maju Bersama. Padahal, biaya produksi per ha tak lebih dari Rp
 berkutat di pasar lokal, kentang sudah merambah hingga ke mancanegara.
 “Kentang modoinding sudah menjadi salah satu komoditas ekspor Sulawesi Utara,”
 papar Ir Ferdinand Tairas, kepala Dinas Pertanian dan
-[Peternakan](http://127.0.0.1/mitra/peternakan "Peternakan") Sulawesi Utara.
+[Peternakan](https://www.mitrausahatani.com/peternakan "Peternakan") Sulawesi Utara.
 Pada 2002, setidaknya 12.000 ton kentang dipasarkan ke Filipina, Brunei
 Darussalam, Malaysia, dan Singapura. Bahkan, ujicoba pengiriman ke Australia
 juga pernah dilakukan. Di pasar domestik, kentang dari kawasan sentra sayuran
@@ -90,11 +90,11 @@ sana tertanami kentang setiap tahun. Menurut Andre Umboh pekebun belum mampu
 memenuhi standar kualitas yang diinginkan. Apalagi pabrik makanan ringan mulai
 memperlihatkan minat terhadap kentang organik. Padahal, sampai saat ini
 pekebun sayuran di Modoinding belum pernah menerapkan, teknologi [pertanian
-organik](http://127.0.0.1/mitra/strategi-pemasaran-sayuran-organik.html). PT
+organik](https://www.mitrausahatani.com/strategi-pemasaran-sayuran-organik.html). PT
 Petindo Perkasa, di bawah manajemen John Hamenda, juga sempat memunculkan
 optimisme bagi pekebun Modoinding. Pasalnya, perusahaan raksasa ini mulai
 berinvestasi dengan tujuan akhir berdirinya perusahaan camilan kentang
-terbesar [di Indonesia](http://127.0.0.1/mitra/potensi-budidaya-perikanan-
+terbesar [di Indonesia](https://www.mitrausahatani.com/potensi-budidaya-perikanan-
 di.html) bagian timur. Impian itu buyar setelah pihak manajemen harus
 berhadapan dengan hukum, terkait dengan pembobolan salah satu bank pemerintah.
 
@@ -124,7 +124,7 @@ produksi pertanian, termasuk ketergantungan terhadap pupuk kimia akan
 dibenahi. Maklum, pupuk kimia menyebabkan menyebabkan lahan-lahan di sana
 tidak lagi subur secara alami. “Kami mengharapkan berbagai pihak untuk
 membantu menerapkan teknologi [pertanian
-organik](http://127.0.0.1/mitra/bisnis-restoran-organik-dengan-pola.html)
+organik](https://www.mitrausahatani.com/bisnis-restoran-organik-dengan-pola.html)
 seperti yang telah dikembangkan di tempat lain,” kata Hen Tigau, ketua
 Kelompok Tani Esa Waya.
 

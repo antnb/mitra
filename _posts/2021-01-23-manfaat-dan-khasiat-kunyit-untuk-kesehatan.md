@@ -10,7 +10,7 @@ tags:
 - kunyit
 
 modification_time: 2021-01-23 05:50:11
-blogger_orig_url: "http://localhost/mitra/manfaat-dan-khasiat-kunyit-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-dan-khasiat-kunyit-untuk.html"
 ---
 
 Siapa yang tidak kenal kunyit? Di Jawa sebutannya kunir; Sunda, koneng;
@@ -27,8 +27,8 @@ melindungi mukosa usus duabelas jari terhadap luka.
 ## Kaya zat Antiradang
 
 [caption id="attachment_7945" align="alignleft" width="202"][![Tanaman
-kunyit](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_kunyit1_577x768.jpg)](http://127.0.0.1/mitra/wp-
+kunyit](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_kunyit1_577x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_kunyit1_577x768.jpg) Banyak di tanam di
 pekarangan[/caption] Ekstrak kunyit memberikan perlindungan maksimal terhadap
 zat perusak sel seperti HC1 0,6 M, NaOH 0,2 M, atau NaCl 25%. Khamin chan

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-19 08:29:20
-blogger_orig_url: "http://localhost/mitra/durian-berdaging-tebal-di-tepian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-berdaging-tebal-di-tepian.html"
 ---
 
 Depok 1 dan depok 2 bukan daerah pemukiman di selatan Jakarta. Itu sebutan
@@ -66,7 +66,7 @@ Kehadiran 2 durian istimewa dari tepian waduk Selorejo tak mengherankan. Sejak
 dulu desa-desa di sekitar waduk dikenal sebagai sentra durian di Jawa Timur.
 Dari hasil eksplorasi dijumpai 40 varietas durian. Sepuluh di antaranya
 tergolong istimewa. [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) menemukan tumbu
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) menemukan tumbu
 ngantang dan bajul di Desa Mulyorejo, meski tak seistimewa depok 1 dan depok
 2. Kelezatannya layak dinikmati pada musim panen Desember-Januari.
 

@@ -9,7 +9,7 @@ tags:
 - strawberry
 
 modification_time: 2020-11-10 11:44:21
-blogger_orig_url: "http://localhost/mitra/strawberry-earlibrite-varietas-yang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/strawberry-earlibrite-varietas-yang.html"
 ---
 
 Pria itu mencermati barang-barang yang terus berputar di atas conveyor belt di
@@ -21,7 +21,7 @@ segera dibakar. Varietas (baru) sebuah rahasia perusahaan yang dijaga ketat.
 Tak ada seorang pekebun pun yang mau menyebutkan varietas yang ditanam. “Itu
 permintaan produsen Amerika. Kalau tidak, orang lain akan Padahal untuk
 mencobanya butuh waktu lama dan biaya besar,” ujar Feba Claudia, pekebun di
-Bandung. Penelusuran [Mitra Usaha Tani](http://127.0.0.1/mitra) menunjukkan,
+Bandung. Penelusuran [Mitra Usaha Tani](https://www.mitrausahatani.com) menunjukkan,
 salah satu pemasok bibit stroberi ke Indonesia adalah California Pasific Plant
 Exports, Inc. asal Amerika. Menurut Bob Nottelmann, bagian pemasaran, mereka
 biasa mengekspor varietas sweet charlie yang adaptif untuk iklim Indonesia.
@@ -36,8 +36,8 @@ iklim dan teknik budidaya. Menurut Bob, kendala pengembangan stroberi di
 Indonesia terletak pada iklim lembap yang memudahkan serangan penyakit,
 sementara fumigasi tanah memerlukan biaya tinggi. Bibit yang digunakan pun
 harus berkualitas baik. Jika tidak, bentuk dan ukuran buah tidak seragam.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Earlibrite.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Earlibrite.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Earlibrite.jpg)
 
 ## Strawberry Earlibrite
@@ -54,8 +54,8 @@ mudah terkena busuk buah antraknosa akibat Colletotrichum acutatum dan rentan
 tungau Tetranychus urticae. Di Florida tidak menjadi masalah karena panen
 terakhir awal Maret. Saat itu kondisi lingkungan belum mendukung pertumbuhan
 cendawan. Ketimbang sweet charlie, ia lebih tahan busuk buah akibat Botrytis
-cinerea. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Strawberry-
-Earlibrite.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Strawberry-
+cinerea. [![](http://localhost/mitra/wp-content/uploads/2020/11/Strawberry-
+Earlibrite.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Strawberry-
 Earlibrite.jpg)
 
 ## Festival Buah

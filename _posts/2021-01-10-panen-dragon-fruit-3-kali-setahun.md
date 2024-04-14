@@ -11,13 +11,13 @@ tags:
 - tiang pemupukan
 
 modification_time: 2021-01-10 07:13:17
-blogger_orig_url: "http://localhost/mitra/panen-dragon-fruit-3-kali-setahun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-dragon-fruit-3-kali-setahun.html"
 ---
 
 Kebanyakan pekebun dragon fruit di Jawa Timur dan Jawa Tengah panen raya pada
 Desember sampai Januari. Namun di tempat Djoko, buah naga "diatur" supaya
 keluar pada Oktober, Desember, dan Januari. Saat
-[Mitrausahatani](http://127.0.0.1/mitra/) berkunjung ke salah satu kebunnya di
+[Mitrausahatani](https://www.mitrausahatani.com/) berkunjung ke salah satu kebunnya di
 Delanggu, Klaten, penghujung November lalu, buah-buah merah bergelantungan.
 _Hylocereus undatus_ setengah masak bercampur dengan buah pentil, bunga yang
 sudah mengering, dan kuncup bunga. Semua lengkap dalam satu pohon.
@@ -36,7 +36,7 @@ siput pemakan bibit muda atau semut penyuka tunas pucuk. Keduanya mudah
 diatasi. Pertama kali menanam pada 1997 Djoko mendatangkan 3.000 bibit asal
 Thailand. Nilainya mencapai Rp297-juta. Bibit ditanam di lahan seluas 4 ha di
 Jawa Timur. Seiring berjalannya waktu,
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") meluas hingga 20
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") meluas hingga 20
 ha. Sulur yang sudah berbuah langsung dipangkas menjadi bibit, termasuk untuk
 kebun di Delanggu. Persiapan lahan sebelum menanam meliputi pembuatan
 bedengan, pemasangan tiang penyangga, dan penggemburan. Bedengan dibuat dengan
@@ -57,8 +57,8 @@ tidak terluka.
 ## Pupuk 2 kali
 
 [caption id="attachment_7806" align="alignleft" width="287"][![buah Dragon
-fruit](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_buahnaga1_839x768.jpg)](http://127.0.0.1/mitra/wp-
+fruit](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_buahnaga1_839x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_buahnaga1_839x768.jpg) Dragon fruit asal
 indonesia Disukai pasar Singapura[/caption] Jika pekebun lain memupuk setiap
 minggu, maka Djoko punyajadwal sendiri. Aplikasi hanya dilakukan 2 kali

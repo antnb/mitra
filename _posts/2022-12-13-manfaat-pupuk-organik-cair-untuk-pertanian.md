@@ -9,12 +9,12 @@ tags:
 - pupuk
 
 modification_time: 2022-12-13 16:47:49
-blogger_orig_url: "http://localhost/mitra/pupuk-organik-cair.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pupuk-organik-cair.html"
 ---
 
 Kementerian Pertanian telah merancang Gerakan Tani Pro-Organik (GENTA ORGANIK)
 sebagai antisipasi penjaminan ketersediaan pangan aman. GENTA ORGANIK
-merupakan suatu gerakan [pertanian](http://127.0.0.1/mitra/pertanian
+merupakan suatu gerakan [pertanian](https://www.mitrausahatani.com/pertanian
 "pertanian") pro organik yang meliputi penggunaan pupuk organik, pupuk hayati,
 dan pembenah tanah sebagai solusi terhadap masalah pupuk mahal. Melalui
 gerakan ini, Kementerian Pertanian berupaya untuk mendorong petani untuk

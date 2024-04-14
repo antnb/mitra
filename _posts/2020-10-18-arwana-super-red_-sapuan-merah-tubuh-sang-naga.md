@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-18 14:19:35
-blogger_orig_url: "http://localhost/mitra/arwana-super-red-sapuan-merah-tubuh.html"
+blogger_orig_url: "http://www.mitrausahatani.com/arwana-super-red-sapuan-merah-tubuh.html"
 ---
 
 Arwana super red sepanjang 30 cm hilir-mudik menyusuri akuarium. Ring-ring
@@ -45,7 +45,7 @@ memungkinkan arwana dijemur selama 1-2 jam pada pukul 08.00-10.00 atau
 
 Hindari penjemuran pukul 14.00- 15.00 karena terlalu terik menyebabkan suhu
 air naik. Suhu di atas 29°C justru membuat warna ikan naga itu pucat. Idealnya
-[ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") itu berada pada suhu
+[ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") itu berada pada suhu
 kamar 27-28°C.
 
 Namun, memanjakan arwana bermandi matahari pagi bukan persoalan mudah. Sebab,
@@ -58,7 +58,7 @@ grow,” ujar Nirwan. Lampu neon atau TL berkekuatan 5.000-20.000 calvin itu
 tersedia di toko-toko perlengkapan akuarium. Harganya Rp30.000- Rp 150.000,
 tergantung merek.
 
-Lampu dipasang di dasar [bagian depan akuarium](http://127.0.0.1/mitra/sistem-
+Lampu dipasang di dasar [bagian depan akuarium](https://www.mitrausahatani.com/sistem-
 filter-3-tingkat-kolam-arwana.html) supaya cahaya lampu menyorot tepat ke
 ring-ring sisik. Sebaiknya memasang 2 lampu sekaligus, masing-masing di depan
 dan belakang. Maksudnya, agar kedua sisi tubuh tersinari.

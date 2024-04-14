@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-03-31 11:50:30
-blogger_orig_url: "http://localhost/mitra/pancuran-kolam-minimalis-ala-bunderan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pancuran-kolam-minimalis-ala-bunderan.html"
 ---
 
 Air mancur di bundaran HI itu memang istimewa. Puluhan nozel(mata pipa)itu
@@ -38,10 +38,10 @@ wing, dan komet. Tipe-tipe itu semakin semarak bila dikombinasikan dengan efek
 pencahayaan. Maka hadirlah tipe light lava, light vulkan, dan seterusnya.
 “Hobiis bisa sesuaikan dengan ukuran kolam dan kemampuan koceknya,” kata
 Harjanto. Menurutnya, untuk membangun sebuah [Kolam Taman
-Minimalis](http://127.0.0.1/mitra/kolam-taman-minimalis-penghilang.html)
+Minimalis](https://www.mitrausahatani.com/kolam-taman-minimalis-penghilang.html)
 berukuran 5 m2 dibutuhkan dana untuk peralatan sekitar Rp 10-juta-Rp 20-juta.
 Itu meliputi nozel, pompa, dan peralatan listrik.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/03/pancuran_717x800.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/03/pancuran_717x800.jpg)
 
 ### Bisa diatur
 

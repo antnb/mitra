@@ -11,14 +11,14 @@ tags:
 - penyiraman
 
 modification_time: 2020-04-19 13:58:11
-blogger_orig_url: "http://localhost/mitra/sistem-penyiraman-sederhana-perkebunan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistem-penyiraman-sederhana-perkebunan.html"
 ---
 
 _Sutrisno tidak berangan-angan. Sebab, “Uji coba pada cabai menunjukkan
 peningkatan hasil hingga 50%,” papar Direktur Direktorat Tanaman Sayuran dan
 Biofarmaka, Departemen Pertanian itu. Di kebunnya ia membandingkan pertumbuhan
 melon yang disiram secara manual dan dengan sistem pipa PVC.[Mitra Usaha
-Tani](http://127.0.0.1/mitra) melihat, penampilan tanaman dengan irigasi PVC
+Tani](https://www.mitrausahatani.com) melihat, penampilan tanaman dengan irigasi PVC
 jauh lebih baik. Tanaman yang disiram manual baru setinggi 20-30 cm pada umur
 sama. Padahal, pemupukan dilakukan dengan jenis dan dosis yang sama._ Menurut
 Sutrisno, sistem irigasi menggunakan teknik siram paralon menjamin tanaman
@@ -26,8 +26,8 @@ bebas layu fusarium dan busuk pangkal batang. Cendawan hanya berkembang dalam
 kondisi lingkungan akar jenuh air atau terlalu lembap. “Dengan teknik ini
 lingkungan akar, terutama pangkal batang dapat dijaga kelembapannya.” Apalagi
 air telah diberi fungisida sebelum dialirkan ke lahan.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/melon.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/melon.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/melon.jpg)
 
 ## Sistem penyiraman yang sangat Sederhana
@@ -52,8 +52,8 @@ keran yang ada di mesin pompa. Setiap bedengan dialiri air selama 1 menit.
 Setelah itu selang tinggal dicabut untuk dipindahkan ke PVC di bedeng
 berikutnya. Dengan begitu, penyiraman tidak memerlukan banyak tenaga. Selain
 itu, “Pemakaian air dapat dihemat, hanya 25% dari volume penyiraman manual,”
-ujarnya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/irigasi.jpg)](http://127.0.0.1/mitra/wp-
+ujarnya. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/irigasi.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/irigasi.jpg)
 
 ## Sistim Irigasi Menggunakan Bahan Yang Mudah Di dapat

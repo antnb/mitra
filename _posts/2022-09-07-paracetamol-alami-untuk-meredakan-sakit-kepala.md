@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-10 13:03:13
-blogger_orig_url: "http://localhost/mitra/khasiat-dedalu-putih-sebagai-paracetamol.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-dedalu-putih-sebagai-paracetamol.html"
 ---
 
 Sakit kepala adalah salah satu penyakit yang umum terjadi dan sering dialami
@@ -198,7 +198,7 @@ yang berfungsi untuk mengurangi rasa nyeri.
 ## Tumbuhan Penghilang Rasa Sakit Alami Dari Alam
 
 [caption id="attachment_20786" align="aligncenter"
-width="300"]![](http://127.0.0.1/mitra/wp-
+width="300"]![](http://localhost/mitra/wp-
 content/uploads/2022/09/alba-300x167.jpg) Tumbuhan Salix alba atau yang lebih
 dikenal dengan dedalu putih[/caption] [Salix
 alba](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-
@@ -214,7 +214,7 @@ semua dapat dibantu oleh kulit pohon Dedalu putih. _Salai guggul_ adalah nama
 umum untuk tanaman Boswellia serrata. Asam boswellic, yang berlimpah dalam
 getah resin dan memiliki efek anti-inflamasi pada tubuh, adalah bahan kimia
 ini. Ramuan Salai guggul sering digunakan dalam pengobatan Ayurveda. Kunyit
-adalah [tanaman herbal](http://127.0.0.1/mitra/kesehatan "tanaman herbal")
+adalah [tanaman herbal](https://www.mitrausahatani.com/kesehatan "tanaman herbal")
 dari India dan Indonesia yang berkerabat dengan jahe dan memiliki bota nama
 panggilan Curcuma longa. Ramuan ini telah menerima penelitian ekstensif; itu
 digunakan dalam pengobatan Ayurveda untuk mengobati radang sendi dengan

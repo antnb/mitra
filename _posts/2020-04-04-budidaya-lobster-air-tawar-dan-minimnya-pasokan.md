@@ -10,7 +10,7 @@ tags:
 - lobster air tawar
 
 modification_time: 2020-04-04 04:57:21
-blogger_orig_url: "http://localhost/mitra/budidaya-lobster-air-tawar-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-lobster-air-tawar-dan.html"
 ---
 
 Alih alih berharap mendapatkan laba dari harga lobster air tawar per kg
@@ -25,7 +25,7 @@ kebutuhan lobster untuk konsumsi cukup tinggi. “Restoran-restoran yang menjual
 menu lobster membutuhkan minimal 5,2 ton per tahun,” ujar ayah dari Dewi May
 Cahyanti itu. Tidak hanya restoran yang membutuhkan lobster air tawar.
 Peternak di segmen pembesaran pun meminta pasokan lobster dalam jumlah besar.
-Walaupun [laba](http://127.0.0.1/mitra/) yang diperoleh tak sebesar kalau
+Walaupun [laba](https://www.mitrausahatani.com/) yang diperoleh tak sebesar kalau
 memasok ke restoran, ia mengaku tetap kelabakan melayani agen-agen di Jakarta,
 luar kota, dan eksportir. Kebutuhan rata-rata ukuran 7 cm sebanyak 25-100 ekor
 per minggu. Langganan di Singapura meminta dipasok 600 ekor per bulan ukuran
@@ -80,9 +80,9 @@ intensif belum maksimal. Sistem EDU (_extreme density unit_) yang banyak
 digunakan oleh peternak budidaya lobster air tawar ternyata belum mampu
 meningkatkan produktivitas keluarga _Parastacidae_ itu. Tak heran bila
 restoran, hotel, dan warung yang menjajakan menu lobster kekurangan pasokan.
-[![peternak lobster sedang memanen lobster](http://127.0.0.1/mitra/wp-
+[![peternak lobster sedang memanen lobster](http://localhost/mitra/wp-
 content/uploads/2020/04/lobster-air-
-tawar-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+tawar-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/lobster-air-tawar.jpg)
 
 ## Perluasan lahan kolam pembesaran lobster air tawar

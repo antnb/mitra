@@ -11,12 +11,12 @@ tags:
 - petani padi
 
 modification_time: 2022-09-15 13:04:07
-blogger_orig_url: "http://localhost/mitra/benih-padi-unggulan-meningkatkan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/benih-padi-unggulan-meningkatkan.html"
 ---
 
 Keberhasilan Surya Gandamanah tak semata karena kemurahan tanaman padi. Ia tak
 hanya bertani padi, tetapi melakukan terobosan: membuat [benih padi
-unggulan](http://127.0.0.1/mitra/index.php/agrise/article/view/178) super dan
+unggulan](https://www.mitrausahatani.com/index.php/agrise/article/view/178) super dan
 melakukan imunisasi. Hasil padi pun berlipat dari 5 ton per ha menjadi 10 ton.
 Pada masa gadu musim tanam kemarau 2003 sampai 2004 misalnya. Ia memanen
 443.890 kg gabah kering dari lahan 68 ha. Itu setara dengan nilai jual
@@ -38,8 +38,8 @@ bahwa bisnis udang windu harus diserahkan pada anak-anaknya yang telah dewasa.
 ## Banting setir
 
 [caption id="attachment_7854" align="alignleft" width="209"][![benih padi
-unggulan](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_padi_unggul_637x768.jpg)](http://127.0.0.1/mitra/wp-
+unggulan](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_padi_unggul_637x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_padi_unggul_637x768.jpg) Pilih benih
 unggulan[/caption] Lantaran keputusannya yang berani itu, Surya harus memutar
 otak mencari usaha lain. Ia pun merenung berhari-hari untuk menentukan
@@ -81,8 +81,8 @@ berkembang. Setiap tahun ia memperluas areal 10 ha dari keuntungan bersih.
 ## Mendobrak tradisi yang telah ada
 
 [caption id="attachment_7853" align="alignleft" width="122"][![H
-Sarnadi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_padi_unggul2_337x768.jpg)](http://127.0.0.1/mitra/wp-
+Sarnadi](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_padi_unggul2_337x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_padi_unggul2_337x768.jpg) H Sarnadi, maju dari
 kegagalan[/caption] Yang juga merasakan berkah tanaman padi adalah H Sarnadi.
 Petani di Desa Banten, Kecamatan Kasemen, Kabupaten Serang, itu mewarisi usaha

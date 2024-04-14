@@ -12,7 +12,7 @@ tags:
 - pola pertanian
 
 modification_time: 2022-12-24 08:57:21
-blogger_orig_url: "http://localhost/mitra/bisnis-restoran-organik-dengan-pola.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bisnis-restoran-organik-dengan-pola.html"
 ---
 
 Restoran Joglo Ndeso di Magelang menawarkan makanan berkualitas dengan harga
@@ -38,8 +38,8 @@ kebebasan pengunjung untuk memetik sendiri sayurannya langsung dari kebun
 organik miliknya memang menjadi andalan restoran yang baru dibuka pada Juli
 Hidroponik [caption id="attachment_15870" align="aligncenter"
 width="640"][![Kebun sayuran hidroponik dan restoran menyatu di satu
-tempat.](http://127.0.0.1/mitra/wp-content/uploads/2019/10/Kebun-sayuran-
-hidroponik_640x372.jpg)](http://127.0.0.1/mitra/wp-
+tempat.](http://localhost/mitra/wp-content/uploads/2019/10/Kebun-sayuran-
+hidroponik_640x372.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/Kebun-sayuran-hidroponik_640x372.jpg) Kebun sayuran
 hidroponik[/caption] Menurut Bertha Suranto, pemilik restoran Joglo Ndeso, 70%
 bahan baku menu restorannya berasal dari kebunnya sendiri. Sisanya merupakan
@@ -54,7 +54,7 @@ and flow. “Sistem yang digunakan menyesuaikan dengan jenis sayuran yang akan
 ditanam,” ujar Bertha. Untuk jenis sayuran daun seperti sawi, selada, dan
 kangkung Bertha menerapkan sistem NFT di rumah kaca seluas 250 m2. Sementara
 sayuran buah seperti tomat, cabai, dan mentimun ditanam dengan [sistem
-vertigasi atau dengan menggunakan](http://127.0.0.1/mitra/pertanian-padi-
+vertigasi atau dengan menggunakan](https://www.mitrausahatani.com/pertanian-padi-
 menggunakan-sistem.html) dutch bucket. Ibu 3 anak itu menuturkan media terbaik
 untuk sistem fertigasi adalah hidroton. Sebab, bobot hidroton yang ringan
 memungkinkan akar mudah menembus dan mendapatkan cukup oksigen untuk tumbuh.
@@ -63,7 +63,7 @@ Selain itu, hidroton dapat digunakan berulang dan mudah dibersihkan.
 ## Organik dan Hidroponik: Budidaya Sayuran dan Buah yang Menjadi Bahan Baku
 Menu Sehat di Joglo Ndeso
 
-Bertha [menerapkan sistem hidroponik](http://127.0.0.1/mitra/strategi-
+Bertha [menerapkan sistem hidroponik](https://www.mitrausahatani.com/strategi-
 pemasaran-sayuran-organik.html) tidak hanya untuk budidaya bahan baku makanan
 dan minuman di restorannya, tapi juga untuk hiasan meja. Peraih Womonpreuner
 Competition Award 2013 oleh Kementerian Peranan Wanita dan Perlindungan Anak
@@ -88,7 +88,7 @@ budidaya sayuran dan buah itu kemudian Bertha olah menjadi beragam menu sehat.
 Sebut saja sup buah, sayur bobor sawi lebor, bucket selada joglo ndeso, dan
 capcayjawa. Menu yang disajikan pun tak melulu sayuran tapi juga
 dikombinasikan dengan ayam dan [ikan yang juga
-hasil](http://127.0.0.1/mitra/2-jenis-ikan-discus-unggulan-hasil.html)
+hasil](https://www.mitrausahatani.com/2-jenis-ikan-discus-unggulan-hasil.html)
 budidaya secara organik. Contohnya sandwich ayam yang merupakan perpaduan
 antara selada, tomat, mentimun, dan fillet ayam. Di antara menu tersebut jus
 sawi dan sayur bobor sawi lebor menjadi favorit pengunjung.

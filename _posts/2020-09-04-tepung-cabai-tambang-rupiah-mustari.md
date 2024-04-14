@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-04 11:01:26
-blogger_orig_url: "http://localhost/mitra/tepung-cabai-tambang-rupiah-mustari.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tepung-cabai-tambang-rupiah-mustari.html"
 ---
 
 _Rp 20-juta mengisi kocek Mustari Anies dari penjualan 3,5 ton tepung cabai

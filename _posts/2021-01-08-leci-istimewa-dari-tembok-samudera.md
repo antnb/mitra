@@ -11,7 +11,7 @@ tags:
 - samut songkhram
 
 modification_time: 2021-01-08 12:57:47
-blogger_orig_url: "http://localhost/mitra/leci-istimewa-dari-tembok-samudera.html"
+blogger_orig_url: "http://www.mitrausahatani.com/leci-istimewa-dari-tembok-samudera.html"
 ---
 
 Jangan bayangkan suasana di sana seperti Chiang Mai atau Chiang Rai. Dua
@@ -34,8 +34,8 @@ membutuhkan temperatur di bawah 15°C selama 10 hari agar berbunga.
 ## Buah Si kerdil
 
 [caption id="attachment_7779" align="alignleft" width="316"][![Boontham petani
-leci di thailand](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_leci_1024x678.jpg)](http://127.0.0.1/mitra/wp-
+leci di thailand](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_leci_1024x678.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_leci_1024x678.jpg) Boontham laba Jutaan rupiah
 dari leci[/caption] Toh, lin-chi di 2 provinsi tepi pantai itu tumbuh baik dan
 produktif. Wajar karena, “Di Samut Songkhram dan Samut Sakhon yang
@@ -83,8 +83,8 @@ kesulitan memasarkan lantaran pengepul datang langsung ke kebun.
 ## Harga Relatif Mahal
 
 [caption id="attachment_7780" align="alignleft" width="284"][![leci dari
-wilayah selatan](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_lecche_640x360.jpg)](http://127.0.0.1/mitra/wp-
+wilayah selatan](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_lecche_640x360.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_lecche_640x360.jpg) Yang dari selatan lebih
 manis[/caption] Harga leci dataran rendah lebih mahal ketimbang yang berasal
 dari Chiang Mai atau Chiang Rai. “Di tingkat eceran harga leci dataran rendah

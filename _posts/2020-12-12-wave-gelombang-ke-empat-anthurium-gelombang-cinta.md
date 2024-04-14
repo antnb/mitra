@@ -11,7 +11,7 @@ tags:
 - tanaman gelombang cinta
 
 modification_time: 2020-12-12 12:17:07
-blogger_orig_url: "http://localhost/mitra/wave-gelombang-ke-empat-anthurium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/wave-gelombang-ke-empat-anthurium.html"
 ---
 
 Rezeki nomplok itu datang tak sengaja waktu Lukman berkeliling di arena
@@ -31,9 +31,9 @@ belum berhenti. Awal September, ada 1 induk dengan 1 spadik siap panen, 1
 spadik setengah matang, dan 1 spadik yang baru muncul. Lagi-lagi kenalan baru
 tadi kepincut untuk membeli. Namun, Lukman enggan melepas koleksi. Akhirnya
 diperoleh kata sepakat, "Induk disewa dengan harga Rp20-juta untuk 4 bulan,"
-tuturnya sumringah. [![](http://127.0.0.1/mitra/wp-
+tuturnya sumringah. [![](http://localhost/mitra/wp-
 content/uploads/2020/12/gelombang-
-cinta-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+cinta-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/gelombang-cinta.jpg)
 
 ## Rezeki Dari anthurium gelombang cinta
@@ -44,7 +44,7 @@ seharga Rp45.000 untuk koleksi. Berawal dari sana, pekebun anggrek itu
 mendulang pendapatan Rp146,25-juta selama Juli sampai Agustus 2007. Itu hasil
 penjualan 1.350 bibit di pot 15 cm seharga Rp25.000 per pot dan 150 tanaman
 remaja seharga Rp750.000 per pot. Penelusuran Kami ke berbagai daerah, bisnis
-[Anthurium](http://127.0.0.1/mitra/topik/anthurium "Anthurium") plowmanii
+[Anthurium](https://www.mitrausahatani.com/topik/anthurium "Anthurium") plowmanii
 alias anthurium gelombang cinta memang tengah menjulang. Di Solo, Angelina Sri
 Yulianti mendulang puluhan juta rupiah dari 14 hari pameran. Pada perhelatan
 di awal Agustus 2007 itu, 2.500 bibit 9 daun ludes dari stannya. Dengan harga
@@ -88,8 +88,8 @@ Rp2.000; 20 Agustus Rp5.000); 31 Agustus (Rp 10.000); 9 September Rp15.000);
 14 September (Rp17.500); dan 21 September (Rp23.000). Pada awal Agustus 2007,
 induk wave of love dengan 8 spadik Rp15-juta. Selang beberapa jam, naik jadi
 Rp25-juta. Para pemain sepakat, pertengahan Agustus awal lonjakan bisnis
-gelombang cinta. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/bunga-
-gelombang-cinta-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+gelombang cinta. [![](http://localhost/mitra/wp-content/uploads/2020/12/bunga-
+gelombang-cinta-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/bunga-gelombang-cinta.jpg)
 
 ## Gelombang cantik
@@ -109,9 +109,9 @@ Jenmanii, di dataran tinggi. Spadik dan anthurium gelombang cinta gampang
 jadi. Dari hasil silangan didapat varian-varian baru. Sebut saja brazil
 berdaun lebar tapi berombak sedikit; ambassador, daun bergelombang kecil-kecil
 dengan ujung mlintir seperti bor; atau giant berdaun lebar dengan gelombang
-pendek dan tersusun rapi. [![](http://127.0.0.1/mitra/wp-
+pendek dan tersusun rapi. [![](http://localhost/mitra/wp-
 content/uploads/2020/12/tanaman-hias-gelombang-
-cinta-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+cinta-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/tanaman-hias-gelombang-cinta.jpg)
 
 ## Permintaan luar
@@ -133,7 +133,7 @@ Lie, pemain senior di Karanganyar, melepas 261 induk Rp20-juta sampai Rp35-
 juta. Akibatnya harga indukan anthurium gelombang cinta bertongkol ini pabrik
 uang pekebun menjulang. Transaksi tertinggi yang Trubus lacak ialah penjualan
 indukan seharga Rp240- juta di pameran Flora dan Fauna, Lapangan Banteng,
-Jakarta Pusat. Di sentra [tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+Jakarta Pusat. Di sentra [tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias") di Jakarta Barat, 25 pot wave of love dengan 2 sampai 3
 tongkol diborong pembeli asal Solo senilai Rp750-juta. Pasarnya semula
 berkutat di Jawa. Belakangan muncul permintaan dari luar pulau. Permintaan
@@ -141,8 +141,8 @@ dari Lampung, Bali, dan Kalimantan Timur masuk ke telepon Dedy Fachrudin.
 Sementara Ginting Sri Kusmayadi (Sukoharjo), Makassar, dan Batam. Sebagian
 besar, 60 sampai 90% adalah pedagang. "Kalaupun ada kolektor, pada akhirnya
 untuk dijual juga," tutur seorang pemain senior.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/tanaman-gelombang-
-cinta-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/tanaman-gelombang-
+cinta-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/tanaman-gelombang-cinta.jpg)
 
 ## Pasar anthurium corong semakin semu?

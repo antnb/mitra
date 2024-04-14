@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-07-14 05:01:02
-blogger_orig_url: "http://localhost/mitra/budidaya-vanili-lewat-stek-daun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-vanili-lewat-stek-daun.html"
 ---
 
 Cara RM Zu’aya Kusuma Budidaya Vanili Lewat Stek Daun amat efisien. Betapa
@@ -28,7 +28,7 @@ nutrisi yang memadai.
 
 ## Bantuan Karung Goni basah
 
-Sebelum [pemotongan batang calon bibit](http://127.0.0.1/mitra/pemasaran-
+Sebelum [pemotongan batang calon bibit](https://www.mitrausahatani.com/pemasaran-
 terkendala-harga-vanili.html), siapkan pisau tajam dan bersih. Pekebun vanili
 sejak 1968 itu merekomendasikan waktu terbaik untuk memotong batang sebelum
 pukul 07.00. “Di pagi hari angin belum bertiup kencang. Udara juga bersih
@@ -71,7 +71,7 @@ Transformasi hara di setek pendek jauh lebih cepat lantaran “sempitnya”
 jaringan tanaman. Singkat kata, distribusi hara lebih mudah menjangkau ke
 seluruh jaringan sehingga akar mudah tumbuh. Kemudian disusul oleh tunas baru.
 [caption id="attachment_1287" align="aligncenter"
-width="601"]![Vanili](http://127.0.0.1/mitra/wp-
+width="601"]![Vanili](http://localhost/mitra/wp-
 content/uploads/2020/07/vanili_1028x800.jpg) Dari pesemaian ke
 polibag[/caption]
 
@@ -96,7 +96,7 @@ Kalimantan memesan bibit emas hijau itu. Ia mulai menghasilkan setek pendek
 sejak 3 tahun silam. Menurut Prof Dr Bambang Hadisutrisno, produsen bibit
 vanili dari Yogyakarta, “Sesuai riset mahasiswa master untuk menghasilkan
 bibit terbaik minimal terdiri dari 2 ruas.” Pantauan
-[mitrausahatani](http://127.0.0.1/mitra/) di berbagai sentra Budidaya Vanili
+[mitrausahatani](https://www.mitrausahatani.com/) di berbagai sentra Budidaya Vanili
 seperti Garut, Sumba, dan Bali menunjukan, umumnya pekebun menggunakan setek
 3-6 ruas. Bambang yang juga dosen Universitas Gadjah Mada menuturkan, setek
 satu ruas amat riskan lantaran kondisi ekologi di lapangan. Meski demikian

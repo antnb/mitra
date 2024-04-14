@@ -11,7 +11,7 @@ tags:
 - walet
 
 modification_time: 2020-11-08 06:38:45
-blogger_orig_url: "http://localhost/mitra/seri-sarang-walet-dokumen-dan-kemasan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/seri-sarang-walet-dokumen-dan-kemasan.html"
 ---
 
 Setiap negara menginginkan standar mutu dan jenis sarang walet berbeda.
@@ -32,8 +32,8 @@ lebih menghendaki jenis sarang walet gua. Alasannya, walet Collocalia
 fuchiphaga yang hidup di gua-gua dianggap lebih alamiah. Mereka mengkonsumsi
 pakan di lautan lepas. Bekas koloni Inggris, Hongkong, lebih menyukai sarang
 walet rumahan. Soalnya, dinilai bersih, jenis variatif, dan waktu pengolahan
-singkat. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sarang-
-walet.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/sarang-
+singkat. [![](http://localhost/mitra/wp-content/uploads/2020/11/sarang-
+walet.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/sarang-
 walet.jpg)
 
 ## Per kati atau kg
@@ -53,8 +53,8 @@ dolar AS. Volume pengiriman sangat bervariasi. Namun, umumnya 1 boks besar
 yang terdiri atas 10-50 kati. Boks besar itu dilapisi seng aluminium untuk
 mencegah kerusakan boks kecil saat pengangkutan di pelabuhan. Lapisan seng
 juga untuk mencegah terjadinya pencurian oleh oknum tertentu.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Ekspor.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Ekspor.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Ekspor.jpg)
 
 ### Asuransi sarang

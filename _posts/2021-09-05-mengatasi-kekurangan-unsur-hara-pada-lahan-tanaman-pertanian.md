@@ -15,7 +15,7 @@ tags:
 - Vitabloom
 
 modification_time: 2021-09-05 05:01:51
-blogger_orig_url: "http://localhost/mitra/cara-unsur-hara-pada-tanaman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-unsur-hara-pada-tanaman.html"
 ---
 
 Tujuh belas November 1869. Terusan Suez yang menghubungkan Laut Mediterania
@@ -42,8 +42,8 @@ penggunaan pupuk daun mengurangi "kelelahan" akar dalam menyerap unsur hara.
 ## Pupuk Unsur Hara Dengan Takaran Sesuai dosis
 
 [caption id="attachment_13890" align="aligncenter" width="563"][![tanaman yang
-kekurangan unsur hara](http://127.0.0.1/mitra/wp-
-content/uploads/2021/09/hara1.jpg)](http://127.0.0.1/mitra/wp-
+kekurangan unsur hara](http://localhost/mitra/wp-
+content/uploads/2021/09/hara1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/09/hara1.jpg) Kunci buahkan: pupuk, air, dan
 pangkas[/caption] Pemilik nurseri Golden Image di Kedoya Raya, Jakarta Barat,
 itu menyarankan penggunaan beberapa merek secara pupuk secara bergantian. Ini
@@ -66,7 +66,7 @@ mengeras.
 ### Pola Siram Yang tepat
 
 [caption id="attachment_13889" align="aligncenter" width="554"]![Tabulampot
-belimbing](http://127.0.0.1/mitra/wp-content/uploads/2021/09/hara.jpg)
+belimbing](http://localhost/mitra/wp-content/uploads/2021/09/hara.jpg)
 Tabulampot berbuah lebat idaman kolektor[/caption] Selain pupuk dan media,
 penyiraman kunci penting lain. Pemberian air mesti ke seluruh media. Makanya
 untuk para pemilik tabulampot di rumah, Eddy menyarankan penyiraman dengan

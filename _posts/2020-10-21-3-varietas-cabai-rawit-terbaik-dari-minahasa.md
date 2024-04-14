@@ -10,7 +10,7 @@ tags:
 - minahasa
 
 modification_time: 2022-09-19 05:55:40
-blogger_orig_url: "http://localhost/mitra/rawit-rawit-penguasa-pasar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/rawit-rawit-penguasa-pasar.html"
 ---
 
 "Masyarakat Minahasa terkenal doyan pedas,” papar Dr Ir Lucky Longdong MEd,
@@ -31,7 +31,7 @@ Manado, Minahasa, dan Bitung.
 
 ## Perkebunan Skala kecil
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/cabai-300x186.jpg) Tak
+![](http://localhost/mitra/wp-content/uploads/2020/10/cabai-300x186.jpg) Tak
 hanya di Minahasa, di Provinsi Gorontalo rawit juga mendominasi pasar. “Meski
 tak sehebat lidah orang Manado, masyarakat Gorontalo juga suka pedas,” papar
 Dr Ir Djamaluddin MS, kepala Dinas Pertanian dan Ketahanan Pangan Provinsi
@@ -43,7 +43,7 @@ serta Paguyaman di Kabupaten Boalemo,” papar Mardi Susilo, Kasubdin
 Hortikultura. Memang, rawit tidak dikembangkan dalam hamparan luas. Dari
 pengamatan Mardi, luas kepemilikan lahan 2.000- 3.000 m2. Lahan milik seorang
 petani di Isimu bahkan hanya sekitar 1.000 m2. Saat [Mitra Usaha
-Tani](http://127.0.0.1/mitra) berkunjung, setiap pucuk tanaman masih disesaki
+Tani](https://www.mitrausahatani.com) berkunjung, setiap pucuk tanaman masih disesaki
 buah. Padahal, panen sudah beberapa kali dilakukan. Menurut Djafar,
 pemiliknya, meski harga fluktuatif, ia tetap menikmati keuntungan. Sebab, umur
 panen tanaman panjang sehingga harga baik pasti tetap dirasakan setiap musim.
@@ -66,7 +66,7 @@ doktor alumnus Institut Pertanian Bogor itu.
 
 ## Cabai Rawit Jenis lokal
 
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/10/rawit2-300x198.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/10/rawit2-300x198.jpg)
 Menurut Djamaluddin, rawit yang dikembangkan petani kebanyakan rawit lokal.
 “Rawit introduksi justru kurang disenangi,” paparnya. Alasannya, rawit
 introduksi kurang pedas. Pasar lokal menghendaki rawit pedas. Ada 2 jenis

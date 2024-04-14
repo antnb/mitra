@@ -13,7 +13,7 @@ tags:
 - ranchu bermutu
 
 modification_time: 2021-01-30 04:25:25
-blogger_orig_url: "http://localhost/mitra/kala-sang-ranchu-mencuri-hati.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kala-sang-ranchu-mencuri-hati.html"
 ---
 
 Sejak tiga bulan lalu Ever menyulap rumah menjadi kolam _Carassius auratus_.
@@ -34,8 +34,8 @@ rumah dan para sahabatnya.
 ## Gondol juara
 
 [caption id="attachment_7981" align="alignleft" width="334"][![Budidaya
-ranchu](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_koi1_1024x766.jpg)](http://127.0.0.1/mitra/wp-
+ranchu](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_koi1_1024x766.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_koi1_1024x766.jpg) Sony, obsesi tangkarkan
 ranchu bermutu[/caption] Ever tergolong hobiis pendatang baru. Sebelumnya ia
 banyak bergelut di cupang. Namun, sekali mengikuti lomba di Fishlook Goldfish
@@ -47,7 +47,7 @@ membuat ranchu miliknya kalah pamor. Di tempat itu juga ikan kesayangannya
 dilepas ke hobiis lain senilai Rp15-juta. Pria berzodiak Scorpio itu sudah
 gemar memelihara ikan sejak usia 4 tahun. Ever kecil menolak pulang ke rumah
 usai sekolah sebelum ibunya membelikan ikan. "Di seberang sekolah banyak
-penjual [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias"). Cinta saya
+penjual [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias"). Cinta saya
 mulai dipupuk sejak itu," katanya mengenang. Hobi itu sempat terputus. Pada
 1990-an kung perkutut mencuri hatinya. "Pada dasarnya saya penyayang binatang.
 Jadi ngga ada masalah saya kembali ke ikan," paparnya. Sarjana Ekonomi itu

@@ -9,14 +9,14 @@ tags:
 - 
 
 modification_time: 2020-09-04 05:11:03
-blogger_orig_url: "http://localhost/mitra/ayung-pilih-berkebun-ketimbang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ayung-pilih-berkebun-ketimbang.html"
 ---
 
 _"Pakaian dinas", sepatu bot, dan caping dikenakan Apung. Sebilah golok
 disematkan di pinggang. Sosok kecil tegap itu menaiki sepeda motor bebek untuk
 mengontrol kondisi tanaman di kebun seluas 4 ha. Cabang jambu air pang
 "gondrong' tak beraturan dipangkas. Ia lalu beralih ke sudut lain untuk
-membungkus buah[belimbing](http://127.0.0.1/mitra/topik/belimbing
+membungkus buah[belimbing](https://www.mitrausahatani.com/topik/belimbing
 "belimbing")._ Hari-hari Ayung memang lebih banyak dihabiskan berkebun di
 Jonggol, Bogor. Lima hari dalam sepekan ia sibuk mengelola lahan. Kegiatan itu
 amat bertolak belakang dengan rutinitas Ayung saat menjabat direktur
@@ -59,7 +59,7 @@ ditutup saat G30S itu, panen jeruk 250- 300 kg. Setelah dijual Rp 2.500-Rp
 Jumlah itu cukup untuk menggaji 9 karyawan. Kelahiran Manggar, Belitung, 51
 silam itu lantas menambah keragaman jenis tanaman. Ia bertandang ke saudara
 sepupunya, Liem Chieh Guan, pemilik Crystal Group di Ipoh, Malaysia. Di
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") buah-buahan
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") buah-buahan
 ternama itu, ia mempelajari budidaya aneka jenis tanaman. Kembali ke Indonesia
 ia membeli aneka jenis buah unggul dari negeri jiran itu hingga 200 pohon.
 Kegiatan seperti itu dilakukan setiap tahun. Tanaman dari negeri jiran itu

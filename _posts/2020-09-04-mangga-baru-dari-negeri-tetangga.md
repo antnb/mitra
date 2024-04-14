@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-04 05:22:19
-blogger_orig_url: "http://localhost/mitra/mangga-baru-dari-negeri-tetangga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mangga-baru-dari-negeri-tetangga.html"
 ---
 
 _Puluhan mangga terbungkus koran dan kasa nyamuk bergelantungan di ujung
@@ -39,7 +39,7 @@ berbunga tidak serentak. Itu sebabnya di satu pohon ada bunga, buah kecil, dan
 besar sekaligus. Tingkat keberhasilan bunga menjadi buah tinggi meski tertimpa
 hujan. Pohon berumur 1,5-2 tahun menghasilkan 20 buah. Satu tangkai kerap
 digelayuti 3-5 buah. [caption id="attachment_1580" align="aligncenter"
-width="638"]![](http://127.0.0.1/mitra/wp-
+width="638"]![](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_Mangga-Chokanan_1227x800.jpg) buah mangga
 chokanan thailand[/caption]
 
@@ -51,7 +51,7 @@ ukuran buah lebih besar. Tangkai bunga warna merah tetapi buah pentil warna
 hijau. Namun, buah itu berangsur-angsur memerah bila cukup kena sinar
 matahari, sehingga sosoknya mirip apel impor varietas fuji. Saat muda rasanya
 masam. Setelah matang penuh jadi manis. [caption id="attachment_1580"
-align="aligncenter" width="530"]![](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="530"]![](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_Mangga-Chokanan_1227x800.jpg) buah Mangga
 Phanrai thailand[/caption]
 

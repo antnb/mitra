@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-17 07:29:34
-blogger_orig_url: "http://localhost/mitra/waspadai-enam-hama-mengintai-jamur.html"
+blogger_orig_url: "http://www.mitrausahatani.com/waspadai-enam-hama-mengintai-jamur.html"
 ---
 
 _Akibat serangga kumbang, praktis 20.000 baglog di kumbung 10mx 14mx3 m gagal
@@ -34,7 +34,7 @@ paling parah saat baglog terserang larva Megaselia tamilnaduensis. Seminggu
 setelah baglog dibuka, larva mirip belatung itu melahap sedikit demi sedikit
 hingga miselium habis. [caption id="attachment_1714" align="aligncenter"
 width="449"]![Mamat Rahmat \(kiri\) dan lr Rostaman, MSi, rugi saat hama
-menyerang jamur tiram](http://127.0.0.1/mitra/wp-
+menyerang jamur tiram](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_baglog_1280x800.jpg) Mamat Rahmat (kiri) dan lr
 Rostaman, MSi, rugi saat hama menyerang jamur tiram[/caption]
 
@@ -90,7 +90,7 @@ mencapai 100%, hama dengan mudah berkembang biak. Secara biologis,
 pengendalian hama bisa dilakukan dengan menggunakan nematoda entomopatogenik
 seperti Steinernema sp dan Heterorhabditris sp yang terbukti efektif membunuh
 larva serangga 40-70%. [caption id="attachment_1710" align="aligncenter"
-width="426"]![Hama menyerang saat baglog dibuka](http://127.0.0.1/mitra/wp-
+width="426"]![Hama menyerang saat baglog dibuka](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_bak_1183x800.jpg) Hama menyerang saat baglog
 dibuka[/caption]
 

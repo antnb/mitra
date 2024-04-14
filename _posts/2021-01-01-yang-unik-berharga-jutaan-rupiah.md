@@ -9,7 +9,7 @@ tags:
 - unik
 
 modification_time: 2021-01-01 11:31:25
-blogger_orig_url: "http://localhost/mitra/yang-unik-berharga-jutaan-rupiah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/yang-unik-berharga-jutaan-rupiah.html"
 ---
 
 Memiliki tanaman unik memang kebanggaan tersendiri bagi kolektor. “Bentuk dan
@@ -45,11 +45,11 @@ asal Papua Nugini itu jadi rebutan kolektor.
 
 ## Anthurium hitam
 
-[![anthurium hitam](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_anthurium_854x768.jpg)](http://127.0.0.1/mitra/wp-
+[![anthurium hitam](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_anthurium_854x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_anthurium_854x768.jpg)Lazimnya anthurium
 berwarna hijau. Koleksi Ukay tampil beda.
-[Anthurium](http://127.0.0.1/mitra/topik/anthurium "Anthurium") hibrida itu
+[Anthurium](https://www.mitrausahatani.com/topik/anthurium "Anthurium") hibrida itu
 berdaun hitam pekat. Keunikan lain tulang daun merah tua. Tanaman hasil
 perburuan di Jakarta itu dibelinya seharga Rp3-juta.
 

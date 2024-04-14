@@ -13,7 +13,7 @@ tags:
 - teknologi plasma
 
 modification_time: 2020-12-06 14:16:06
-blogger_orig_url: "http://localhost/mitra/pengawetan-sayur-menggunakan-ozon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pengawetan-sayur-menggunakan-ozon.html"
 ---
 
 Apa penyebab perbedaan sifat fisik tomat itu? Tomat Lycopersicum esculentum
@@ -36,8 +36,8 @@ hancur dibuatnya. Selain mampu membunuh mikroorganisme, ozon juga bisa
 menghilangkan bau. Dengan kemampuan itu, plasma diaplikasikan untuk mengolah
 limbah padat, sterilisasi, dan mengawetkan makanan. Wujud aplikasi teknologi
 plasma itu salah satunya mesin air berozon yang dirancang Anto.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Sayur1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/Sayur1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Sayur1.jpg)
 
 ## Generator Ozon Bermesin mungil
@@ -69,8 +69,8 @@ nozel penyemprot. Ketika mesin dinyalakan, lampu indikator menyala yang
 menunjukkan ozon terbentuk. “Kapasitasnya 5 liter air per menit,” kata Anto.
 Air yang dilewatkan pada mesin itu kemudian keluar dan mengandung ozon. Ketika
 itulah, air berozon mampu mengawetkan bahan makanan.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Pengawetan-
-Sayur.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Pengawetan-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/Pengawetan-
+Sayur.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/Pengawetan-
 Sayur.jpg)
 
 ## Air Mengandung Ozon dapat Membersihkan Pestisida yang tersisa

@@ -11,21 +11,21 @@ tags:
 - alpukat pati
 
 modification_time: 2020-12-07 09:51:16
-blogger_orig_url: "http://localhost/mitra/alpukat-hawaii-yang-legit-yang-jumbo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/alpukat-hawaii-yang-legit-yang-jumbo.html"
 ---
 
 Saat berkunjung ke kediaman Prakoso pada penghujung Mei 2017, kelezatan
 avocado itu sempat tercecap. Kesan pertama langsung memikat. Ukuran buah lebih
 bongsor ketimbang alpukat yang banyak dijajakan di pasar. Waktu ditimbang,
-jarum menunjuk angka 1,2 kg. [Alpukat](http://127.0.0.1/mitra/topik/alpukat
+jarum menunjuk angka 1,2 kg. [Alpukat](https://www.mitrausahatani.com/topik/alpukat
 "Alpukat") biasa, lazimnya hanya 250 sampai 500 g per buah. Penampilan
 istimewa anggota famili _Lauraceae_ itu pun tak sebatas "kulit luar". Begitu
 dibelah, terlihat daging buah berwarna kuning muda yang tebal. Rasanya? Daging
 kering lembut dan legit. Tak ada rasa pahit yang biasa hadir di dekat kulit.
 Padahal, buah kerabat kayu manis itu belum matang sempurna. Daging pun
 "bersih" dari serat yang mengganggu kelezatan saat menyantapnya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/alpukat-
-jumbo.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/alpukat-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/alpukat-
+jumbo.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/alpukat-
 jumbo.jpg)
 
 ## Entres
@@ -46,8 +46,8 @@ tertarik lantaran ukuran dan rasanya unggul dibanding alpukat tanahair.
 Alpukat bernama nishikawa itu satu dari belasan kultivar hasil silangan [HAES
 Hawaii](https://scholarspace.manoa.hawaii.edu/bitstream/10125/53569/2/CtahrpsExtCirc3821978.pdf).
 Ukuran jumbo dan rasa istimewa membuat _alpukat nishikawa_ diminta hotel dan
-restoran di Amerika Serikat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/avocado.jpg)](http://127.0.0.1/mitra/wp-
+restoran di Amerika Serikat. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/avocado.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/avocado.jpg)
 
 ## Alpukat Sambung Pucuk
@@ -65,8 +65,8 @@ pun meningkat jadi 25 buah. Sementara buah yang Mitra Usaha Tani cicipi
 didapat dari panen ke-3 sebanyak 70 buah dengan bobot rata-rata mencapai 1,2
 kg. Rasa dan tekstur daging persis yang Gregori cicipi 5 tahun lalu di r
 Hawaii. Sayang, tanaman di kediaman Reza belum berbuah karena ditanam dalam
-pot. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/alpukat.jpg)](http://127.0.0.1/mitra/wp-
+pot. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/alpukat.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/alpukat.jpg)
 
 ## Alpukat legit dan bongsor

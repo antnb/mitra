@@ -11,7 +11,7 @@ tags:
 - sabut kelapa
 
 modification_time: 2021-05-24 09:27:10
-blogger_orig_url: "http://localhost/mitra/aeroscape-taman-gantung-dari-pipa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aeroscape-taman-gantung-dari-pipa.html"
 ---
 
 Anda tinggal di apartemen? Halaman rumah Anda sempit? Tembok pagar demikian
@@ -31,8 +31,8 @@ yang digantung tali atau kawat. Bisa juga menempelkan tanaman di dinding.
 
 ## Aneka gantungan
 
-[![Pot tidak menempel langsung di dinding ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/pot1.jpg)](http://127.0.0.1/mitra/wp-
+[![Pot tidak menempel langsung di dinding ](http://localhost/mitra/wp-
+content/uploads/2021/05/pot1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/pot1.jpg) Paling mudah memang memakai pot gantung yang
 banyak dijual di toko-toko pertanian. Namun, seandainya ingin lebih berkreasi,
 model pot gantung disesuaikan dengan karakter rumah. Pada rumah dengan
@@ -52,8 +52,8 @@ seperti itu dan gantung di teras atau di dahan pohon.
 
 ## Aneka tanaman
 
-[![Pohon bisa Jadi sarana untuk taman vertikal](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/pot2.jpg)](http://127.0.0.1/mitra/wp-
+[![Pohon bisa Jadi sarana untuk taman vertikal](http://localhost/mitra/wp-
+content/uploads/2021/05/pot2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/pot2.jpg) Tersedia banyak tanaman untuk digantung.
 Yang utama tentu saja jenis epifit alias menempel. Contohnya simbar menjangan
 atau kadaka. Kedua tanaman ini melekat di pohon, pertumbuhan pun bandel, la

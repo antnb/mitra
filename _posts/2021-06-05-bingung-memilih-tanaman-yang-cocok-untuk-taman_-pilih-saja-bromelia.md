@@ -9,7 +9,7 @@ tags:
 - Bromelia
 
 modification_time: 2021-06-05 12:46:41
-blogger_orig_url: "http://localhost/mitra/anda-sibuk-pilih-taman-saja-bromelia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anda-sibuk-pilih-taman-saja-bromelia.html"
 ---
 
 Nong Nooch Tropical Garden, Thailand. Sejauh mata memandang taman seluas 112
@@ -22,7 +22,7 @@ kebanggaan masyarakat di Provinsi Prachinburi, Thailand, itu bromelia ditata
 dengan berbagai cara. Di pot, ditempelkan di pohon, atau digantung. Cuplikan
 taman di Nong Nooch Tropical Garden bisa pula dihadirkan di halaman rumah.
 Sosoknya kompak dengan bentuk dan variasi warna yang langsung menyedot
-perhatian. Kombinasinya ialah [tanaman hias](http://127.0.0.1/mitra/tanaman-
+perhatian. Kombinasinya ialah [tanaman hias](https://www.mitrausahatani.com/tanaman-
 hias "tanaman hias") yang tajuknya berbentuk air mancur, seperti palem
 phoeniks, dracaena, dan rerumputan. Sebenarnya bromelia bisa pula ditampilkan
 mendominasi taman karena sosoknya beragam. Ada yang mungil dengan bentang

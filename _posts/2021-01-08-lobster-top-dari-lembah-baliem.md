@@ -3,7 +3,7 @@ layout: post
 title: 'Lobster Top Dari Lembah Baliem'
 categories: Perikanan
 date: 2021-01-08 11:04:00
-author: Anton N
+author: Yudianto
 image: media/Gambar_10296-Crayfish-1_1024x663.jpg
 tags:
 - huna lobster
@@ -13,7 +13,7 @@ tags:
 - tanaman air
 
 modification_time: 2021-01-08 11:04:00
-blogger_orig_url: "http://localhost/mitra/lobster-top-dari-lembah-baliem.html"
+blogger_orig_url: "http://www.mitrausahatani.com/lobster-top-dari-lembah-baliem.html"
 ---
 
 Tiba di Bogor, setelah melalui 10 jam perjalanan, tialo sebutan lobster di
@@ -51,8 +51,8 @@ mengembang bersemburat biru. Uniknya lobster asal Papua itu vegetarian. Ia
 hanya doyan umbi-umbian, kacang-kacangan, sayuran, dan tanaman air. Di habitat
 aslinya ia kerap menyantap akar bakau. Ia cocok dikembangkan di air bersuhu
 rendah 18—20° C. Ukuran 3—4 inci mencapai Rp750.000 per set yang terdiri dari
-5 betina dan 3 jantan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Cherax-lorentzi.jpg)](http://127.0.0.1/mitra/wp-
+5 betina dan 3 jantan. [![](http://localhost/mitra/wp-
+content/uploads/2021/01/Cherax-lorentzi.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Cherax-lorentzi.jpg)
 
 ## Cherax preissii (Black tiger)
@@ -67,8 +67,8 @@ bisa mencapai 25— 30 cm. Rostrum (tonjolan depan kepala, red) pendek dengan
 posisi mendatar seperti yang dimiliki huna. Kurun hidupnya di perairan Papua
 mencapai puluhan tahun. Bagi para hobiis yang ingin menjadikan black tiger
 sebagai klangenan mesti bersabar karena tidak mudah untuk memperolehnya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/01/Cherax-
-preissii.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/01/Cherax-
+[![](http://localhost/mitra/wp-content/uploads/2021/01/Cherax-
+preissii.jpg)](http://localhost/mitra/wp-content/uploads/2021/01/Cherax-
 preissii.jpg)
 
 ## Cherax albertisii
@@ -77,8 +77,8 @@ Sosok lobster ini paling mirip red claw. Hanya saja capitnya berukuran mungil.
 Bentuk tubuhnya lebih ceper dan membulat. Proporsi Chephalotorax dan abdomen
 seimbang. Ciri lain, cangkang birunya bersemu hijau. Telson (ekor kembang,
 red) berwarna hijau terdiri dari 5 lengkungan. Harga satu setnya mencapai R
-p700-ribu pada ukuran 3 inci. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Cherax-albertisii.jpg)](http://127.0.0.1/mitra/wp-
+p700-ribu pada ukuran 3 inci. [![](http://localhost/mitra/wp-
+content/uploads/2021/01/Cherax-albertisii.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Cherax-albertisii.jpg) Cherax albertisii termasuk
 lobster yang sulit dibudidayakan karena gampang stres. Untuk mengatasinya
 berikan banyak tempat persembunyian baik di akuarium maupun di kolam. Jenisnya

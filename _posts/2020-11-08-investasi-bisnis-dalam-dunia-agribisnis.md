@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-11-08 11:45:21
-blogger_orig_url: "http://localhost/mitra/investasi-bisnis-dalam-dunia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/investasi-bisnis-dalam-dunia.html"
 ---
 
 Jumat pertama September 2018. Jalan Veteran III di Desa Banjarsari, Ciawi,
@@ -37,14 +37,14 @@ Di akhir masa investasi, modal awal dikembalikan seluruhnya. Jika saja semua
 lancar, Eko semestinya menerima Rp11-juta/bulan sampai 5 tahun. Itu belum
 termasuk bonus Rp20-juta di akhir masa investasi. "Karena ribut-ribut PT Qumia
 Subur Alam Raya mereka diaudit oleh konsultan manajemen. Akibatnya pengiriman
-pun terlambat," kata Eko [![](http://127.0.0.1/mitra/wp-
+pun terlambat," kata Eko [![](http://localhost/mitra/wp-
 content/uploads/2020/11/kebun-
-kentang1-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+kentang1-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/kebun-kentang1.jpg)
 
 ## Sebulan langsung untung
 
-Ketika dikonfirmasi [Mitra Usaha Tani](http://127.0.0.1/mitra), LJA- dengan
+Ketika dikonfirmasi [Mitra Usaha Tani](https://www.mitrausahatani.com), LJA- dengan
 1.400 investor-menyebutkan adanya musyawarah dengan seluruh investor di
 daerah. Dalam balasan via faksimili, Adam Rustam, dirut LJA hanya menyebutkan
 pertemuan itu diadakan guna mencari solusi pengamanan kelangsungan investasi.
@@ -65,7 +65,7 @@ modal awal, Rp24-miliar di akhir masa investasi. Menurut Ir Lewi Pohar Cuaca,
 market development manager PT Monfori Nusantara, tanaman keras itu baru bisa
 dipanen umur 7 tahun. "Data lapangan itu didapat dari referensi jati super di
 Malaysia dan Thailand," katanya. Dalam pariwara di [Mitra Usaha
-Tani](http://127.0.0.1/mitra) Mei 2002, PT Katama Suryabumi, produsen jati
+Tani](https://www.mitrausahatani.com) Mei 2002, PT Katama Suryabumi, produsen jati
 emas yang bekerjasama dengan SEAMEO -BIOTROP, Bogor mengungkapkan hal serupa.
 Jati berumur 7 tahun biasanya dimanfaatkan untuk keperluan lantai atau bahan
 kaki meja atau kursi. Dengan data itu LJA mestinya baru mendulang rupiah dari
@@ -84,21 +84,21 @@ berkantor pusat di bilangan Sudirman, Jakarta, itu tak menyebutkan jenis
 komoditas jangka pendek. Sedangkan cengkeh jika ditanam dari bibit, baru mulai
 panen 4,5 tahun; karet tahun ke-5; dan kopi 2 tahun. Kalaupun tanaman itu
 sudah ada di lahan, panen besar hanya 1-2 kali setahun.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/kentang2-1024x567.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/kentang2-1024x567.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/kentang2.jpg)
 
 ### Pemanfaatan Lahan nganggur
 
 Di dalam paket yang ditawarkan LJA mencantumkan komoditas hortikultura dan
 trading melengkapi paket tanaman jati. Salah satu kebun hortikultura di
-Pancawati, Bogor didatangi [Mitra Usaha Tani](http://127.0.0.1/mitra) Jumat,
+Pancawati, Bogor didatangi [Mitra Usaha Tani](https://www.mitrausahatani.com) Jumat,
 minggu pertama September 2002. Sekitar 17 unit screenhouse seluas 1,5 ha
 kosong melompong tanpa tanaman satu pun. Yang tampak hanya sisa-sisa polibag
 dengan peralatan irigasi lengkap. Di sisi luar, tumpukan bekas tanaman paprika
 dan tomat ceri terlihat membusuk dan mengering. Padahal, "Untuk biaya bangun
 greenhouse-nyz saja minimal Rp25.000/ m2," kata Ir. Rudi Purwanto, praktisi
-paprika yang mendampingi [Mitra Usaha Tani](http://127.0.0.1/mitra) melihat
+paprika yang mendampingi [Mitra Usaha Tani](https://www.mitrausahatani.com) melihat
 langsung di lapangan. Belum lagi perangkat irigasi tetes, instalasi rumah
 pompa dan nutrisi yang terlihat terbengkalai. Ketika dikonfirmasi, LJA
 bersikukuh itu karena masa sewa lahan tak diperpanjang. "Padahal masa sewa
@@ -113,8 +113,8 @@ direalisasikan 180 ha. Alternatif lain dengan memacu produksi tak dilakukan.
 Terbukti sejak pertengahan 2002 dana operasional dari kantor pusat tak jua
 terkucur. Namun, ini dibantah LJA yang menyebutkan paket hortikultura sudah
 ditutup setahun lalu, sehingga perusahaan tidak mempunyai hutang penanaman
-lagi. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Lahan-
-nganggur-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+lagi. [![](http://localhost/mitra/wp-content/uploads/2020/11/Lahan-
+nganggur-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Lahan-nganggur.jpg)
 
 ### Kendala Hasil Tak yang sesuai
@@ -124,7 +124,7 @@ SH, pemilik ADD Farm, jumlah investor yang terdaftar aktif saat ini sekitar
 3.000 orang. Rata-rata 5 paket diambil setiap investor. Setiap paket dengan
 jumlah itik 100 ekor bernilai Rp4-juta sampai Rp5-juta. Taruhlah 1 investor
 mengambil 1 paket, mestinya terdapat 300.000 ekor
-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek") di lahannya. Namun, Ade
+[bebek](https://www.mitrausahatani.com/topik/bebek "bebek") di lahannya. Namun, Ade
 hanya menyebutkan jumlah kandang yang terisi dari blok A sampai N sebanyak 14
 blok. Kapasitas setiap blok 10.000 ekor. Berarti jumlah itik 140.000 ekor. Ade
 menuturkan, sampai awal September sibuk mengisi kandang dengan itik umur 4
@@ -152,7 +152,7 @@ itik apkir.
 
 PT Mahkota Agro Purbamas (Mahamas), perusahaan investasi lain menawarkan
 sejumlah paket, di antaranya gurami. Pada pariwara [Mitra Usaha
-Tani](http://127.0.0.1/mitra) Juni 2002, perusahaan itu menawarkan investasi 6
+Tani](https://www.mitrausahatani.com) Juni 2002, perusahaan itu menawarkan investasi 6
 bulan untuk memelihara bibit gurami berukuran bungkus rokok. Temuan di
 lapangan justru sebaliknya. Gurami yang dipelihara beragam ukuran. Mulai dari
 ukuran korek api (40-60 g-red), bungkus rokok (100 g/ekor-red) hingga 300
@@ -164,7 +164,7 @@ bungkus rokok, berharga Rp 2.500/ekor," ucap Mamat, bagian pemasaran PT
 Mahamas. Dari 24 kolam Totok menyebutkan populasi sekitar 75.000 ekor bermacam
 ukuran. Menurut Bambang Soejitno, kolam di Parung seluas 3,5 ha. Dengan asumsi
 seluruh ikan berukuran bungkus rokok, aset Rp 187,5-juta. Berdasarkan pariwara
-[Mitra Usaha Tani](http://127.0.0.1/mitra) Juni 2002 target penebaran 10 ha.
+[Mitra Usaha Tani](https://www.mitrausahatani.com) Juni 2002 target penebaran 10 ha.
 "Kalau dapat semua, nilainya Rpl,5-miliar," tutur Bambang. Padahal penebaran
 yang terealisasi baru 3,5 ha, sehingga modal investor terkumpul Rp525-juta.
 

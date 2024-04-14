@@ -12,23 +12,23 @@ tags:
 - serama di malaysia
 
 modification_time: 2020-04-11 09:24:04
-blogger_orig_url: "http://localhost/mitra/sejarah-penamaan-ayam-hias-serama-asal.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sejarah-penamaan-ayam-hias-serama-asal.html"
 ---
 
 Salah seorang penonton wayang kulit yang di gelar semalam suntuk di Kampung
 Cina, Kota Baru, Kelantan, pada 1990-an itu takjub dengan sifat Sri Rama yang
 anggun, berwibawa, dan perkasa. Pebisnis [ternak ayam
-serama](http://127.0.0.1/mitra/prospek-bisnis-menjanjikan-budidaya.html)
+serama](https://www.mitrausahatani.com/prospek-bisnis-menjanjikan-budidaya.html)
 sekaligus penyilang ayam hias itu-Wee Yean Een-serta merta menyemat sang tokoh
 wayang itu untuk sebutan klangenan baru hasil silangan selama 15 tahun. Namun,
 selama perjalanan waktu, _pengucapan lafal sri rama sering terpeleset menjadi
 serama Personifikasi serama dengan Sri Rama dianggap tepat_. “Serama
 bertingkah seperti raja, anggun, dan gagah,” ujar Albert Tan. Dari pengamatan
-[Mitra Usaha Tani](http://127.0.0.1/mitra) dengan tubuh kecil, tegak, dan dada
+[Mitra Usaha Tani](https://www.mitrausahatani.com) dengan tubuh kecil, tegak, dan dada
 menonjol, serama tampak anggun saat berlenggak-lenggok. Apalagi ketika kepala
 ayam liliput itu tertarik ke belakang membentuk huruf S, ia benar-benar
-terlihat gagah bak satria. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Serama-Asal-Malaysia.jpg)](http://127.0.0.1/mitra/wp-
+terlihat gagah bak satria. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Serama-Asal-Malaysia.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Serama-Asal-Malaysia.jpg)
 
 ### Serama Termasuk ayam katai
@@ -41,7 +41,7 @@ berbobot lebih kecil, 600-650 gram. Harapannya, diperoleh kapan bertubuh kecil
 seperti silkie. Sayang persilangan itu banyak menelurkan silkie berkaki
 panjang. Setelah terus-menerus melakukan perbaikan, pertengahan 1980-an
 diperoleh kapan kecil seperti silkie. Kedatangan beberapa ekor [ayam
-hias](http://127.0.0.1/mitra/topik/ayam-hias) jenis katai jepang pada 1985
+hias](https://www.mitrausahatani.com/topik/ayam-hias) jenis katai jepang pada 1985
 menggugah Pak Wee menyilangkan kembali kapan kecil itu. Apalagi katai Jepang
 dianggap memiliki penampilan bagus dengan dada lebar dan punggung sangat
 pendek mendekati huruf U. Namun Pak Wee lebih mengutamakan turunan silangan
@@ -53,8 +53,8 @@ menyilangkan lagi jenis ayam hias dengan katai jepang pilihan. Hasilnya pada
 1990 diperoleh ayam liliput berbobot 500 gram. Sosoknya pun ikut berubah.
 Kepala kecil dan sayap menggantung menjuntai ke bawah. Ia pun terlihat
 ramping, berdada menonjol proporsional, dan ekor lawi lurus menjulang.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/ayam-Serama-Asal-
-Malaysia.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/ayam-Serama-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/ayam-Serama-Asal-
+Malaysia.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/ayam-Serama-
 Asal-Malaysia.jpg)
 
 ### Jenis ayam hias dan perbedaannya (serama,kapan dan kate)

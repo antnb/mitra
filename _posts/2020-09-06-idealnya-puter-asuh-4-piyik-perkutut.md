@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 14:17:16
-blogger_orig_url: "http://localhost/mitra/idealnya-puter-asuh-4-piyik-perkutut.html"
+blogger_orig_url: "http://www.mitrausahatani.com/idealnya-puter-asuh-4-piyik-perkutut.html"
 ---
 
 _Apakah suara perkutut Anda ngempos seperti tali bass gitar yang kendor? Atau

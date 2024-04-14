@@ -9,7 +9,7 @@ tags:
 - Pisang
 
 modification_time: 2021-01-11 08:59:29
-blogger_orig_url: "http://localhost/mitra/tabulmpot-saat-pisang-dikungkung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tabulmpot-saat-pisang-dikungkung.html"
 ---
 
 Di kediaman sang jenderal tabulampot pisang terbilang istimewa. Lazimnya Musa
@@ -26,8 +26,8 @@ peristirahatan khas Gorontalo.
 
 ## Langsung cabut
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_pisang1_499x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_pisang1_499x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_pisang1_499x768.jpg)Tabulampot pisang
 menggunakan pot beton setebal 5 cm, tinggi 50 cm, dan diameter 60 cm. Media
 berupa campuran kerikil dan pasir setebal 20 cm di dasar pot. Disusul gabungan

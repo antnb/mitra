@@ -9,7 +9,7 @@ tags:
 - jagung
 
 modification_time: 2022-09-21 06:29:12
-blogger_orig_url: "http://localhost/mitra/bisnis-manis-jagung-kalengan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bisnis-manis-jagung-kalengan.html"
 ---
 
 Satu per satu tongkol jagung itu berbaris di atas conveyer mesin packing
@@ -17,7 +17,7 @@ Jagung Kaleng. Setelah masuk ke dalam mesin, ratusan tongkol itu dipipil,
 dibersihkan, dan dipisahkan secara otomatis. Tak lama kemudian, 250 g pipilan
 jagung dicemplungkan ke dalam kaleng setinggi 10 cm berisi cairan pengawet.
 Keluar dari mesin, tangan-tangan terampil siap melabeli kaleng [jagung
-manis](http://127.0.0.1/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html)
+manis](https://www.mitrausahatani.com/tiga-jagung-manis-unggul-jagung-bonanza.html)
 itu. Setelah dilabel, ribuan jagung manis kaleng itu dimasukkan ke dalam dus
 masing-masing berisi 20 kaleng. Jagung manis dalam kaleng pun siap
 didistribusikan ke pasar-pasar swalayan di Thailand dan diekspor ke luar
@@ -84,7 +84,7 @@ diekspor ke Malaysia. Dampaknya para pekebun meluaskan areal penanaman. Hal
 itu tercermin dari besarnya permintaan benih jagung manis yang terus
 meningkat. Di negeri kaya bangunan pagoda itu, "Kebutuhan benih jagung manis
 meningkat hingga 80 ton per tahun," tutur Afrizal. Pekebun
-[jagung](http://127.0.0.1/mitra/topik/jagung) berambut putih itu tersebar di
+[jagung](https://www.mitrausahatani.com/topik/jagung) berambut putih itu tersebar di
 Pathumtani, Chiangmai, dan Chiangrai. Menurut Afrizal market share
 perusahaannya di Thailand mencapai 25 sampai 30% untuk benih jagung manis.
 Pasalnya, para pekebun di Malaysia juga menginginkan benih unggul jagung manis
@@ -110,8 +110,8 @@ total jenderal produksi dari mesin sederhana itu bisa mencapai 1.600 jagung
 kaleng. Itu berarti membutuhkan 1,3 ton tongkol segar per hari atau setara 400
 kg pipilan jagung manis per hari. [caption id="attachment_13999"
 align="aligncenter" width="300"][![perluasan areal penanaman jagung manis
-kaleng](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-jagung-
-manis-300x165.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/09/kebun-
+kaleng](http://localhost/mitra/wp-content/uploads/2021/09/kebun-jagung-
+manis-300x165.jpg)](http://localhost/mitra/wp-content/uploads/2021/09/kebun-
 jagung-manis.jpg) Jagung manis butuh perluasan areal penanaman[/caption]
 Afrizal memprediksi, lambat tapi pasti konsumsi jagung kalengan akan merebak
 di Indonesia. Buktinya, grafik penjualan fresh com sedikit demi sedikit
@@ -123,7 +123,7 @@ US$ 1,5-juta saat ini, atau 3 kali daripada tahun sebelumnya.
 ## Butuh Jagung Varietas khusus
 
 Pasar tradisional jagung kalengan yang terbentang harus diimbangi dengan
-[areal penanaman](http://127.0.0.1/mitra/budidaya-jagung-tanah-pasir-
+[areal penanaman](https://www.mitrausahatani.com/budidaya-jagung-tanah-pasir-
 sprinkler.html).Maklum, areal penanaman jagung manis masih terbatas dan
 tersebar di beberapa sentra seperti Garut, Sukabumi, dan Solo. Apalagi tidak
 semua jenis jagung manis dapat diawetkan dalam bentuk jagung kaleng. Jagung

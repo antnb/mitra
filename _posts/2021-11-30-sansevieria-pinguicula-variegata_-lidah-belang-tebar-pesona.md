@@ -9,7 +9,7 @@ tags:
 - sansevieria
 
 modification_time: 2022-09-09 12:15:50
-blogger_orig_url: "http://localhost/mitra/sansevieria-pinguicula-variegata-lidah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sansevieria-pinguicula-variegata-lidah.html"
 ---
 
 Ukuran sansevieria pinguicula variegata hanya seibu jari, tapi dialah anugerah
@@ -28,7 +28,7 @@ yang tebal sepanjang 70 cm serta berpola Sansevieria Pinguicula Varigata
 membuat Jessie jatuh cinta pada pandangan pertama. "Di tanahair Jenis mafinga
 variegata masih langka," tutur wanita paruh baya itu. Demi mafinga variegata,
 ia rela merogoh kocek setara dua buah motor
-[bebek](http://127.0.0.1/mitra/topik/bebek "bebek") baru.
+[bebek](https://www.mitrausahatani.com/topik/bebek "bebek") baru.
 
 ## Sansevieria/Dracaena pinguicula
 
@@ -73,8 +73,8 @@ variegata, kian tinggi pula apresiasi para pencintanya. Sansevieria tom silver
 variegata koleksi Adelia, misalnya, pernah ditawar Rp25-juta. "Saya tidak jual
 karena menyukainya. Sosoknya bagus dan variegatanya hampir menutupi seluruh
 daun,” tuturnya. Mafhum, memiliki Dracaena pinguicula variegata langka dan
-cantik memang impian para kolektor. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/tanaman1-525x1024.jpg)](http://127.0.0.1/mitra/wp-
+cantik memang impian para kolektor. [![](http://localhost/mitra/wp-
+content/uploads/2021/11/tanaman1-525x1024.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/tanaman1.jpg)
 
 ## Sansevieria pinguicula berdaun Putih

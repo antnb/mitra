@@ -11,7 +11,7 @@ tags:
 - pupuk
 
 modification_time: 2020-11-02 06:53:39
-blogger_orig_url: "http://localhost/mitra/berburu-guano-di-sarang-kelelawar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/berburu-guano-di-sarang-kelelawar.html"
 ---
 
 Hal itu bukan hal baru bagi para Batman di Gunungkidul. Mengunjungi gua kapur
@@ -36,8 +36,8 @@ milik masyarakat. Namun demikian guano tak melulu berasal dari kotoran
 kelelawar. Beberapa jenis hewan lain, seperti burung laut pemakan ikan,
 pelikan, dan anjing laut berpotensi hasilkan guano. [caption
 id="attachment_20658" align="aligncenter"
-width="1483"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pupuk-
-Guano.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pupuk-Guano.jpg)
+width="1483"][![](http://localhost/mitra/wp-content/uploads/2020/11/pupuk-
+Guano.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/pupuk-Guano.jpg)
 kotoran kelelawar[/caption]
 
 ## Gua guano
@@ -63,8 +63,8 @@ ratusan tahun silam itu berhawa lembap. Tetesan air tak jarang jatuh menimpa
 kepala bila berkunjung ke dalamnya. Bau pesing kalong langsung menyumbat
 hidung. Tak heran, sebab ribuan kelelawar berumah di sana, bergelantungan di
 atap dinding di antara stalaktit yang meneteskan air.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Guano.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/Guano.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Guano.jpg)
 
 ### Turun gunung

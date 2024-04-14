@@ -11,7 +11,7 @@ tags:
 - timun laut
 
 modification_time: 2020-11-23 13:51:35
-blogger_orig_url: "http://localhost/mitra/teripang-berhasil-dibudidayakan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teripang-berhasil-dibudidayakan.html"
 ---
 
 "Aduh, sulitnya mencari teripang," keluh Antonius K Sembiring pelaku budidaya
@@ -33,7 +33,7 @@ mempunyai daya aphrodisiac. Dari hasil analisis daging teripang mengandung 48%
 protein, 2% lemak, 17% kadar air, 21% mineral, dan 7% abu. Lantaran rendah
 kolesterol, menu teripang direkomendasikan baik untuk penderita tekanan darah
 tinggi. [caption id="attachment_18569" align="aligncenter"
-width="1024"]![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/indukan-
+width="1024"]![](http://localhost/mitra/wp-content/uploads/2020/11/indukan-
 teripang-1024x576.jpg) Bibit 30 g siap dibesarkan[/caption]
 
 ## Teripang termasuk Dalam kategori hewan langka
@@ -105,7 +105,7 @@ seleksi bobot untuk mengurangi populasi. Benih yang sudah berukuran 10 g
 dipindah ke bak fiber lain. Penggelondongan selama 6 sampai 8 bulan benih
 mencapai bobot 30 g. Tingkat kelulusan hidup kecil, sekitar 200 ekor/bak.
 Benih itu siap dibesarkan di keramba. [caption id="attachment_18568"
-align="aligncenter" width="1024"]![](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1024"]![](http://localhost/mitra/wp-
 content/uploads/2020/11/benih-teripang-1024x576.jpg) Pembesaran benih teripang
 dilakukan di keramba tancap[/caption]
 

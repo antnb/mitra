@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-28 07:22:59
-blogger_orig_url: "http://localhost/mitra/ukir-nama-anda-di-tubuh-lou.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ukir-nama-anda-di-tubuh-lou.html"
 ---
 
 _Inginkah nama Anda terukir di tubuh lou han? Itu mungkin saja terjadi, tapi
@@ -18,7 +18,7 @@ lalu. Sosoknya terus disempurnakan hingga motif menyerupai huruf Mandarin,
 jidat nonong, warna cerah dengan taburan kristal atau mutiara, jika
 persilangan terus dilakukan, pasti keinginan Anda terwujud._ Hal seperti itu
 dilakukan Meng Aquarium, kelompok Terence, pemasar [lou han di
-Malaysia](http://127.0.0.1/mitra/popularitas-ikan-louhan-di-indonesia.html).
+Malaysia](https://www.mitrausahatani.com/popularitas-ikan-louhan-di-indonesia.html).
 Ketika motif flower street kurang jelas, Meng lalu menyilang ulang. Hasilnya
 quantum grace II menampakkan motif huruf Mandarin lebih baik. Penyilangan
 berlanjut agar warna tubuh lebih indah dan variatif. Jadilah leopard III atau
@@ -40,7 +40,7 @@ peternak. Semua itu bergantung pada induk yang digunakan. Di lain pihak lou
 han sangat beragam, baik sosok, ukuran jidat, maupun warna. Lou han berjidat
 besar hanya diproduksi Mermaid Explorer. Sementara kelompok Terence
 memproduksi lou han berwarna kontras. Ini menunjukkan kedua distributor
-terbesar [di Malasyia](http://127.0.0.1/mitra/ciri-lou-han-berkualitas-
+terbesar [di Malasyia](https://www.mitrausahatani.com/ciri-lou-han-berkualitas-
 standar.html) itu menggunakan induk berbeda. Memang, seperti dugaan hobiis,
 banyak siklid yang dijadikan induk silangan untuk menciptakan lou han. Namun,
 mereka tak bisa menentukan jenis tertentu hingga kemunculan lou han di antara

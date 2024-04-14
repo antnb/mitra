@@ -18,7 +18,7 @@ tags:
 - Tumbuhan berpembuluh
 
 modification_time: 2022-11-22 05:54:56
-blogger_orig_url: "http://localhost/mitra/anting-putri-tanaman-favorit-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anting-putri-tanaman-favorit-di.html"
 ---
 
 Bonsai Anting Putri, juga dikenal sebagai "Bonsai Air Mancur Awet Muda",
@@ -38,7 +38,7 @@ atau taman mana pun. Pohon itu mudah dirawat dan merupakan tambahan yang bagus
 untuk koleksi apa pun. Tanaman anting putri adalah salah satu jenis tumbuhan
 yang sangat populer di Indonesia. Tanaman ini memiliki bunga yang indah dan
 unik, sehingga sangat cocok untuk dijadikan sebagai [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"). Tanaman anting
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"). Tanaman anting
 putri juga termasuk dalam kelompok tanaman yang mudah untuk ditanam dan
 dipelihara. Oleh karena itu, tanaman ini sangat cocok untuk ditanam di rumah
 atau di taman. Bonsai anting putri bakalan menjadi bonsai paling favorit di
@@ -64,8 +64,8 @@ terbaik di dunia dalam membentuk anting putri. Di Indonesia sebaliknya, perdu
 harum itu masih jarang dimanfaatkan sebagai bonsai. Bentuk yang kurang bagus,
 terutama di Jakarta dan Surabaya. Jenis itu belum pernah masuk deretan
 nominasi terbaik. Yang lebih maju, bonsai bersosok kecil 20 sampai 30 cm,
-harganya juga rendah, kurang dari Rp500.000. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Anting-putri-300x169.jpg)](http://127.0.0.1/mitra/wp-
+harganya juga rendah, kurang dari Rp500.000. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Anting-putri-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Anting-putri.jpg)
 
 ## Tanaman asli Dari Asia Tenggara
@@ -126,8 +126,8 @@ proporsional cabang dan ranting atas harus sering dipangkas. Pemangkasan
 Bonsai anting putri juga mampu merangsang terbentuknya ranting dan memperkecil
 ukuran daun. Sedangkan cabang bawah dibiarkan tumbuh liar agar cepat besar.
 Tindakan itu mutlak untuk membentuk bonsai gaya tropis yang bertajuk panjang
-dan rimbun. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/bonsai-300x169.jpg)](http://127.0.0.1/mitra/wp-
+dan rimbun. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/bonsai-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/bonsai.jpg)
 
 ## Shui mei Terbilang Rawan Air

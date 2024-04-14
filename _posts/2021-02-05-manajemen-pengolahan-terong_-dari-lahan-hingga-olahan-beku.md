@@ -11,7 +11,7 @@ tags:
 - terung jepang
 
 modification_time: 2022-09-19 13:36:22
-blogger_orig_url: "http://localhost/mitra/terung-jepang-dari-lahan-hingga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/terung-jepang-dari-lahan-hingga.html"
 ---
 
 Terung yang terkirim lewat pukul 14.00 harus disegarkan kembali dengan
@@ -54,9 +54,9 @@ tergantung bentuk potongan.
 
 ## Rahasia dalam pemotongan
 
-[![kebun terong jepang](http://127.0.0.1/mitra/wp-
+[![kebun terong jepang](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_terong-
-jepang_1024x724.jpg)](http://127.0.0.1/mitra/wp-
+jepang_1024x724.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_terong-jepang_1024x724.jpg)Terung dipotong
 dengan aturan ketat. Ada empat bentuk potongan, walau tidak semuanya diminta
 buyer, stick, maabo, rangiri, dan coin. Stick yang paling banyak diminta buyer

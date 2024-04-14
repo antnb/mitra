@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-20 11:21:06
-blogger_orig_url: "http://localhost/mitra/jangan-salah-pilih-ikan-cupang-aduan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jangan-salah-pilih-ikan-cupang-aduan.html"
 ---
 
 Anda mengenal dengan baik jenis ikan cupang aduan yang andal untuk diadu?
@@ -18,7 +18,7 @@ pasti sosoknya. Tidak salah, sebab para pedagang itu sendiri kadang asal
 sebut. Memang, satu sama lain jenis cupang tidak ada perbedaan mencolok baik
 ukuran maupun warna ikan cupang. Inilah hobi yang disenangi bocah kecil hingga
 kakek tua renta. Adu Bettas fish melanda kota-kota besar. Beragam jenis Bettas
-fish pun tersedia di penjual-penjual [ikan hias](http://127.0.0.1/mitra/ikan-
+fish pun tersedia di penjual-penjual [ikan hias](https://www.mitrausahatani.com/ikan-
 hias), mulai dari impor hingga tangkaran lokal. Kalau dihitung jumlahnya
 mencapai belasan jenis seperti Ikan cupang merah, cupang bagan, Cupang
 singapore dll.

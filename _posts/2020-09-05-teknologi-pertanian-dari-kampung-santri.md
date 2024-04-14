@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-05 08:16:36
-blogger_orig_url: "http://localhost/mitra/teknologi-pertanian-dari-kampung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknologi-pertanian-dari-kampung.html"
 ---
 
 _Suara gemuruh dari sebuah shaker memecah keheningan ruangan bernuansa putih
@@ -30,7 +30,7 @@ pasar besar karena ada larangan impor kentang, termasuk bibitnva,” nanar
 nimninan nesantren Ir. H. Sukses memproduksi dan memasarkan bibit kentang, DTM
 merambah komoditas potensial lain. Misal pisang abaca yang sempat ngetren dan
 pisang buah seperti raja sereh, raja bulu, mas, dan tanduk. Ada juga produksi
-bibit [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias")
+bibit [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias")
 seperti krisan dan plumbago. Namun, yang jadi andalan saat ini adalah bibit
 jati unggul. “Pesanannya sudah lebih banyak dari kemampuan,” tutur Ir.
 Nursyamsu Mahyuddin, direktur utama DTM. Untuk 2002 sudah masuk pesanan 60.000
@@ -70,7 +70,7 @@ lantaran pasar masih terbuka. Susu dijual eceran dengan pelanggan utama
 penghuni perumahan di sekitar Leuwiliang dan Bogor. Cara berjualan itu lebih
 disukai karena harga jual lebih tinggi. “Lagipula bisa memberi kehidupan bagi
 loper,” papar Tamsur. Setiap menjelang Idul Adha
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") yang dikelola
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") yang dikelola
 koperasi pesantren itu mengusahakan 250 ekor. “Pelanggannya biasanya dinas
 atau kantor-kantor pemerintahan,” tutur Sururi, penanggung jawab peternakan.
 Sejak 2-3 lalu juga diusahakan kambing perah. Bibit diperoleh dari pasar

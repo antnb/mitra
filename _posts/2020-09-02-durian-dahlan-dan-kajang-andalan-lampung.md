@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-02 08:25:20
-blogger_orig_url: "http://localhost/mitra/durian-dahlan-dan-kajang-andalan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-dahlan-dan-kajang-andalan.html"
 ---
 
 _Ingin menikmati durian enak lebih awal? Bertandanglah ke Lampung pada akhir

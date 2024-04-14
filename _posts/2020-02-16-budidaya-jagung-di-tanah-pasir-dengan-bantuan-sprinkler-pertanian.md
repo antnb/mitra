@@ -10,7 +10,7 @@ tags:
 - sprinkler
 
 modification_time: 2022-09-14 11:34:42
-blogger_orig_url: "http://localhost/mitra/budidaya-jagung-tanah-pasir-sprinkler.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-jagung-tanah-pasir-sprinkler.html"
 ---
 
 _Air dari Sprinkler Pertanian itu jatuh membasahi daun-daun jagung yang hijau
@@ -102,7 +102,7 @@ menerapkan sprinkler, dari 47.619 tanaman per ha dipanen 16.666 tongkol.
 
 Selain itu, mutu jagung juga membaik. Contoh panjang tongkol [dan persentase
 tongkol dengan biji penuh meningkat 30%, sehingga sangat memenuhi syarat
-sebagai jagung](http://127.0.0.1/mitra/produk-olahan-jagung-manis.html) bakar
+sebagai jagung](https://www.mitrausahatani.com/produk-olahan-jagung-manis.html) bakar
 (>16 cm). Peningkatan kuantitas dan kualitas itu karena pemberian air yang
 teratur. Empat tahun lalu, ayah 3 anak itu kerap menuai tongkol yang ompong
 tanpa biji. Kalaupun berbiji, biasanya tidak merata. Harap mafhum, saat itu
@@ -118,7 +118,7 @@ sana. Maklum tanah di sekitar Pekanbaru umumnya bertekstur pasir berlempung
 dengan jenis tanah podsolik merah kuning atau kerap disebut kultisol. Jenis
 tanah itu cenderung miskin hara. Sedangkan lapisan atas tanah berupa pasir
 dipastikan tak mampu menyimpan air. Teknologi serupa pernah
-[mitrausahatani](http://127.0.0.1/mitra) saksikan di Kabupaten Pakchong,
+[mitrausahatani](https://www.mitrausahatani.com) saksikan di Kabupaten Pakchong,
 Provinsi Nakhon Ratchasima, 155 km tenggara Bangkok, Thailand. Di wilayah
 bercurah hujan 1.200 mm/tahun itu pekebun memanfaatkan Sprinkler Pertanian
 dalam budidaya jagung. Sansern Jampatong PhD, periset jagung di Suwan
@@ -132,7 +132,7 @@ secara bergiliran dalam 10 petak yang terdiri atas masing-masing seluas 1.000
 m2. Interval penanaman setiap pekan dengan populasi 4.762 tanaman per petak.
 Jarak tanam ideal budidaya jagung ialah 30 cm x 70 cm, sebuah lubang tanam
 hanya diisi satu benih. "Karena [jenis tanah berpasir
-dan](http://127.0.0.1/mitra/kelebihan-kelengkeng-itoh-edaw.html) tidak subur,
+dan](https://www.mitrausahatani.com/kelebihan-kelengkeng-itoh-edaw.html) tidak subur,
 jarak tanam ini yang paling sesuai ditinjau dari persentase pengisian biji dan
 ukuran tongkol," kata Syifried. Mahalnya biaya tenaga kerja di Riau-Rp .
 25.000 per hari kerja-juga mendasari diterapkannya sprinkler di kebun
@@ -142,7 +142,7 @@ tetes pada jagung dari Dinas Pertanian Provinsi Riau. Irigasi tetes sangat
 mahal untuk jagung, sehingga diperlukan alternatif sistem penyiraman yang
 lebih murah," katanya.
 
-  * [Tiga jagung manis unggulan: asian honey, ahsti super, dan bonanza 9](http://127.0.0.1/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html)
+  * [Tiga jagung manis unggulan: asian honey, ahsti super, dan bonanza 9](https://www.mitrausahatani.com/tiga-jagung-manis-unggul-jagung-bonanza.html)
 
 Meski mengadopsi teknologi canggih pada komoditas jagung, Syifried masih mampu
 meraup laba . Budidaya jagung dengan sprinkler dimulai 2 tahun lalu. Ide
@@ -150,7 +150,7 @@ awalnya dari pengalamannya mengembangkan melon beririgasi tetes. Kualitas
 kerabat mentimun itu lebih baik. Misalnya terasa lebih manis dan renyah.
 Lantaran dinilai mahal, ia pun menanam sprinkler di kebun jagung. Hasilnya?
 Amat memuaskan. ![lahan pasir budidaya jagung sprinkler
-pertanian](http://127.0.0.1/mitra/wp-
+pertanian](http://localhost/mitra/wp-
 content/uploads/2020/02/jagung2-300x166.jpg)
 
 ## Keuntungan Penggunaan Sprinkler diperkebunan
@@ -164,12 +164,12 @@ fase-fase tertentu, jagung amat membutuhkan air. Misalnya, saat pertumbuhan
 ## Menjaga Sprinkler Agar Tetap awet
 
 Ini salah satu cara memperpanjang umur [sprinkler dan Sprayer Tanaman
-Pertanian](http://127.0.0.1/mitra/sprayer-tanaman-pertanian-
+Pertanian](https://www.mitrausahatani.com/sprayer-tanaman-pertanian-
 bersertifikat.html). Pasanglah kassa nyamuk atau ayakan pasir di bagian ujung
 pipa isap sebelum sprinkler dijalankan. Kassa berfungsi sebagai filter. Dengan
 begitu sampah, kerikil, atau lumpur tak akan lolos mendekati sprinkler. Sampah
 biasanya menyumbat lubang nozel. Sprinkler Pertanian semakin dibutuhkan oleh
-praktisiagribisnis. [Perkebunan](http://127.0.0.1/mitra/perkebunan
+praktisiagribisnis. [Perkebunan](https://www.mitrausahatani.com/perkebunan
 "Perkebunan") jahe di VU z Cilacap menggunakan sprinkler untuk penyiraman.
 Karakteristiknya, daya jangkauan air mencapai 40 m. Nelson alternatif lain
 bagi pekebun hortikultura. Agrowisata Batuwah di Samarinda lebih memilih
@@ -181,7 +181,7 @@ kelapa sawit
 
 Harga anggota famili Gramineae itu “tak seberapa”dibanding dengan nilai
 teknologi mutakhir itu. Faktanya, pekebun yang mengadopsi [teknologi
-sprinkler](http://127.0.0.1/mitra/topik/sprinkler) pada pertanian jagung masih
+sprinkler](https://www.mitrausahatani.com/topik/sprinkler) pada pertanian jagung masih
 meraup laba. Itu dibuktikan oleh Muhammad Syifried Wahab, pekebun yang bertani
 jagung di Desa Pandau Kecamatan Siakhulu, Kabupaten Kampar. Sejak 2002 ia
 mengembangkan jagung manis populasi 47.619 tanaman per ha dengan sprinkler.
@@ -200,20 +200,20 @@ Tanaman Jagung
 Dengan sprinkler, rata-rata tanaman yang dapat berproduksi mencapai 80% atau
 38.095 batang. Dari jumlah itu yang menghasilkan tongkol penuh mencapai 80%
 atau 30.476 tanaman. Menurut Syifried produksi turun 20% saat terjadi serangan
-hama. [Hama](http://127.0.0.1/mitra/topik/hama) penting yang mengintai jagung
+hama. [Hama](https://www.mitrausahatani.com/topik/hama) penting yang mengintai jagung
 antara lain [_Heliothis
 armigera_](https://cesaraustralia.com/pestnotes/caterpillars/corn-earworm/).
 Salah satu cara mengatasinya dengan menyemprotkan Decis berdosis 0,5 liter per
 ha. Insektisida yang sama juga dapat dimanfaatkan untuk mengatasi hama
 belalang. [Gulma juga mempengaruhi
-produksi](http://127.0.0.1/mitra/biopestisida-pembasmi-hama-wereng.html).
+produksi](https://www.mitrausahatani.com/biopestisida-pembasmi-hama-wereng.html).
 Itulah sebabnya keberadaannya mesti dicegah. Begitu lubang tanam ditutup
 semprotkan herbisida Sencor 70 WP dengan dosis 1 kg per ha. _Zea mays_ itu
 rata-rata hanya menghasilkan sebuah tongkol. Pada tingkat harga Rp 700 per
 tongkol-harga yang berlaku di Pekanbaru saat ini pekebun meraih omzet Rp
 21.333.312. Setelah dikurangi biaya produksi, laba bersih yang diraup pekebun
 Rp 8.381.312 per ha. Mari kita bandingkan dengan [budidaya
-jagung](http://127.0.0.1/mitra/budidaya-jagung-tanah-pasir-sprinkler.html)
+jagung](https://www.mitrausahatani.com/budidaya-jagung-tanah-pasir-sprinkler.html)
 tanpa sprinkler. Kerabat gandum yang mampu berproduksi cuma 70% dari total
 populasi atau 33.333 tanaman. Sedangkan tongkol penuh yang dihasilkan hanya
 50% alias 16.666 tanaman. Dengan harga jual Rp 700 per tongkol, pekebun tanpa

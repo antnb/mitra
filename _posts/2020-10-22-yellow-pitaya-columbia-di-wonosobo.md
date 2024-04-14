@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-22 05:57:32
-blogger_orig_url: "http://localhost/mitra/yellow-pitaya-columbia-di-wonosobo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/yellow-pitaya-columbia-di-wonosobo.html"
 ---
 
 Walau sama-sama menyandang gelar pitaya, sosok kaktus ini berbeda dengan red
@@ -33,7 +33,7 @@ saya biarkan membusuk sendiri,” ucap Jack yang lebih senang bertanam organik.
 Menurutnya, kandungan unsur hara bisa dipertahankan lengkap. Setek tumbuh
 pesat menjadi tanaman dewasa. Akar udara “mencengkeram” tembok sehingga batang
 tidak terkulai. Batang tumbuh subur meliuk-liuk ’’menjelajah” dinding. Saat
-[Mitra Usaha Tani](http://127.0.0.1/mitra) berkunjung, buah berwarna kuning
+[Mitra Usaha Tani](https://www.mitrausahatani.com) berkunjung, buah berwarna kuning
 menempel di ruas batang. Permukaan buah diselingi benjolan duri halus. Dengan
 sekali putar, Jack “memanen” 3 buah pitaya.  ![yellow
 pitayya](https://1.bp.blogspot.com/-9Ihf--

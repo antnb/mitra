@@ -10,7 +10,7 @@ tags:
 - susu
 
 modification_time: 2020-02-03 06:18:47
-blogger_orig_url: "http://localhost/mitra/buah-gitaan-komoditas-dari-borneo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-gitaan-komoditas-dari-borneo.html"
 ---
 
 Bukan tanpa alasan jika Reza menjuluki buah gitaan sebagai buah dari surga.
@@ -48,7 +48,7 @@ buah-surga/> Di hutan-hutan Kalimantan buah gitaan tumbuh merambat ke batang
 pohon-pohon besar. K Heyne, dalam buku Tanaman Berguna Indonesia menyebutkan,
 gitaan termasuk liana yang berkayu. Batang cokelat tua, seukuran lengan orang
 dewasa dan mengeluarkan getah. Konon sebelum 1923, getah gitaan dipakai
-sebagai bahan campuran getah perca. ![](http://127.0.0.1/mitra/wp-
+sebagai bahan campuran getah perca. ![](http://localhost/mitra/wp-
 content/uploads/2020/02/gitaan-1024x633.jpg)
 
 ## Varietas Buah Yang Beragam

@@ -3,19 +3,19 @@ layout: post
 title: 'Manfaat Sirih Merah Sebagai Tanaman Obat'
 categories: artikel|Herbal|kesehatan
 date: 2020-08-13 12:02:12
-author: Anton N
+author: Yudianto
 image: media/news_81540_1552967993_1200x800.jpg
 tags:
 - 
 
 modification_time: 2020-08-13 12:02:12
-blogger_orig_url: "http://localhost/mitra/manfaat-sirih-merah-sebagai-tanaman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-sirih-merah-sebagai-tanaman.html"
 ---
 
 _Pada 1990-an sirih merah difungsikan sebagai tanaman hias oleh para hobiis.
 Maklum penampilannya memang aduhai. Permukaan daun merah keperakan dan
 mengkilap saat cahaya menerpa. Baru 2 tahun terakhir Piper crocatum itu ramai
-dimanfaatkan sebagai[tanaman obat](http://127.0.0.1/mitra/kesehatan "tanaman
+dimanfaatkan sebagai[tanaman obat](https://www.mitrausahatani.com/kesehatan "tanaman
 obat")._ Secara empiris kerabat lada itu tokcer mengatasi _diabetes mellitus_
 , kanker payudara, maag akut, batu ginjal, ambeien, serangan i jantung, dan
 stroke. Menurut Bambang Sudewo, herbalis di Yogyakarta, sirih merah juga dapat

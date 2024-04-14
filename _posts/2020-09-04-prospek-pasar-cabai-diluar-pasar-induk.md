@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-04 08:06:13
-blogger_orig_url: "http://localhost/mitra/prospek-pasar-cabai-diluar-pasar-induk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-pasar-cabai-diluar-pasar-induk.html"
 ---
 
 _Tiga tahun lalu berkebun cabai terasa getir bagi Elka Purwantara. Ia menanam
@@ -39,7 +39,7 @@ Samarinda. Oleh karena itu masyarakat setempat mengandalkan pasokan dari luar
 pulau. Namun, kadang-kadang pekebun Sulawesi Selatan juga turut mengisi pasar
 2 kota besar di Kalimantan Timur itu. “Sulit diprediksi kapan mereka panen,”
 ujar anak ke-3 dari 6 bersaudara itu. Ketika [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) ke sana, harga sayur-
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) ke sana, harga sayur-
 mayur termasuk cabai agak turun lantaran kapal dari Makassar merapat. Angkutan
 laut itu membawa hasil panen pekebun Sulawesi Selatan. Selain cabai Hwe juga
 memasok tomat, melon, dan semangka. Dengan begitu kerugian dapat dihindari
@@ -96,7 +96,7 @@ Mustari Anies juga menciptakan pasar alternatif dengan menepungkan cabai. Dari
 usaha itu direktur utama PT Ganesha Abaditama itu meraup omzet minimal Rp
 20-juta per bulan dari penjualan 3,5 ton tepung cabai, (baca: Tepung Cabai
 Tambang Rupiah Mustari). Hal sama ditempuh Sri Daryati dari PT Temu Kencono.
-Produsen [tanaman obat](http://127.0.0.1/mitra/kesehatan "tanaman obat") itu
+Produsen [tanaman obat](https://www.mitrausahatani.com/kesehatan "tanaman obat") itu
 memasarkan cabai sebagai bumbu masak instan. Sepekan ia mengeringkan 1 kuintal
 untuk ditepungkan. Setelah dicampur dengan bahan lain, bumbu dikemas 7 g yang
 dijual Rp 900. Tujuh bumbu instan ia ciptakan seperti rendang, rawon, opor,

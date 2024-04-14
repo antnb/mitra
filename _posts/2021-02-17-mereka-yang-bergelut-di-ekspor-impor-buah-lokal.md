@@ -14,7 +14,7 @@ tags:
 - volume ekspor
 
 modification_time: 2021-02-17 08:23:09
-blogger_orig_url: "http://localhost/mitra/mereka-yang-bergelut-di-ekspor-impor.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mereka-yang-bergelut-di-ekspor-impor.html"
 ---
 
 Tumpukan 350 kardus mangga masih teronggok di rung karantina Bandara Sukarno-
@@ -47,8 +47,8 @@ volume kecil.
 
 ## Kalah bersaing
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/duren6.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/02/duren6.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/duren6.jpg)Sayangnya, pada periode 1998 sampai 2000
 volume ekspor turun drastis. Penyebabnya, kualitas mangga buruk akibat kemarau
 panjang. Buah berpenampilan mulus hanya tahan 2 hari dipajang. Wajar mitra di

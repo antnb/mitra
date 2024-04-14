@@ -15,7 +15,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-28 15:18:51
-blogger_orig_url: "http://localhost/mitra/kunci-sukses-melebatkan-produksi-buah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kunci-sukses-melebatkan-produksi-buah.html"
 ---
 
 Kebun percobaan Balai Penelitian Jeruk dan Tanaman Subtropika di Batu, Jawa
@@ -56,8 +56,8 @@ untuk memiliki tabulampot itu. Oleh karena itu, petani tersebut menawarkan
 program pembelian tabulampot jeruknya agar kerabatnya pun bisa menikmati jeruk
 lebat yang ditanamnya. [caption id="attachment_15995" align="aligncenter"
 width="437"][![Tabulampot jeruk keprok 55 sarat
-buah](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jeruk-
-keprok_437x480.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jeruk-
+buah](http://localhost/mitra/wp-content/uploads/2019/10/jeruk-
+keprok_437x480.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/jeruk-
 keprok_437x480.jpg) Tabulampot jeruk batu 55 sarat buah[/caption]
 
 ## Rawat intensif
@@ -92,13 +92,13 @@ untuk menangkal serangan cendawan Phytophthora sp. Selain itu, ia juga akan
 membuang cabang-cabang kecil dan tunas air agar sinar matahari leluasa
 menembus tajuk tanaman. Dengan begitu, proses fotosintesis akan berjalan
 dengan lancar. Selain itu, Sobir PhD dari Pusat Kajian Hortikultura Tropika
-(PKHT), Institut [Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian")
+(PKHT), Institut [Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian")
 Bogor menyarankan untuk melakukan pemangkasan tanaman. Dengan begitu,
 perakaran akan seimbang dengan tajuk tanaman dan akan memacu pembungaan.
 [caption id="attachment_15996" align="aligncenter" width="537"][!["Perlakuan
 stres air dan pemangkasan dapat merangsang pembungaan pada tabulampot jeruk
-keprok" kata Sukadi](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jeruk-
-keprok_537x480.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jeruk-
+keprok" kata Sukadi](http://localhost/mitra/wp-content/uploads/2019/10/jeruk-
+keprok_537x480.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/jeruk-
 keprok_537x480.jpg) "Perlakuan stres air dan pemangkasan dapat merangsang
 pembungaan pada tabulampot jeruk," kata Sukadi[/caption]
 

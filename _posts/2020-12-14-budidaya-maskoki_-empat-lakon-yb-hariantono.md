@@ -14,7 +14,7 @@ tags:
 - ranchu top
 
 modification_time: 2020-12-14 09:36:29
-blogger_orig_url: "http://localhost/mitra/budidaya-maskoki-empat-lakon-yb.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-maskoki-empat-lakon-yb.html"
 ---
 
 Sibuk, itulah kata yang tepat untuk menggambarkan aktivitas Hari panggilan
@@ -41,8 +41,8 @@ dilakukan pejabat bank untuk melobi nasabah dikesampingkan. Acara yang biasa
 berlangsung Sabtu dan Ahad itu diganti dengan melongok farmnya. "Beberapa
 stick golf pemberian kantor, saya biarkan saja di pojok rumah," ujar Hari.
 [caption id="attachment_20649" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/maskoki.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/12/maskoki.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/maskoki.jpg) Hasil tangkaran Hariantono cukup
 berkualitas[/caption]
 
@@ -70,14 +70,14 @@ selalu mengajak para hobiis bergabung untuk saling bertukar pengalaman. Selain
 itu simulasi lomba pun sering digelar di farmnya. Sebut saja yang baru
 dilakukan pertengahan Maret lalu. Menghadapi lomba ranchu top view yang marak
 digelar, beberapa hobiis bersama-sama belajar menilai kualitas dengan standar
-internasional. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/ikan-
-maskoki.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/ikan-
+internasional. [![](http://localhost/mitra/wp-content/uploads/2020/12/ikan-
+maskoki.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/ikan-
 maskoki.jpg)
 
 ## Mulai Coba coba menangkar
 
 ![Di sela kesibukan, YB Hasiantoro sanggup menjalani 4 lakon
-](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_koki_595x768.jpg)Bertahun mengoleksi Carrasius
 auratus, belakangan keinginan menjadi penangkar semakin kuat. "Rasanya ada
 kenikmatan tersendiri jika bisa memijahkan sampai membesarkan ikan. Apalagi

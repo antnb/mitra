@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-25 11:50:10
-blogger_orig_url: "http://localhost/mitra/pachypodium-yang-anti-air.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pachypodium-yang-anti-air.html"
 ---
 
 _Penampilan pachypodium tampak kokoh gara-gara batangnya yang berduri,

@@ -9,13 +9,13 @@ tags:
 - 
 
 modification_time: 2020-10-18 13:38:35
-blogger_orig_url: "http://localhost/mitra/mereka-yang-dimabuk-keindahan-ikan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mereka-yang-dimabuk-keindahan-ikan.html"
 ---
 
 Kalau saja ranchu bisa disulap, "dibuat" setiap hari, mungkin ia tak kesulitan
 mendapatkan ranchu terbaiknya. Maklum, ia pesulap illusionist terkenal di
 Indonesia saat ini. Sayangnya, "Mendapatkan [ranchu
-berkualitas](http://127.0.0.1/mitra/beda-kepala-naga-dan-ranchu-lion.html) tak
+berkualitas](https://www.mitrausahatani.com/beda-kepala-naga-dan-ranchu-lion.html) tak
 semudah bermain illusi," papar Yusuf Tirta, sang maestro sulap tersebut. Dia
 bahkan harus menyambangi satu pameran ke pameran lain di dalam dan luar
 negeri.
@@ -65,11 +65,11 @@ berawal dari putusan yang harus diambilnya saat menentukan jenis ikan untuk
 mengisi kolam di rumah barunya pada awal 1998. Pilihan jatuh pada maskoki
 lantaran ia terkesan lembut, tetapi gagah dan lucu. Bentuk tubuh juga antik
 dengan warna sangat menarik dan sangat beragam. Keistimewaan lain, “Ia satu-
-satunya [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") yang dapat
+satunya [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") yang dapat
 dinikmati keindahannya dari berbagai arah pandangan, atas maupun samping,”
 tegas akuntan lulusan Akademi Trisakti itu.
 
-Meski tergolong baru dalam [dunia ranchu](http://127.0.0.1/mitra/inilah-
+Meski tergolong baru dalam [dunia ranchu](https://www.mitrausahatani.com/inilah-
 perbedaan-fisik-ranchu-cina-dan.html), pesulap spesialis illusi besar itu
 langsung serius menggeluti hobinya. Selain berburu koleksi hingga ke
 mancanegara, ia tak segan belajar dari pengalaman para senior seperti A Kim, A
@@ -93,7 +93,7 @@ berkelas.
 Ada dua buah lagi kolam serupa dengan ukuran lebih kecil terhampar di halaman
 belakang. Di dalamnya belasan ekor ranchu dan puluhan maskoki jenis langka
 asyik berenang. Secara keseluruhan tak kurang dari [150 ekor
-maskoki](http://127.0.0.1/mitra/ranchu-thailand-dan-china-rebut-pasar.html)
+maskoki](https://www.mitrausahatani.com/ranchu-thailand-dan-china-rebut-pasar.html)
 yang dikoleksi. Selain japanese ranchu dan Chinese ranchu, ia juga memiliki
 beragam jenis maskoki. Di antaranya ryukin, mutiara, oranda,
 

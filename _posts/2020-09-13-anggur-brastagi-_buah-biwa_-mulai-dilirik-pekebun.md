@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-13 10:24:47
-blogger_orig_url: "http://localhost/mitra/anggur-brastagi-buah-biwa-mulai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anggur-brastagi-buah-biwa-mulai.html"
 ---
 
 _Pasokan biwa memang terbatas. Di Indonesia ia hanya tumbuh di beberapa

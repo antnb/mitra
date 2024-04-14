@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-18 14:20:01
-blogger_orig_url: "http://localhost/mitra/pakan-itik-irit-dari-limbah-guna.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pakan-itik-irit-dari-limbah-guna.html"
 ---
 
 _H. Hibatullah cukup menggunakan campuran roti bekas, nasi kering, dan dedak
@@ -53,7 +53,7 @@ kering Rp 750, roti serta mie BS masing-masing Rp 600,” rinci lelaki bermur 54
 tahun itu. Itupun harus antri, 2-3 hari sekali. Sementara keong mas masih bisa
 dibeli dari anak-anak yang biasa mengumpulkan dengan harga Rp 200/kg. [caption
 id="attachment_1436" align="aligncenter" width="590"]![Pakan
-bebek](http://127.0.0.1/mitra/wp-content/uploads/2020/08/pakan-bebek-
+bebek](http://localhost/mitra/wp-content/uploads/2020/08/pakan-bebek-
 a_1280x661.jpg) Pakan dari limbah tak mengurangi tingkat produksi[/caption]
 
 ### Tekan Total Biaya Pengeluaran
@@ -68,7 +68,7 @@ mencapai titik impas,” jelasnya. Itu pula yang dilakukan Daniel B. Adriant.
 peternak yang mengolah sendiri bahan bakunya, “Lebih irit biaya pakan tidak
 lebih dari Rp l83/kg. Karenanya, dengan tingkat produksi di atas 30% saya
 sudah bisa untung”. Daniel yang kini memiliki sekitar 15.000 itik di Serang
-mengelola [peternakan](http://127.0.0.1/mitra/peternakan "peternakan") secara
+mengelola [peternakan](https://www.mitrausahatani.com/peternakan "peternakan") secara
 terpadu. Kebutuhan tepung ikan dipasok dari perusahaan penangkapannya, dan
 jagung sebagian besar dari hasil kebun sendiri. “Skala besar tak mungkin
 mengandalkan bahan-bahan pakan dari luar. Bisa bangkrut jika tiba-tiba di

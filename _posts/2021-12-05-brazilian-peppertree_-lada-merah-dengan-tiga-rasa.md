@@ -9,7 +9,7 @@ tags:
 - lada
 
 modification_time: 2021-12-05 08:36:16
-blogger_orig_url: "http://localhost/mitra/brazilian-peppertree-lada-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/brazilian-peppertree-lada-merah.html"
 ---
 
 Jangan bayangkan lada merah muda tumbuh merambat. Pink pepper berupa pohon
@@ -20,8 +20,8 @@ pohon. Pohon-pohon itu berumur 5 tahun dan 2 tahun berdiameter hampir seragam,
 yakni 25 cm. [caption id="attachment_15628" align="aligncenter"
 width="400"][![Tanaman Schinus terebinthifolius tanpa perawatan intensif
 tumbuh subur, memiliki bunga seperti mangga, dan buah bergerombol di ujung
-ranting](http://127.0.0.1/mitra/wp-content/uploads/2021/12/Schinus-
-terebinthifolius-400x225.jpg)](http://127.0.0.1/mitra/wp-
+ranting](http://localhost/mitra/wp-content/uploads/2021/12/Schinus-
+terebinthifolius-400x225.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/Schinus-terebinthifolius.jpg) Tanaman Brazilian
 peppertree tanpa perawatan intensif tumbuh subur, memiliki bunga seperti
 mangga, dan buah bergerombol di ujung ranting[/caption] Meski di belakang
@@ -58,12 +58,12 @@ kehadiran chichita-sebutan pink pepper di Argentina-karena lebih kaya rasa. Di
 Amerika Serikat, pink peppercorn alias lada merah muda juga lazim menjadi
 bumbu masak. [caption id="attachment_15626" align="aligncenter"
 width="400"][![Lada merah muda memakai nama lada karena bercitarasa persis
-merica](http://127.0.0.1/mitra/wp-content/uploads/2021/12/Brazilian-
-peppertree-400x225.jpg)](http://127.0.0.1/mitra/wp-
+merica](http://localhost/mitra/wp-content/uploads/2021/12/Brazilian-
+peppertree-400x225.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/Brazilian-peppertree.jpg) Tanaman Lada merah muda
 memakai nama lada karena bercitarasa persis merica[/caption] Selain sebagai
 bumbu masak, lada merah bubuk juga potensial sebagai [tanaman
-obat](http://127.0.0.1/mitra/kesehatan "tanaman obat"). Beberapa negara lazim
+obat](https://www.mitrausahatani.com/kesehatan "tanaman obat"). Beberapa negara lazim
 menggunakan kerabat gandaria itu sebagai obat tradisional. Di Brasil,
 misalnya, masyarakat biasa menggunakan sebagai obat luka, pernapasan, encok,
 rematik, diare, dan radang sendi. Masyarakat Afrika Selatan memanfaatkan
@@ -85,7 +85,7 @@ tiga bulan. Meski tanpa perawatan intensif, tanaman tumbuh subur. Menurut
 Andria pink pepper berpeluang dikembangkan di Indonesia karena adaptif di
 kawasan tropis. Kerabat kemang itu juga mudah diperbanyak dengan biji,
 cangkok, atau setek. Selama ini pemanfaatannya baru untuk [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"). Jumlah tanaman
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"). Jumlah tanaman
 masih terbatas karena di tanah air belum lazim digunakan sebagai bumbu masak.
 Namun, ahli botani di Bogor, Gregori Garnadi Hambali, mewanti-wanti agar
 berhati-hati pada getah pink pepper. karena dapat menyebabkan gatal di kulit .

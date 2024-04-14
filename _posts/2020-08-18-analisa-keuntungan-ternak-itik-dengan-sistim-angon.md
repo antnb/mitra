@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-18 12:19:35
-blogger_orig_url: "http://localhost/mitra/analisa-keuntungan-ternak-itik-dengan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/analisa-keuntungan-ternak-itik-dengan.html"
 ---
 
 _Memelihara itik tanpa memberi pakan? Itulah yang dilakukan para pengembara
@@ -27,7 +27,7 @@ jerami di tepian pematang yang sebagian membusuk. Di situlah tersimpan bulir-
 bulir padi yang berserakan. Dengan bersiul dan mengacung-acungkan tongkat
 bambu Dadang menggiring 250 ekor itik ke lokasi itu. Tempat lain yang diincar
 penggembala adalah sawah yang baru saja dipanen dengan cara menghantamkan
-batang padi pada papan kayu. [Persawahan](http://127.0.0.1/mitra/pertanian
+batang padi pada papan kayu. [Persawahan](https://www.mitrausahatani.com/pertanian
 "Persawahan") sebagai tempat penggembalaan. Untuk memudahkan pengawasan, Ralim
 memberikan tanda berupa tali kenur kuning pada seluruh itiknya. Tali berumbai
 sepanjang 5 cm itu disematkan di sayap kanan. “Setiap peternak memberikan ciri
@@ -57,7 +57,7 @@ pangan sehari-hari, anak buah Robet memasak sendiri. Empat hari sekali Robet
 pulang ke Pasirbungur, Kecamatan Purwadadi, Subang, untuk mengambil beras dan
 lauk-pauk seperti ikan asin. Sebagai lauk tambahan, “Saya memetik genjer atau
 kangkung yang tumbuh liar di persawahan,” tutur kelahiran Subang, 7 Maret 1962
-itu. Telur ([bebek](http://127.0.0.1/mitra/topik/bebek "bebek")) hanya sekali-
+itu. Telur ([bebek](https://www.mitrausahatani.com/topik/bebek "bebek")) hanya sekali-
 kali mereka nikmati.
 
 ### Survei lokasi angon

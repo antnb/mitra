@@ -12,7 +12,7 @@ tags:
 - suku dinas pertanian
 
 modification_time: 2020-12-10 14:09:36
-blogger_orig_url: "http://localhost/mitra/jahe-merah-ijo-royo-royo-ala-jakarta.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jahe-merah-ijo-royo-royo-ala-jakarta.html"
 ---
 
 Itulah salah satu program suku Dinas Pertanian Jakarta Timur untuk mengubah
@@ -21,7 +21,7 @@ mengikuti instruksi Gubernur DKI, meng-ijo royo-royo-kan Jakarta. Tapi jika
 hanya itu tujuannya, sulit membuat masyarakat ikut berperan," kata Aswin
 Saragih, kepala Suku Dinas Pertanian Jakarta Timur. Yang tak kalah penting
 menurut Aswin program itu harus bisa memberikan tambahan pendapatan. Jahe
-merah dipilih karena komoditas [perkebunan](http://127.0.0.1/mitra/perkebunan
+merah dipilih karena komoditas [perkebunan](https://www.mitrausahatani.com/perkebunan
 "perkebunan") itu mempunyai pangsa pasar luas. Minuman kesehatan yang kian
 berkembang banyak membutuhkan jahe merah. Itu karena kandungan oleoresin,
 pemberi rasa pedas, pada jahe merah cukup tinggi. Dari segi harga, jahe merah
@@ -42,7 +42,7 @@ kembali. Jika digunakan terus-menerus, tanah akan tercemar Pseudomonas
 solanacearum, penyakit layu bakteri yang menjadi momok pekebun jahe. Tak hanya
 itu, di dalam polibag pertanaman jahe terlihat rapi. "Siapa sangka itu (jahe
 merah, red) tanaman perkebunan. Sepintas orang mengiranya [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias")," seloroh Hj Emy
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias")," seloroh Hj Emy
 Sudaringsum, Sp, kepala seksi Pertanian dan Kehutanan Kecamatan Kramatjati,
 Jakarta Timur. Bahkan soal produktivitas kemungkinan tidak kalah dibanding
 yang ditanam di lahan. Musababnya media tanam yang digunakan lebih porous dan
@@ -61,8 +61,8 @@ ditempati polibag-polibag jahe merah. "Bagi saya itung-itung hiburan. Kalau
 soal menyiram, masih bisa disambi sehabis pulang kerja," ujar Masri. Lelaki
 paruh baya yang bekerja sebagai pedagang elektronik itu malah kerap hingga
 tengah malam saking asyik merawat tanaman jahe. [caption id="attachment_20491"
-align="aligncenter" width="1475"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/rimpang.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1475"][![](http://localhost/mitra/wp-
+content/uploads/2020/12/rimpang.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/rimpang.jpg) Lingkungan hijau dengan ditanami
 jahe[/caption]
 
@@ -82,7 +82,7 @@ sama dengan Kramatjati, dikembangkan lidahbuaya, kunyit, temulawak,
 mahkotadewa, dan jahe. Vina Fitriani dan Karjono, wartawan Trubus saat diajak
 berkeliling suku Dinas Pertanian melihat sebuah perumahan di Kelurahan
 Cililitan Kecil, halaman-halamannya penuh dengan [tanaman
-obat](http://127.0.0.1/mitra/kesehatan "tanaman obat"). Bahkan tanaman-tanaman
+obat](https://www.mitrausahatani.com/kesehatan "tanaman obat"). Bahkan tanaman-tanaman
 di dalam polibag itu memenuhi loteng bersanding dengan tanaman-tanaman hias.
 Tidak disangka di tengah perkotaan yang identik dengan akar-akar beton, masih
 ditemukan "hutan kecil" penyejuk pandangan. "Belum dikomersialkan, baru
@@ -102,8 +102,8 @@ kelompoknya di RT IX, Kelurahan Balaikambang. Siapa tahu dari sekadar mengolah
 kuintal. Toh pesanan membeludak. Sri mengolah jahe merah yang dipanen dari
 depan rumah menjadi serbuk jahe untuk minuman instan. Dengan begitu ijo royo-
 royo didapat, untung pun diraih. [caption id="attachment_20492"
-align="aligncenter" width="1447"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/jahe-merah.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1447"][![](http://localhost/mitra/wp-
+content/uploads/2020/12/jahe-merah.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/jahe-merah.jpg) Lingkungan hijau dan rupiah mengalir
 ke kantong Masri[/caption]
 

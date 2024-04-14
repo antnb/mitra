@@ -11,7 +11,7 @@ tags:
 - Pontianak
 
 modification_time: 2022-09-12 17:24:16
-blogger_orig_url: "http://localhost/mitra/pepaya-madu-honolulu-pontianak.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pepaya-madu-honolulu-pontianak.html"
 ---
 
 "Seperti untuk orang barat ya," tutur seorang ibu seraya menunjuk setumpuk
@@ -89,8 +89,8 @@ sedap. Pepaya California lebih asam dan kurang nutrisi.
 ## Berasal Dari Biji
 
 [caption id="attachment_8119" align="aligncenter" width="300"][![pepaya madu
-panen](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_123_1280x815-300x191.jpg)](http://127.0.0.1/mitra/wp-
+panen](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_123_1280x815-300x191.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_123_1280x815.jpg) perawatan kebun[/caption]
 Carica papaya istimewa itu hasil seleksi Low Kim Siang, pekebun di Desa
 Sinatanhilir, Pontianak Utara, Pontianak. Semula salah seorang kerabat menanam

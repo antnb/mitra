@@ -3,7 +3,7 @@ layout: post
 title: 'Pertanian Organik Terpadu'
 categories: artikel|Pertanian
 date: 2020-12-27 08:04:10
-author: Anton N
+author: Yudianto
 image: media/Gambar_organic_farming3_1024x686.jpg
 tags:
 - pertanian organik
@@ -12,7 +12,7 @@ tags:
 - pupuk kimia
 
 modification_time: 2020-12-27 08:04:10
-blogger_orig_url: "http://localhost/mitra/pertanian-organik-terpadu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pertanian-organik-terpadu.html"
 ---
 
 Bagaimana pekebun bisa pensiun? Pertanyaan itu memerlukan jawaban yang
@@ -24,7 +24,7 @@ alam ternyata membuat pekebun semakin kaya bersama lingkungannya. Sampai pada
 akhirnya mendapat pensiun atas jerih payahnya. Masalahnya bagaimana “bertani
 dengan cerdas” itu kan? Kata almarhum Haji Hamid, tokoh pertanian organik di
 Ciawi, cerdas berarti memadukan berbagai kegiatan di lahan yang sama.
-Pertanian, [peternakan](http://127.0.0.1/mitra/peternakan "peternakan"), dan
+Pertanian, [peternakan](https://www.mitrausahatani.com/peternakan "peternakan"), dan
 perikanan dilangsungkan simultan pada suatu lahan. Sebagai contoh, ia mulai
 dengan menanam bibit salak. Sambil menunggu besar, di seputar ditanam pisang,
 bengkuang, cabai, bawang daun, dan bermacam palawija. Di pinggir kebun dia
@@ -75,8 +75,8 @@ sawi sepanjang setengah meter di pasar-pasar Beijing.
 
 ## Falsafah organik di luar negri
 
-[![pertanian organik terpadu](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_organic_farming_1024x713.jpg)](http://127.0.0.1/mitra/wp-
+[![pertanian organik terpadu](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_organic_farming_1024x713.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_organic_farming_1024x713.jpg)Pengawasan Obat
 dan Makanan Amerika Serikat (USDA) mencatat, peternakan organik di negeri itu
 berkembang hingga 12% per tahun. Pada 1999 saja, pasar makanan organik telah
@@ -106,8 +106,8 @@ Farm Bill yang menggaris bawahi pentingnya pertanian berkelanjutan.
 
 ## Indonesia organik 2010
 
-[![filosofi pertanian](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_organic_farming1_1024x700.jpg)](http://127.0.0.1/mitra/wp-
+[![filosofi pertanian](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_organic_farming1_1024x700.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_organic_farming1_1024x700.jpg)Departemen
 Pertanian Republik Indonesia juga punya program untuk mempercepat terwujudnya
 pembangunan agribisnis berwawasan lingkungan (eCoagribusiness'). Tujuannya

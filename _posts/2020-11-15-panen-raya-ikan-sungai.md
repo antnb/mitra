@@ -15,7 +15,7 @@ tags:
 - Salmon
 
 modification_time: 2020-11-15 05:12:02
-blogger_orig_url: "http://localhost/mitra/panen-raya-ikan-sungai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-raya-ikan-sungai.html"
 ---
 
 Di tepi Sungai Batanghari, kata harian Kompas di satu pagi Mei 2003,
@@ -47,12 +47,12 @@ pengangkut barang, menemukan rezekinya dari zaman ke zaman. Demikian juga para
 petani ikan. Bukan saja memanfaatkannya secara konvensional, tapi juga
 melakukan budidaya proaktif. Keramba dan jaring apung, hanya sebagian dari
 pemanfaatan air sungai. Lebih jauh dari itu untuk kolam, rumpon, dan perawatan
-kedung atau lubuk. Produk [perikanan](http://127.0.0.1/mitra/perikanan
+kedung atau lubuk. Produk [perikanan](https://www.mitrausahatani.com/perikanan
 "perikanan") di sungai pun macam macam. Ada ikan, udang, belut, kepiting
 tawar, bahkan bulus atau kura kura darat. Tak pelak lagi, sungai adalah sumber
 protein yang perlu dilindungi ditingkatkan pemanfaatannya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-
-salmon.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ikan-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/ikan-
+salmon.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/ikan-
 salmon.jpg)
 
 ## Salmon dan trout pelangi
@@ -127,8 +127,8 @@ Tragedi perikanan sungai lainnya banyak terjadi di pulau sampai pulau yang
 semakin padat penduduk: Jawa dan Bali. Kelompok peneliti sungai Ecoton
 mencatat khusus untuk Kali Mas (bagian sungai Brantas yang membentuk delta
 Surabaya), strain ikan sungai melorot drastis, dari puluhan\tinggal belasan
-macam saja. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/salmon.jpg)](http://127.0.0.1/mitra/wp-
+macam saja. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/salmon.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/salmon.jpg)
 
 ## Swastanisasi

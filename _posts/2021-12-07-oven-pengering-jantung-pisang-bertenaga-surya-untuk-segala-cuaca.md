@@ -14,7 +14,7 @@ tags:
 - Pisang
 
 modification_time: 2021-12-07 10:28:08
-blogger_orig_url: "http://localhost/mitra/oven-pengering-jantung-pisang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/oven-pengering-jantung-pisang.html"
 ---
 
 Meninggalkan penjemuran konvensional di bawah matahari dan beralih ke mesin
@@ -32,7 +32,7 @@ produksi dendeng hanya 20 sampai 30 bungkus atau 2 sampai 3 kg per hari.
 Pemakaian mesin oven pengering juga menyita banyak energi. Mulai pengukusan
 sampai pengeringan, menghabiskan 15 liter minyak tanah per hari. Pengeringan
 dengan oven butuh tenaga kerja khusus. Pasalnya, selama pemanggangan, dendeng
-mesti dibolak-balik agar tidak gosong. ![](http://127.0.0.1/mitra/wp-
+mesti dibolak-balik agar tidak gosong. ![](http://localhost/mitra/wp-
 content/uploads/2021/12/dendeng-jantung-400x239.jpg)
 
 ## Oven Pengering Bertenaga surya
@@ -55,8 +55,8 @@ kawat. Nampan-nampan itu dimasukkan ke ruang pengering dan ditata di atas rak
 10 tingkat. Penampang rak berbentuk lingkaran. Karena bentuk ruang mengerucut,
 semakin ke atas, luas penampang rak semakin kecil. [caption
 id="attachment_15694" align="aligncenter" width="400"][![bagan cara kerja oven
-pengering](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/pengering-400x349.jpg)](http://127.0.0.1/mitra/wp-
+pengering](http://localhost/mitra/wp-
+content/uploads/2021/12/pengering-400x349.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/pengering.jpg) cara kerja oven pengering[/caption]
 Cara kerja oven pengering tidaklah rumit, Pada bagian atas terdapat kipas
 angin yang digerakkan dengan motor listrik berkekuatan 12 volt. Ketika kipas
@@ -88,7 +88,7 @@ Kamaruddin, jika ingin lebih hemat, kipas bisa dirancang manual. Caranya,
 pasang kincir angin di bagian atas ruang pengeringan. Pada pangkal kincir
 dipasang kipas. Ketika angin berembus, kincir berputar. Begitu pula dengan
 kipas. Sedangkan motor listrik hanya digunakan jika tidak ada angin.
-![](http://127.0.0.1/mitra/wp-content/uploads/2021/12/dendeng-400x237.jpg)
+![](http://localhost/mitra/wp-content/uploads/2021/12/dendeng-400x237.jpg)
 
 ## Mesin Oven Pengering Multikomoditas
 

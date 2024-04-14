@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2022-12-28 14:24:20
-blogger_orig_url: "http://localhost/mitra/manfaat-program-kawasan-rumah-pangan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-program-kawasan-rumah-pangan.html"
 ---
 
 Ketersediaan pangan yang cukup sepanjang waktu adalah prioritas utama
@@ -59,8 +59,8 @@ hasil dan kompos. Selain itu, tujuan ini juga untuk melestarikan tanaman
 pangan lokal untuk masa depan, serta menciptakan ekonomi produktif bagi
 keluarga untuk menciptakan lingkungan hijau, bersih, dan sehat secara mandiri.
 [caption id="attachment_15895" align="aligncenter"
-width="640"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/mitra_640x417.jpg)](http://127.0.0.1/mitra/wp-
+width="640"][![](http://localhost/mitra/wp-
+content/uploads/2019/10/mitra_640x417.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/mitra_640x417.jpg) Di dalam net house bibit sayuran
 disemai kemudian dipindahtanamkan di polibag. Tanaman itulah yang kemudian
 dipelihara para anggota KWT[/caption] Sejak 2012, KRPL menjadi salah satu
@@ -73,7 +73,7 @@ kesejahteraan keluarganya masing-masing. Bupati Bandung, H Dadang Mohamad
 Naser SH, SIP menuturkan peran ibu memang sangat penting. "Daya topang ibu-ibu
 untuk pergerakan pembangunan di segala bidang termasuk di pertanian seperti
 KRPL akan kuat," ujar Dadang M Naser. [Kabupaten Bandung Galakan Program
-Kawasan Rumah Pangan Lestari (KRPL)](http://127.0.0.1/mitra/kabupaten-bandung-
+Kawasan Rumah Pangan Lestari (KRPL)](https://www.mitrausahatani.com/kabupaten-bandung-
 galakan-program.html) Menurut Ketua Umum Tim Penggerak PKK Kabupaten Bandung,
 Kurnia Dadang Naser, sejatinya program KRPL bukan hal yang baru di PKK. "PKK
 melalui Pokja III selalu menekankan pemanfaatan lahan pekarangan, berapa pun
@@ -91,7 +91,7 @@ Pada tahap awal pemerintah Kabupaten Bandung memberikan bantuan Rp
 15-juta/KWT. Bantuan itu diberikan dalam bentuk benih sayuran, polibag, media,
 dan kebun bibit. Yang disebut terakhir berupa bangunan sederhana yang
 dilindungi jaring halus [untuk menaungi tanaman dan mencegah dari gangguan
-hama dan meminimalisir penyebaran penyakit](http://127.0.0.1/mitra/biji-
+hama dan meminimalisir penyebaran penyakit](https://www.mitrausahatani.com/biji-
 ketumbar-multikhasiat-untuk.html) tanaman. Di dalam net house itu bibit
 disemai kemudian dipindahtanamkan di polibag. Tanaman itulah yang kemudian
 dipelihara para anggota KWT. Selain dipelihara di rumah, anggota KWT juga
@@ -105,8 +105,8 @@ yang diberikan dari tatacara budidaya, penyemaian bibit, pembuatan pupuk
 organik, pemeliharaan, pengendalian hama penyakit, hingga penanganan panen,
 dan pascapanen," kata Roni, alumnus Fakultas Pertanian Universitas Padjajaran.
 [caption id="attachment_15894" align="aligncenter"
-width="410"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/mitra_410x480_2.jpg)](http://127.0.0.1/mitra/wp-
+width="410"][![](http://localhost/mitra/wp-
+content/uploads/2019/10/mitra_410x480_2.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/mitra_410x480_2.jpg) KRPL bukan hal yang baru di PKK.
 "PKK melalui Pokja III selalu menekankan pemanfaatan lahan pekarangan, berapa
 pun luasnya. Minimal untuk pemenuhan kebutuhan pangan keluarga," kata Ketua
@@ -116,7 +116,7 @@ Umum Tim Penggerak PKK Kabupaten Bandung, Kurnia Dadang Naser.[/caption]
 
 Agar masyarakat memperoleh [manfaat optimal dari KRPL, BKP3 juga menjalin
 kerja sama dengan mitra perusahaan yang siap menampung hasil panen
-produk](http://127.0.0.1/mitra/produk-olahan-jagung-manis.html) KRPL dengan
+produk](https://www.mitrausahatani.com/produk-olahan-jagung-manis.html) KRPL dengan
 harga yang layak. Menurut Kepala Badan Ketahanan Pangan dan Pelaksana
 Penyuluhan (BKP3) Kabupaten Bandung, Dadang Hermawan, pihak mitra membeli
 sayuran Rp 4.000/kg. "Namun, jika ibu-ibu bisa menjual sayuran dengan harga di

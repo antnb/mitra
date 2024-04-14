@@ -9,7 +9,7 @@ tags:
 - gandaria
 
 modification_time: 2022-09-13 08:00:48
-blogger_orig_url: "http://localhost/mitra/buah-gandaria-jumbo-nan-manis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/buah-gandaria-jumbo-nan-manis.html"
 ---
 
 Alun-alun di depan kantor walikota Nakorn Nayok, 1 sampai 7 Maret silam
@@ -138,8 +138,8 @@ perut kenyang untuk waktu yang lama.
 
 ## Dikupas dulu
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_serba1_579x768.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_serba1_579x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_serba1_579x768.jpg)Saya mampir di anjungan
 milik seorang ibu. Penasaran sekali untuk bisa mencicipi Buah gandaria sebesar
 telur ayam itu. Habis, penampilannya begitu memikat. Selain berukuran jumbo,
@@ -183,8 +183,8 @@ yang dipetik bisa tahan simpan hingga 4 minggu pada suhu 12°C.
 ## Pohon Gandaria Marian plum
 
 [caption id="attachment_3031" align="alignright" width="157"][![pohon gandaria
-siap tanam](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_buah_652x768.jpg)](http://127.0.0.1/mitra/wp-
+siap tanam](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_buah_652x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_buah_652x768.jpg) Bibit siap tanam, 2 tahun
 bisa berbuah[/caption] Buah ramania lonjong berbiji ungu itu kini menjadi
 simbol provinsi berjarak tempuh 2,5 jam perjalanan darat ke arah timur laut

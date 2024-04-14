@@ -3,14 +3,14 @@ layout: post
 title: 'Manfaat Virgin Coconut Oil Untuk Kesehatan'
 categories: artikel|Herbal|kesehatan|perkebunan
 date: 2020-07-11 13:46:10
-author: Anton N
+author: Yudianto
 image: media/vco.jpg
 tags:
 - kelapa
 - kolesterol
 
 modification_time: 2020-07-11 13:46:10
-blogger_orig_url: "http://localhost/mitra/manfaat-virgin-coconut-oil-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-virgin-coconut-oil-untuk.html"
 ---
 
 _Di salah satu rumah sakit terkenal di Jakarta, keampuhan Manfaat Virgin
@@ -73,7 +73,7 @@ cendawan, dan virus. [Efek antibiotik](https://www.anton-nb.com/antioksidan-
 kunci-agar-selalu-awet.html) itulah yang membuat dia mampu menyembuhkan luka
 dan memperbaiki kerusakan pada dinding pembuluh. Jadi, minyak kelapa murni tak
 hanya sekadar mengurangi risiko penyakit jantung, tapi juga membantu
-menyembuhkan penyakit itu.     http://127.0.0.1/mitra/manfaat-dan-khasiat-
+menyembuhkan penyakit itu.     https://www.mitrausahatani.com/manfaat-dan-khasiat-
 susu-kambing-etawa.html
 
 

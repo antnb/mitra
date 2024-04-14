@@ -9,7 +9,7 @@ tags:
 - Cabe keriting
 
 modification_time: 2020-07-16 06:15:49
-blogger_orig_url: "http://localhost/mitra/keunggulan-cabe-keriting-dibandingkan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/keunggulan-cabe-keriting-dibandingkan.html"
 ---
 
 Di Provinsi Lampung tercatat 600 ha lahan cabe keriting. Lampung salah satu
@@ -20,7 +20,7 @@ cabai keriting._ Pemandangan serupa juga terdapat di Pasuruan dan Malang,
 keduanya di Provinsi Jawa Timur. Mengapa mereka berbondong-bondong mengebunkan
 cabai keriting? “Cabai besar rawan serangan penyakit dan hama. Harga cabai
 keriting juga cenderung lebih tinggi,” kata H Marsudi kepada reporter [Mitra
-Usaha Tani](http://127.0.0.1/mitra) Destika Cahyana membudidayakan cabai
+Usaha Tani](https://www.mitrausahatani.com) Destika Cahyana membudidayakan cabai
 keriting di lahan 35 ha Menurut pekebun sejak 1986 itu peningkatan intensitas
 serangan hama dan penyakit terhadap cabai besar dirasakan sejak 1993. Ketika
 itu Capsicum annuum di lahan 20 ha diganyang antraknosa Colletotrichum
@@ -37,7 +37,7 @@ keriting mempunyai banyak keunggulan (baca boks: Perseturuan Keriting &
 Besar). Salah satu di antaranya seperti diungkapkan oleh Marsudi, harga
 keriting cenderung lebih tinggi. Pada akhir Juli 2004 di Magelang, umpamanya,
 harga sekilo keriting Rp l3.000; cabai besar, Rp lO.000. Berdasarkan pantauan
-'[Mitra Usaha Tani](http://127.0.0.1/mitra), harga di tingkat pekebun itu juga
+'[Mitra Usaha Tani](https://www.mitrausahatani.com), harga di tingkat pekebun itu juga
 berlaku diberbagai sentra seperti Lampung, Ciamis, Sukabumi, dan Malang. Mari
 kita menengok ke belakang. Pada 1999 di tingkat pekebun harga cabai keriting
 Rp 19.000, cabai besar cuma Rp 13.000. Selisih serupa juga terjadi di Pasar
@@ -86,7 +86,7 @@ pengepul sejak 1968 itu total permintaan 8 ton cabai keriting per hari.
 Sayang, pria 67 tahun itu hanya sanggup memasok 1-3 ton per hari atau 5 ton
 ketika panen raya. “Susah mencari cabai,” katanya beralasan. Beberapa pekebun
 di Malang, Magelang, dan Sukabumi yang dihubungi [Mitra Usaha
-Tani](http://127.0.0.1/mitra), sepakat permintaan cabai keriting terus
+Tani](https://www.mitrausahatani.com), sepakat permintaan cabai keriting terus
 meningkat. “Pasar cabai keriting semakin melebar,” kata H Subandi, pekebun di
 Wajak, Malang, Jawa Timur. Namun, menurut analisis Ir Sutrisno Soemodihardjo,
 belum ada pertumbuhan pasar yang signifikan. Direktur Direktorat Tanaman
@@ -112,7 +112,7 @@ Pekebun Banyak Pilihan, halaman 132). Yang juga mencecap laba dari penjualan
 benih PT Mulia Bintang Utama. “Sejak Mei 2004 penjualan benih cabai keriting
 meningkat 100%,” kata Direktur Utama Ir Abdul Hamid. [caption
 id="attachment_1287" align="aligncenter" width="411"]![cabe
-keriting](http://127.0.0.1/mitra/wp-
+keriting](http://localhost/mitra/wp-
 content/uploads/2020/07/vanili_1028x800.jpg) Di sentra cabai, menggeser cabai
 besar[/caption]
 
@@ -131,8 +131,8 @@ tinggi,” kata Asmoro. Perkiraan Rudy Purwadi harga yang membumbung itu
 bertahan hingga Lebaran. Pekebun masih akan meraup laba hingga perayaan Idul
 Fitri. Tentu saja produsen benih juga kecipratan untung besar. Soalnya
 permintaan benih cabai keriting terus mengalir. Itu berkat “kemenangan” si
-Daud atas Goliat di sentra-sentra cabai. http://127.0.0.1/mitra/sukses-raup-
-omzet-50-juta-dari-budidaya-cabai.html http://127.0.0.1/mitra/prospek-bisnis-
+Daud atas Goliat di sentra-sentra cabai. https://www.mitrausahatani.com/sukses-raup-
+omzet-50-juta-dari-budidaya-cabai.html https://www.mitrausahatani.com/prospek-bisnis-
 bubuk-cabe-yang-menguntungkan.html
 
 

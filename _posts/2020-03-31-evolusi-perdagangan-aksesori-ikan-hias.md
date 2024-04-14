@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-03-31 07:16:59
-blogger_orig_url: "http://localhost/mitra/evolusi-perdagangan-aksesori-ikan-hias.html"
+blogger_orig_url: "http://www.mitrausahatani.com/evolusi-perdagangan-aksesori-ikan-hias.html"
 ---
 
 Perdagangan produk-produk Aksesori Ikan Hias di dunia saat ini sudah meningkat
@@ -38,9 +38,9 @@ Kelebihan lain Cina mampu memenuhi tuntutan pasar yang semakin kompetitif
 dengan meluncurkan beragam produk. Untuk promosi mereka aktif mengikuti
 pameran-pameran internasional seperti Aquarama di Singapura dan Interzoo di
 Jerman. Bahkan untuk menyatukan visi Cina Growing Market, mereka menggelar
-[eksibisi dan pameran internasional](http://127.0.0.1/mitra/aquaria-pameran-
+[eksibisi dan pameran internasional](https://www.mitrausahatani.com/aquaria-pameran-
 aksesori-aquarium.html), Aquaria 2019 di Guangzhou, Cina Selatan. Puncak dari
-perdagangan Aksesori [Ikan Hias](http://127.0.0.1/mitra/ikan-hias "Ikan Hias")
+perdagangan Aksesori [Ikan Hias](https://www.mitrausahatani.com/ikan-hias "Ikan Hias")
 tak lepas dari tren ikan. Saat demam lou han melanda Asia terjadi peningkatan
 penjualan aksesori, pakan, dan obat-obatan ikan. Banyak variasi dan merek
 membanjiri pasar. Mulai dari berkualitas rendah hingga bermutu tinggi. Namun,
@@ -55,7 +55,7 @@ demikian dari segi harga secara komparatif produk barat masih lebih mahal
 ketimbang produk Asia. Peluang itu kini sudah ditangkap oleh pelaku di Asia.
 Selain turut menciptakan obat murah, riset farmasi juga giat dilakukan. Salah
 satu bukti, Asia kini mampu membuat obat-obatan ikan berbahan baku [tanaman
-herbal](http://127.0.0.1/mitra/kesehatan "tanaman herbal"). Di masa datang
+herbal](https://www.mitrausahatani.com/kesehatan "tanaman herbal"). Di masa datang
 produsen Aksesori Ikan Hias harus mampu menciptakan produk bermutu tinggi,
 kompetitif, menarik, dan inovatif dalam penampilan desain. Perubahan cara
 pemasaran mutlak dilakukan. Di masa lalu, produk aksesori seolah berjalan

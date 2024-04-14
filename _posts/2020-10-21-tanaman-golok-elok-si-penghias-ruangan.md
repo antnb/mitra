@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 12:58:39
-blogger_orig_url: "http://localhost/mitra/tanaman-golok-elok-si-penghias-ruangan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-golok-elok-si-penghias-ruangan.html"
 ---
 
 Sosok pendek, daun kaku memanjang dengan pinggiran berlekuk mirip golok. Pola
@@ -27,7 +27,7 @@ minggu sekali. Sebagai tanaman pot penghias ruangan, cryptanthus bisa mengisi
 tempat ekstrim seperti kamar mandi atau dapur. Karena sifat easy going itulah
 perawatan serba minim bukan kendala. “Bila kekurangan air, ia kuat. Sebaliknya
 kelebihan air juga kuat. Karenanya ia tak butuh perawatan khusus,” ujar
-Yasmin, pekebun [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman
+Yasmin, pekebun [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman
 hias") di Jakarta. Yang penting media pot cukup hara. Campuran hancuran pakis,
 andam dan pasir cukup 1:1:1. Tambahkan pupuk slow release sebagai pemasok
 makanan.Taman kering Selain ditata dalam pot, tanaman yang berarti bunga
@@ -63,7 +63,7 @@ Kamboja Jepang Entah mengapa, kamboja jepang yang dulu segar bugar, kini
 tampak merana. "Jangankan lihat bunga, daun saja rontok terus," kata
 Wijayanti, hobiis tanaman hias di Cilangkap, Jakarta Timur. Maklum, hujan yang
 terus mengguyur Jakarta membuat kamboja jepang alias
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") mogok tampil prima.
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") mogok tampil prima.
 Perlu penanganan yang pas agar adenium tetap cantik. Kasus serupa juga banyak
 dikeluhkan konsumen lain. Penampilan cantik adenium saat dibeli, berangsur
 mundur. Tingginya curah hujan juga bisa menyebabkan adenium membusuk. Oleh

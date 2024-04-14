@@ -16,7 +16,7 @@ tags:
 - tanaman
 
 modification_time: 2022-09-18 15:05:40
-blogger_orig_url: "http://localhost/mitra/sistem-hidroponik-teknik-pasang-surut.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistem-hidroponik-teknik-pasang-surut.html"
 ---
 
 Memetik sayuran di kebun hidroponik sendiri? Dulu tak pernah terlintas di
@@ -50,7 +50,7 @@ dipelihara. Sistem penyiraman otomatis ini menyiram tanaman dengan air yang
 dicurahkan dari sebuah wadah atau tangki. Wadah atau tangki ini biasanya
 berada di atas tanaman yang akan disiram. Sistem penyiraman ini menggunakan
 gaya gravitasi untuk mengalirkan air dari wadah ke tanaman. Ebb and flow
-sangat cocok untuk penyiraman [tanaman hias](http://127.0.0.1/mitra/tanaman-
+sangat cocok untuk penyiraman [tanaman hias](https://www.mitrausahatani.com/tanaman-
 hias "tanaman hias"), seperti bunga, tanaman pot, dan sebagainya. Sistem
 penyiraman ini juga cocok untuk penyiraman selada, sayuran, buah-buahan, dan
 banyak jenis tanaman lainnya.
@@ -114,8 +114,8 @@ memenuhi corong dan merendam pot. Saat terendam itulah tanaman mendapatkan
 pasokan nutrisi. Setelah larutan nutrisi merendam separuh tinggi pot, mesin
 pompa mati secara otomatis. Waktu yang diperlukan hingga pot terendam sekitar
 1 menit. [caption id="attachment_15716" align="aligncenter"
-width="300"][![Masalah akar pada sistim hidroponik](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/masalah-akar-300x169.jpg)](http://127.0.0.1/mitra/wp-
+width="300"][![Masalah akar pada sistim hidroponik](http://localhost/mitra/wp-
+content/uploads/2021/12/masalah-akar-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/masalah-akar.jpg) Permasalahan akar[/caption] Setelah
 itu, larutan pun perlahan surut. Semenit kemudian, corong kembali kosong. Lima
 menit berselang, mesin pompa kembali aktif dan nutrisi kembali merendam pot.
@@ -187,8 +187,8 @@ hujan yang masuk akan mengencerkan larutan nutrisi sehingga mempengaruhi
 pertumbuhan tanaman. Jika ingin hemat, atap dibuat dari bahan plastik
 polikarbonat. Namun, daya tahannya hanya 3 bulan. [caption
 id="attachment_15715" align="aligncenter" width="300"][![Pengairan indoor Ebb
-and flow](http://127.0.0.1/mitra/wp-content/uploads/2021/12/indoor-ebb-and-
-flow-hydroponics-system-300x169.jpg)](http://127.0.0.1/mitra/wp-
+and flow](http://localhost/mitra/wp-content/uploads/2021/12/indoor-ebb-and-
+flow-hydroponics-system-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/indoor-ebb-and-flow-hydroponics-system.jpg) indoor Ebb
 and flow[/caption] Sistem hidroponik Pasang surut cocok untuk hobiis. Maklum,
 biaya pembuatannya hanya Rp2,5-juta per unit dengan kapasitas 28 tanaman.

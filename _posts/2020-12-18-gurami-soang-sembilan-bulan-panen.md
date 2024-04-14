@@ -12,7 +12,7 @@ tags:
 - kolam pembesaran
 
 modification_time: 2020-12-18 08:21:11
-blogger_orig_url: "http://localhost/mitra/gurami-soang-sembilan-bulan-panen.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gurami-soang-sembilan-bulan-panen.html"
 ---
 
 Tiga bulan lalu Heriyana menebar bibit soang ukuran kaset (125 sampai 150 g)
@@ -39,8 +39,8 @@ warna sisiknya yang kemerahan terutama bagian ekor. Sedangkan jepun warna
 sisiknya kebiruan. Ukuran tubuh soang lebih besar, maksimal mencapai 65 cm
 dengan bobot 8 kg. Jepun hanya 40 cm berbobot 3,5 kg. Sayang, tidak ada
 catatan yang menunjukkan waktu yang diperlukan agar gurami bisa mencapai
-ukuran itu. [![bibit ikan gurame soang](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/gurame-soang-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+ukuran itu. [![bibit ikan gurame soang](http://localhost/mitra/wp-
+content/uploads/2020/12/gurame-soang-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/gurame-soang.jpg)
 
 ## Priangan Timur
@@ -48,7 +48,7 @@ content/uploads/2020/12/gurame-soang.jpg)
 Soang bukanlah varietas baru. Ia ditengarai sudah dipelihara sejak zaman
 kerajaan Galuh. "Pada waktu itu, gurami soang hanya ada di kalangan kerajaan,"
 ujar Ace Sutisna, pelaksana Subdinas Budidaya Dinas Kelautan dan
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") Kabupaten Ciamis.
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") Kabupaten Ciamis.
 Makanya ikan itu diklaim berasal dari Priangan Timur Ciamis dan Tasikmalaya.
 Di Ciamis, soang tersebar di beberapa kecamatan:Ciamis, Cikoneng, Sadananya,
 Cijeunjing, dan Panjalu. Di sentra-sentra itu pada 2002 tercatat kolam
@@ -59,15 +59,15 @@ besar. Dosisnya disesuaikan dengan bobot ikan. Pakan tambahan berupa daun-
 daunan seperti daun talas dan emprak yang diberikan 3 hari sekali. Pengurus
 kelompok tani gurami Neureus Mandiri itu memberikan pakan buatan berupa tepung
 pada gurami kecil. "Pemberian pakan sebaiknya dilakukan pada waktu dan lokasi
-yang sama. Supaya lebih efisien," ujarnya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/gurame-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+yang sama. Supaya lebih efisien," ujarnya. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/gurame-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/gurame.jpg)
 
 ## Sentra Penjualan benih
 
 [caption id="attachment_2971" align="alignleft" width="337"][![Talas di
-pinggir kolam gurami](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_gurami1_1024x581.jpg)](http://127.0.0.1/mitra/wp-
+pinggir kolam gurami](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_gurami1_1024x581.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_gurami1_1024x581.jpg) Talas di pinggir kolam,
 daunnya untuk pakan gurami[/caption] Masyarakat Ciamis kian bergairah
 mengusahakan gurami lantaran permintaan tinggi. Hotel dan restoran di Jawa

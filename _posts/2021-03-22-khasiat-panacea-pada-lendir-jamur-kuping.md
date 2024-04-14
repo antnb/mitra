@@ -13,7 +13,7 @@ tags:
 - produksi jamur
 
 modification_time: 2021-03-22 16:17:40
-blogger_orig_url: "http://localhost/mitra/khasiat-panacea-lendir-jamur-kuping.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-panacea-lendir-jamur-kuping.html"
 ---
 
 Pernah menonton Beauty and The Beast? Film kartun itu mengisahkan pangeran
@@ -35,8 +35,8 @@ Medicinal Auricularia._ [online] Available at:
 ## Pengobatan Tradisional China
 
 [caption id="attachment_8305" align="aligncenter"
-width="1470"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/jamurkuping.jpg)](http://127.0.0.1/mitra/wp-
+width="1470"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/jamurkuping.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/jamurkuping.jpg) Panasea di Sekeping
 Auricularia[/caption] Cina memang terkenal dengan ramuan tradisional. Ramuan
 itu diwariskan turun-temurun dari nenek moyang. Khasiatnya ditemukan
@@ -66,8 +66,8 @@ kolesterol berfungsi untuk menghancurkan plak yang menyumbat pembuluh darah.
 ## Khasiat Herbal Pada Lendir Jamur Kuping
 
 [caption id="attachment_8306" align="aligncenter"
-width="1419"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/jamurkuping1-1.jpg)](http://127.0.0.1/mitra/wp-
+width="1419"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/jamurkuping1-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/jamurkuping1-1.jpg) Panasea di Sekeping
 Auricularia[/caption] Jamur kuping kerap hadir bersama daging dan sayuran di
 dalam menu makanan cina. Baik berupa tumis, sup,goreng, dan panggang. Bukan
@@ -88,7 +88,7 @@ sebagai perangsang sistem kekebalan tubuh. Dalam beberapa kasus, lendir jamur
 kuping menghambat pertumbuhan sel kanker. Juga mempunyai efek antitumor,
 antivirial, antibakteri, antiparasit, dan menurunkan kolesterol . Menurut Dr
 Hardinsyah, [jamur kuping kaya mineral dan
-vitamin](http://127.0.0.1/mitra/prospek-bisnis-menggiurkan-lewat.html).
+vitamin](https://www.mitrausahatani.com/prospek-bisnis-menggiurkan-lewat.html).
 Kalium, seng, vitamin B, vitamin E, dan karotenoid adalah beberapa zat gizi
 yang banyak terdapat di dalamnya. Kalium dapat membantu menjaga tekanan darah,
 sedangkan seng menjaga imunitas. Vitamin B menjaga fungsi syaraf, vitamin E

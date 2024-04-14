@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-02-28 12:33:41
-blogger_orig_url: "http://localhost/mitra/nafas-ellindo-di-phalaenopsis-taiwan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/nafas-ellindo-di-phalaenopsis-taiwan.html"
 ---
 
 Setelah memilah anggrek yang diinginkan, pedagang tinggal pulang. Soal
@@ -27,8 +27,8 @@ Timur itu.
 ## Botol hingga berbunga
 
 [caption id="attachment_18872" align="alignleft" width="400"][![mengimpor
-anggrek](http://127.0.0.1/mitra/wp-
-content/uploads/2022/02/Gambar_angrek1_1024x690-400x270.jpg)](http://127.0.0.1/mitra/wp-
+anggrek](http://localhost/mitra/wp-
+content/uploads/2022/02/Gambar_angrek1_1024x690-400x270.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/02/Gambar_angrek1_1024x690.jpg) Zainal Arifin, dari
 ekspor pakis mengimpor anggrek[/caption] Setiap bulan Ellindo mengimpor 7.000
 sampai 10.000 batang dari berbagai ukuran. Perusahaan patungan antara Zainal

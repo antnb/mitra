@@ -15,7 +15,7 @@ tags:
 - renyah
 
 modification_time: 2022-09-24 08:42:26
-blogger_orig_url: "http://localhost/mitra/dongkrak-produksi-dan-kualitas-jambu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dongkrak-produksi-dan-kualitas-jambu.html"
 ---
 
 Kualitas istimewa membuat buah jambu kristal itu selalu ludes. "Di sini di
@@ -31,12 +31,12 @@ suka kristal dari kebun Pak Hery karena rasanya manis, daging renyah sehingga
 mudah dikunyah, juga tanpa biji," ujar Andy Wijaya, penggemar jambu kristal
 berlabel Arista Montana itu. Saat berpameran di Festival [Bunga dan Buah
 Nusantara 2014 di IPB Bogor awal Oktober, setengah
-dari](http://127.0.0.1/mitra/dekorasi-apik-dari-rangkaian-bunga-nan.html) 400
+dari](https://www.mitrausahatani.com/dekorasi-apik-dari-rangkaian-bunga-nan.html) 400
 kg kristal yang disiapkan habis terjual pada hari pertama dengan harga Rp
 25.000/kg. [caption id="attachment_15938" align="aligncenter"
 width="300"][![Buah Jambu kristal asal Majalengka, rasa manis, renyah, dan
-gurih](http://127.0.0.1/mitra/wp-content/uploads/2019/10/buah-jambu-
-kristal-300x157.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/buah-
+gurih](http://localhost/mitra/wp-content/uploads/2019/10/buah-jambu-
+kristal-300x157.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/buah-
 jambu-kristal.jpg) Jambu kristal asal Majalengka, rasa manis, renyah, dan
 gurih[/caption]  
 
@@ -91,14 +91,14 @@ Sementara itu meski produksi pada musim kemarau berkurang, tetapi dengan
 menaikkan harga jual rata-rata Rp 17.000 per kg, omzet Hery tetap, sekitar Rp
 3-juta per hari. Hery memetik buah bulat berbobot 150-250 gram. Pada awalnya
 ia menyortir [buah tanpa cacat, tak ada gerekan serangga, hijau mulus,
-dan](http://127.0.0.1/mitra/durian-otak-udang-galah-draveolens.html) berbentuk
+dan](https://www.mitrausahatani.com/durian-otak-udang-galah-draveolens.html) berbentuk
 bulat sempurna. Menurut Hery hampir 60--70 % panen memenuhi standar itu. Harap
 mafhum, ia memang menyeleksi bakal buah ketika berukuran sebesar kemiri dengan
 mempertahankan hanya dua buah per ranting Tujuannya agar mampu memetik buah
 berkualitas tinggi. Namun, ternyata, buah kecil pun digemari konsumen karena
 rasa lebih manis dan lembut, hingga akhirnya semua buah di pohon
 dipertahankan. Itu strategi pada musim hujan. Namun, pada musim kemarau
-[pekebun buah](http://127.0.0.1/mitra/bibit-buah-naga-kuning-hasil-
+[pekebun buah](https://www.mitrausahatani.com/bibit-buah-naga-kuning-hasil-
 pembiakan.html) sejak 2006 itu mengurangi buah lantaran ketersediaan air
 terbatas, la hanya mempertahankan maksimal 4 buah per ranting yang kadang
 mencapai 6 buah. Bila ia tak mengurangi jumlah buah kualitasnya turun. pohon
@@ -135,8 +135,8 @@ mengandung unsur mikro antara lain besi 361 ppm, mangan (88), tembaga (69),
 seng (129), dan boron (103). [caption id="attachment_15940"
 align="aligncenter" width="529"][![Hery \(kiri\) dan Andy Wijaya, ingin
 jadikan buah jambu kristal lokal tuan rumah di negeri
-sendiri](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jambu-
-kristal_529x480.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/jambu-
+sendiri](http://localhost/mitra/wp-content/uploads/2019/10/jambu-
+kristal_529x480.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/jambu-
 kristal_529x480.jpg) Hery (kiri) dan Andy Wijaya, ingin jadikan buah lokal
 tuan rumah di negeri sendiri[/caption]
 
@@ -158,7 +158,7 @@ Tekstur renyah dipengaruhi oleh tiga faktor yaitu ketersediaan karbohidrat,
 air, dan udara. Bila tidak ada tambahan karbohidrat, buah jadi bantet. Sel-sel
 tidak berkembang maksimal sehingga tekstur tidak renyah," kata Reza. Agar
 lebih terjamin tingkat kerenyahannya, Hery memberikan 300 gram kapur
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") menjelang buah
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") menjelang buah
 sebesar kemiri. Bila pekebun lain memilih melakukan pemangkasan cabang pohon
 jambu kristal agar tanaman tidak tinggi, pekebun yang mahir berbahasa Thailand
 itu memilih membiarkan cabang tumbuh memanjang. "Cabang panjang itu dibalik
@@ -168,8 +168,8 @@ merunduk hingga 90 derajat. Agar posisi itu bertahan lama, ia mengikat cabang
 dengan rafia. Dua-empat pekan kemudian muncul tunas baru dari ketiak daun.
 Setelah berdaun 3-4 pasang, cabang baru itu memunculkan 2-6 calon bunga.
 Menurut Reza Tirtawinata, perundukan cabang hingga 90 derajat membuat proses
-apikal dominan terhenti. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/jambu-kristal_378x480.jpg)](http://127.0.0.1/mitra/wp-
+apikal dominan terhenti. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/jambu-kristal_378x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/jambu-kristal_378x480.jpg)
 
 ## Pencegahan Serangan Hama Buah

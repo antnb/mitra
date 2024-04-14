@@ -12,20 +12,20 @@ tags:
 - padi
 
 modification_time: 2020-11-08 05:52:52
-blogger_orig_url: "http://localhost/mitra/penggiilingan-gabah-demi-itik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penggiilingan-gabah-demi-itik.html"
 ---
 
 Add Farm identik dengan peternakan itik. Maklum perusahan itu mempu mengelola
 dana 3.000 investor yang menanamkan modal. Bandingkan ketika memulai usaha
 pada 1995, hanya ratusan investor. Bila beberapa perusahaan profit sharing
 tersandung, Add Farm malah semakin berkibar. Bidang usaha
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") itik yang
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") itik yang
 dirintis Ade Suhidin itu merambah ke penggilingan beras dan ekowisata. Kedua
 sektor itu diharapkan jadi pendukung bisnis itik yang kian diminati investor.
 Meningkatnya jumlah investor menyebabkan Add Farm harus menyediakan lebih
 banyak itik. Bayangkan jika setiap investor mendapat 100 ekor/paket, Add Farm
 hams menyediakan 300.000 ekor. Itu belum termasuk anakan yang jumlahnya
-ratusan ribu ekor. [Bebek](http://127.0.0.1/mitra/topik/bebek "Bebek") itu
+ratusan ribu ekor. [Bebek](https://www.mitrausahatani.com/topik/bebek "Bebek") itu
 diternakkan di empat lokasi: Desa Cikulak - Kecamatan Waled, Desa Bungko Kidul
 - Kecamatan Kapetakan, Desa Kiaajaran Kulon -Kecamatan Lohbener, Desa
 Kalipasung -Kecamatan Babakan. Ketiganya di Kabupaten Cirebon serta Desa
@@ -35,8 +35,8 @@ Menurut Ade Suhidin, seekor itik membutuhkan rata-rata 150 gram menir/hari.
 Farm bebek di Kalipasung berisi 320.000 ekor sehingga harus tersedia 64 ton
 menir. Bila harga menir Rp600/kg, perusahaan itu harus menyediakan dana
 Rp38.400.000/hari. Belum termasuk kebutuhan pakan untuk bibit.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/itik-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/itik-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/itik.jpg)
 
 ## Bangun penggilingan
@@ -57,9 +57,9 @@ mengenakan biaya Rp40/kg kepada pemakai jasa. Biaya itu saya hapus, agar
 petani bisa merasakan untung.” Petani boleh mengeringkan gabah di lantai
 penjemuran Add Farm. Bahkan untuk menyimpan gabah Add farm menyediakan gudang.
 Dengan fasilitas serba gratis diharapkan petani mau menggiling gabah di tempat
-mereka dan mau menjual gabahnya. [![](http://127.0.0.1/mitra/wp-
+mereka dan mau menjual gabahnya. [![](http://localhost/mitra/wp-
 content/uploads/2020/11/Penggiilingan-
-Gabah-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+Gabah-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Penggiilingan-Gabah.jpg)
 
 ## Penggilingan Padi sistim terpadu

@@ -13,7 +13,7 @@ tags:
 - walet di penang
 
 modification_time: 2020-12-09 11:23:51
-blogger_orig_url: "http://localhost/mitra/kala-penghasil-liur-emas-tertambat-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kala-penghasil-liur-emas-tertambat-di.html"
 ---
 
 Pantas Kang Chun Heng tak pernah mengenal _yen che_ sebutan walet di Penang.
@@ -31,7 +31,7 @@ rumahnya. Selain dikonsumsi secara konvensional, wartawan Mitra Usaha Tani,
 Destika Cahyana, melihat rumah makan di bilangan George Town penyedia menu
 sarang walet ramai dikunjungi orang. "Birdnest sangat populer di sini," kata
 Khor Ooi Meng, kenalan Mitra Usaha Tani yang menggeluti
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium").
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium").
 
 ## Sarang walet dan Potret masyarakat Tionghoa
 
@@ -52,9 +52,9 @@ bermula dari pantai, menuju gunung kapur di daerah pedalaman, dan terakhir di
 pemukiman penduduk. "Penyebab migrasi macam-macam: jumlah walet yang terlalu
 banyak di suatu tempat atau karena eksploitasi sarang oleh manusia," kata
 Suyuti. [caption id="attachment_19761" align="aligncenter"
-width="1024"][![sarang walet berkualitas](http://127.0.0.1/mitra/wp-
+width="1024"][![sarang walet berkualitas](http://localhost/mitra/wp-
 content/uploads/2020/12/bird-nest-
-berkualitas-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+berkualitas-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/bird-nest-berkualitas.jpg) Sekilo sarang walet
 dihargai Rp 12-juta Rp 18-juta tak halangi warga Penang untuk
 mengkonsumsinya[/caption]

@@ -12,7 +12,7 @@ tags:
 - kumbung jamur
 
 modification_time: 2021-05-24 11:25:56
-blogger_orig_url: "http://localhost/mitra/cara-budidaya-jamur-merang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-budidaya-jamur-merang.html"
 ---
 
 Keputusan sulit akhirnya diambil Misa Suwarsa. Ia menetapkan pilihan
@@ -34,8 +34,8 @@ latin: volva = cawan, red) ternyata tidak mudah.
 
 ## Produksi rendah
 
-[![Pasterisasi kunci sukses ](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/jamur1-1.jpg)](http://127.0.0.1/mitra/wp-
+[![Pasterisasi kunci sukses ](http://localhost/mitra/wp-
+content/uploads/2021/05/jamur1-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/jamur1-1.jpg) Langkah pertama yang ditempuh Misa
 adalah mempelajari budidaya jamur merang. Para ahli pun disambangi. Namun,
 "Ternyata para ahli jamur itu belum pernah mengusahakan secara komersil,"
@@ -99,8 +99,8 @@ Rp8.000 per kg.
 
 ## Membuka Pelatihan Budidaya Jamur
 
-[![Misa Suwarsa, berharap pada Jamur merang](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/jamur-2.jpg)](http://127.0.0.1/mitra/wp-
+[![Misa Suwarsa, berharap pada Jamur merang](http://localhost/mitra/wp-
+content/uploads/2021/05/jamur-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/jamur-2.jpg) Untuk orang-orang yang ingin belajar
 tentang usaha jamur merang, Misa membuka lebar-lebar pintu rumahnya. Itu
 sebabnya sejak 2000, kebun jamurnya dipilih sebagai lokasi magang nasional.

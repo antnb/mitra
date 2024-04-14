@@ -10,11 +10,11 @@ tags:
 - surgeon fish
 
 modification_time: 2020-09-16 10:48:57
-blogger_orig_url: "http://localhost/mitra/jurus-jitu-cegah-parasit-white-spot.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jurus-jitu-cegah-parasit-white-spot.html"
 ---
 
 _Parasit Cryptocaryon irritans memang biang keladi kematian[ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") koleksi Ichwan. Awalnya
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") koleksi Ichwan. Awalnya
 Ichwan berhasrat untuk segera menikmati kemolekan mereka. Itulah sebabnya 3
 hari setelah dekorasi akuarium rampung, pengusaha restoran itu langsung
 mencemplungkan sejumlah ikan. Sebuah tindakan fatal. Soalnya, ekosistem belum
@@ -26,7 +26,7 @@ putih**. Ikan pengidap white spot dapat mengalami infeksi susulan seperti
 finrot. [Masa inkubasi parasit itu hanya 6-8
 hari](https://edis.ifas.ufl.edu/publication/FA164). [caption
 id="attachment_1702" align="aligncenter" width="683"]![bintik
-putih](http://127.0.0.1/mitra/wp-
+putih](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_aquarium_1213x800.jpg) Kualitas air mesti
 dijaga[/caption]
 

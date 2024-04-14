@@ -13,7 +13,7 @@ tags:
 - perawatan anthurium
 
 modification_time: 2020-12-13 07:20:48
-blogger_orig_url: "http://localhost/mitra/perang-anthurium-dari-lampung-hingga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perang-anthurium-dari-lampung-hingga.html"
 ---
 
 Kontes di sebuah kecamatan di ujung selatan Pulau Sumatera itu memang belum
@@ -28,10 +28,10 @@ penjurian sempat dihentikan 1 jam. "Konsentrasi tim juri terganggu. Tali
 pembatas tak mampu mencegah penonton mendekat. Penilaian baru bisa dilakukan
 setelah semua arena kontes dikerudungi shading net" lanjut Suwanto. Maklum,
 penampilan para kontestan sangat menarik. Sebanyak 50% peserta merupakan
-indukan [anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium") dari
+indukan [anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium") dari
 berbagai jenis. Sebut saja jenmanii, wave of love, dan sirih.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Anthurium.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/Anthurium.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Anthurium.jpg)
 
 ## Tiga tahap
@@ -52,8 +52,8 @@ tinggi kurang dari 60 cm yang tampil prima. Sebut saja dari jenis jenmanii dan
 hookeri. "Kesehatan mereka sangat prima. Daun sama sekali tak ada yang rusak,"
 ujar Rosidi. Andaikan dibuka kategori berdasarkan spesies dan ukuran, tentu
 mereka tak menjadi pecundang. Menurut Rosidi, fenomena itu menjadi perhatian
-untuk kontes berikutnya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/kontes-Anthurium.jpg)](http://127.0.0.1/mitra/wp-
+untuk kontes berikutnya. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/kontes-Anthurium.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/kontes-Anthurium.jpg)
 
 ## Karanganyar

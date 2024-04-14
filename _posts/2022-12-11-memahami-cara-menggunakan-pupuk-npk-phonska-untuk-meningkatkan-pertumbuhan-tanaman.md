@@ -9,7 +9,7 @@ tags:
 - pupuk
 
 modification_time: 2023-02-27 10:53:06
-blogger_orig_url: "http://localhost/mitra/manfaat-pupuk-phonska-untuk-pertanian.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-pupuk-phonska-untuk-pertanian.html"
 ---
 
 Pupuk Phonska adalah pupuk yang dikeluarkan oleh pemerintah untuk meningkatkan
@@ -37,7 +37,7 @@ bebas di pasar. Oleh karena itu, petani yang ingin mendapatkan pupuk phonska
 perlu terdaftar dalam kelompok tani terlebih dahulu. Saat ini pupuk Phonska
 telah terkenal luas dan banyak dipakai oleh para petani. Keberadaannya sangat
 membantu para petani karena harganya yang terjangkau serta mampu meningkatkan
-hasil produksi [pertanian](http://127.0.0.1/mitra/pertanian "pertanian").
+hasil produksi [pertanian](https://www.mitrausahatani.com/pertanian "pertanian").
 Petani padi khususnya banyak yang menggunakan pupuk ini, karena dapat
 meningkatkan hasil panen dan kualitas gabah. Tanaman padi yang dipupuk dengan
 Phonska akan menghasilkan bulir yang lebih berisi.

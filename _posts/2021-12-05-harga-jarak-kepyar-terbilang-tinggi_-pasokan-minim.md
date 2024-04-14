@@ -9,7 +9,7 @@ tags:
 - Jarak
 
 modification_time: 2021-12-05 07:27:57
-blogger_orig_url: "http://localhost/mitra/harga-jarak-kepyar-terbilang-tinggi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/harga-jarak-kepyar-terbilang-tinggi.html"
 ---
 
 Pada zaman penjajahan Jepang, masyarakat memanfaatkan minyak kaliki untuk
@@ -23,8 +23,8 @@ business unit kimia PT Kimia Farma, pihaknya minta pasokan 6.000 ton setahun
 hanya mendapat jatah 100 ton. Produksi Greenland selebihnya, 50 ton, terserap
 pasar Jepang. [caption id="attachment_15617" align="aligncenter"
 width="400"][![Tumpang sari jarak kepyar dan
-jagung](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-Jarak-
-kepyar-400x217.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-
+jagung](http://localhost/mitra/wp-content/uploads/2021/12/pohon-Jarak-
+kepyar-400x217.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/pohon-
 Jarak-kepyar.jpg) jarak kepyar dapat dtanam dengan metode Tumpang
 sari[/caption] PT Kimia Farma memiliki pabrik pengolah jarak kepyar di
 Semarang, Provinsi Jawa Tengah. Selain memperoleh pasokan minyak kaliki dari
@@ -61,8 +61,8 @@ pupuk yang diberikan kepada padi gogo," kata Arif. Saat jarak kepyar berumur
 sekitar 75% dari total buah tiap tandan. Tiap tanaman menghasilkan 1-1,5 kg
 biji kering per panen. [caption id="attachment_15618" align="aligncenter"
 width="400"][![tanaman Jarak kepyar digunakan sebagai bahan baku bumper
-mobil](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-
-Jarak-400x196.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-
+mobil](http://localhost/mitra/wp-content/uploads/2021/12/pohon-
+Jarak-400x196.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/pohon-
 Jarak.jpg) Jarak kepyar bahan baku bumper mobil[/caption] Selama 3 bulan, ia
 tiga kali panen. Total ia memperoleh 1 ton biji kering.Setelah memetik buah,
 ia masukkan ke dalam karung. Petugas dari perusahaan mendatangi kebun untuk
@@ -91,7 +91,7 @@ produksi,” kata Endang Warsiki, konsultan perusahaan sekaligus peneliti di
 Pusat Penelitian Surfaktan dan Bioenergi Institut Pertanian Bogor. PT Kimia
 Farma juga berencana membuka lahan 10.000 ha di Nusa Tenggara Timur. “Kami
 juga sedang menjajaki beberapa daerah di Indonesia yang berpotensi menjadi
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") jarak," kata
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") jarak," kata
 Agung Kisworo. Daerah yang sedang dijajaki adalah Gunung Kidul, Provinsi
 Yogyakarta, dan Nusapenida, Provinsi Bali. Kedua daerah itu beriklim kering
 sesuai untuk berkebun jarak.

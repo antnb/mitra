@@ -12,7 +12,7 @@ tags:
 - serama pilihan
 
 modification_time: 2021-01-20 12:17:56
-blogger_orig_url: "http://localhost/mitra/borong-serama-gaet-laba.html"
+blogger_orig_url: "http://www.mitrausahatani.com/borong-serama-gaet-laba.html"
 ---
 
 Saat ini Mega Bird Farm (MBF) baru sanggup memproduksi 10 anakan/bulan.
@@ -102,8 +102,8 @@ ASI.
 ## Tetap kewalahan
 
 [caption id="attachment_7873" align="alignleft" width="267"][![kandang ayam
-serama](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_kandang_1024x765.jpg)](http://127.0.0.1/mitra/wp-
+serama](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_kandang_1024x765.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_kandang_1024x765.jpg) Deretan kandang siap
 produksi serama[/caption] Naiknya pamor serama membuat permintaan kian naik.
 "Saya benar-benar kelimpungan memenuhi order. Permintaan dari luar kota

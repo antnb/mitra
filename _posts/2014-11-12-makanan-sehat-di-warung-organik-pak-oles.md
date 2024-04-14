@@ -3,7 +3,7 @@ layout: post
 title: 'Makanan sehat Di Warung Organik Pak Oles'
 categories: artikel
 date: 2014-11-12 10:41:53
-author: Anton N
+author: Yudianto
 image: media/oles.jpeg
 tags:
 - hidangan
@@ -14,7 +14,7 @@ tags:
 - warung
 
 modification_time: 2022-09-23 16:20:17
-blogger_orig_url: "http://localhost/mitra/makan-sehat-dan-kenyang-di-warung.html"
+blogger_orig_url: "http://www.mitrausahatani.com/makan-sehat-dan-kenyang-di-warung.html"
 ---
 
 You are what you eat ungkapan ini menggambarkan bahwa makanan yang kita makan
@@ -91,7 +91,7 @@ Institut Pengembangan Sumber Daya Alam ini (IPSA).
 Kendati memperhatikan rasa dan penyajian, Pak Oles lebih mengutamakan
 kebersihan dan kesehatan sayur yang dihidangkan. Sayur-sayur dan buah-buahan
 tersebut dipasok dari petani organik binaan IPSA, yang telah beralih ke
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian") organik dan tidak
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian") organik dan tidak
 menggunakan pupuk kimia maupun pestisida dalam pengelolaan pertaniannya.
 Dengan demikian, selain memberikan sayur dan buah yang sehat kepada para
 konsumen, Pak Oles juga memberikan pendapatan kepada para petani binaan IPSA

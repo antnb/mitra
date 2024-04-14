@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-25 12:57:04
-blogger_orig_url: "http://localhost/mitra/sakai-fish-farm-gudang-koi-kelas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sakai-fish-farm-gudang-koi-kelas.html"
 ---
 
 Obsesi Winarso Tanuwijaya meraih gelar bergengsi pada lomba koi dibayar lunas

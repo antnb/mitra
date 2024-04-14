@@ -9,7 +9,7 @@ tags:
 - Kelengkeng
 
 modification_time: 2020-04-18 11:03:50
-blogger_orig_url: "http://localhost/mitra/teknik-sambung-susu-tanaman-kelengkeng.html"
+blogger_orig_url: "http://www.mitrausahatani.com/teknik-sambung-susu-tanaman-kelengkeng.html"
 ---
 
 _Seorang penangkar di Kreo, Ciledug, memilih sambung susu untuk memperbanyak
@@ -18,14 +18,14 @@ lengkeng pinpong. Dengan cara itu tingkat keberhasilan mencapai 95%.
 katanya._ Kulit batang lengkeng asal negeri Tirai Bambu itu tipis. Ketika
 dikelupas ia masih menempel di batang dan menutup kambium yang juga tipis.
 Akibatnya, saat dicangkok akar sulit tumbuh. [kelengkeng
-Edaw](http://127.0.0.1/mitra/kelebihan-kelengkeng-itoh-edaw.html) lantas
+Edaw](https://www.mitrausahatani.com/kelebihan-kelengkeng-itoh-edaw.html) lantas
 diperbanyak dengan cara sambung susu.
 
 ### Persiapan
 
 Sebagai batang bawah, kebun penangkaran di Kreo itu menggunakan bibit asal
 biji lengkeng ambarawa. Dengan batang bawah pingpong juga lebih baik. Batang
-bawah yang [siap disambung](http://127.0.0.1/mitra/bibit-buah-naga-kuning-
+bawah yang [siap disambung](https://www.mitrausahatani.com/bibit-buah-naga-kuning-
 hasil-pembiakan.html) berdiameter sebesar sedotan. Kondisi itu diperoleh pada
 saat batang bawah berumur 9-12 bulan dari biji yang ditumbuhkan di polibag
 berdiameter 10 cm ber-media tanah merah. Sebelum di sambung susu, batang bawah
@@ -39,13 +39,13 @@ itulah batang bawah disisipkan. Sambungan lantas diikat ketat menggunakan
 plastik transparan. Polibag disangga pada dahan lain atau menggunakan semacam
 tangga kayu agar cabang yang di sambung susu tidak patah keberatan beban.
 ([Budidaya Manggis Dengan Teknik kaki ganda dan sambung
-asuh](http://127.0.0.1/mitra/budidaya-manggis-dengan-teknik-kaki.html))
+asuh](https://www.mitrausahatani.com/budidaya-manggis-dengan-teknik-kaki.html))
 Penangkar lain, Prakoso Heryono di Demak dan Cecep dari Kebun Wisata
 Pasirmukti, Citeureup, memilih menyambung dengan terlebih dulu menyayat salah
 satu sisi batang atas dan batang bawah. Panjang sayatan sekitar 5-10 cm
 selebar kira-kira sepertiga diameter batang. Batang atas dan batang bawah
-lantas disatukan pada bagian yang disayat itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/lengkeng.jpg)](http://127.0.0.1/mitra/wp-
+lantas disatukan pada bagian yang disayat itu. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/lengkeng.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/lengkeng.jpg)
 
 ### Pemisahan
@@ -62,8 +62,8 @@ indikator penyambungan terjadi sempurna. Bila tunas baru sudah tumbuh, bibit
 bisa “dipanen” sekaligus dari pohon induk. Pohon induk berumur 3,5 tahun dapat
 menghasilkan 50 bibit sambung susu sekali proses. Agar kondisi pohon induk
 tetap prima, taburkan 2 genggam pupuk NPK seimbang 2 minggu sekali.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/sambung-
-susu.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/sambung-susu.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/04/sambung-
+susu.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/sambung-susu.jpg)
 
 ## cara sambung susu pohon kelengkeng
 

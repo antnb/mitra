@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-19 12:12:05
-blogger_orig_url: "http://localhost/mitra/segmentasi-pemeliharaan-itik-di-tanah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/segmentasi-pemeliharaan-itik-di-tanah.html"
 ---
 
 _Di Indonesia para petani umumnya memelihara ayam kampung sebagai sumber

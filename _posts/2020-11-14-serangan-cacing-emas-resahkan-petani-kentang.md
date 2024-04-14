@@ -11,7 +11,7 @@ tags:
 - Kentang
 
 modification_time: 2022-09-09 11:58:56
-blogger_orig_url: "http://localhost/mitra/serangan-cacing-emas-resahkan-petani.html"
+blogger_orig_url: "http://www.mitrausahatani.com/serangan-cacing-emas-resahkan-petani.html"
 ---
 
 Johny Djunaedy berwajah muram pada November silam. Pertumbuhan kentang di
@@ -43,8 +43,8 @@ hujan. Pada periode berikutnya, tidak ada gejala serangan. Waras juga
 berpendapat sama. Alasannya, sampai usia 103 hari saat Mitra Usaha Tani
 berkunjung pertengahan April lalu tanaman yang dibudidayakan di lahan bekas
 serangan tetap subur. “Hamanya sudah menghilang,“ duga Waras.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/serangan-Globodera-
-rostochiensis-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/serangan-Globodera-
+rostochiensis-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/serangan-Globodera-rostochiensis.jpg)
 
 ## Larva Mampu Bertahan 30 tahun
@@ -90,9 +90,9 @@ sana laporan diteruskan ke Direktorat Perlindungan Tanaman. Langkah berikut
 dibentuk tim khusus melibatkan institusi pemerintah dan swasta untuk
 mengklarifikasi kebenaran informasi. “Pemeriksaan contoh tanah dan tanaman di
 5 laboratorium semuanya menyatakan positif, bahwa nematoda itu adalah
-Globodera rostochiensis,” kata Daryanto. [![](http://127.0.0.1/mitra/wp-
+Globodera rostochiensis,” kata Daryanto. [![](http://localhost/mitra/wp-
 content/uploads/2020/11/Globodera-
-rostochiensis.jpg)](http://127.0.0.1/mitra/wp-
+rostochiensis.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Globodera-rostochiensis.jpg)
 
 ## NSK Hanya Ditemukan Di Sumberbrantas

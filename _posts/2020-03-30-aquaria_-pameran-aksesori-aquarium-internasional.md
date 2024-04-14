@@ -9,19 +9,19 @@ tags:
 - 
 
 modification_time: 2020-03-30 12:45:34
-blogger_orig_url: "http://localhost/mitra/aquaria-pameran-aksesori-aquarium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aquaria-pameran-aksesori-aquarium.html"
 ---
 
 Siang itu, Hall 2 di Jinhan Exhibition Center seluas 9.000 m2 tampak meriah
 dihadiri para undangan mulai [dari pejabat pemerintah, eksportir,
-dan](http://127.0.0.1/mitra/kontes-best-bonsai-santigi-show.html) pelaku
+dan](https://www.mitrausahatani.com/kontes-best-bonsai-santigi-show.html) pelaku
 bisnis ikan hias, dalam dan luar negeri. Selain secara simbolis membuka
 pameran [Aksesori Aquarium, Prof Tan Qisheng juga menyerahkan piala pada
-masing-masing para grand champion lomba ikan](http://127.0.0.1/mitra/evolusi-
+masing-masing para grand champion lomba ikan](https://www.mitrausahatani.com/evolusi-
 perdagangan-aksesori-ikan-hias.html) yang berlangsung sehari sebelumnya.
 Perhelatan perdana Aquaria Cina itu di Guangzhou, Provinsi Guangdong, Cina
 Selatan. Guangzhou dipilih lantaran saat ini menjadi sentra baru industri
-[ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") terbesar di negeri
+[ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") terbesar di negeri
 Tirai Bambu setelah Beijing dan Shanghai. Merujuk data panitia, tak kurang
 100.000 pekerja di sana menggantungkan asap dapur pada industri ikan hias.
 
@@ -34,7 +34,7 @@ penanggungjawab even 2 tahunan ikan hias Aquarama di Singapura. Tercatat dari
 80 perusahaan yang hadir, lebih dari setengahnya memamerkan Aksesori Aquarium
 seperti pompa, filter, dan akuarium. “Peserta asing yang hadir tidak sebanyak
 seperti [di Aquarama,’’ujar Hendra Suria, representatif Ocean Free di
-Indonesia](http://127.0.0.1/mitra/potensi-budidaya-perikanan-di.html) saat
+Indonesia](https://www.mitrausahatani.com/potensi-budidaya-perikanan-di.html) saat
 dihubungi per telepon. Selain Tetra, raksasa aksesori Eropa yang hadir hanya
 Jerrard Bros PLC asal Inggris. Mereka tampil dengan produk baru pompa head
 elektrik. Tuan rumah hadir full team. Beberapa produsen aksesori seperti Ocean
@@ -61,7 +61,7 @@ tidak tertarik hadir. “Ini kan even pertama jadi belum tahu efeknya. Kita
 sendiri tidak ada pengiriman ke sana,” papar Jap Khiat Bun, pemilik CV Maju
 Aquarium di Cibinong, Bogor. Terbukti selama pameran aksesori aquarium yang
 diprakarsai oleh Asia Pasifik Ornamental Fish Union (AOFU) berlangsung,
-pengunjung [dari luar negeri](http://127.0.0.1/mitra/4-sayuran-varietas-
+pengunjung [dari luar negeri](https://www.mitrausahatani.com/4-sayuran-varietas-
 unggul-dari-negeri.html) sedikit yang datang. “Selama pameran, suasana tampak
 sepi,” ujar Hendra Suria. Selama pameran Aksesori Aquarium yang berlangsung
 dari 9-12 September 2004 itu, sejak 10 September digelar berbagai acara

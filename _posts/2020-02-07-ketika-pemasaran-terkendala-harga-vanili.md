@@ -11,7 +11,7 @@ tags:
 - Vanilla tahitiensis
 
 modification_time: 2022-12-29 14:38:14
-blogger_orig_url: "http://localhost/mitra/pemasaran-terkendala-harga-vanili.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pemasaran-terkendala-harga-vanili.html"
 ---
 
 Harga vanili kering yang ditawarkan hanya Rp 500.000 per kg kering. Buntutnya,
@@ -28,7 +28,7 @@ mitrausahatani. Hal senada diungkapkan Petrus Parjiono. Vanili papua banyak
 ditolak eksportir lantaran pangsa pasar terbatas. Salah satu eksportir di
 Surabaya bahkan merugi lantaran 1 kontainer vanili papua yang dikirim ke
 Australia ditolak calon pembeli. ![vanili papua berukuran lebih bongsor
-dibandingkan planifolia](http://127.0.0.1/mitra/wp-
+dibandingkan planifolia](http://localhost/mitra/wp-
 content/uploads/2020/02/harga-vanili-1024x547.jpg)
 
 ## Kendala Pasar Yang terbatas
@@ -52,11 +52,11 @@ makanan, minuman, es krim, maupun parfum. Vanili tahitian juga dapat dipakai
 untuk industri makanan dan minuman. Contohnya di Amerika Serikat. “Di sana
 tahitian direkomendasikan untuk industri makanan seperti planifolia,” ungkap
 Presdir PT Bayu Jaya Kusuma itu ketika ditemui [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di Jayapura. Hanya saja, takaran pemakaiannya
+Tani](https://www.mitrausahatani.com) di Jayapura. Hanya saja, takaran pemakaiannya
 dalam formula harus diubah untuk mendapatkan rasa dan aroma produk sesuai
 keinginan konsumen. Resikonya, pabrik harus melakukan penelitian jangka
 panjang dengan biaya besar untuk mendapatkan formula yang tepat.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/budidaya-1024x546.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/02/budidaya-1024x546.jpg)
 
 ## Kendala waktu
 

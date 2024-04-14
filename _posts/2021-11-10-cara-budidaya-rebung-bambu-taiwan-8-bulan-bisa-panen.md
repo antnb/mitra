@@ -10,7 +10,7 @@ tags:
 - rebung
 
 modification_time: 2021-11-10 06:49:42
-blogger_orig_url: "http://localhost/mitra/cara-budidaya-rebung-bambu-taiwan-8.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-budidaya-rebung-bambu-taiwan-8.html"
 ---
 
 Dalam waktu 8 bulan rebung bambu taiwan sudah dapat dipanen. Bandingkan dengan
@@ -20,7 +20,7 @@ rebung bambu secara intensif belum banyak dilakukan di Indonesia. Hanya
 pengusaha bermodal besar saja yang berani mengembangkan komoditas ini. Rebung
 bambu yang ada di pasar, sebagian besar hasil hutan. Atau diperoleh dari
 rumpun bambu yang tumbuh sebagai pembatas lahan. Di Boyolali, [Mitra Usaha
-Tani](http://127.0.0.1/mitra) menemukan kebun bambu taiwan khusus untuk
+Tani](https://www.mitrausahatani.com) menemukan kebun bambu taiwan khusus untuk
 rebung. Pengelolanya Dinas Pertanian Kabupaten Boyolali dan Misi Teknik
 Pertanian Taiwan (ROC-ATM). Whu Kung Chu, Teknisi Misi Taiwan itu, membeberkan
 teknik budidaya intensif yang mereka lakukan. Penanaman bambu dengan tujuan
@@ -58,8 +58,8 @@ simpan di wadah berair supaya tumbuh akar baru. Pengambilan rimpang sebaiknya
 dilakukan 1 sampai 2 hari sebelum penanaman. Tingkat keberhasilan bibit
 rimpang lebih tinggi dibanding setek. [caption id="attachment_14756"
 align="aligncenter" width="1024"][![Tunas harus dibumbun
-penuh](http://127.0.0.1/mitra/wp-content/uploads/2021/11/Budidaya-Rebung-
-Bambu-Taiwan-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+penuh](http://localhost/mitra/wp-content/uploads/2021/11/Budidaya-Rebung-
+Bambu-Taiwan-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Budidaya-Rebung-Bambu-Taiwan.jpg) Tunas harus
 dibumbun[/caption] Kendalanya jumlah rimpang terbatas sehingga sulit
 memperoleh bibit dalam jumlah banyak. Pembatas lain adalah pengangkutan.
@@ -102,9 +102,9 @@ taiwan dilakukan di lahan yang dekat dengan sumber air. Untuk menjaga
 kelangsungan produksi, bambu taiwan secara rutin diberi kompos, Urea, SP-36,
 dan KC1. Frekuensi pemberian 2 kali setahun pada awal dan akhir musim hujan.
 Pemberiannya ditaburkan sekeliling rumpun bambu. Kemudian tutup dengan tanah
-sampai setebal 5cm sampai 10cm. [![](http://127.0.0.1/mitra/wp-
+sampai setebal 5cm sampai 10cm. [![](http://localhost/mitra/wp-
 content/uploads/2021/11/Rebung-Bambu-
-Taiwan-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+Taiwan-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Rebung-Bambu-Taiwan.jpg)
 
 ## Penanganan Pada Masa Panen dan pascapanen

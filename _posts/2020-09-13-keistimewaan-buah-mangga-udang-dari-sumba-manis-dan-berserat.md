@@ -9,18 +9,18 @@ tags:
 - Mangga
 
 modification_time: 2022-09-12 16:33:09
-blogger_orig_url: "http://localhost/mitra/keistimewaan-mangga-udang-dari-sumba.html"
+blogger_orig_url: "http://www.mitrausahatani.com/keistimewaan-mangga-udang-dari-sumba.html"
 ---
 
 Nun di Kecamatan Wanokaka, Kabupaten Sumba Barat, NTT, pohon mangga udang itu
 mudah ditemukan di halaman-halaman rumah penduduk. Dahulu Yacoba kecil tak
 pernah bosan menikmati mangga ranum yang manis dan segar. Terkadang tak perlu
 pisau untuk mengupas dan memotong buah. Sambil berteduh di bawah pohon, [Buah
-mangga ](http://127.0.0.1/mitra/topik/mangga)yang baru dipetik diremas-remas
+mangga ](https://www.mitrausahatani.com/topik/mangga)yang baru dipetik diremas-remas
 hingga dagingnya melunak. Lalu ujung buah disobek sedikit. Dari situ daging
 buah yang sudah bercampur air diseruput. Begitulah cara penduduk Wanokaka
 menyantap pou urang. "Asyik sekali, kata istri H. Jon Soehadijono itu sambil
-menikmatinya di hadapan [mitrausahatani](http://127.0.0.1/mitra). Kala
+menikmatinya di hadapan [mitrausahatani](https://www.mitrausahatani.com). Kala
 perempuan kelahiran Wanokaka 60 tahun silam itu pindah ke tanah Jawa, lezatnya
 pou urang sulit dinikmati. Maklum anggota famili Anacardiaceae itu tak
 ditemukan di daerah lain. Demi sebuah rindu pada kampung halaman, 8 tahun

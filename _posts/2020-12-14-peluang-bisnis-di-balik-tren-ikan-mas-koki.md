@@ -15,7 +15,7 @@ tags:
 - white ranchu
 
 modification_time: 2020-12-14 09:09:04
-blogger_orig_url: "http://localhost/mitra/peluang-bisnis-di-balik-tren-ikan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peluang-bisnis-di-balik-tren-ikan.html"
 ---
 
 Di tempat sama, kelahiran Bogor 25 tahun lalu itu sukses pula membeli kampiun
@@ -36,7 +36,7 @@ gelar young champion. Keberanian para hobiis membeli maskoki berharga tinggi
 itu sejalan tren maskoki yang kian merasuk. Di saat tren lou han sedang
 menurun, derajat maskoki melesat menuju puncak. Padahal waktu lou han berjaya
 selama 2 tahun terakhir, praktis kerabat ikan mas itu meluruk ke dasar bersama
-sama [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") tawar lain.
+sama [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") tawar lain.
 
 ## Kontes kian marak
 
@@ -60,8 +60,8 @@ peluang memasok Carrasius auratus bermutu ramai ramai dilirik. Menurut
 Iskandar dari Metro Lou han di Cileduk, Tangerang, sejak Juni sampai Agustus
 2003 hanya dia dan 2 importir di Jakarta yang rutin mendatangkan maskoki dari
 Cina. Namun, kini jumlahnya meningkat mencapai belasan importir. Mereka
-tersebar di Jakarta, Bandung, dan Surabaya. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/koi-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+tersebar di Jakarta, Bandung, dan Surabaya. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/koi-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/koi.jpg)
 
 ## Ramai ramai impor
@@ -99,8 +99,8 @@ kini menurunkan harga jual maskoki impor meski volume tetap sama seperti tahun
 sebelumnya, 15 sampai 20 boks per bulan. Iskandar pun lebih selektif memilih,
 ia hanya membeli maskoki yang jarang ditangkarkan di sini, misal: mutiara
 lionhead, ranchu, pompom berjambul, red cap, dan panda butterfly.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/ikan-mas-
-koi-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/ikan-mas-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/ikan-mas-
+koi-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/ikan-mas-
 koi.jpg)
 
 ## Dipasok Dari China
@@ -124,8 +124,8 @@ jenis jenis yang ada kelasnya di kontes seperti tossa, ranchu, dan oranda.
 kualitas kontes minimal dijual Rp3 juta per ekor. Langkah serupa ditempuh oleh
 Pieter dari Tropis Aquarium di Jakarta. "Untuk kualitas kontes menjelang dan
 sesudah lomba ada kenaikan sampai 2 kali lipat, pembeli maupun harga," ujar
-Pieter. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/budidaya-ikan-
-koi-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/budidaya-
+Pieter. [![](http://localhost/mitra/wp-content/uploads/2020/12/budidaya-ikan-
+koi-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/budidaya-
 ikan-koi.jpg)
 
 ## Pasar koi Lokal ikut terdongkrak
@@ -148,8 +148,8 @@ bulan ukuran 6 sampai 10 cm untuk jenis lionhead dan mata balon ke pedagang
 Jakarta, Yogya, Semarang, Bali, Surabaya, dan Malang. "Enam bulan lalu paling
 paling bisa menjual 3.000 ekor per bulan," ujar Sayuti. Untuk grade A dijual
 Rp5.000 sampai Rp7.000; apkir Rpl.000 sampai Rp 1.500. Seluruhnya dipasok dari
-kolam berukuran 50m2. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_koki2_651x768.jpg)](http://127.0.0.1/mitra/wp-
+kolam berukuran 50m2. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_koki2_651x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_koki2_651x768.jpg)
 
 ## koi Lokal berkualitas
@@ -171,7 +171,7 @@ para hobiis seperti Ever Tagoli dan Bahardiman di Bandung, Ir Fatono Wiredja
 di Bogor, YB Hariantono dan Tony Tjandra di Jakarta. "Ke depan mungkin kita
 akan memikirkan hanya induk maskoki saja yang boleh diimpor," ujar Dr Sumpeno
 Putro, MBA, Direktur Jenderal Peningkatan Kapasitas Kelembagaan dan Pemasaran
-Departemen Kelautan dan [Perikanan](http://127.0.0.1/mitra/perikanan
+Departemen Kelautan dan [Perikanan](https://www.mitrausahatani.com/perikanan
 "Perikanan") saat ditemui Bertha Hapsari dari Mitra usaha tani.
 
 

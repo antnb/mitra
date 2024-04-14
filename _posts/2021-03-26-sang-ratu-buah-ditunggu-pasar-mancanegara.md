@@ -16,7 +16,7 @@ tags:
 - permintaan pasar
 
 modification_time: 2021-03-26 01:38:21
-blogger_orig_url: "http://localhost/mitra/sang-ratu-buah-ditunggu-pasar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sang-ratu-buah-ditunggu-pasar.html"
 ---
 
 Deru mesin motor itu berujung di halaman gudang milik Sunardi di bilangan
@@ -40,8 +40,8 @@ karena ngga ada barang,” katanya.
 ## Ratu Buah Makin Diburu Pasar
 
 [caption id="attachment_8421" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/manggis3.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/manggis3.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/manggis3.jpg) Serapan pasar tinggi[/caption] Buah
 anggota famili _Guttiferae_ itu memang diburu pasar. Itu tercermin dari
 lonjakan permintaan para eksportir. PT Agroindo Usaha Jaya, umpamanya,
@@ -64,8 +64,8 @@ pasokan pengepul ratu buah memenuhi spesifikasi yang diinginkan.
 ## Produksi Manggis Di Tingkat Petani Makin Meningkat
 
 [caption id="attachment_8424" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/manggis2.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/manggis2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/manggis2.jpg) Mulai dikebunkan[/caption] Lonjakan
 permintaan pun dialami PT Alindojaya Pratama. Perusahaan itu mengekspor ratu
 buah ke Arab Saudi. Volume per pengiriman 1 ton. Padahal, Alindojaya
@@ -103,8 +103,8 @@ permintaan. Enen hanya mengandalkan pasokan pekebun.
 ## Pasokan Ratu buah Dari luar sentra
 
 [caption id="attachment_8423" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/manggis1.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/manggis1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/manggis1.jpg) Sortir untuk ekspor[/caption] Pekebun di
 Tasikmalaya umumnya mengirimkan manggis puspahyang. Harga beli Rp200 sampai
 Rp300 per kg lebih tinggi ketimbang manggis lain. Maklum, mutu ratu buah itu

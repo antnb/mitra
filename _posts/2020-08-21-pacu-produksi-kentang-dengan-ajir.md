@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-21 13:23:41
-blogger_orig_url: "http://localhost/mitra/pacu-produksi-kentang-dengan-ajir.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pacu-produksi-kentang-dengan-ajir.html"
 ---
 
 _Panen Asep T. Gunawan kali ini bakalan berhasil. Daun kentang yang biasanya
@@ -18,7 +18,7 @@ waktu panen, yakni 2,5 bulan, pertanamannya masih tampak hijau dan sehat.
 Selain itu, “Penyakit yang menyerang, seperti fusarium dan phytopthora bisa
 diatasi,” kata petani kentang di Cipanas tersebut. Bahkan terkesan serangannya
 dianggap 0%. Itu semua berkat ajir yang ditambahkannya._ Penyakit pada
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") kentang merupakan
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") kentang merupakan
 momok bagi petani. Kerugian yang diakibatkan bisa mencapai 100%. Karena itu
 petani harus menyediakan dana khusus untuk mengendalikannya. “Biayanya
 mencapai 30%-40% dari total pengeluaran produksi,” ujar Wildan Mustofa,

@@ -3,14 +3,14 @@ layout: post
 title: 'Khasiat Dan Manfaat Buah Merah Papua'
 categories: artikel|Herbal|kesehatan
 date: 2020-04-15 04:12:32
-author: Anton N
+author: Yudianto
 image: media/Buah-Merah-Papua1.jpg
 tags:
 - Buah merah
 - Papua
 
 modification_time: 2020-04-15 04:12:32
-blogger_orig_url: "http://localhost/mitra/khasiat-dan-manfaat-buah-merah-papua.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-dan-manfaat-buah-merah-papua.html"
 ---
 
 _Tiga puluh lima kali penyinaran tak juga mampu menjinakkan sel tumor yang
@@ -52,8 +52,8 @@ pendengaran, atau perasa pun terganggu. Bahkan, fungsi beberapa organ
 pancaindera dapat menurun sekaligus bila tekanan terjadi di pusat syaraf.
 “Dalam kasus Hamid, kemungkinan tumor berkembang di syaraf otak ke-7 dan
 ke-8,” paparnya. [caption id="attachment_20690" align="aligncenter"
-width="1133"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Buah-
-Merah-Papua.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Buah-
+width="1133"][![](http://localhost/mitra/wp-content/uploads/2020/04/Buah-
+Merah-Papua.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/Buah-
 Merah-Papua.jpg) Kulit, daging, dan sari buah benar-benar merah[/caption]
 
 ### Buah merah
@@ -66,7 +66,7 @@ bulan. Secercah harapan muncul ketika ia bertemu Salong, pegawai RS Dian
 Harapan, Jayapura yang dikenalnya saat diopname di sana hampir setahun lalu.
 Pria yang sehari-harinya bekeija di bagian pengamanan rumah sakit itu
 menyarankan Hamid untuk mencoba sari [buah
-merah](http://127.0.0.1/mitra/topik/buah-merah "buah merah") papua. “Banyak
+merah](https://www.mitrausahatani.com/topik/buah-merah "buah merah") papua. “Banyak
 penderita kanker sembuh setelah minum obat itu,” katanya meyakinkan. Informasi
 penting itulah yang membawa Hamid ke depan pintu rumah Drs I Made Budi MSi,
 penyedia sari buah merah. Pengajar di Jurusan Biologi, Fakultas Matematika dan
@@ -75,7 +75,7 @@ gencar-gencarnya mempromosikan khasiat buah merah. Melihat kondisi Hamid yang
 sangat memprihatinkan, hati nurani Made terketuk. Dua botol sari buah merah
 produksinya langsung diberikan cuma-cuma. “Waktu pertama kali datang ke saya
 kondisinya sudah parah, hampir tak ada harapan lagi,” papar Made ketika
-ditemui [Mitra Usaha Tani](http://127.0.0.1/mitra) di rumahnya di Abepura,
+ditemui [Mitra Usaha Tani](https://www.mitrausahatani.com) di rumahnya di Abepura,
 Jayapura. Tubuh kurus dan pucat pasi dengan wajah lesu seperti menahan sakit
 luar biasa.
 
@@ -102,7 +102,7 @@ selain obat merah, kini tak sebutir obat medis pun disentuhnya
 
 ### Buah Merah papua Kaya Akan Senyawa Antioksidan
 
-Masyarakat [pedalaman Papua](http://127.0.0.1/mitra/pemasaran-terkendala-
+Masyarakat [pedalaman Papua](https://www.mitrausahatani.com/pemasaran-terkendala-
 harga-vanili.html) sudah lama akrab dengan buah merah V .L s Pandanus
 coinedeus. Tanaman endemik Papua itu menjadi sumber pangan yang penting bagi
 masyarakat la mempunyai potensi kandungan gizi yang tinggi. “Buah merah
@@ -132,7 +132,7 @@ Asam lemak yang dikandung buah merah juga merupakan antibiotik dan antivirus
 alami yang kuat. Mereka ampuh membunuh bakteri, cendawan, dan virus penyebab
 infeksi. Karena kemampuan itulah, ia efektif menghambat dan membunuh sel-sel
 tumor yang aktif. Menurut Ir La Achmadi MMT, kepala Dinas Pertanian [Kabupaten
-Jayapura](http://127.0.0.1/mitra/topik/papua), buah merah bukan lagi tanaman
+Jayapura](https://www.mitrausahatani.com/topik/papua), buah merah bukan lagi tanaman
 liar yang tumbuh alami di hutan. “Tanaman keluarga pandan itu sudah
 dibudidayakan oleh orang Papua secara turun temurun di dusun-dusun (tanah
 adat, red),” paparnya. Selain dikonsumsi sebagai pangan alternatif, buah

@@ -10,7 +10,7 @@ tags:
 - jambu air
 
 modification_time: 2022-11-22 06:03:17
-blogger_orig_url: "http://localhost/mitra/ingin-tabulampot-jambu-citra-berbuah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ingin-tabulampot-jambu-citra-berbuah.html"
 ---
 
 Jambu Citra adalah sejenis pohon yang tumbuh di daerah tropis seperti

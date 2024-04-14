@@ -9,7 +9,7 @@ tags:
 - manggis
 
 modification_time: 2020-10-22 07:16:33
-blogger_orig_url: "http://localhost/mitra/cara-cepat-buahkan-manggis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-cepat-buahkan-manggis.html"
 ---
 
 Queen of fruit terkenal lama berbuah. Tanaman dari biji baru bisa dipanen

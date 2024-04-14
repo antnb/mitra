@@ -3,7 +3,7 @@ layout: post
 title: 'Seri Walet: Seriti pun Tak Merasa Ditipu'
 categories: Tak Berkategori
 date: 2020-12-28 12:59:20
-author: Anton N
+author: Yudianto
 image: media/Gambar_walet_1024x703.jpg
 tags:
 - piyik seriti
@@ -12,7 +12,7 @@ tags:
 - telur walet
 
 modification_time: 2020-12-28 12:59:20
-blogger_orig_url: "http://localhost/mitra/seri-walet-seriti-pun-tak-merasa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/seri-walet-seriti-pun-tak-merasa.html"
 ---
 
 Bukan tanpa alasan Gondol Sugito memusnahkan ratusan sriti pada awal 1992.
@@ -38,8 +38,8 @@ meyakinkan ayahnya.
 ## Tukar telur
 
 [caption id="attachment_3126" align="alignleft" width="346"][![sarang
-seriti](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_walet1_902x768.jpg)](http://127.0.0.1/mitra/wp-
+seriti](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_walet1_902x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_walet1_902x768.jpg) Ijuk bahan sarang
 seriti[/caption] Tahun itu juga Sugih menjual setengah sarang burung seriti
 untuk mendapat modal renovasi gedung. Jendela tak berkaca di lantai 2 ditutup

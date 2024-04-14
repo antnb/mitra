@@ -14,7 +14,7 @@ tags:
 - tobaco mosaic virus
 
 modification_time: 2021-04-29 12:35:13
-blogger_orig_url: "http://localhost/mitra/paprika-pancawarna-tobaco-mosaic-virus.html"
+blogger_orig_url: "http://www.mitrausahatani.com/paprika-pancawarna-tobaco-mosaic-virus.html"
 ---
 
 Sekarang pekebun mengembangkan Paprika pancawarna beragam warna seperti putih,
@@ -32,8 +32,8 @@ meramaikan pasar _Capsicum annuum var grossum_.
 
 ## Paprika Bianca
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/bianca.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/bianca.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/bianca.jpg) Inilah nama paprika putih susu keluaran
 Enza Zaden. Bianca merupakan hibrida paprika pertama yang berwarna putih susu.
 Varietas baru itu dipanen perdana setelah berumur 3 bulan. Awal panen buah
@@ -46,8 +46,8 @@ tanaman.
 
 ## Paprika Brownie
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/brownie.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/brownie.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/brownie.jpg) Sesuai dengan namanya, paprika ini
 berwarna cokelat. Ia termasuk varietas terbaru yang dikeluarkan oleh Enza
 Zaden. Ukuran buah relatif besar, berdiameter 85 mm, warna cokelat terang.
@@ -67,8 +67,8 @@ berubah: tetap hijau muda.
 
 ## Paprika Mavras
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/mavras.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/mavras.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/mavras.jpg) Buah mavras berwarna hitam. Warna buahnya
 memang hitam pekat dengan diameter 80 sampai 85 mm. Meskipun demikian, bila
 dibiarkan di batang selama 15 hari, warna buah berubah menjadi merah. Buah
@@ -79,8 +79,8 @@ terhadap Tobaco Mosaic Virus (Tm). Produktivitas mencapai 2 kg/tanaman.
 
 ## Paprika Tequila
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/tequila.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/tequila.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/tequila.jpg) Buah lonceng ini berwarna ungu cerah.
 Diameter buah relatif kecil, hanya 80 mm. Sosok tanaman rimbun, tapi tidak
 terlalu tegak. Tequila panen perdana setelah berumur 3 bulan. Bila umur panen

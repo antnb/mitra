@@ -10,7 +10,7 @@ tags:
 - White malaga
 
 modification_time: 2022-09-11 01:18:24
-blogger_orig_url: "http://localhost/mitra/anggur-hijau-kuning-dari-don-kruai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/anggur-hijau-kuning-dari-don-kruai.html"
 ---
 
 Udara terasa kering di bawah sorotan sang surya tengah hari. Suasana sunyi
@@ -21,7 +21,7 @@ red) Damnoensaduek, Provinsi Ratburi, Thailand. Padahal, dari desa itulah
 sejumlah toko buah dan pasar swalayan di Bangkok memperoleh anggur-anggur
 Hijau nan ranum. Dari jalan yang menghubungkan Provinsi Samutsongkhram dan
 Ratburi itu sama sekali tidak terlihat para-para tempat
-[anggur](http://127.0.0.1/mitra/topik/anggur) merambat. Yang menjadi panorama
+[anggur](https://www.mitrausahatani.com/topik/anggur) merambat. Yang menjadi panorama
 justru kebun asparagus, kailan, kacang panjang, dan kadang-kadang kebun jambu
 air. Seluruhnya ditanam dengan sistem suijan. Artinya, lahan dibagi dalam
 beberapa petak dan setiap petak dipisahkan oleh parit berisi air. Namun begitu
@@ -78,7 +78,7 @@ Perubahan suhu yang drastis membuat tanaman sama sekali tidak berproduksi.
 Jika pada kondisi normal bisa dipetik 3 sampai 5 ton buah/rai sekali panen,
 pada kwartal kedua paling banter hanya 0,5 ton anggur/rai/panen. Satu rai
 setara dengan 0,16 ha. [caption id="attachment_13901" align="aligncenter"
-width="1180"]![Kulit tebal, tapi manis](http://127.0.0.1/mitra/wp-
+width="1180"]![Kulit tebal, tapi manis](http://localhost/mitra/wp-
 content/uploads/2021/09/anggur1.jpg) Sistem surjan, ciri khas budidaya di
 Thailand[/caption]
 

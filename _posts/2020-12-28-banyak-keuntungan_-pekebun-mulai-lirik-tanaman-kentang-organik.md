@@ -10,7 +10,7 @@ tags:
 - Pupuk kandang
 
 modification_time: 2020-12-28 08:14:35
-blogger_orig_url: "http://localhost/mitra/tanaman-kentang-organik-makin-diminati.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-kentang-organik-makin-diminati.html"
 ---
 
 Di ketinggian 1.200 m dpi, lahan kentang itu tampak lain dari kebun di
@@ -42,8 +42,8 @@ bawah kanopi dengan dosis 150 cc per tanaman.
 ## Hama Kentang Mudah Di Atasi
 
 [caption id="attachment_3115" align="alignleft" width="325"][![budidaya
-kentang organik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_kentang_1024x684.jpg)](http://127.0.0.1/mitra/wp-
+kentang organik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_kentang_1024x684.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_kentang_1024x684.jpg) Produksi tidak kalah
 dengan penanaman konvensional[/caption] Selama ini kentang dikenal sebagai
 komoditas yang dikerubungi banyak hama dan penyakit. Itu yang menyebabkan

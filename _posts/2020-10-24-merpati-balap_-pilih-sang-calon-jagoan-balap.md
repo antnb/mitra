@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-24 12:44:42
-blogger_orig_url: "http://localhost/mitra/merpati-balap-pilih-sang-calon-jagoan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/merpati-balap-pilih-sang-calon-jagoan.html"
 ---
 
 Sampurna dan Elang M melesat bak anak panah begitu dilepas. Kedua merpati

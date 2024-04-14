@@ -11,10 +11,10 @@ tags:
 - pupuk
 
 modification_time: 2020-11-13 15:11:31
-blogger_orig_url: "http://localhost/mitra/pupuk-organik-eceng-gondok-bukan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pupuk-organik-eceng-gondok-bukan.html"
 ---
 
-Dulu dipuja sebagai [tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+Dulu dipuja sebagai [tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias"). Kini kehadiran eceng gondok malah bikin gondok. Sebab, gulma
 itu cepat berkembang biak sehingga menutupi perairan. I Gusti Made Arjana
 mengolahnya menjadi pupuk organik yang kaya asam humat. Ia terbukti memacu
@@ -26,8 +26,8 @@ pupuk anorganik. Dampaknya ketika hujan longsoran tanah yang mengandung sisa-
 sisa pupuk mengalir ke danau. Sedimentasi nan subur itu tak terhindarkan.
 Apalagi perkembangbiakan vegetatif _Eichornia crassipes_ itu sangat cepat.
 Untuk melipatgandakan populasi tanaman yang didatangkan Kebun Raya Bogor pada
-1894 hanya butuh 2-4 hari. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Eceng-Gondok3.jpg)](http://127.0.0.1/mitra/wp-
+1894 hanya butuh 2-4 hari. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Eceng-Gondok3.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Eceng-Gondok3.jpg)
 
 ## Kaya Kandungan Asam humat
@@ -60,7 +60,7 @@ meningkat hingga 50°C yang menandakan fermentesi tengah berlangsung.
 Fermentasi dianggap selesai ketika suhu menurun menjadi 30 °C. Arjana
 memanfaatkan pupuk eceng gondok untuk budidaya beragam sayuran seperti selada,
 buncis perancis, dan bit. Pengamatan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) di lahan Arjana menunjukkan, tanaman tumbuh
+Tani](https://www.mitrausahatani.com) di lahan Arjana menunjukkan, tanaman tumbuh
 subur. Padahal, kelahiran 12 Juli 1965 itu hanya memberikan pupuk eceng
 gondok. Pupuk anorganik tak pernah diaplikasikan sama sekali. Sukses itu
 akhirnya diikuti pekebun lain di sekitar Singaraja. Mereka juga memanfaatkan

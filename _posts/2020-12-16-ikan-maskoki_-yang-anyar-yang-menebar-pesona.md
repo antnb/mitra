@@ -12,11 +12,11 @@ tags:
 - white ranchu
 
 modification_time: 2020-12-16 08:04:57
-blogger_orig_url: "http://localhost/mitra/ikan-maskoki-yang-anyar-yang-menebar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ikan-maskoki-yang-anyar-yang-menebar.html"
 ---
 
 Sejak marak di tanah air, banyak hobiis mengimpor sang ratu ikan hias air
-tawar. Selain Nico, juga [YB Hariyantono](http://127.0.0.1/mitra/budidaya-
+tawar. Selain Nico, juga [YB Hariyantono](https://www.mitrausahatani.com/budidaya-
 maskoki-empat-lakon-yb.html), Harsono, ketiganya di Jakarta dan Ever Tagoli,
 hobiis di Bandung. “Kebetulan di sebuah farm koi di Jepang saya temukan
 beberapa maskoki unik. Semula saya ragu untuk membelinya karena berharga cukup
@@ -32,8 +32,8 @@ lionhead dan white ranchu. .
 
 ### Albino red eye
 
-[![Albino red eye goldfish](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_albino_red_eye_1024x696.jpg)](http://127.0.0.1/mitra/wp-
+[![Albino red eye goldfish](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_albino_red_eye_1024x696.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_albino_red_eye_1024x696.jpg)Sepintas sosoknya
 mirip maskoki lokal. Coba lihatlah di bawah cahaya lampu. Keistimewaan matanya
 terlihat jelas. Urat urat merah pada mata teleskop menambah anggun. “Ia
@@ -43,8 +43,8 @@ lambat. Umur 9 bulan hanya 6 cm, dan diperkirakan ukuran itu maksimal.
 
 ### Black ranchu
 
-[![Black ranchu goldfish](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_black_ranchu_1024x757.jpg)](http://127.0.0.1/mitra/wp-
+[![Black ranchu goldfish](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_black_ranchu_1024x757.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_black_ranchu_1024x757.jpg)Di Jepang jumlahnya
 terbatas. Di Indonesia masih langka. Berbeda dengan black lionhead, black
 ranchu ekornya mengembang seperti rok. Tubuh panjang sebagaimana red white
@@ -55,8 +55,8 @@ bulan.
 
 ### White lionhead
 
-[![White lionhead goldfish](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_white_lionhead_1024x660.jpg)](http://127.0.0.1/mitra/wp-
+[![White lionhead goldfish](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_white_lionhead_1024x660.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_white_lionhead_1024x660.jpg) Ia hasil silangan
 berulang ulang antara black lionhead dan lionhead yang mempunyai genetik
 putih. “Jambul agak kuning karena diberi color food,'' ujar Nico, sang
@@ -66,8 +66,8 @@ umur 9 bulan berukuran 10 cm.
 
 ### Silver ranchu
 
-[![silver ranchu goldfish](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_silver_ranchu_1024x696.jpg)](http://127.0.0.1/mitra/wp-
+[![silver ranchu goldfish](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_silver_ranchu_1024x696.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_silver_ranchu_1024x696.jpg)Paduan kuning
 keemasan, perak, dan hitam, di tubuh maskoki koleksi Ever Tagoli di Bandung
 ini memukau. Ketika dikonteskan di Star Was Surabaya hampir dapat gelar.
@@ -86,8 +86,8 @@ sekali kanT' seru Hariantono sambil mengelus koleksinya.
 
 ### White ranchu
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/white_ranchu.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/white_ranchu.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/white_ranchu.jpg)White ranchu tergolong langka. Oleh
 karena itu Nico tertarik untuk menciptakannya. Sebagaimana jenis rancu, tubuh
 white ranchu panjang dan ekor mengembang. Ia hasil silangan sesama red white
@@ -97,8 +97,8 @@ diberikan yang biasa digunakan untuk koi.
 
 ### Showamoor
 
-[![Showamoor goldfish](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_shawoor_1024x698.jpg)](http://127.0.0.1/mitra/wp-
+[![Showamoor goldfish](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_shawoor_1024x698.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_shawoor_1024x698.jpg)Selama ini untuk maskoki
 moor yang banyak dikenal hanya blackmoor, berwarna hitam legam. Padahal,
 selain itu ada kalikomoor, jenis moor dengan tiga warna: hitam, merah, dan

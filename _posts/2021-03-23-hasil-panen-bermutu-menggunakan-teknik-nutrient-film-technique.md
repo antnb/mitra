@@ -15,7 +15,7 @@ tags:
 - teknologi
 
 modification_time: 2021-03-23 08:52:22
-blogger_orig_url: "http://localhost/mitra/panen-teknik-nutrient-film-technique.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-teknik-nutrient-film-technique.html"
 ---
 
 Pernah tidur di dalam kelambu? Serra kasa alias kelambu superbesar itu kini
@@ -35,8 +35,8 @@ berukuran 3 m x 1,5 m x 0,30 m.
 ## Biaya Produksi Jauh Lebih irit
 
 [caption id="attachment_8328" align="aligncenter"
-width="1328"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/greenhouse1.jpg)](http://127.0.0.1/mitra/wp-
+width="1328"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/greenhouse1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/greenhouse1.jpg) Screenhouse dapat menghemat biaya
 produksi[/caption] Biaya pembuatan serra kasa hanya Rp20.000 per m2. Yos
 semula menggunakan serra plastik. Menurut perhitungan pakar hidroponik itu
@@ -66,12 +66,12 @@ mengelola 4 serra kasa. Total jenderal luasnya 2.066 m2.
 ## Masalah Dan Kendala di lapangan
 
 [caption id="attachment_8327" align="aligncenter"
-width="938"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/greenhouse.jpg)](http://127.0.0.1/mitra/wp-
+width="938"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/greenhouse.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/greenhouse.jpg) Caisim dalam Greenhouse, siap
 panen[/caption] Serra kasa dapat digunakan di berbagai lahan, termasuk yang
 bergelombang, dengan beragam sistem budidaya. Yang [cocok
-dibudidayakan](http://127.0.0.1/mitra/menyibak-peluang-bisnis-sawi.html) di
+dibudidayakan](https://www.mitrausahatani.com/menyibak-peluang-bisnis-sawi.html) di
 dalamnya adalah tanaman yang senang sinar matahari, seperti pakchoy, kaylan,
 romain lettuce, bayam, dan kangkung. Intensitas cahaya di dalam serra kasa 60
 mesh cukup berlimpah. Itu cocok untuk pertumbuhan sayuran. Hal ini terbukti
@@ -92,8 +92,8 @@ rata-rata 66%. Itulah sebabnya produktivitas tanaman sangat tergantung musim.
 ## Diangin-angin
 
 [caption id="attachment_8330" align="aligncenter"
-width="1274"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/sayuran.jpg)](http://127.0.0.1/mitra/wp-
+width="1274"][![](http://localhost/mitra/wp-
+content/uploads/2021/03/sayuran.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/sayuran.jpg) Subur Dan BeBas Gangguan Hama[/caption]
 Saat musim hujan produktivitas menurun dan meningkat saat kemarau, dengan
 kisaran 20%. Produksi kaylan, nmpamanva. pada musim kemarau mencapai 2 5

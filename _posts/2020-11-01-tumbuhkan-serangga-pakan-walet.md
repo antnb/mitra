@@ -10,7 +10,7 @@ tags:
 - walet
 
 modification_time: 2020-11-01 10:00:46
-blogger_orig_url: "http://localhost/mitra/tumbuhkan-serangga-pakan-walet.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tumbuhkan-serangga-pakan-walet.html"
 ---
 
 Saat ini banyak peternak sadar betapa pentingnya serangga dalam budidaya
@@ -27,8 +27,8 @@ beringin, waru, tebu, petaicina, dan pisang di lingkungan rumah. "Meski tidak
 mencukupi, tambahan pakan sangat berguna saat ketersediaan pakan di alam
 berkurang," kata Boedi Mranata, pakar walet di Jakarta. Idealnya jumlah pakan
 alami buatan dapat mencukupi kebutuhan masing-masing gedung. Walet tak usah
-repot-repot mencari pakan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Pakan.jpg)](http://127.0.0.1/mitra/wp-
+repot-repot mencari pakan. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Pakan.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Pakan.jpg)
 
 ## Ratusan jenis
@@ -59,8 +59,8 @@ diujicobakan di salah satu bangunan baru berlantai 2 milik Andreas Susanto
 Seno yang terletak di Kedungampel, Gombong, Kebumen, Jawa Tengah, itu
 memancing walet. Tiga bulan berselang sudah terlihat 5 pasang menempel di
 lagur [caption id="attachment_20444" align="aligncenter"
-width="1367"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Pakan-
-burung-Walet.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Pakan-
+width="1367"][![](http://localhost/mitra/wp-content/uploads/2020/11/Pakan-
+burung-Walet.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Pakan-
 burung-Walet.jpg) Serangkaian ujicoba dilakukan untuk memproduksi pakan
 alami[/caption]
 

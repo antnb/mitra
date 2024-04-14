@@ -3,14 +3,14 @@ layout: post
 title: 'Kriteria Memilih Virgin coconut oil Bermutu'
 categories: artikel|Herbal
 date: 2020-10-26 06:08:49
-author: Anton N
+author: Yudianto
 image: media/Virgin-Coconut-Oil-3.jpeg
 tags:
 - coconut oil
 - vco
 
 modification_time: 2020-10-26 06:08:49
-blogger_orig_url: "http://localhost/mitra/kriteria-memilih-virgin-coconut-oil.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kriteria-memilih-virgin-coconut-oil.html"
 ---
 
 Tiga saudara Kleting Abang, Kleting Ijo, dan Kleting Biru-datang melamar Ande-
@@ -80,7 +80,7 @@ Bioteknologi alumnus University of New South Wales itu. Setiap jenis dan warna
 kemasan mempunyai kelemahan dan kelebihan. Botol berbahan polyethilen,
 misalnya, relatif tidak toksik ketimbang jenis bahan lain. Pori-porinya yang
 rapat mencegah masuknya udara (baca: Pilihan Baju Buat sang Perawan, [Mitra
-Usaha Tani](http://127.0.0.1/mitra) Oktober 2005, halaman 24-25). Kemasan
+Usaha Tani](https://www.mitrausahatani.com) Oktober 2005, halaman 24-25). Kemasan
 botol gelap, bagus, sayang konsumen tidak dapat melihat kejernihannya. Itulah
 sebabnya diperlukan kemasan sekunder berupa kardus bila memanfaatkan botol
 transparan. Dengan begitu VCO terlindung dari sinar matahari. Ingat VCO tidak

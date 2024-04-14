@@ -13,7 +13,7 @@ tags:
 - tanaman
 
 modification_time: 2019-10-29 12:52:00
-blogger_orig_url: "http://localhost/mitra/kontes-best-bonsai-santigi-show.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kontes-best-bonsai-santigi-show.html"
 ---
 
 _Pemphis ocidulo_ itu tetap tumbuh baik. Batangnya yang meliuk-liuk dengan
@@ -29,8 +29,8 @@ Hasil rekayasa manusia sudah tidak terlihat. Begitulah penampilan bonsai
 santigi karang milik Wayan Artana dari Kabupaten Gianyar, Provinsi Bali,
 sebagai best of the best. [caption id="attachment_16114" align="aligncenter"
 width="640"][![bonsai Santigi milik Wayan Arthana dari Bali menjadi jawara
-berdasarkan penilaian juri lokal dan mancanegara](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/bonsai_640x347.jpg)](http://127.0.0.1/mitra/wp-
+berdasarkan penilaian juri lokal dan mancanegara](http://localhost/mitra/wp-
+content/uploads/2019/10/bonsai_640x347.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/bonsai_640x347.jpg) Santigi milik Wayan Arthana dari
 Bali menjadi jawara berdasarkan penilaian juri lokal dan mancanegara[/caption]
 
@@ -73,8 +73,8 @@ pantai yang bersuhu panas. Sebagai tanaman pantai, santigi menyukai air
 bergaram atau air laut. Wayan menyiramkan air laut ke tanamannya sekali
 sepekan. [caption id="attachment_16113" align="aligncenter"
 width="468"][![Cemara sargentii milik Eric Setiadi jawara best in size
-small](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/bonsai_468x480.jpg)](http://127.0.0.1/mitra/wp-
+small](http://localhost/mitra/wp-
+content/uploads/2019/10/bonsai_468x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/bonsai_468x480.jpg) Cemara sargentii milik Eric
 Setiadi jawara best in size small[/caption]
 

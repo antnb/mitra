@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-18 16:08:12
-blogger_orig_url: "http://localhost/mitra/red-shock-si-raja-merah-sang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/red-shock-si-raja-merah-sang.html"
 ---
 
 Sosoknya nyaris sempurna. Kepala nongnong, bermuka lebar, dan ekor mengembang.
@@ -42,7 +42,7 @@ Yang membidani lahirnya red shock adalah Pomlet Kong Pomjarat, penangkar lou
 han asal Thailand. Pemilik Bangna Farm itu memang hobi menyilangkan siklid.
 
 Red shock hasil perkawinan antara induk jantan vieja hartweji [siklid
-asli](http://127.0.0.1/mitra/arwana-super-red-sapuan-merah-tubuh.html)
+asli](https://www.mitrausahatani.com/arwana-super-red-sapuan-merah-tubuh.html)
 Bangkok. Betina siklid silangan mirip red devil tapi bermata merah asal
 Amerika Serikat.
 
@@ -90,7 +90,7 @@ ekor berpindah tangan ke para mania lou han di Jakarta.
 
 ### Cepat bosan
 
-Harga red shock [tidak semahal](http://127.0.0.1/mitra/ranchu-thailand-dan-
+Harga red shock [tidak semahal](https://www.mitrausahatani.com/ranchu-thailand-dan-
 china-rebut-pasar.html) kemalau yang sekarang jadi buah bibir. Untuk ikan
 berukuran 2,5 inci dibandrol Rp275-ribu/ekor. Sedikit lebih mahal ketimbang
 red syn, Rp250-ribu/ekor. Sedang red shock kualitas kontes berukuran 5 inci

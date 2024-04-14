@@ -13,7 +13,7 @@ tags:
 - terung jepang
 
 modification_time: 2021-02-06 05:38:20
-blogger_orig_url: "http://localhost/mitra/tepung-jepang-cocok-di-dataran-medium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tepung-jepang-cocok-di-dataran-medium.html"
 ---
 
 Apa susahnya menanam terung jepang, toh sama-sama terung. Pikiran seperti ini
@@ -32,8 +32,8 @@ berusaha diadaptasikan di daerah tropis.
 ## Lahan Medium
 
 [caption id="attachment_8067" align="aligncenter" width="492"][![lahan medium
-pertanian terong](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_medium_1024x683.jpg)](http://127.0.0.1/mitra/wp-
+pertanian terong](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_medium_1024x683.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_medium_1024x683.jpg) lahan medium[/caption]
 Jangan menanam terung jepang di lahan bekas tanaman tembakau atau cabai. Layu
 bakteri pasti menyerang. PT Mitratani Dua Tujuh mengembangkannya di lahan-
@@ -57,8 +57,8 @@ tanah ber-pH 6 sampai netral.
 ## Aplikasi Mulsa
 
 [caption id="attachment_8069" align="aligncenter" width="506"][![mulsa
-pertanian](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_mulsa_1024x576.jpeg)](http://127.0.0.1/mitra/wp-
+pertanian](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_mulsa_1024x576.jpeg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_mulsa_1024x576.jpeg) Penggunaan mulsa pada
 lahan[/caption] Sebaiknya menanam terung jepang menggunakan mulsa. Terung ini
 tidak begitu tahan bersaing dengan gulma. Buatlah bedengan selebar 100 sampai
@@ -86,9 +86,9 @@ Yudi.
 ## Proses Perawatan Hingga Panen
 
 [caption id="attachment_8070" align="aligncenter" width="443"][![panen
-komoditas terong](http://127.0.0.1/mitra/wp-
+komoditas terong](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_panen-
-terong_1024x680.jpg)](http://127.0.0.1/mitra/wp-
+terong_1024x680.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_panen-terong_1024x680.jpg) hasil panen
 terong[/caption] Kecuali pemupukan, perawatan yang perlu diperhatikan antara
 lain penyulaman, pewiwilan, penyiraman dan pengajiran. Penyulaman diberi
@@ -114,7 +114,7 @@ produksi, 1,5 sampai 2 kg optimis tercapai. Tak dipungkiri, ada buah afkir
 walau kurang dari 5%. Hama belalang, ulat grayak, dan thrips seringkali
 mengganggu. Di luar semua itu, keberhasilan harus didukung kondisi pengairan
 yang bagus. Terung jepang tidak suka kekurangan atau terlalu banyak air. Pada
-musim hujan kemarin ini banyak [pertanaman](http://127.0.0.1/mitra/pertanian
+musim hujan kemarin ini banyak [pertanaman](https://www.mitrausahatani.com/pertanian
 "pertanaman") terung jepang yang gagal. "Lahan terung selalu pada kondisi
 kapasitas lapang. Artinya jika ditanam pada musim kemarau harus rajin
 disiram," Yudi menambahkan.

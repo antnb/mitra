@@ -9,7 +9,7 @@ tags:
 - jambu
 
 modification_time: 2021-01-23 08:20:22
-blogger_orig_url: "http://localhost/mitra/jambu-sukun-bangkok-jumbo.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jambu-sukun-bangkok-jumbo.html"
 ---
 
 Penampilan jambu sukun super jumbo itu memang menggiurkan. Bentuk nyaris
@@ -48,8 +48,8 @@ besar sehingga tak sempat memenuhi permintaan ekspor.
 ## Jambu bangkok New variety
 
 [caption id="attachment_7958" align="alignleft" width="207"][![bangkok
-epal](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_epal_814x768.jpg)](http://127.0.0.1/mitra/wp-
+epal](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_epal_814x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_epal_814x768.jpg) Berlekuk-lekuk ciri khas
 bangkok epal[/caption] Keistimewaan jambu bangkok epal dan farang membuat
 Prakoso Heryono, penangkar buah di Demak, kepincut. Makanya saat berkunjung ke

@@ -15,7 +15,7 @@ tags:
 - wortel
 
 modification_time: 2022-09-18 12:57:03
-blogger_orig_url: "http://localhost/mitra/mesin-pengering-sayuran-dried.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mesin-pengering-sayuran-dried.html"
 ---
 
 Salah satu cara untuk menjaga kualitas sayuran segar adalah dengan menggunakan
@@ -25,7 +25,7 @@ mesin pengering sayuran akan membuat sayuran lebih awet sehingga tidak mudah
 rusak dan membuatnya lebih tahan lama. Mesin pengering sayuran telah lama
 menjadi bagian dari kehidupan kita. Mesin ini dirancang untuk mengeringkan
 sayuran dengan cepat dan efisien. pengering ini sering digunakan di
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") dan rumah tangga.
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") dan rumah tangga.
 Mesin pengering sayuran dapat mengeringkan berbagai jenis sayuran seperti
 wortel, kol, tomat, dan bawang. Dengan mesin pengering sayuran, dried
 vegetable itu langsung diseduh air panas. Dalam waktu 1 menit, sayuran yang
@@ -82,8 +82,8 @@ dipasarkan hingga Taiwan.
 ## Pengaturan suhu secara otomatis
 
 [caption id="attachment_8390" align="aligncenter" width="300"][![bahan sayuran
-kering](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/kering-300x169.jpg)](http://127.0.0.1/mitra/wp-
+kering](http://localhost/mitra/wp-
+content/uploads/2021/03/kering-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/kering.jpg) Sayuran kering, sebagai hiasan dan
 pelengkap hidangan[/caption] Mesin pengering sayuran ini cocok untuk sayuran
 berkadar air tinggi, 80 sampai 90% lantaran proses pengeringan cepat, merata,
@@ -110,8 +110,8 @@ pemanasan 12 jam menghabiskan 2 tabung gas,” ujar ayah 2 putri itu.
 
 [caption id="attachment_8389" align="aligncenter" width="300"][![mesin
 pengering sayuran dried vegetable buatan Ir Sigit
-Triwahyudi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/03/pengering-300x202.jpg)](http://127.0.0.1/mitra/wp-
+Triwahyudi](http://localhost/mitra/wp-
+content/uploads/2021/03/pengering-300x202.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/03/pengering.jpg) Mesin pengering dried vegetable mirip
 terowongan[/caption] Kadar air sayuran kering mampu ditekan hingga 11 sampai
 12%, supaya cendawan enggan tumbuh. Suhu dan waktu pemanasan tergantung jenis

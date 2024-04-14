@@ -11,7 +11,7 @@ tags:
 - wereng
 
 modification_time: 2021-12-03 11:16:34
-blogger_orig_url: "http://localhost/mitra/pestisida-nabati-organik-hama-wereng.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pestisida-nabati-organik-hama-wereng.html"
 ---
 
 Pestisida Nabati berbahan kentang terbukti manjur untuk membasmi beragam hama
@@ -20,7 +20,7 @@ acap kali mengolah kentang, tetapi bukan menjadi french fries, melainkan
 insektisida nabati untuk mengatasi serangan wereng. Petani organik di Wonosidi
 Kidul, Kabupaten Kulonprogo, Provinsi Yogyakarta, itu mengatakan tingkat
 keberhasilannya mencapai 70%. Satria memperoleh informasi Pestisida Nabati
-alami untuk [pertanian](http://127.0.0.1/mitra/pertanian "pertanian") kentang
+alami untuk [pertanian](https://www.mitrausahatani.com/pertanian "pertanian") kentang
 dari petugas penyuluh lapang di Juwiring Kabupaten Klaten, Jawa Tengah, pada
 Juli pertengahan tahun. Setelah mencoba menyemprotkan ramuan berbahan kentang,
 tingkat keberhasilannya hanya 40%. Artinya, dari 19 demonstrasi plot masing-

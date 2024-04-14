@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-20 15:32:52
-blogger_orig_url: "http://localhost/mitra/tubuh-bugar-karena-bebas-residu.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tubuh-bugar-karena-bebas-residu.html"
 ---
 
 Dua tahun lalu merupakan lembaran hitam bagi kesehatan Sri Qoriah. Ia
@@ -83,7 +83,7 @@ penggunaan pupuk kandang sebagai unsur hara.
 
 Pendapat-pendapat mengenai keampuhan organik perlu dicermati secara wajar.
 “Belum ada bukti menunjukkan jika pangan organik lebih sehat, lebih bergizi,
-dan lebih aman. Tanpa [pertanian](http://127.0.0.1/mitra/pertanian
+dan lebih aman. Tanpa [pertanian](https://www.mitrausahatani.com/pertanian
 "pertanian") konvensional sebagian umat malah akan mengalami kelaparan,” tutur
 Dr Ali Khomsan, ahli gizi dari Institut Pertanian Bogor.
 

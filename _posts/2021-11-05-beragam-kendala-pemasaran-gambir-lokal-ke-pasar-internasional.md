@@ -10,7 +10,7 @@ tags:
 - gambir
 
 modification_time: 2022-09-20 06:22:55
-blogger_orig_url: "http://localhost/mitra/kendala-pemasaran-gambir-lokal-ke.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kendala-pemasaran-gambir-lokal-ke.html"
 ---
 
 **Gambir** (Uncaria) adalah sejenis pohon yang tumbuh di daerah tropis seperti
@@ -78,8 +78,8 @@ India. "Kami harus menjemur selama 3 hari untuk memperoleh kadar air 14%
 sebagai standar kualitas yang diminta," kata Marzuki. gambir lokal yang
 diterima dari pekebun umumnya berkadar air 17%. Selain itu, standar mutu
 lainnya adalah kadar katecin 50% dan warna cokelat terang.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2021/11/kebun-
-gambir-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/kebun-
+[![](http://localhost/mitra/wp-content/uploads/2021/11/kebun-
+gambir-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/kebun-
 gambir.jpg)
 
 ## Kendala Pemasaran Gambir
@@ -92,7 +92,7 @@ Chandra. Kuantitas persediaan itu minimal 15 ton. "Begitu ada permintaan
 importir, kami sudah siap. Memang biasanya permintaan setiap buyer 30ton. Tapi
 dengan mempunyai persediaan setengahnya, kami jadi lebih mudah mencari
 kekurangannya," papar Chandra ketika ditemui [Mitra Usaha
-Tani](http://127.0.0.1/mitra/) di kantor barunya di bilangan Cibubur, Jakarta
+Tani](https://www.mitrausahatani.com/) di kantor barunya di bilangan Cibubur, Jakarta
 Timur. Di samping itu, kendala lain menurut Chandra adalah, "Mahalnya biaya
 pengiriman." [Pengiriman
 gambir](https://www.ekon.go.id/publikasi/detail/3116/komoditas-gambir-

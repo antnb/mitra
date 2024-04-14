@@ -10,7 +10,7 @@ tags:
 - labu
 
 modification_time: 2020-11-09 10:40:24
-blogger_orig_url: "http://localhost/mitra/mendulang-laba-dari-labu-jepang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mendulang-laba-dari-labu-jepang.html"
 ---
 
 Memperluas areal penanaman kabocha menjadi keputusan Agus Suhendar. Laba pang
@@ -57,14 +57,14 @@ di sektor budidaya, hambatan lain berupa pemasaran. Ketika daya beli
 masyarakat melemah, menurut Mastur, sulit memasarkan kabocha. Beberapa bulan
 terakhir pasokan Mastur Fuad turun separuhnya dari sebelumnya 100 kg per hari.
 Hal serupa dialami H. Muhammad Saputro dan Benny Kusumayadi dengan volume
-setara. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Labu-
-Jepang.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Labu-
+setara. [![](http://localhost/mitra/wp-content/uploads/2020/11/Labu-
+Jepang.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Labu-
 Jepang.jpg)
 
 ## Akhir tahun ditunggu
 
 Walau begitu 5 pedagang yang dihubungi [Mitra Usaha
-Tani](http://127.0.0.1/mitra) sepakat, permintaan labu kabocha selalu melonjak
+Tani](https://www.mitrausahatani.com) sepakat, permintaan labu kabocha selalu melonjak
 menjelang Ramadhan. “Bulan puasa permintaan kabocha meningkat hingga 50-100%,”
 ujar H. Muhammad Saputro. Lonjakan permintaan lantaran, “Orang yang biasanya
 tak mengkonsumsi, pada bulan puasa membuat kolak kabocha karena rasanya
@@ -91,8 +91,8 @@ penanaman monokultur biaya produksi hanya Rp 1.200-Rp 1.500 per tanaman.
 Dengan harga Rp2.000 per kg pekebun jelas untung. Sebab, setiap tanaman
 menghasilkan 1-3 kg. Menurut Agus Suhendar pekebun tertarik membudidayakan
 kabocha karena, “Biaya dan risiko rendah, harga relatif tinggi. Selain itu
-masih sedikit pesaing.” [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/labu.jpg)](http://127.0.0.1/mitra/wp-
+masih sedikit pesaing.” [![](http://localhost/mitra/wp-
+content/uploads/2020/11/labu.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/labu.jpg)
 
 ## Jalin kemitraan

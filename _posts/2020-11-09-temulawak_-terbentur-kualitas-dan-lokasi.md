@@ -9,7 +9,7 @@ tags:
 - temulawak
 
 modification_time: 2020-11-09 14:47:11
-blogger_orig_url: "http://localhost/mitra/temulawak-terbentur-kualitas-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/temulawak-terbentur-kualitas-dan.html"
 ---
 
 Industri jamu setiap bulan membutuhkan 200 ton rimpang temulawak. Meski
@@ -34,8 +34,8 @@ Harapan bisa menjual Rpl.000/kg rimpanng basah tinggal impian semata. Saat
 panen tiba sekilo temulawak cuma ditawar Rp450 padahal ongkos produksi
 Rp750/kg. Selisih minus Rp300/kg atau Rp600.000 dari total hasil panen 0,5 ha
 itu harus ditanggung Munarsito. Oleh karena itu pada musim tanam sekarang ia
-memilih jagung. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Temulawak.jpg)](http://127.0.0.1/mitra/wp-
+memilih jagung. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Temulawak.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Temulawak.jpg)
 
 ## Standar mutu temulawak berkualitas
@@ -58,8 +58,8 @@ omzet Rp3-juta per panen. Awalnya ia menanam temulawak di sela-sela cengkeh
 seluas 500 m2. Sembilan bulan kemudian 1,5 ton rajangan kering dibeli pengepul
 Rp2.000/ kg. Setelah dikurangi ongkos produksi Rp 1.200/kg , Sawiran meng-utip
 laba Rp800/kg. Karena menjanjikan untung, pertengahan 2002 ia memperluas lahan
-menjadi 1 ha. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/rimpang-
-Temulawak.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/rimpang-
+menjadi 1 ha. [![](http://localhost/mitra/wp-content/uploads/2020/11/rimpang-
+Temulawak.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/rimpang-
 Temulawak.jpg)
 
 ## Temulawak Olahan
@@ -68,7 +68,7 @@ Pintu pekebun lain untuk meraup untung memang belum tertutup. Yatin memilih
 beralih profesi dari pekebun menjadi pengepul. Wanita setengah baya di Desa
 Jambu, Kecamatan Jambu, Ambarawa, itu sebelumnya menanam temulawak di lahan
 1.000 m2. “Susah pak ngejualnya.” ucap Yatin pada [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Rezeki Yatin mengalir lancar setelah bermitra
+Tani](https://www.mitrausahatani.com). Rezeki Yatin mengalir lancar setelah bermitra
 dengan 25 pekebun di Purworejo, Cilacap, dan Boyolali. April-Agustus setiap
 tahun saat panen raya 20 ton/bulan rajangan kering temulawak dikirim ke
 berbagai industri jamu besar dan kecil. Ibunda Wiwik Wahyuningsih itu mengutip
@@ -89,7 +89,7 @@ merangkul pekebun-pekebun temulawak agar pasokan bahan baku terjamin. Industri
 jamu tradisional pun tak ketinggalan menguber temulawak. Jamu Onta Ny Kwa Sam
 Tiong di Ambarawa misalnya, setiap pekan butuh 80 kg temulawak. “Di sini laku
 dijual baik basah, rimpang, atau serbuk”, ucap Musa pengelola Jamu Onta.
-Padahal dari 'pengamatan [Mitra Usaha Tani](http://127.0.0.1/mitra) ada 3
+Padahal dari 'pengamatan [Mitra Usaha Tani](https://www.mitrausahatani.com) ada 3
 usaha serupa di bilangan Jalan Brigjen Sudarto, Ambarawa itu.
 
 

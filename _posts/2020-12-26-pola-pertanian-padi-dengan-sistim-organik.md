@@ -14,7 +14,7 @@ tags:
 - sawah organik
 
 modification_time: 2020-12-26 13:28:43
-blogger_orig_url: "http://localhost/mitra/pola-pertanian-padi-dengan-sistim.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pola-pertanian-padi-dengan-sistim.html"
 ---
 
 Bukan karena sentimentil bila pria paruh baya itu melongok ke masa silam.
@@ -34,8 +34,8 @@ Paling hanya 5 ton.
 
 ## Harga pupuk yang terus membumbung
 
-[![sawah organik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_padi_organik-2_1024x609.jpg)](http://127.0.0.1/mitra/wp-
+[![sawah organik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_padi_organik-2_1024x609.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_padi_organik-2_1024x609.jpg)Mudah ditebak,
 dengan harga pupuk yang terus membumbung, pekebun pun tercekik biaya produksi.
 Sementara kenaikan harga gabah tak sejalan. “Kalau dulu pekebun bisa
@@ -72,8 +72,8 @@ organik.”
 
 ## Jaminan Permintaan pasar
 
-[![pemasaran padi organik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_padi_organik-5_1024x574.jpg)](http://127.0.0.1/mitra/wp-
+[![pemasaran padi organik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_padi_organik-5_1024x574.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_padi_organik-5_1024x574.jpg)Melihat
 keberhasilan itu, pekebun lain mulai melirik. Sebut saja 10 anggota Kelompok
 Tani Mulya VI pimpinan Ngadimin. Masing-masing mengelola 1/3 ha. Pun tetangga
@@ -97,8 +97,8 @@ Soemamo.
 
 ## Metode Pertanian organik makin Meluas
 
-[![Persawahan organik di mekong thailand](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_padi_organik2_1024x695.jpg)](http://127.0.0.1/mitra/wp-
+[![Persawahan organik di mekong thailand](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_padi_organik2_1024x695.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_padi_organik2_1024x695.jpg)Hasilnya kini mulai
 terasa. Pada musim tanam 2003, tercatat 1.892 ha areal penanaman padi organik.
 Lokasi tersebar di 20 kecamatan. Penanaman terluas di Kecamatan Kedawung,

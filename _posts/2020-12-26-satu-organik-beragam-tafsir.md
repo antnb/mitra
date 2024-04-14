@@ -12,7 +12,7 @@ tags:
 - sertifikat produk organik
 
 modification_time: 2020-12-26 12:14:31
-blogger_orig_url: "http://localhost/mitra/satu-organik-beragam-tafsir.html"
+blogger_orig_url: "http://www.mitrausahatani.com/satu-organik-beragam-tafsir.html"
 ---
 
 Agus Suryanto menganggap pertanian organik itu mesti berlandaskan biodiversity
@@ -25,7 +25,7 @@ mengembalikan kesuburan tanah,” kata doktor Ekologi alumnus Universitas
 Gadjahmada. Karena itulah ia menganjurkan agar hama tak dimusnahkan, tetapi
 cukup dikendalikan. Hal lain diungkapkan Dr Ir Sunarto Goenadi DAA, direktur
 Persada, di Yogyakarta. Menurutnya
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian") organik itu suatu
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian") organik itu suatu
 sistem dalam memproses biomassa. Jadi tidak hanya melihat proses di lapangan,
 tetapi juga inputnya, organik atau tidak. Bila suatu petakan menerapkan sistem
 organik, tetapi petakan di sebelahnya tidak, lahan itu tidak bisa disebut

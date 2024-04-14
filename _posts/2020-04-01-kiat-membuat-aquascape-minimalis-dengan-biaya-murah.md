@@ -9,22 +9,22 @@ tags:
 - 
 
 modification_time: 2020-04-01 14:27:24
-blogger_orig_url: "http://localhost/mitra/kiat-membuat-aquascape-minimalis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kiat-membuat-aquascape-minimalis.html"
 ---
 
-Selama ini aquascape kondang sebagai [hobi](http://127.0.0.1/mitra/hobi)
+Selama ini aquascape kondang sebagai [hobi](https://www.mitrausahatani.com/hobi)
 mahal. Bayangkan pembuatan aquascape minimalis dengan 90% bahan impor menelan
 biaya sekitar Rp 3,5-juta per m2. Subsitusi dengan bahan lokal sekitar 50%
 tetap menyedot biaya tak sedikit, Rp 2-juta-Rp 2,5-juta per m2. Menurut Anton
 Saksono, perancang akuarium air tawar dan laut, sebenarnya banyak biaya yang
 bisa dipangkas. "Kita ini beruntung hidup di negeri tropis. aquascape
 minimalis yang butuh sistem CO, dan [chiller sebenarnya
-cocok](http://127.0.0.1/mitra/pancuran-kolam-minimalis-ala-bunderan.html)
+cocok](https://www.mitrausahatani.com/pancuran-kolam-minimalis-ala-bunderan.html)
 dipakai di negara-negara beriklim sub tropis," ujar pemilik Lovina Laras di
 Cibubur, Jakarta Timur itu. Sekadar contoh sistem CO, yang terdiri dari
 regulator, tabung, skimmer, buble counter, dan timer saja bernilai Rp 4-juta.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Aquascape-
-Minimalis-1024x593.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Aquascape-
+Minimalis-1024x593.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Aquascape-Minimalis.jpg)
 
 ## Pemilihan Lokasi akuarium
@@ -46,7 +46,7 @@ Namun dengan sinar matahari penyinaran bisa lebih dari 10 jam per hari. Bahkan
 dengan kehadiran sang surya kesan eksotis di akuarium lebih kuat lantaran efek
 kuat-lemahnya sinar yang masuk. "Kalau malam cukup memakai penerangan dari
 teras saja," imbuh Anton. [caption id="attachment_654" align="aligncenter"
-width="462"]![tanaman aquascape](http://127.0.0.1/mitra/wp-
+width="462"]![tanaman aquascape](http://localhost/mitra/wp-
 content/uploads/2020/03/pancuran_717x800.jpg) Media tanaman aquascape perlu
 direndam selama sebulan sebelum ditanami[/caption]
 
@@ -64,7 +64,7 @@ kompos, pasir bangunan perlu dicuci terlebih dahulu. Peran tanah pun dapat
 diganti dengan lumpur sawah dalam jumlah serupa. Sebelum Aquascape Minimalis
 ditanami tanaman air, media dan air yang mengisi akuarium perlu didiamkan
 selama sebulan. Dua-tiga hari menjelang tanaman air ditanam, air perlu
-diganti. jenis [tanaman air aquascape](http://127.0.0.1/mitra/tanaman-air-
+diganti. jenis [tanaman air aquascape](https://www.mitrausahatani.com/tanaman-air-
 akuarium-aquascape.html) yang dipilih pun perlu yang tahan banting dan tak
 perlu perawatan khusus seperti cabomba, _enchinodorus_ , _bacopa_ , dan
 _hygrophylla_. Saat tanaman aquarium di tanam, akar harus berada di bagian

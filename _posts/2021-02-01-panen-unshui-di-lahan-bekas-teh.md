@@ -11,14 +11,14 @@ tags:
 - unshui
 
 modification_time: 2021-02-01 09:29:06
-blogger_orig_url: "http://localhost/mitra/panen-unshui-di-lahan-bekas-teh.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panen-unshui-di-lahan-bekas-teh.html"
 ---
 
 Jarum jam menunjuk angka 12.30 WIB. Berarti tepat 3 jam Mitrausahatani
 menyusuri jalan sempit berliku menuju Kecamatan Sukanagara, Cianjur Selatan.
 Dari speedometer tertera angka 40 km jarak kota Cianjur Desa Sukanagara. Toh
 perjalanan melelahkan itu terbayar begitu melihat hamparan kebun jeruk di
-depan mata. [Mitrausahatani](http://127.0.0.1/mitra) melihat deretan pohon
+depan mata. [Mitrausahatani](https://www.mitrausahatani.com) melihat deretan pohon
 setinggi 3 m digelayuti dompolan buah berwarna kuning kejinggaan. Barisan
 tanaman rapi dengan jarak 3 m x 4 m. Total jenderal ada 5.400 pohon terdiri
 dari 6 jenis jeruk. “Yang bentuk buahnya seperti pir itu namanya dekopong,”
@@ -34,8 +34,8 @@ berwarna jingga cerah itu.
 ## Lahan Tanam Malnutrisi
 
 [caption id="attachment_8014" align="alignleft" width="355"][![Lahan kebun
-jeruk](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_jeruks1_1024x611.jpg)](http://127.0.0.1/mitra/wp-
+jeruk](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_jeruks1_1024x611.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_jeruks1_1024x611.jpg) Lahan bekas teh berganti
 rupa[/caption] Panen unshui dari kebun sendiri, tidak Anwar dapat dengan
 sekali tepuk. Minimal 12 tahun dihabiskan oleh pengusaha Askaboard itu untuk
@@ -100,8 +100,8 @@ percabangan dipangkas hingga tinggi tanaman dipertahankan 1,5 sampai 2 m.
 ## Keberhasilan Pengolahan lahan hasilkan panen yang maksimal
 
 [caption id="attachment_8013" align="alignleft" width="290"][![unshui siap
-petik](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_jeruks_1024x667-1.jpg)](http://127.0.0.1/mitra/wp-
+petik](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_jeruks_1024x667-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_jeruks_1024x667-1.jpg) Siap petik setelah 45—60
 hari setelah berbunga[/caption] Hasilnya, Anwar mulai menikmati panen rutin.
 Unshui dipanen 3 kali setahun. Buah berwarna kuning kejinggaan siap dipanen

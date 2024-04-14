@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2022-09-15 11:12:40
-blogger_orig_url: "http://localhost/mitra/budidaya-ikan-lele-sangkuriang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-ikan-lele-sangkuriang.html"
 ---
 
 Lele sangkuriang adalah salah satu jenis ikan lele hasil dari persilangan
@@ -35,12 +35,12 @@ mengembangkanbiakan jenis _lele Sangkuriang_ di kolam-kolamnya. Para petani
 yang sebelum kerap dikesalkan dengan penyakit dan jamur mulai serius
 memelihara Sangkuriang untuk mengembangkan usahanya. Lele sangkuriang yang
 dirilis sebagai varietas unggul oleh Menteri Kelautan dan
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") Rokhmin Dahuri pada
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") Rokhmin Dahuri pada
 2004, ini juga memiliki daging yang lebih tebal dibandingkan dengan jenis lele
 lain yang sudah terlebih dahulu ada. Walaupun bentuk ikan **lele** ini sejenis
 dengan lele dumbo. Namun dari ukuran dan kelezatan ikan lele jenis ini jauh
 berbeda, banyak konsumen yang sudah membuktikan hal itu. Masa depan [budidaya
-ikan lele](http://127.0.0.1/mitra/budidaya-ikan-lele.html) cukup cerah.
+ikan lele](https://www.mitrausahatani.com/budidaya-ikan-lele.html) cukup cerah.
 Menurut keterangan dari salah seorang staf Ditjen Budidaya Perikanan
 Departemen Kelautan dan Perikanan ikan lele ini merupakan salah salah satu
 komoditi yang akan dijadikan unggulan dalam Program Ketahan Pangan Nasional.

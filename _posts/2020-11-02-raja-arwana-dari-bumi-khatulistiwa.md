@@ -11,7 +11,7 @@ tags:
 - kolam arwana
 
 modification_time: 2020-11-02 13:34:56
-blogger_orig_url: "http://localhost/mitra/raja-arwana-dari-bumi-khatulistiwa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/raja-arwana-dari-bumi-khatulistiwa.html"
 ---
 
 Dengan 1.600 ekor induk, PT Wajok Inti Lestari (WIL) menjadi salah satu
@@ -57,19 +57,19 @@ Apalagi setelah pemerintah mencabut sistem kuota ekspor pada akhir 1994. Tak
 ada seorang asing pun yang bisa masuk lokasi tanpa seizin pemilik. Sebab
 sebagai mesin uang beromzet miliaran rupiah, Hendrie menerapkan sistem
 pengamanan ekstraketat. Bayangkan, untuk mencapai lokasi kolam [Mitra Usaha
-Tani](http://127.0.0.1/mitra) harus menembus 3 lapis pagar setinggi 4 meter.
+Tani](https://www.mitrausahatani.com) harus menembus 3 lapis pagar setinggi 4 meter.
 Pagar pertama dan kedua berkonstruksi beton. Pagar ketiga yang langsung
 memagari areal kolam hanya berupa kawat kasa. Tak cukup dengan sistem pagar
 berlapis, kakek dari 2 cucu itu juga masih menempatkan puluhan ekor anjing
-untuk menjaga lokasi. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/arowana-breed.jpg)](http://127.0.0.1/mitra/wp-
+untuk menjaga lokasi. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/arowana-breed.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/arowana-breed.jpg)
 
 ## Sejak 1981
 
 Izin penangkaran memang baru dikantungi The Hendrie pada Mei 1990. Namun, ia
 sebetulnya termasuk orang pertama yang memasarkan arwana sebagai [ikan
-hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") pada 1981. Sebelumnya,
+hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") pada 1981. Sebelumnya,
 arwana masih dijadikan ikan asin kelas dua di Kalimantan Barat. 'Saya melihat
 keanggunan dan keindahan arwana merah memiliki prospek sebagai ikan hias,”
 urai kakek dari Merry dan Michelle itu. Apalagi saat itu banyak kalangan yang
@@ -84,8 +84,8 @@ sambil dipelajari teknik pemeliharaannya. Ternyata, arwana mampu beradaptasi
 dan hidup dengan baik di habitat baru. Malah, suatu hari pada 1984 ia
 menemukan beberapa ekor membawa burayak. “Sejak itulah terbersit keinginan
 untuk menangkarkan sendiri,” tutur kelahiran Pontianak 62 tahun lalu itu.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/arowana-
-breeding.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/arowana-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/arowana-
+breeding.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/arowana-
 breeding.jpg)
 
 ### Tangkapan alam dan F1

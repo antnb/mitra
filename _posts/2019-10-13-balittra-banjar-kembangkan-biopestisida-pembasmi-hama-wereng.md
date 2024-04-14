@@ -14,7 +14,7 @@ tags:
 - wereng hijau
 
 modification_time: 2022-10-17 07:19:29
-blogger_orig_url: "http://localhost/mitra/biopestisida-pembasmi-hama-wereng.html"
+blogger_orig_url: "http://www.mitrausahatani.com/biopestisida-pembasmi-hama-wereng.html"
 ---
 
 Serangan hama wereng pada tanaman padi sering terjadi di Indonesia. Hama ini
@@ -75,9 +75,9 @@ di pematang setiap 10 m. Setek tanaman anggota famili Zingiberaceae itu mudah
 tumbuh. Dengan demikian perlindungan menjadi permanen. Itulah cara petani di
 Kabupaten Tapin, Provinsi Kalimantan Selatan, mencegah wereng hijau
 menyambangi sawah mereka. [caption id="attachment_15909" align="aligncenter"
-width="269"][![serangan hama pada tanaman padi](http://127.0.0.1/mitra/wp-
+width="269"][![serangan hama pada tanaman padi](http://localhost/mitra/wp-
 content/uploads/2019/10/wereng-
-hijau_430x480-269x300.jpg)](http://127.0.0.1/mitra/wp-
+hijau_430x480-269x300.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/wereng-hijau_430x480.jpg) hama wereng[/caption]
 
 ## Pengendalian hama wereng pada Tanaman padi sawah
@@ -115,7 +115,7 @@ adalah virus tungro yang mendunia. Sebelumnya tungro tidak dianggap sebagai
 musuh, la bersalin rupa menjadi berbahaya sejak bergulirnya intensifikasi pada
 dekade 1970-an, yang menyebabkan penanaman padi besar-besaran secara
 monokultur. Hamparan sawah mahaluas menjadi “meja makan raksasa” bagi penyakit
-tungro. ![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/wereng-
+tungro. ![](http://localhost/mitra/wp-content/uploads/2019/10/wereng-
 hijau_605x480.jpg)
 
 ## Biopestisida pengendalian hama wereng
@@ -136,7 +136,7 @@ penelitian pertanian yang berada di Indonesia. Lembaga ini didirikan pada
 tahun 1981 oleh Departemen Pertanian Indonesia. Balittra berfokus pada
 penelitian tentang pertanian di lahan rawa, khususnya di daerah dataran
 rendah. Lembaga ini juga melakukan penelitian tentang
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") di lahan rawa.
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") di lahan rawa.
 Balittra memiliki beberapa pusat penelitian di seluruh Indonesia, yaitu di
 Aceh, Kalimantan, Sulawesi, dan Papua. Pusat penelitian Aceh berfokus pada
 penelitian tentang karet dan kelapa sawit, sedangkan pusat penelitian

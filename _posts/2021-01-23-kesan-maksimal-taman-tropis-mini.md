@@ -12,7 +12,7 @@ tags:
 - taman tropis
 
 modification_time: 2021-01-23 04:55:18
-blogger_orig_url: "http://localhost/mitra/taman-tropis-mini.html"
+blogger_orig_url: "http://www.mitrausahatani.com/taman-tropis-mini.html"
 ---
 
 Pantas Budi, sang pemilik, kini betah berlama-lama duduk di sana. Harmonisasi
@@ -47,16 +47,16 @@ dan diletakkan di sudut taman untuk memberikan kesan segar.
 ## Pilih Tanaman yang tumbuh lambat
 
 [caption id="attachment_7941" align="alignleft" width="399"][![pengaturan
-taman](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_taman_1024x664.jpg)](http://127.0.0.1/mitra/wp-
+taman](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_taman_1024x664.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_taman_1024x664.jpg) Tanaman tinggi di sudut
 taman[/caption] Khusus pinggir teras rumah, tanamlah perdu sebagai border
 teduh. Pilih yang tidak memerlukan pemangkasan intensif. Misalnya
 philodendron, xanadu, nanas merah (Ananas), bakung (Amarilis), sambang dara,
 dan tabernae Tabernae montana. Bila intensitas cahaya matahari minim, maranta,
 bromelia, diffenbachia, atau
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") lebih pas.
-Tanaman ornamental seperti [anthurium](http://127.0.0.1/mitra/topik/anthurium
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") lebih pas.
+Tanaman ornamental seperti [anthurium](https://www.mitrausahatani.com/topik/anthurium
 "anthurium"), sikas atau zamia bisa jadi pilihan sehingga penampilan taman
 lebih eksklusif. Kombinasi warna dan bentuk tanaman harus diperhatikan agar
 penampilan taman semarak. Contoh philodendron tampak serasi bersanding dengan

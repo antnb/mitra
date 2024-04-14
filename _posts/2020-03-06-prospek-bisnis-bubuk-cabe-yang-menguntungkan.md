@@ -9,7 +9,7 @@ tags:
 - cabai
 
 modification_time: 2022-11-22 06:53:19
-blogger_orig_url: "http://localhost/mitra/prospek-bisnis-bubuk-cabe-yang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-bisnis-bubuk-cabe-yang.html"
 ---
 
 Cabai kering adalah sejenis cabai yang biasanya dikeringkan dan digunakan
@@ -23,7 +23,7 @@ semangat pada hidangan. Meskipun cabai kering paling sering digunakan dalam
 masakan Indonesia, cabai kering juga digunakan dalam masakan Asia Tenggara
 lainnya, seperti masakan Thailand dan Vietnam. Langkah Mustari Anies mengolah
 cabai menjadi _gochugaru_ atau bubuk cabe layak ditiru. Harapannya, ketika
-harga [cabai](http://127.0.0.1/mitra/topik/cabai) melorot, pekebun tetap dapat
+harga [cabai](https://www.mitrausahatani.com/topik/cabai) melorot, pekebun tetap dapat
 menikmati keuntungan. Lagi pula pasar gochugaru masih terbentang. Mustari yang
 memproduksi gachugaru sejak 1990, kini kewalahan melayani tingginya
 permintaan. Total permintaan cabe kering mencapai 5 ton per bulan. Harga cabai
@@ -32,7 +32,7 @@ beralih ke Budidaya Cabai lantaran tergiur laba yg cukup besar . Ketika
 produksi melimpah harga pun melorot. “Cabai tak dapat disubstitusi oleh produk
 lain seperti lada yang sama-sama pedas. Kala produksi melampaui daya serap
 pasar, otomatis harga turun,” ujar Ir Soetrisno Soemodihardjo, direktur
-Direktorat Tanaman Sayuran dan Biofarmaka. ![](http://127.0.0.1/mitra/wp-
+Direktorat Tanaman Sayuran dan Biofarmaka. ![](http://localhost/mitra/wp-
 content/uploads/2020/03/bubuk-cabai-1024x576.jpg) Cabe Kering Rasa dan
 Khasiatnya Cabe kering adalah salah satu jenis cabe yang populer di Indonesia.
 Cabe kering memiliki rasa yang sedikit pedas dan sangat khas. Cabe kering
@@ -52,8 +52,8 @@ lantaran praktis. Sebelum dipasok, restoran-restoran itu mengimpor dari
 negaranya. Rantai impor itulah yang coba diputus oleh Mustari dengan
 menawarkan gochugaru produksinya. Dari sanalah permintaan terus berkembang.
 Saat ini selain ke hotel [dan restoran, gochugarunya juga tersedia di
-berbagai](http://127.0.0.1/mitra/produk-olahan-jagung-manis.html) pasar
-swalayan dan pusat perkulakan. ![](http://127.0.0.1/mitra/wp-
+berbagai](https://www.mitrausahatani.com/produk-olahan-jagung-manis.html) pasar
+swalayan dan pusat perkulakan. ![](http://localhost/mitra/wp-
 content/uploads/2020/03/cxabe-1024x576.jpg)
 
 ## Pembuatan cabe bubuk
@@ -72,7 +72,7 @@ mesin pengayak menyaring bubuk cabai sesuai ukuran yang diinginkan. Dalam 1
 inci persegi terdapat 100 lubang penyaring. Selanjutnya Mustari mengemasnya
 dalam plastik berbobot 250-500 g. Satu kg gochugaru berasal dari 6 kg cabai
 segar. Saat ini harga jual sekilo gochugaru Rp 75.000-Rp 100.000.
-![](http://127.0.0.1/mitra/wp-content/uploads/2020/03/cxabe-1024x576.jpg)
+![](http://localhost/mitra/wp-content/uploads/2020/03/cxabe-1024x576.jpg)
 
 ## cabe pedas Banyak jenis
 

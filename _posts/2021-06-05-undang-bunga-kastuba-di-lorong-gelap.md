@@ -10,7 +10,7 @@ tags:
 - Kastuba mini
 
 modification_time: 2022-09-21 06:36:22
-blogger_orig_url: "http://localhost/mitra/undang-bunga-kastuba-di-lorong-gelap.html"
+blogger_orig_url: "http://www.mitrausahatani.com/undang-bunga-kastuba-di-lorong-gelap.html"
 ---
 
 Bunga Kastuba (Poinsettia) adalah pohon yang berasal dari Meksiko dan Amerika
@@ -39,8 +39,8 @@ sehingga pesanan bakal melayang.
 ## Bunga Kastuba Berubah Warna Menjadi Merah
 
 [![Penyiraman tambahan diperlukan bila cuaca panas
-](http://127.0.0.1/mitra/wp-
-content/uploads/2021/06/ruang-300x215.jpg)](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-
+content/uploads/2021/06/ruang-300x215.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/06/ruang.jpg) Perawatan kastuba merah dan cara untuk
 membungakan kastuba yang berwarna merah tidaklah susah, pilih induk sehat
 bebas hama dan penyakit. Pangkas beberapa cabang sepanjang 7 sampai 10 cm dan
@@ -61,8 +61,8 @@ cukup 2 jam. Dengan menambah cahaya, pertumbuhan vegetatif berlanjut.
 
 ## Bunga Poinsettia Membutuhkan Ruang gelap
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/06/ruang1-300x202.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/06/ruang1-300x202.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/06/ruang1.jpg) Bila ingin menghasilkan tanaman kastuba
 mini langsung ditanam di pot 8. Setelah itu masukkan dalam ruang gelap agar
 daun serempak berubah. Euphorbia pulcherrima yang menerima cahaya kurang dari
@@ -87,7 +87,7 @@ kemudian.
 ## Harga Bunga Kastuba
 
 Tanaman poinsettia sangat diminati peminat [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") terutama menjelang
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") terutama menjelang
 Natal, dan harga bunga kastuba mengalami kenaikan tahun ini karena epidemi
 Covid-19. para pembibit tanaman hias pun meningkatkan produksi pembibitan
 untuk poinsettia, kastuba merah menjadi yang paling populer musim ini. Karena

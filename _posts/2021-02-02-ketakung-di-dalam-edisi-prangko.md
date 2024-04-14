@@ -12,7 +12,7 @@ tags:
 - pt pos indonesia
 
 modification_time: 2021-02-02 12:26:08
-blogger_orig_url: "http://localhost/mitra/ketakung-di-dalam-edisi-prangko.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ketakung-di-dalam-edisi-prangko.html"
 ---
 
 Kantong semar terpilih lantaran sekitar 70% spesies nepenthes di dunia ada di
@@ -35,8 +35,8 @@ bunga bangkai, anggrek hitam, komodo, badak, dan jalak bali.
 ## Spesies baru
 
 [caption id="attachment_8029" align="alignleft" width="108"][![N.
-adrianii](http://127.0.0.1/mitra/wp-
-content/uploads/2021/02/Gambar_prangko1_349x768.jpg)](http://127.0.0.1/mitra/wp-
+adrianii](http://localhost/mitra/wp-
+content/uploads/2021/02/Gambar_prangko1_349x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/02/Gambar_prangko1_349x768.jpg) N. adrianii. Sekitar 70%
 spesies nepenthes di dunia ada di Indonesia[/caption] Keanekaragaman hayati
 Indonesia yang diterbitkan dalam bentuk prangko tak terbatas pada flora fauna

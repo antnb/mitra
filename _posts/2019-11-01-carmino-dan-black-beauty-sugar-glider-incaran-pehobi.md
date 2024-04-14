@@ -9,7 +9,7 @@ tags:
 - Sugar Glider
 
 modification_time: 2019-11-01 11:45:00
-blogger_orig_url: "http://localhost/mitra/carmino-dan-black-beauty-sugar-glider.html"
+blogger_orig_url: "http://www.mitrausahatani.com/carmino-dan-black-beauty-sugar-glider.html"
 ---
 
 Mata tupai gula baru itu merah, sedangkan mata karamel hitam. Itulah carmino,
@@ -19,8 +19,8 @@ baru. Suryo mendapatkan informasi itu dari seorang kawan di Amerika Serikat.
 "Di luar negeri jenis itu sudah ada meskipun sangat jarang," kata Sonny Catro,
 nama panggilan Suryo Adilaksono. [caption id="attachment_16174"
 align="aligncenter" width="547"][![carmino sugar
-glider](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/sugarglider_547x480.jpg)](http://127.0.0.1/mitra/wp-
+glider](http://localhost/mitra/wp-
+content/uploads/2019/11/sugarglider_547x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/sugarglider_547x480.jpg) carmino sugar
 glider[/caption]
 
@@ -80,7 +80,7 @@ Penangkar sugar glider di Amerika Serikat selalu berinovasi menghasijkan tupai
 gula yang berkualitas. Selain dari Amerika Serikat, tupai gula baru juga
 berasal dari Thailand dan Australia. Sonny mengatakan tupai gula asal negeri
 Gajah Putih biasanya sudah dikebiri. "Mereka mengebiri untuk [menjaga harga
-tetap](http://127.0.0.1/mitra/kiat-menjaga-kolam-koi-outdoor-tetap.html)
+tetap](https://www.mitrausahatani.com/kiat-menjaga-kolam-koi-outdoor-tetap.html)
 tinggi di pasaran,” ujar pria yang juga berprofesi sebagai asisten sutradara
 itu. Satwa yang dikebiri tak mampu meneruskan keturunannya. Hadirnya tupai
 gula varian baru belum tentu menarik minat konsumen untuk membeli. Selain
@@ -90,8 +90,8 @@ tinggal di kandang berukuran 60 cm x 60 cm setinggi 95 cm yang terbuat dari
 kawat tahan karat. [caption id="attachment_16175" align="aligncenter"
 width="640"][![Black beauty sugar glider memiliki garis di dekat mata yang
 lebih tebal dan hampir menyentuh garis di dekat
-mulut](http://127.0.0.1/mitra/wp-
-content/uploads/2019/11/sugarglider_640x334.jpg)](http://127.0.0.1/mitra/wp-
+mulut](http://localhost/mitra/wp-
+content/uploads/2019/11/sugarglider_640x334.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/11/sugarglider_640x334.jpg) Black beauty "asli" memiliki
 gtJris di dekat mata yang lebih tebal dan hampir menyentuh garis di dekat
 mulut[/caption]
@@ -112,6 +112,6 @@ lambung dan pencernaannya amat lembut,” kata Slamet. Oleh karena itu Chandra
 menghaluskan bahan berkualitas seperti bubur bayi, yoghurt, madu, dan vitamin
 E untuk pakan harian menggunakan blender, la lantas mencampur potongan kecil
 apel, pir, dan wortel ke dalam makanan berbentuk bubur tadi.
-([**MUT**](http://127.0.0.1/mitra/))
+([**MUT**](https://www.mitrausahatani.com/))
 
 

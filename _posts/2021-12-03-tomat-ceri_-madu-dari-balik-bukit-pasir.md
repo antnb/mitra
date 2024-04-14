@@ -9,7 +9,7 @@ tags:
 - tomat
 
 modification_time: 2022-09-11 00:46:51
-blogger_orig_url: "http://localhost/mitra/tomat-ceri-madu-dari-balik-bukit.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tomat-ceri-madu-dari-balik-bukit.html"
 ---
 
 Tomat ceri yang ranum dan renyah di toko-toko sayuran eksklusif di Eropa itu
@@ -57,12 +57,12 @@ Sementara pasar Eropa lainnya dipasok dari hasil panen greenhouse di Belanda.
 Dari setiap meter persegi luasan nurseri Jos memanen 18-20 kg tomat terdiri
 dari 6 tanaman. Itu lebih rendah daripada produksi rata-rata tomat ceri di
 Belanda sebesar 70 kg per m2 karena Jop melakukan seleksi buah secara ketat
-sejak masih di [pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman").
+sejak masih di [pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman").
 Total jenderal pria kelahiran Monster, Belanda bagian barat, itu menuai hampir
 4-000 ton tomat ceri per tahun dari kebun di Belanda dan Spanyol. [caption
 id="attachment_15569" align="aligncenter" width="300"][![Penanaman menggunakan
-media tanam rockwoll dalam blok-blok sepanjang 1 m](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/Tomat-ceri-300x161.jpg)](http://127.0.0.1/mitra/wp-
+media tanam rockwoll dalam blok-blok sepanjang 1 m](http://localhost/mitra/wp-
+content/uploads/2021/12/Tomat-ceri-300x161.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/Tomat-ceri.jpg) Penanaman menggunakan media tanam
 rockwoll dalam blok-blok sepanjang 1 meter[/caption]
 
@@ -112,8 +112,8 @@ mengatasi hama, pekerja menggunakan predator sementara kehadiran cendawan
 diminimalisir dengan budidaya yang bersih dan higinis. [caption
 id="attachment_15571" align="aligncenter" width="300"][![persyaratan buah siap
 panen: satu dompol penuh, tidak ada buah yang rontok, warna dan ukuran buah
-seragam](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-Tomat-
-ceri-300x161.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/pohon-
+seragam](http://localhost/mitra/wp-content/uploads/2021/12/pohon-Tomat-
+ceri-300x161.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/pohon-
 Tomat-ceri.jpg) Syarat buah siap panen: satu dompol penuh, tidak ada buah yang
 rontok, warna dan ukuran buah seragam[/caption]
 

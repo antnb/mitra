@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-28 06:59:05
-blogger_orig_url: "http://localhost/mitra/ciri-lou-han-berkualitas-standar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ciri-lou-han-berkualitas-standar.html"
 ---
 
 _Dari ribuan ekor anak ikan yang lahir dari seekor betina, paling-paling hanya
@@ -60,7 +60,7 @@ yang sama. Jika semuanya sudah sempurna, jangan lupa lihat gaya berenang ikan
 pilihan. Sebab gaya renang akan mendapat porsi penilaian yang cukup tinggi 7%.
 Ikan dengan gaya renang elegance, atraktif, dan lincah, yang semuanya
 menampakkan kesehatan berpotensi juara. [caption id="attachment_1541"
-align="aligncenter" width="571"]![Louhan](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="571"]![Louhan](http://localhost/mitra/wp-
 content/uploads/2020/08/lou-han_1280x725.jpg) Bentuk Louhan Sempurna[/caption]
 
 #### Prosentase
@@ -80,7 +80,7 @@ Penentuan ukuran dimaksudkan pada fase pertumbuhan itu, lou han telah
 mempunyai bentuk dan corak tetap. Setiap orang hanya bisa mendaftarkan 2 ekor
 pada kategori besar dan 3 ekor pada kategori kecil. Lantaran di Indonesia
 masih belum banyak pemiliknya, aturan terakhir ini boleh di pertimbangkan
-panitia kontes. ![](http://127.0.0.1/mitra/wp-content/uploads/2020/08/lou-
+panitia kontes. ![](http://localhost/mitra/wp-content/uploads/2020/08/lou-
 han_1280x725.jpg)  
 
 

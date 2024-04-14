@@ -3,7 +3,7 @@ layout: post
 title: 'Efesiensi Kompor Briket Batubara Vs Briket Sekam Padi'
 categories: artikel
 date: 2021-04-29 16:15:29
-author: Anton N
+author: Yudianto
 image: media/batubara.jpg
 tags:
 - batubara
@@ -11,7 +11,7 @@ tags:
 - sekam
 
 modification_time: 2021-04-29 16:15:29
-blogger_orig_url: "http://localhost/mitra/briket-batubara-di-indonesia-briket.html"
+blogger_orig_url: "http://www.mitrausahatani.com/briket-batubara-di-indonesia-briket.html"
 ---
 
 Kulit padi yang dipadatkan itu dibakar pada suhu 250 sampai 270°C selama 10
@@ -46,8 +46,8 @@ digunakan pada kompor memasak rumah tangga dan restoran di negara berkembang.
 
 ## Briket Batubara Tanpa asap
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/briket.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/briket.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/briket.jpg) Setahun terakhir, Baihaqi Idrus meriset
 penggunaan kompor briket batubara. Hasilnya,kompor silinder setinggi 50 cm
 dengan tabung batubara dari porselen. kompor briket batubara itu irit dan
@@ -67,8 +67,8 @@ kompor briket batubara berwarna biru, itu tandanya
 
 ## Bahan Baku Yang Melimpah
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/04/mesin.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/04/mesin.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/04/mesin.jpg) Batubara menjadi perhatian Baihaqi lantaran
 ia prihatin melihat para tetangga di lingkungannya selalu berkeluh-kesah
 tentang melambungnya harga bahan bakar minyak. Padahal, saat itu briket

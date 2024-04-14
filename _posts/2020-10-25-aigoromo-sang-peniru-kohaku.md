@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-25 12:12:31
-blogger_orig_url: "http://localhost/mitra/aigoromo-sang-peniru-kohaku.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aigoromo-sang-peniru-kohaku.html"
 ---
 
 Berawal dari kohaku, berakhir di kohaku. Asumsi yang tumbuh di kalangan hobiis

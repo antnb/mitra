@@ -11,7 +11,7 @@ tags:
 - sirsak
 
 modification_time: 2020-08-22 07:52:06
-blogger_orig_url: "http://localhost/mitra/penggunaan-daun-sirsak-sebagai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penggunaan-daun-sirsak-sebagai.html"
 ---
 
 _Beragam serangan hama pada tanaman hortikultura dapat diatasi dengan ramuan

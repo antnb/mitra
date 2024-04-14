@@ -10,7 +10,7 @@ tags:
 - Tabulampot
 
 modification_time: 2020-11-12 10:21:15
-blogger_orig_url: "http://localhost/mitra/kelengkeng-tabulampot-pupuk-minyak-ikan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kelengkeng-tabulampot-pupuk-minyak-ikan.html"
 ---
 
 Dua kelengkeng tabulampot setinggi 2 m langsung menyita perhatian Innasari.
@@ -34,7 +34,7 @@ itu.
 
 kelengkeng tabulampot itu kini menghiasi halaman belakang dekat kolam renang.
 Di sana sudah ada tabulampot arumanis, gedong gincu, [jambu
-air](http://127.0.0.1/mitra/topik/jambu-air) kancing, dan kelapa pandanwangi.
+air](https://www.mitrausahatani.com/topik/jambu-air) kancing, dan kelapa pandanwangi.
 Tabulampot kelengkeng jadi pilihan lantaran halaman rumah mewah di kawasan
 Sunter Agung, Jakarta Utara, itu tidak terlalu besar. Pertimbangan lain posisi
 tanaman lebih mudah dipindah-pindah kalau bosan. kelengkeng tabulampot
@@ -42,7 +42,7 @@ diletakkan tepat di depan pintu keluar dari kamar pribadi. Alasannya, supaya
 begitu bangun pagi buah asal Cina itu yang langsung kelihatan. Teman dan
 kerabat perempuan yang hobi membuat kue itu ikut menikmati keindahannya.
 Karena tajuk pendek beberapa tamu kerap iseng memetik buah. Daging memang
-tipis, tapi rasa manis. Waktu [Mitra Usaha Tani](http://127.0.0.1/mitra)
+tipis, tapi rasa manis. Waktu [Mitra Usaha Tani](https://www.mitrausahatani.com)
 berkunjung anggota keluarga Sapindaceae itu berbuah untuk ke-3 kali. Yang
 menarik batang tanaman bebas lumut dan kotoran lantaran rutin disikat. Pot
 kayu yang digunakan membuat penampilan tabulampot kelengkeng jadi lebih
@@ -52,8 +52,8 @@ yang sudah berbuah," tutur Umar dari Bursa Hortikultura. Tanaman besar dan
 berumur belasan tahun, tapi belum berbuah tidak dapat dijadikan pohon induk.
 [caption id="attachment_16529" align="aligncenter" width="1024"][![kelengkeng
 tabulampot Pupuk, Media tanam dan indukan manjadi kunci
-keberhasilan](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/tabulampot-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+keberhasilan](http://localhost/mitra/wp-
+content/uploads/2020/11/tabulampot-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/tabulampot.jpg) pupuk buah, Media tanam dan indukan
 manjadi kunci keberhasilan[/caption]
 
@@ -79,17 +79,17 @@ minggu minyak ikan disiramkan ke media sebanyak 10 cc/5 liter air. Ia
 menyuburkan tanaman. OST dan pupuk tulang diberikan bersamaan dengan
 perbandingan 1:1 sebanyak 1/4 kg per bulan. Keduanya mencegah daun, bunga, dan
 buah rontok. Selain itu kandungan tepung fosil OST menjaga [tanah tetap
-gembur](http://127.0.0.1/mitra/tanah-gembur-effective-microorganism.html).
+gembur](https://www.mitrausahatani.com/tanah-gembur-effective-microorganism.html).
 Sebagai tambahan, NPK dengan perbandingan seimbang diberikan 6 bulan sekali
-sebanyak 2 sendok makan. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/lengkeng3-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+sebanyak 2 sendok makan. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/lengkeng3-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/lengkeng3.jpg)
 
 ## Buah awet
 
 Enam bulan sebelum musim berbuah, benamkan campuran 2 sendok makan KC1 dan TSP
 dengan rasio 2:1. Merujuk musim
-[lengkeng](http://127.0.0.1/mitra/topik/kelengkeng) di sentra Ambarawa pada
+[lengkeng](https://www.mitrausahatani.com/topik/kelengkeng) di sentra Ambarawa pada
 Januari, maka keduanya diberikan sekitar Juni-Juli. Penggunaan zat perangsang
 bunga tidak dibutuhkan sepanjang tabulampot kelengkeng sehat dan iklim yang
 mendukung. Bunga muncul pada September. Sebulan kemudian berubah menjadi buah.
@@ -112,8 +112,8 @@ Kelengkeng Tabulampot masih berumur muda dan pendek, mereka pun memamerkan
 kembang. Penampilan kelengkeng tabulampot unggul itu mudah dibedakan dengan
 jenis lain. Daun berukuran kecil dan agak melengkung ke belakang. Ukuran daun
 hanya setengah dari lengkeng umum. Percabangan panjang sehingga menjuntai ke
-sana ke mari. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/kelengkeng3-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+sana ke mari. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/kelengkeng3-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/kelengkeng3.jpg)
 
 ## Lengkeng Cepat berbunga

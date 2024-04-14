@@ -9,7 +9,7 @@ tags:
 - bromeliad
 
 modification_time: 2022-09-19 06:47:00
-blogger_orig_url: "http://localhost/mitra/koleksi-bromeliad-baru-nan-molek.html"
+blogger_orig_url: "http://www.mitrausahatani.com/koleksi-bromeliad-baru-nan-molek.html"
 ---
 
 Bromeliad merupakan salah satu jenis tumbuhan yang berasal dari Amerika
@@ -58,11 +58,11 @@ Bromeliad ini juga dapat hidup dengan air yang berasal dari sungai atau mata
 air. Lazimnya, tanaman anggota famili Bromeliaceae itu berdaun lebar-di atas 4
 cm-dengan bentuk melengkung ke belakang. shell dance bromeliad justru
 melengkung ke atas sehingga berbentuk seperti mangkok. Lebar daun hanya 3 cm.
-Gunawan Wijaya, pemain [tanaman hias](http://127.0.0.1/mitra/tanaman-hias
+Gunawan Wijaya, pemain [tanaman hias](https://www.mitrausahatani.com/tanaman-hias
 "tanaman hias") senior di Sentul, Bogor, Jawa Barat, mengatakan shell dance
 bromeliad sosok bromeliad baru. "Saya belum pernah menjumpai bromeliad
 berbentuk seperti itu," tutur pemilik nurseri Wijaya [yang banyak mengoleksi
-tanaman](http://127.0.0.1/mitra/anda-sibuk-pilih-taman-saja-bromelia.html)
+tanaman](https://www.mitrausahatani.com/anda-sibuk-pilih-taman-saja-bromelia.html)
 anggota keluarga nanas-nanasan itu. Chandra Gunawan mendapatkan Koleksi
 bromeliadnya dari Australia. Kini terdapat sekitar 100 tanaman hasil
 perbanyakan vegetatif di kebun Chandra di Kecamatan Tamansari, Kabupaten
@@ -97,8 +97,8 @@ cocopeat dengan perbandingan 2:1. Untuk taman vertikal, cukup rekatkan
 bromeliad kuat-kuat pada media ijuk di kerangka. Letakkan bromeliad di tempat
 ternaungi supaya menghasilkan warna yang atraktif. Inilah penampilan para
 pendatang baru. [![Koleksi bromeliad Chandra
-Gunawan](http://127.0.0.1/mitra/wp-content/uploads/2021/11/shell-dance-
-bromelead-230x300.jpg)](http://127.0.0.1/mitra/wp-
+Gunawan](http://localhost/mitra/wp-content/uploads/2021/11/shell-dance-
+bromelead-230x300.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/shell-dance-bromelead.jpg)
 
 

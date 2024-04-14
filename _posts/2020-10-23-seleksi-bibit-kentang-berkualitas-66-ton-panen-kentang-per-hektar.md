@@ -9,7 +9,7 @@ tags:
 - Kentang
 
 modification_time: 2022-09-20 05:57:12
-blogger_orig_url: "http://localhost/mitra/luar-biasa-66-ton-panen-kentang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/luar-biasa-66-ton-panen-kentang.html"
 ---
 
 Untuk dapat memenuhi kebutuhan pasar kentang maka para petani pun harus dapat
@@ -49,8 +49,8 @@ Karena itulah petani kentang di lereng Gunung Bromo, Pasuruan kini bergairah
 menanam kentang. Banyak petani membuka areal baru. Pasalnya, produktivitas
 kebun kentang di sana kini meningkat. Dari rata-rata 15 ton/ha, kini melonjak
 tajam hingga panen kentang menembus angka 40 ton/ha. [![kebun kentang para
-petani](http://127.0.0.1/mitra/wp-content/uploads/2020/10/panen-
-kentang-300x168.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/10/panen-
+petani](http://localhost/mitra/wp-content/uploads/2020/10/panen-
+kentang-300x168.jpg)](http://localhost/mitra/wp-content/uploads/2020/10/panen-
 kentang.jpg)
 
 ## Seleksi Bibit Kentang bersertifikat
@@ -120,8 +120,8 @@ Sebab, lahan kentang di Indonesia kebanyakan lempung berpasir,suhu 28°-35°C,
 dan penyinaran matahari pendek. Kondisi itu tak beda dengan Australia Barat.
 [caption id="attachment_16783" align="aligncenter" width="300"][![bibit
 kentang yang berkualitas ,menghasilkan panen kentang yang
-memuaskan](http://127.0.0.1/mitra/wp-
-content/uploads/2020/10/seleksi_bibit-300x206.jpg)](http://127.0.0.1/mitra/wp-
+memuaskan](http://localhost/mitra/wp-
+content/uploads/2020/10/seleksi_bibit-300x206.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/seleksi_bibit.jpg) lahan kentang yang produktif dengan
 bibit baru[/caption]
 
@@ -159,8 +159,8 @@ Imam Utomo tertarik membantu petani kentang disana. “Kalau memang
 menguntungkan para petani kentang, kami akan mengusahakan bantuan pengadaan
 bibit,” papar gubernur di hadapan Direktur Benih Hortikultura Departemen
 Pertanian, Soeroto. [![produksi kentang per hektar sangat
-tinggi](http://127.0.0.1/mitra/wp-content/uploads/2020/10/petani-
-kentang-300x168.jpg)](http://127.0.0.1/mitra/wp-
+tinggi](http://localhost/mitra/wp-content/uploads/2020/10/petani-
+kentang-300x168.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/10/petani-kentang.jpg)
 
 ## Bisnis yang Menguntungkan
@@ -176,7 +176,7 @@ Sebenarnya Kusnan tidak sengaja menemukan produsen kentang yang berlokasi di
 Perth, Australia Barat itu. Sebab, kunjungannya ke Perth pada 1999 lalu hanya
 untuk mencari bakalan sapi perah untuk keperluan anggota koperasi susu yang
 dipimpinnya. Ternyata, Lake Jasper Property,
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") sapi relasinya
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") sapi relasinya
 juga memproduksi bibit kentang bermutu. “Namanya malah tercantum dalam daftar
 produsen terbaik yang direkomendasi Australian Potato Industry.”
 

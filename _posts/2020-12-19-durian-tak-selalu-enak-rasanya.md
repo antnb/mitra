@@ -15,7 +15,7 @@ tags:
 - rasa durian
 
 modification_time: 2020-12-19 07:10:06
-blogger_orig_url: "http://localhost/mitra/durian-tak-selalu-enak-rasanya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-tak-selalu-enak-rasanya.html"
 ---
 
 Berbahagialah penggemar _Durio zibethinus_ di Indonesia. Berbagai kultivar
@@ -36,8 +36,8 @@ kultivar matahari karena beberapa pekebun sukses menanam.
 ## Tergantung lidah
 
 [caption id="attachment_3015" align="alignleft" width="348"][![durian setengah
-matang](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_durian1_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+matang](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_durian1_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_durian1_1024x576.jpg) sentra penjualan durian
 di thailand[/caption] Banyak penggemar mengatakan, durian lokal lebih enak
 ketimbang jenis asal Thailand. Rasanya lebih legit. Mereka merujuk pada durian
@@ -70,8 +70,8 @@ banyak. Buah jadi lebih enak.
 ## Kering dan terang
 
 [caption id="attachment_3016" align="alignright" width="322"][![penjualan buah
-durian](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_durian2_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+durian](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_durian2_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_durian2_1024x576.jpg) durian kualitas
 super[/caption] Faktor ketiga, keadaan cuaca saat durian berbuah. Ini ada
 kaitannya dengan pembentukan karbohidrat hasil proses fotosintesa. Karbohidrat

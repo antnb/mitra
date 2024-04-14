@@ -12,7 +12,7 @@ tags:
 - kolam koi
 
 modification_time: 2020-06-13 06:20:00
-blogger_orig_url: "http://localhost/mitra/sistim-filter-kolam-koi-sederhana.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistim-filter-kolam-koi-sederhana.html"
 ---
 
 Kolam yang dibangun di kawasan Bumi Serpong Damai, Tangerang itu mirip kolam
@@ -30,8 +30,8 @@ benar-benar layak pakai. “Sistem pengolahannya mirip pengolahan air PAM,”
 tutur Erick. _Susunan filter kolam koi_ dibuat permanen dengan tinggi dinding
 mencapai 5 m. Sekitar 2/3 tinggi bangunan menggunakan beton. Sisanya berupa
 kawat ram. Rangka-rangka atap menggunakan metal. Atap berupa bahan solarguard
-dilapisi shading net sebagai plafon tempel. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/06/kolam-koi.jpg)](http://127.0.0.1/mitra/wp-
+dilapisi shading net sebagai plafon tempel. [![](http://localhost/mitra/wp-
+content/uploads/2020/06/kolam-koi.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/06/kolam-koi.jpg)
 
 ## Serba otomatis
@@ -50,8 +50,8 @@ kolam setiap 4 jam. Air selanjutnya dialirkan masuk ke unit filter. Selesai
 difiltrasi air tidak langsung kembali ke kolam melainkan masuk ke kolam
 penampungan. Pada saat bersamaan air baru masuk menggantikan air yang keluar.
 Dengan begitu volume air tetap stabil. “Paling tidak setiap 4 jam 5% air kolam
-berganti,” kata ayah 3 anak itu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/06/koi1.jpg)](http://127.0.0.1/mitra/wp-
+berganti,” kata ayah 3 anak itu. [![](http://localhost/mitra/wp-
+content/uploads/2020/06/koi1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/06/koi1.jpg)
 
 ### Delapan bilik
@@ -74,8 +74,8 @@ Air di bagian atas disaring di chamber ketiga yang sudah dipasangi brush pada
 bagian atasnya. Bentuknya masih membulat untuk memungkinkan air berputar. Sisa
 kotoran berat akan mengendap, sedangkan kotoran ringan yang mengapung menempel
 di bulu-bulu brush. Selanjutnya air masuk ke chamber keempat yang berbentuk
-persegi empat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/06/koi1.jpg)](http://127.0.0.1/mitra/wp-
+persegi empat. [![](http://localhost/mitra/wp-
+content/uploads/2020/06/koi1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/06/koi1.jpg)
 
 ### Koi jepang

@@ -11,7 +11,7 @@ tags:
 - jagung
 
 modification_time: 2020-11-08 13:03:22
-blogger_orig_url: "http://localhost/mitra/jagung-lokal-dan-hibrida-bertarung-di.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jagung-lokal-dan-hibrida-bertarung-di.html"
 ---
 
 Gorontalo saat ini menjadi ajang "pertarungan" benih jagung lokal dan hibrida.
@@ -38,7 +38,7 @@ Geliat jagung itu tampak sekali di berbagai pelosok Gorontalo. Ambil contoh di
 Desa Pontolo, Kelurahan Temilo,. Kecamatan Limboto. Para petani di sana semula
 menanam kacang hijau. Begitu harga jagung dijamin pemerintah, mereka langsung
 banting setir. Marli Manu contohnya. Saat dikunjungi [Mitra Usaha
-Tani](http://127.0.0.1/mitra), ia baru saja panen jagung. Marli Manu menanam
+Tani](https://www.mitrausahatani.com), ia baru saja panen jagung. Marli Manu menanam
 hibrida C7 di luasan 1/2 hektar dengan modal Rpl.650.000. Waktu panen ia
 memetik 7 ton jagung yang dijual seharga Rp775/kg. Jadi, selama 3 bulan
 diperoleh laba lebih dari Rp3,5-juta. Dahulu, di luasan yang sama ia menanam
@@ -50,8 +50,8 @@ hibrida ditanam di lahan seluas 5.740 ha; komposit, 2.159 ha; lokal, 9.039 ha.
 Pemakaian benih hibrida melonjak pesat. Ambil contoh kasus yang dialami Agus
 Syakbani dari Monsanto, produsen benih C7. Dalam waktu 5 bulan mereka bisa
 mendongkrak penjualan dari 5-7 ton/musim tanam menjadi 70 ton/ musim tanam.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/jagung.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/jagung.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/jagung.jpg)
 
 ## Benih Jagung Lokal
@@ -73,8 +73,8 @@ Yokom lebih dari 50% diekspor, sisanya dikirim ke pabrik pakan di Jawa Timur.
 Yokom membeli jagung dari pengumpul seharga Rp800/kg, dijual Rp950- Rp
 1,050/kg. Ternyata pembeli dalam negeri lebih rewel daripada ekspor. Untuk
 pengiriman ke luar negeri, kadar air 17% masih bisa diterima. Di pabrik pakan,
-kadar air tidak boleh lebih dari 15%. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/hibrida.jpg)](http://127.0.0.1/mitra/wp-
+kadar air tidak boleh lebih dari 15%. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/hibrida.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/hibrida.jpg)
 
 ## Demplot
@@ -82,7 +82,7 @@ content/uploads/2020/11/hibrida.jpg)
 Agropolitan jagung dicanangkan Fadel Muhammad sejak Februari 2002. Sebulan
 kemudian program ini diangkat secara nasional oleh menteri pertanian. Untuk
 mendukung pengembangan jagung,direncanakan pembangunan pusat
-[peternakan](http://127.0.0.1/mitra/peternakan "peternakan") sapi di Kabupaten
+[peternakan](https://www.mitrausahatani.com/peternakan "peternakan") sapi di Kabupaten
 Boalemo. Sejumlah 2.000 ekor sapi akan digemukkan dan dipasarkan ke Bontang
 melalui Pelabuhan Kwandang. Pola yang dipakai di program ini ialah demplot dan
 pengembangan. Di 30 lokasi -masing-masing seluas 2,5 ha-dibuat kebun

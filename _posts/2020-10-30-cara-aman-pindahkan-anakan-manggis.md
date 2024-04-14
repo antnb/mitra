@@ -9,7 +9,7 @@ tags:
 - manggis
 
 modification_time: 2020-10-30 07:46:01
-blogger_orig_url: "http://localhost/mitra/cara-aman-pindahkan-anakan-manggis.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-aman-pindahkan-anakan-manggis.html"
 ---
 
 pemandangan langka itu dapat kita Temui di kebun manggis milik Jackson Kennedy
@@ -42,7 +42,7 @@ putaran alias lingkaran.
   5. Menurut Jackson, umumnya panjang akar tunggang 1/2-3/4 dari tinggi tanaman. Sisa akar tunggang yang tidak terbungkus karung harus dijaga dari benturan, terutama saat pengangkutan. Misal, saat dinaikkan ke atas truk. Kegagalan tanam justeru sering terjadi pada tahap ini. Bila tanah yang menyelimuti akar tunggang terlepas, segera buat gumpalan dari tanah dan rekatkan pada akar untuk melindunginya.
   6. Tanam anakan manggis pada lubang tanam yang telah disiapkan. Ukurannya minimal 2 mx 2 mx 1,5 m. Bila akar tunggang jauh lebih panjang, gali dasar lubang tanam 2 kali lebih besar dari diameter akar tunggang agar tumbuh leluasa. Lubang tanam yang baik dibuat sekitar 1 bulan sebelum tanam dan telah ditaburi pupuk kandang. Setelah tanam, siram tanah di sekitar anakan manggis sampai jenuh. Selanjutnya gunakan irigasi tetes untuk menjaga kebutuhan air tanaman selama 24 jam tanpa terputus pada bulan pertama. 
 
-![anakan manggis](http://127.0.0.1/mitra/wp-content/uploads/manggis1.jpg)
+![anakan manggis](http://localhost/mitra/wp-content/uploads/manggis1.jpg)
 Gunakan irigasi tetes selama 2 bulan
 
 

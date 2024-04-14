@@ -3,24 +3,24 @@ layout: post
 title: 'Trend Aquascape Tinggi, Permintaan Akuarium Aquascape Makin Meningkat'
 categories: hobi
 date: 2021-05-29 06:14:31
-author: Anton N
+author: Yudianto
 image: media/aquascape-4.jpg
 tags:
 - aquascape
 
 modification_time: 2021-05-29 06:14:31
-blogger_orig_url: "http://localhost/mitra/tanaman-air-akuarium-aquascape.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-air-akuarium-aquascape.html"
 ---
 
 Di pusat jajan itu, sambil menikmati ayam goreng atau masakan jepang, panorama
 hutan dari sepasang akuarium aquascape akan melonggarkan urat saraf. Demam
 aquascape kini sudah menjalar hingga ke fasilitas umum. Akuarium [aquascape
-minimalis](http://127.0.0.1/mitra/kiat-membuat-aquascape-minimalis.html)
+minimalis](https://www.mitrausahatani.com/kiat-membuat-aquascape-minimalis.html)
 berukuran 2 m x 1,5 m x 80 cm itu banyak menyedot perhatian pengunjung. Isi
 aquascape tampak padat, tapi tertata rapi. Perancangnya Aquarista di Jakarta
 Barat, terlihat menyukai panorama hutan tropis. Itu terlihat dari rerimbunan
 tanaman air dari belakang hingga mengitari dinding akuarium. Untuk menambah
-kesan alami belasan [ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias")
+kesan alami belasan [ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias")
 seperti kardinal tetra, botia, dan platy tampak menyesaki akuarium itu.
 
 ## Pusat Penjualan Peralatan Aquascape Terlengkap
@@ -37,10 +37,10 @@ mata.
 
 ## Trend Aquascape Makin Meningkat
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/aquascape-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/aquascape-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/aquascape-1.jpg) Lacakan
-[Mitrausahatani](http://127.0.0.1/mitra) di beberapa kota besar seperti
+[Mitrausahatani](https://www.mitrausahatani.com) di beberapa kota besar seperti
 Semarang dan Surabaya menunjukkan tren aquascape mulai melanda. "Kebanyakan
 ingin memanfaatkan akuarium kosong yang sebelumnya diisi lou han," papar
 Benyamin, perancang di Jl. Suyudono, Semarang. Hal senada diungkapkan pula
@@ -72,8 +72,8 @@ mengakali memakai bahan lokal seperti gravel silika. Untuk tanaman air dipilih
 yang tahan banting dan murah seperti Nymphaea sp, Echinodorus sp dan
 Aponogeton sp. "Ikan saya yang pilih sendiri," ujarnya. Setidaknya untuk
 akuarium berukuran 200 cm x 100 cm x 70 cm hanya butuh Rp3-juta sampai
-Rp5-juta. [![pembuatan akuarium aquascape](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/aquascape-2.jpg)](http://127.0.0.1/mitra/wp-
+Rp5-juta. [![pembuatan akuarium aquascape](http://localhost/mitra/wp-
+content/uploads/2021/05/aquascape-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/aquascape-2.jpg) Seiring meningkatnya permintaan
 akuarium aquascape, pebisnis tanaman air sebagai ornamen utama pun ikut
 kecipratan. "Ada lonjakan meski tidak terlalu besar untuk tanaman tertentu,"

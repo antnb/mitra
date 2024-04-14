@@ -10,7 +10,7 @@ tags:
 - tanaman philodendron
 
 modification_time: 2022-12-28 14:44:19
-blogger_orig_url: "http://localhost/mitra/tanaman-philodendron-terbaik-adenium.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-philodendron-terbaik-adenium.html"
 ---
 
 Philodendron adalah tanaman yang sangat indah dan menawan. Berasal dari bahasa
@@ -30,9 +30,9 @@ untuk menghias interior rumah atau kantor dengan nilai estetika tinggi. Senyum
 ceria merekah di wajah Heri Syaefudin. Kolektor tanaman hias asal Depok itu
 gembira kala juri menancapkan tanda grand champion di pot Tanaman Philodendron
 hias andalannya. Ia berhasil mengalahkan jawara aglaonema dan
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium"). Sejak awal
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium"). Sejak awal
 tanaman itu memang diprediksi menjadi primadona kontes. Di kontes [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"), Fiona juga digelar
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"), Fiona juga digelar
 lomba perdana adenium memperebutkan penghargaan Boediardjo.
 
 ## Philodendron selloum
@@ -51,7 +51,7 @@ Sayang, ia terkesan padat dan kurang rapi. Padahal, nilai penampilan mencapai
 ## Persaingan super Ketat
 
 Yang turut memperebutkan tahta grand champion adalah jawara
-[aglaonema](http://127.0.0.1/mitra/topik/aglaonema "aglaonema") di pot 010.
+[aglaonema](https://www.mitrausahatani.com/topik/aglaonema "aglaonema") di pot 010.
 Nilainya sama dengan Tanaman Philodendron pot nomor 086. Penampilan aglaonema
 milik Tati Soeroyo itu juga istimewa. Sosoknya anggun. Daun mulus, kompak,
 berwarna hijau keputihan dengan gurat merah pada tulang daun. Itu yang membuat
@@ -69,12 +69,12 @@ pada daun bertekstur tebal, mulus, dan kompak. Ia memang kerap jadi juara di
 berbagai kontes. Prestasi terakhir juara I penghargaan Boediardjo di Tingal
 Orchid, Ciputat. [caption id="attachment_19217" align="aligncenter"
 width="623"]![Philodendron williamsii diprediksi jadi grand
-champion](http://127.0.0.1/mitra/wp-content/uploads/2019/10/adenium_2.jpg)
+champion](http://localhost/mitra/wp-content/uploads/2019/10/adenium_2.jpg)
 Philodendron williamsii diprediksi jadi grand champion[/caption]
 
 ## Kontes adenium Perdana
 
-Kontes [adenium](http://127.0.0.1/mitra/topik/adenium "adenium") juga menyedot
+Kontes [adenium](https://www.mitrausahatani.com/topik/adenium "adenium") juga menyedot
 perhatian pengunjung. Kamboja jepang itu tak kalah pamor meski tak diikutkan
 dalam perebutan grand champion. Walaupun baru pertama kali dilombakan, tetapi
 animo cukup besar. Terbukti ada 53 Tanaman Philodendron bersaing memperebutkan
@@ -83,7 +83,7 @@ merajai kontes. Gelar juara 1, 2, 3, dan harapan 2 jatuh pada pemilik
 Godongijo nursery itu. Wajar saja, sosok keempat adenium itu luar biasa.
 Terutama penghuni pot 189. "Bonggol dan akar besar, kokoh, dan artistik
 menyerupai bonsai," ujar Syah Angkasa, juri dari [Mitra Usaha
-Tani](http://127.0.0.1/mitra). Selain itu tajuk kompak berselimut bunga
+Tani](https://www.mitrausahatani.com). Selain itu tajuk kompak berselimut bunga
 berwarna putih semu pink. Rivalnya di pot 186 tertinggal 17 poin meski dengan
 jenis bunga yang sama, half moon white. Sementara di kelas besar (> 50 cm)
 tanaman di pot 177 berhasil mengalahkan adenium di pot 196 milik Chandra

@@ -11,7 +11,7 @@ tags:
 - Tanaman Hias
 
 modification_time: 2019-10-29 09:55:00
-blogger_orig_url: "http://localhost/mitra/prospek-budidaya-bunga-krisan-di-gowa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-budidaya-bunga-krisan-di-gowa.html"
 ---
 
 Mufidah Jusuf Kalla mengunjungi kebun budidaya bunga krisan di Malino,
@@ -21,8 +21,8 @@ meter di atas permukaan laut. Mufidah siap memproduksi bunga potong anggota
 famili Asteraceae itu dengan dua greenhouse seluas masing-masing 1.000 m2.
 "Kapasitasnya mencapai 50.000 tangkai per bulan," ujar Ir Abdul Khadir,
 manajer produksi PT Bunga Indah Malino-perusahaan yang menaungi usaha budidaya
-krisan. [![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/budidaya-bunga-
-krisan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/budidaya-bunga-
+krisan. [![](http://localhost/mitra/wp-content/uploads/2019/10/budidaya-bunga-
+krisan.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/budidaya-bunga-
 krisan.jpg)
 
 ## Proses Menggunakan Mesin canggih
@@ -48,10 +48,10 @@ sanggup memproduksi 25.000 tangkai," ujar Abdul Khadir. Bunga potong hasil
 Budidaya Bunga Krisan oleh Mufidah dipasarkan di Makassar dan sekitarnya yang
 berjarak 70 km dari kebun. Masyarakat Kota Anging Mamiri itu memanfaatkan
 krisan untuk penghias ruangan hotel, [rangkaian
-bunga](http://127.0.0.1/mitra/dekorasi-apik-dari-rangkaian-bunga-nan.html)
+bunga](https://www.mitrausahatani.com/dekorasi-apik-dari-rangkaian-bunga-nan.html)
 pada acara pernikahan, wisuda mahasiswa, dan acara resmi lainnya.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/tanaman-
-krisan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/tanaman-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/tanaman-
+krisan.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/tanaman-
 krisan.jpg)
 
 ## Produksi Panen Yang Terus Meningkat
@@ -74,7 +74,7 @@ syarat Koya Flower. Per pekan PT BIM mengirim 2-3 kali ke Koya Flower itu.
 Hortikultura Kementerian Pertanian, Dr Ir Hasanuddin Ibrahim, Spl, pertumbuhan
 kebutuhan krisan di pasar domestik rata-rata mencapai 21,8% per tahun. "Untuk
 memenuhi kebutuhan krisan [di Sulawesi
-Selatan](http://127.0.0.1/mitra/modoinding-sentra-sayuran-terbesar.html) perlu
+Selatan](https://www.mitrausahatani.com/modoinding-sentra-sayuran-terbesar.html) perlu
 ada kerja sama kemitraan antara PT BIM dengan petani krisan melalui pola inti
 plasma," ujar Hasanuddin. Menurut Hasanuddin, PT BIM sebagai perusahaan inti
 memberikan bimbingan dan konsultasi kepada plasma. Bimbingan itu meliputi
@@ -82,14 +82,14 @@ penetapan standar mutu produk, penyediaan teknologi, membantu promosi dan
 pemasaran. Sementara petani plasma berperan dalam menyediakan pasokan bunga
 [Chrysanthemum indicum](https://www.cabi.org/isc/datasheet/13356) (bahasa
 Yunani chrysos berarti emas dan anthemon bunga).
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/tanaman-bunga-
-krisan.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/tanaman-bunga-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/tanaman-bunga-
+krisan.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/tanaman-bunga-
 krisan.jpg)
 
 ## Peranan Para Petani Tradisional
 
 Direktorat Budidaya dan Pascapanen Florikultura, Dinas Pertanian [Tanaman
-Pangan](http://127.0.0.1/mitra/kedaulatan-benih-tanaman-guna.html) dan
+Pangan](https://www.mitrausahatani.com/kedaulatan-benih-tanaman-guna.html) dan
 Hortikultura Provinsi Sulawesi Selatan, dan Dinas Pertanian Kabupaten Gowa
 memfasilitasi pertemuan dengan mitra pasar. Mitra pasar itu antara lain
 pengelola pameran, wedding organizer, dekorator, florist, dan anggota

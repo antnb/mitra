@@ -13,7 +13,7 @@ tags:
 - tanaman variegata
 
 modification_time: 2021-01-05 09:23:22
-blogger_orig_url: "http://localhost/mitra/tanaman-mutasi-daun-putih-kuning.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-mutasi-daun-putih-kuning.html"
 ---
 
 Wajar bila perasaan bahagia dan senang menyelimuti hati Tommy. Baginya
@@ -36,15 +36,15 @@ Nurseri-nurseri di seputar Jabotabek pun tak lupa untuk disambangi. "Ada
 kepuasan bila mendapatkan yang mutasi bagus karena nilai jualnya sangat
 tinggi," ucapnya. Tak heran saat Trubus berkunjung ke Annisa Nurseri di
 Rawabelong, Jakarta Barat, jajaran tanaman variegata seperti
-[anthurium](http://127.0.0.1/mitra/topik/anthurium "anthurium"), palem waregu,
+[anthurium](https://www.mitrausahatani.com/topik/anthurium "anthurium"), palem waregu,
 jati, Asplenium nidus, dan jati emas menghiasi rak besi. Selain itu,
 nephrolepis kristata menambah koleksi di antara daun belang-belang itu.
 
 ## Anggrek Mutasi permanen
 
 [caption id="attachment_7702" align="alignleft" width="282"][![Encephalartos
-lehmannii](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_mutasi1_670x768.jpg)](http://127.0.0.1/mitra/wp-
+lehmannii](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_mutasi1_670x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_mutasi1_670x768.jpg) Encephalartos lehmannii,
 langka dan variegata[/caption] Umumnya hobiis mencari tanaman variegata
 lantaran lebih mudah diperoleh dibanding tanaman langka. Walaupun harga tak
@@ -68,7 +68,7 @@ Sumatera Utara, itu harga tanaman mutasi selangit lantaran sulit diperoleh.
 
 Walaupun bisnis tanaman _mutasi_ sangat tidak menentu, Ukay tetap giat
 memburunya. Maklum, "Harga bisa 100--1.000 kali lipat dibanding [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") biasa," tutur ayah 3
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") biasa," tutur ayah 3
 putra. Anthurium hybrid variegata misalnya. Silangan Anthurium keris x A.
 hooker i dipercaya satu-satunya anthurium mutasi bernilai Rp20-juta. Padahal
 anthurium biasa hanya Rp30-ribu per tanaman. Mutasi pada tanaman hias biasa
@@ -89,8 +89,8 @@ Rp250.000 laris manis. Padahal, biaya perawatan dan produksi sangat kecil.
 ## Permintaan dari luar negri
 
 [caption id="attachment_7703" align="alignright" width="338"][![Sansievera
-variegata](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_mutasi2_728x768.jpg)](http://127.0.0.1/mitra/wp-
+variegata](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_mutasi2_728x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_mutasi2_728x768.jpg) Sansievera variegata,
 super mahal[/caption] Selain hobiis lokal, Ansori memenuhi permintaan dari
 Thailand sejak 2001. Sebanyak 15 sampai 20 walisongo beragam ukuran dihargai

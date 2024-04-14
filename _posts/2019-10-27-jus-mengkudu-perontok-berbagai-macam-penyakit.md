@@ -13,11 +13,11 @@ tags:
 - Mengkudu
 
 modification_time: 2022-12-28 16:03:49
-blogger_orig_url: "http://localhost/mitra/jus-mengkudu-perontok-berbagai-macam.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jus-mengkudu-perontok-berbagai-macam.html"
 ---
 
 Royasih di Depok, Jawa Barat, punya cara sendiri [untuk mengatasi tekanan
-darah tinggi dan](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-
+darah tinggi dan](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-
 walet.html) kadar kolesterol darah yang meningkat, la menggunakan mengkudu
 untuk mengatasi kedua gangguan kardiovaskular itu. Royasih memarut 3 mengkudu
 matang seukuran kepalan tangan lalu menambahkan setengah gelas air. Setelah
@@ -25,16 +25,16 @@ itu, ia memeras dan menyaring parutan mengkudu lalu mengonsumsi air perasan
 itu. Perempuan kelahiran Jakarta itu mengonsumsi air perasan mengkudu 2-3 kali
 sehari. Selang 2-3 hari keluhan akibat hipertensi dan kolesterol tinggi
 seperti pusing dan bahu pegal sirna. Royasih mengetahui [khasiat
-antihipertensi dan](http://127.0.0.1/mitra/air-rebusan-daun-saga-obat-
+antihipertensi dan](https://www.mitrausahatani.com/air-rebusan-daun-saga-obat-
 hepatitis.html) antikolesterol mengkudu secara turun temurun dari keluarganya.
 Menurut Royasih kedua orang tua dan kakek neneknya menggunakan buah kerabat
-kopi itu [untuk mengatasi beragam penyakit](http://127.0.0.1/mitra/khasiat-
+kopi itu [untuk mengatasi beragam penyakit](https://www.mitrausahatani.com/khasiat-
 ekstrak-biji-anggur-untuk.html) seperti hipertensi dan hiperkolesterol.
 Peneliti dari Sekolah Kesehatan Universitas Illinois, Rockford, Amerika
 Serikat, Dr Wang Mian Ying, menyatakan setiap kebudayaan memiliki sejarah
 pengobatan tradisional. Generasi leluhur meracik bahan yang tersedia di alam
 untuk mengatasi penyakit atau bencana alam. Kini [khasiat Morinda
-citrifolia](http://127.0.0.1/mitra/sejuta-manfaat-dan-khasiat-buah-noni.html)
+citrifolia](https://www.mitrausahatani.com/sejuta-manfaat-dan-khasiat-buah-noni.html)
 yang dipercaya turun temurun itu terbukti melalui riset ilmiah. Tropical
 Journal of Pharmaceutical Research pada Agustus 2014 menunjukkan buah noni
 ampuh menurunkan kolesterol jahat atau low density lipoprotein (LDL).
@@ -45,14 +45,14 @@ Itu hasil penelitian Grace Santhy Sasnan, Endang Hanani, dan Jusuf Kristianto
 dari Universitas Indonesia. Konsumsi 1 g ekstrak mengkudu menurunkan kadar LDL
 darah 60 pasien hiperkolesterolemia. Kandungan flavonoid dan polifenol
 mengkudu menghambat biosintesis lipid. Dari Hasil Pengamatan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) menyimpulkan bahwa Buah pace atau mengkudu itu
+Tani](https://www.mitrausahatani.com) menyimpulkan bahwa Buah pace atau mengkudu itu
 juga mujarab mengatasi beragam penyakit seperti kanker, diabetes mellitus, dan
 tuberkulosis sebagaimana hasil riset mutakhir. Beberapa tahun terakhir memang
 banyak periset mengungkap khasiat buah Mengkudu itu. Penelitian mereka
 membuktikan khasiat jus mengkudu memang ternasuk panasea alias obat untuk
 mengatasi beragam penyakit. Beberapa penelitian tampak dalam ilustrasi berikut
-ini. [![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/noni-
-mengkudu-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+ini. [![](http://localhost/mitra/wp-content/uploads/2019/10/noni-
+mengkudu-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/noni-mengkudu.jpg)
 
 ## **Pelindung ginjal**
@@ -66,7 +66,7 @@ Gabungan proxeronin dalam noni dan enzim dalam tubuh membentuk xeronin yang
 mengaktifkan sistem imun seluler sehingga memperbaiki dan melindungi ginjal.
 **Diabetes mellitus** So Young Lee dan rekan dari Institut Penelitian Pangan
 Korea, Gyeonggi Do, Sungnam Si, Korea Selatan, membuktikan pada 2012 khasiat
-mengkudu [untuk mengatasi diabetes](http://127.0.0.1/mitra/herbal-
+mengkudu [untuk mengatasi diabetes](https://www.mitrausahatani.com/herbal-
 nanopropolis-mujarab-untuk.html) tipe 2. Diabetes tipe 2 terjadi karena
 resistensi insulin sehingga kadar gula darah tinggi. Hasil penelitian
 menunjukkan kadar gula darah tikus yang mengonsumsi mengkudu terfermentasi
@@ -99,8 +99,8 @@ menjadi 214,48; 151,16; 169,62 U/l dibandingkan dengan kelompok kontrol 296,62
 U/l. Sementara kadar SGPT berturut-turut menjadi 55,42; 54,34; 57,58 U/l.
 Senyawa proxeronin dan enzim proxeronase dalam mengkudu memperbaiki kerusakan
 sel. Sementara senyawa terpen berfungsi meremajakan sel.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/macam-macam-
-jus-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/macam-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/macam-macam-
+jus-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/macam-
 macam-jus.jpg)
 
 ## **Ekstrak mengkudu Terbukti Mampu Mengikatkan Stamina**

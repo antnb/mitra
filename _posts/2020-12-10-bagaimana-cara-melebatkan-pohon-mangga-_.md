@@ -9,7 +9,7 @@ tags:
 - Mangga
 
 modification_time: 2020-12-10 18:08:04
-blogger_orig_url: "http://localhost/mitra/bagaimana-cara-melebatkan-pohon-mangga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bagaimana-cara-melebatkan-pohon-mangga.html"
 ---
 
 Saya petani mangga di Pemalang, tapi kebun saya kurang produktif. Pertanyaan
@@ -37,7 +37,7 @@ kebun sangat dianjurkan. Apabila ingin menyemprotkan hormon, dapat dicoba
 hormon NAA (Asam Naftalen Asetat) konsentrasi 100 ppm (100 mg/liter air).
 Hormon ini disemprotkan saat bunga mekar (tiap tandan bunga disemprot sampai
 basah). NAA, Atonik, dan pupuk buatan dapat dibeli di kios-kios pupuk
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian").
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian").
 
 Hendro Sunarjono
 

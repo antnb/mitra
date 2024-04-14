@@ -10,14 +10,14 @@ tags:
 - strawberry
 
 modification_time: 2020-11-11 05:05:57
-blogger_orig_url: "http://localhost/mitra/sehari-jadi-petani-stroberi.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sehari-jadi-petani-stroberi.html"
 ---
 
 Pagi itu Palupi sebut saja namanya begitu membuka pintu kayu di beranda depan.
 Mentari baru saja merekah di ufuk timur. Di antara embusan angin dingin, ia
 melangkah menuju deretan perdu berdaun hijau di atas bedengan bermulsa
 plastik. Jaraknya sekitar 20 m dari rumah itu. Setiba di sana tangan mungilnya
-dengan cekatan memetik [buah merah](http://127.0.0.1/mitra/topik/buah-merah
+dengan cekatan memetik [buah merah](https://www.mitrausahatani.com/topik/buah-merah
 "buah merah") nan ranum yang menyembul di sela-sela daun. Dalam sekejap
 keranjang plastik yang dibawa penuh stroberi buah merah itu. Itu bukan kebun
 milik sendiri. Palupi cuma “menumpang” jadi petani selama sehari semalam di
@@ -51,8 +51,8 @@ peminat merogoh kocek RplOO.OOO- Rpl75.000. Itu termasuk akomodasi (penginapan
 plus makan). Di akhir kegiatan, satu paket buah dan sayur tersedia cuma-cuma
 sebagai oleh-oleh. Lantaran jumlah rumah inap masih terbatas, peminat mesti
 mendaftar dulu pada Dinas Pertanian Batu atau ke Puskomindes (Pusat Komunikasi
-dan Informasi Desa) di Selekta. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/petik-strawberry.jpg)](http://127.0.0.1/mitra/wp-
+dan Informasi Desa) di Selekta. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/petik-strawberry.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/petik-strawberry.jpg)
 
 ## Rumah kaca
@@ -62,7 +62,7 @@ Agrowisata. Di lokasi pelesiran berjarak 2 km dari pusat kota Batu itu,
 aardbei- sebutan di Belanda-ditanam seluas 1,5 ha sejak 6 tahun silam. Begitu
 memasuki gerbang bertuliskan Kusuma Agro Sayur dan Strawberry terhampar
 tanaman perdu bersulur di kanan jalan. Di sini stroberi ditanam dalam rumah
-kaca berkonstruksi megah. [Mitra Usaha Tani](http://127.0.0.1/mitra) melihat
+kaca berkonstruksi megah. [Mitra Usaha Tani](https://www.mitrausahatani.com) melihat
 2-3 buah ranum muncul di sela-sela rumpun tanaman. Nun agak ke atas kiri jalan
 ia terhampar di areal terbuka. Pengunjung boleh mencicipi 2 buah tristar dan
 zelva-varietas yang ditanam. Sayangnya, aksi petik sendiri hanya bisa
@@ -77,7 +77,7 @@ Incarla Nurseri pilihan lain. Meski baru seumur jagung-baru ditanam pada Juli
 2002-stroberi jadi primadona di kebun di kawasan Cibodas, Cianjur, itu. Si
 merah menyala itu paling menonjol meski populasi hanya 300 tanaman. Maklum di
 luar stroberi, Incarla melulu diisi beragam [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"). Stroberi asal
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"). Stroberi asal
 Belanda ditanam dalam 2 rumah plastik. Di dalam setiap rumah terdapat 3 bedeng
 masing-masing berisi 3 lajur tanaman. Posisinya tepat diapit koleksi bonsai
 dan penanaman geranium. Lantaran populasi masih sedikit pengunjung tak boleh
@@ -85,8 +85,8 @@ memetik. “Biar orang lain tetap bisa melihat buah di kebun,” tutur Iin Hasim
 sang pemilik. Oleh karena itu pengusaha bunga potong itu berencana memperluas
 penanaman dengan mengajak petani sekitar. Itu supaya pengunjung bisa puas
 memetik sendiri buah di kebun. [caption id="attachment_20610"
-align="aligncenter" width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/wisata.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/wisata.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/wisata.jpg) Asyiknya petik buah sendiri di
 kebun[/caption]
 

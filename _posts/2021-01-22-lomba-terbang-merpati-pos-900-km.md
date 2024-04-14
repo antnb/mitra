@@ -11,7 +11,7 @@ tags:
 - merpati pos
 
 modification_time: 2021-01-22 03:08:19
-blogger_orig_url: "http://localhost/mitra/lomba-terbang-merpati-pos-900-km.html"
+blogger_orig_url: "http://www.mitrausahatani.com/lomba-terbang-merpati-pos-900-km.html"
 ---
 
 Tepat pukul 11.15, Henry tiba di Barakuda Bird Farm, Taman Kopo Indah,
@@ -33,8 +33,8 @@ Bahkan, kontestan dari Bengkulu pun turut Latihan bertahap
 ## Kandang karantina
 
 [caption id="attachment_7905" align="alignleft" width="296"][![kandang merpati
-pos](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_merpati_1024x749.jpg)](http://127.0.0.1/mitra/wp-
+pos](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_merpati_1024x749.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_merpati_1024x749.jpg) DI sinilah burung keluar-
 masuk[/caption] Menurut Ridwan Heryanto kandang nasional itu menjadi inovasi
 baru di merpati pos. Lazimnya, burung yang dilepas di pos tertentu bakal
@@ -80,8 +80,8 @@ tetap fit.
 
 ## Siap tanding
 
-[![box merpati balap](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_merpati1_1024x576.jpg)](http://127.0.0.1/mitra/wp-
+[![box merpati balap](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_merpati1_1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_merpati1_1024x576.jpg)Setelah digembleng selama
 1,5 sampai 2 bulan, merpati pos pun siap bertanding. Kelak, pada lomba yang
 digelar pada Juni 2005, mereka harus melewati 3 pos, Semarang, Lasem, dan

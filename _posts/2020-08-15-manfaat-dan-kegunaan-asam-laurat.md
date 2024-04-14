@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-15 08:43:10
-blogger_orig_url: "http://localhost/mitra/manfaat-dan-kegunaan-asam-laurat.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-dan-kegunaan-asam-laurat.html"
 ---
 
 _Asam laurat, satu jenis asam lemak berantai sedang. Keampuhannya telah
@@ -39,7 +39,7 @@ antibakterinya itu yang bikin asam lemak makin banyak aplikasinya,” lanjut
 almunus University of New South Wales, Australia itu. Seiring dengan
 perkembangan, asam laurat juga digunakan pada industri insektisida, makanan,
 dan minuman. Asam lemak laurat murni didapat dengan mengeksterifikasi [virgin
-coconut oil](http://127.0.0.1/mitra/manfaat-virgin-coconut-oil-untuk.html)
+coconut oil](https://www.mitrausahatani.com/manfaat-virgin-coconut-oil-untuk.html)
 (VCO) atau teknologi fraksionasi alias pemisahan fraksi-fraksi. Kandungan VCO
 diuraikan melalui titik didih masing-masing komponen penyusun fraksi. Minyak
 kelapa murni dimasukkan ke tabung fraksionasi bertekanan 5 mmHg dan suhu
@@ -47,7 +47,7 @@ pengumpan 45°C. Ketika suhu pengumpan dinaikkan menjadi 132°C, diperoleh asam
 laurat 81,3% dan asam miristat 18,9%. Pemanasan pada suhu itu tak merusak asam
 laurat VCO. Sebab, senyawa itu baru mengalami kerusakan ketika dipanaskan pada
 suhu 306°C. [caption id="attachment_1353" align="aligncenter"
-width="611"]![Biji sawit ](http://127.0.0.1/mitra/wp-
+width="611"]![Biji sawit ](http://localhost/mitra/wp-
 content/uploads/2020/08/gamat_1200x800.jpg) Biji sawit kaya Asam
 laurat[/caption]
 

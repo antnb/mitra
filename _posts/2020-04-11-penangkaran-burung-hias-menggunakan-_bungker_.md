@@ -12,7 +12,7 @@ tags:
 - penangkaran
 
 modification_time: 2020-04-11 14:08:49
-blogger_orig_url: "http://localhost/mitra/penangkaran-burung-hias-menggunakan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/penangkaran-burung-hias-menggunakan.html"
 ---
 
 Perlindungan mirip bunker itu juga diterapkan oleh Cuan Lie untuk burung hias
@@ -27,7 +27,7 @@ besi berukuran 1,2 m x 2 m. Sebagai pengaman tambahan dipakai gerendel agar
 pintu tertutup rapat. Ratusan juta rupiah dicemplungkan Cuan Lie untuk
 membangun kandang penangkaran itu. Wajar bila lokasinya agak tersembunyi dan
 jarang orang tahu kandang penangkaran. Perjalanan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) dari pusat kota Palembang menuju lokasi
+Tani](https://www.mitrausahatani.com) dari pusat kota Palembang menuju lokasi
 penangkaran sejauh 15 km itu pun sungguh terasa melelahkan. Apalagi satu-
 satunya kendaraan yang dapat masuk ke sana cuma motor.
 
@@ -53,11 +53,11 @@ jangkrik selalu tersedia sepanjang hari. "Kapan pun burung mau makan, pasti
 ada. Jangkrik setiap pagi harus dikontrol jumlahnya. Sepasang menghabiskan 40
 ekor," ujar Cuan Lie sambil memegang 2 anakan murai batu. Dalam sehari minimal
 Cuan Lie membawa 5.000 jangkrik buat burungnya. Sayang, ketika
-[mitrausahatani](http://127.0.0.1/mitra) berkunjung ke sana hanya terlihat 4
+[mitrausahatani](https://www.mitrausahatani.com) berkunjung ke sana hanya terlihat 4
 pasang cucakrawa, 8 pasang murai batu, dan sepasang jalak suren. Kandang lain
 tidak boleh dilihat lantaran induk sedang mengeram.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Penangkaran-Burung-
-Hias.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Penangkaran-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Penangkaran-Burung-
+Hias.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/Penangkaran-
 Burung-Hias.jpg)
 
 ## Berawal Dari Coba-coba
@@ -85,8 +85,8 @@ mendapatkan pengetahuan untuk menangkarkan burung hias. Cuan Lie pun selektif
 memilih induk setelah mengetahui katuranggan dan suaranya. Makanya, untuk
 materi kandang sebagian besar diperolehnya dari burung koleksi yang rata-rata
 telah juara. Ada juga anakan sendiri yang sudah ia seleksi, lalu dibesarkan
-untuk induk. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Penangkaran-Burung.jpg)](http://127.0.0.1/mitra/wp-
+untuk induk. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Penangkaran-Burung.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Penangkaran-Burung.jpg)
 
 ## Raup Rupiah Dari Penangkaran Burung Hias

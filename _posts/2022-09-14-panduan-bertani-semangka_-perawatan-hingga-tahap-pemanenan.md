@@ -9,7 +9,7 @@ tags:
 - semangka
 
 modification_time: 2022-09-14 08:24:25
-blogger_orig_url: "http://localhost/mitra/panduan-bertani-semangka.html"
+blogger_orig_url: "http://www.mitrausahatani.com/panduan-bertani-semangka.html"
 ---
 
 Semangka adalah buah yang populer di seluruh dunia, dan Indonesia adalah salah
@@ -26,8 +26,8 @@ semangka. Keuntungan bisnis bertani semangka juga terletak pada faktor
 kesegaran. Semangka yang baru dipetik akan lebih segar dibandingkan dengan
 semangka yang sudah lama dipetik. Oleh karena itu, petani dapat memetik
 semangka dan langsung menjualnya ke pasar. Dengan demikian, petani akan
-mendapatkan keuntungan yang cukup besar. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2022/09/semangka-300x169.jpg)](http://127.0.0.1/mitra/wp-
+mendapatkan keuntungan yang cukup besar. [![](http://localhost/mitra/wp-
+content/uploads/2022/09/semangka-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/09/semangka.jpg)
 
 ## Panduan Bertani dan Budidaya Semangka untuk Pemula
@@ -142,7 +142,7 @@ hangat. Jangan memasukkan bibit ke dalam kebun sampai suhu tanah di atas 21
 derajat celcius. Sebelum penanaman, tutupi tanah dengan plastik hitam atau
 mulsa untuk mempercepat pemanasan tanah. Karena semangka termasuk tanaman yang
 membutuhkan unsur hara yang banyak, siapkan tanah
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") tanam Anda dengan
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") tanam Anda dengan
 menambahkan limbah tanaman, kompos, atau pupuk kandasng bila ada. Untuk
 penyerapan nutrisi terbaik, pH tanah harus antara 6 dan 6,8, meskipun tanaman
 akan mentolerir pH serendah 5. Setelah Anda memilih tempat yang tepat untuk
@@ -200,9 +200,9 @@ Buah semangka yang matang dapat dilihat dari warnanya yang merah. Selain itu,
 buah semangka yang matang juga akan terasa lebih lembut daripada buah semangka
 yang masih mentah. Pemanenan dilakukan dengan menggunakan pisau atau gunting
 untuk memotong buah semangka dari pohon. Pemanenan dilakukan secara hati-hati
-agar buah semangka tidak rusak. [![](http://127.0.0.1/mitra/wp-
+agar buah semangka tidak rusak. [![](http://localhost/mitra/wp-
 content/uploads/2022/09/budidaya-
-semangka-300x169.jpg)](http://127.0.0.1/mitra/wp-
+semangka-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/09/budidaya-semangka.jpg)
 
 ### Cara menentukan buah semangka yang sudah matang:

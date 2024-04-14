@@ -9,13 +9,13 @@ tags:
 - 
 
 modification_time: 2020-09-04 09:23:57
-blogger_orig_url: "http://localhost/mitra/hindarkan-cabe-anda-dari-bahaya-virus.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hindarkan-cabe-anda-dari-bahaya-virus.html"
 ---
 
 _Keberhasilan budidaya tanaman cabe sangat ditentukan oleh kemampuan petani
 dalam mengendalikan hama atau penyakit yang menyerang tanaman, disamping juga
 oleh teknik budidaya yang dipilih._ Gejala penyakit yang hampir selalu muncul
-pada [pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") cabe adalah
+pada [pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") cabe adalah
 daun atau pucuk keriting, baik melengkung ke atas maupun ke bawah kemudian
 dalam tingkat serangan yang parah akan menguning dengan tulang daun yang
 terlihat jelas. Gejala seperti ini dapat disebabkan oleh hama Mite

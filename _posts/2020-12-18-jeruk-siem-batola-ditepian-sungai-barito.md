@@ -14,7 +14,7 @@ tags:
 - tabulampot jeruk
 
 modification_time: 2020-12-18 13:10:45
-blogger_orig_url: "http://localhost/mitra/jeruk-siem-batola-ditepian-sungai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/jeruk-siem-batola-ditepian-sungai.html"
 ---
 
 Bak petualangan Indiana Jones memburu harta karun terpendam, perjalanan menuju
@@ -34,8 +34,8 @@ ada harta karun berupa bentangan jeruk siem sejauh mata memandang.
 ## Jeruk Siem batola
 
 [caption id="attachment_3000" align="alignleft" width="362"][![Panen Buah
-Jeruk Batola](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_batola1_1023x768.jpg)](http://127.0.0.1/mitra/wp-
+Jeruk Batola](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_batola1_1023x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_batola1_1023x768.jpg) Hasil panen habis di
 Banjarmasin[/caption] Kebun _Citrus nobilis_ itu begitu tertata rapi. Jeruk
 ditanam dalam bedengan-bedengan selebar 4 m. Satu bedeng, satu barisan tanam
@@ -56,8 +56,8 @@ buah yang mulus. Tak heran bila siem itu menjadi kebanggaan. Masyarakat
 setempat menyebutnya batola, kependekan dari barito kuala. Sayang, waktu ikut
 serta dalam Lomba Buah Unggul Nasional 2003 yang diselenggarakan Trubus siem
 banjar itu kalah bersaing dengan keprok asal Lombok dan siem pamekasan.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/batola.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/batola.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/batola.jpg)
 
 ## Kawasan Agropolitan
@@ -87,8 +87,8 @@ Bila ini berlangsung lama minimal 2 bulan daun menguning dan lama kelamaan
 tanaman mati. Menyelamatkan tanaman dari gempuran banjir, salah satu misi
 kunjungan ke sentra yang diresmikan Menteri Pertanian Bungaran Saragih itu.
 Untuk itu sistem pembuangan air mesti ditata lebih baik.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/jeruk.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/jeruk.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/jeruk.jpg)
 
 ## Harga Jual Yang Mahal

@@ -9,7 +9,7 @@ tags:
 - alpukat
 
 modification_time: 2021-10-31 08:10:14
-blogger_orig_url: "http://localhost/mitra/cara-sambung-pucuk-alpukat-yang-bagus.html"
+blogger_orig_url: "http://www.mitrausahatani.com/cara-sambung-pucuk-alpukat-yang-bagus.html"
 ---
 
 Dibanding Fuerte, alpukat Indonesia lebih baik. Alpukat mentega dan hijau
@@ -18,13 +18,13 @@ pucuk alpukat umumnya berukuran lebih besar dan panjang. Sayangnya penyebaran
 buah unggulan itu terbatas di Jawa Barat dan Jawa Timur. Faktor penyebabnya
 sangat klasik, masih merupakan tanaman pekarangan. Padahal budidaya
 intensifnya sudah siap, mulai dari pemilihan bibit sampai penanggulangan
-hama/penyakit. [alpukat](http://127.0.0.1/mitra/topik/alpukat "alpukat") yang
+hama/penyakit. [alpukat](https://www.mitrausahatani.com/topik/alpukat "alpukat") yang
 bagus diperbanyak dengan cara sambung pucuk (top grafting). Hasil
 perbanyakannya bisa berbuah pada umur 5 sampai 7 tahun. Khusus untuk alpukat
 hijau panjang, penanaman bisa dari biji, tetapi baru berbuah pada umur 8
-sampai 10 tahun. [![](http://127.0.0.1/mitra/wp-
+sampai 10 tahun. [![](http://localhost/mitra/wp-
 content/uploads/2021/10/sambung-
-pucuk-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+pucuk-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/sambung-pucuk.jpg)
 
 ## Pemilihan Bibit Alpukat Sambung Pucuk
@@ -59,8 +59,8 @@ kondisi lahan. Tahun pertama setelah sambung pucuk alpukat, tanaman diberikan
 NPK 200g meningkat sampai 500g/tanaman pada umur 3 tahun. Pemberiannya 4 kali
 selang 3 bulan. Bila tanaman mulai berbuah, NPK cukup diberikan 2 kali,
 sebelum berbunga dan setelah panen. [![cara sambung pucuk alpukat dengan
-benar](http://127.0.0.1/mitra/wp-
-content/uploads/2021/10/alpukat-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+benar](http://localhost/mitra/wp-
+content/uploads/2021/10/alpukat-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/10/alpukat.jpg)
 
 ## Waspada Penyakit Yang Menyerang Kemudian

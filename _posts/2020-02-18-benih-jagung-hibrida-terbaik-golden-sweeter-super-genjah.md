@@ -12,7 +12,7 @@ tags:
 - jagung
 
 modification_time: 2022-09-18 13:11:20
-blogger_orig_url: "http://localhost/mitra/bibit-jagung-hibrida-terbaik-golden.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bibit-jagung-hibrida-terbaik-golden.html"
 ---
 
 Artikel ini ialah artikel yang membahas tentang jagung jenis baru yang ditanam
@@ -22,7 +22,7 @@ bagus, dan mudah ditanam. Pekebun di Temanggung, Jawa Tengah, itu langsung
 membudidayakan varietas baru. Penanaman bibit jagung dilakukan secara bertahap
 masing-masing seluas 1.000-3.000 m2. Pilihan yang tepat. Soalnya, ketika
 panen, pengepul antre ingin memborong [jagung
-manis](http://127.0.0.1/mitra/tiga-jagung-manis-unggul-jagung-bonanza.html)
+manis](https://www.mitrausahatani.com/tiga-jagung-manis-unggul-jagung-bonanza.html)
 berkualitas.
 
 ## Jagung golden sweeter super genjah
@@ -62,8 +62,8 @@ Menjelang panen, misalnya, pengepul sudah menyambangi kebun Iwang di di Desa
 Pagutan, Kecamatan Pakurejo, Temanggung. Saat ini harga per kilo jagung manis
 di tingkat pekebun Rp 1.600. Pekebun menjual dengan tongkol dan klobot alias
 kulit tongkol. Rata-rata bobot 2 kg terdiri atas 3 tongkol.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/jagung-
-hibrida-300x143.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/02/jagung-
+hibrida-300x143.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/jagung-hibrida.jpg)
 
 ## Bibit Jagung Berkualitas Unggulan
@@ -81,13 +81,13 @@ dibakar si kuning emas itu sama-sama memberikan kelezatan tak terperikan. Rasa
 dan penampilannya amat sesuai dengan lidah konsumen Indonesia. Hanya itu?
 Sosok tongkol juga panjang, sekitar 16 cm. Ukuran besar, terdiri atas 16
 baris. Dengan demikian bagian yang dapat dikonsumsi juga lebih banyak. Seluruh
-[permukaan tongkol](http://127.0.0.1/mitra/sistem-tanam-jajar-legowo-
+[permukaan tongkol](https://www.mitrausahatani.com/sistem-tanam-jajar-legowo-
 tanaman.html) terlindungi klobot. Itu jelas nilai lebih. Maklum, dengan
 terbungkus tak ada air hujan yang tergenang di tongkol. Pada jagung lain,
 ujung tongkol agak tersingkap. Dampaknya bekas air hujan atau siraman yang
 membasahai rambut mempengaruhi kelembapan tongkol. Bila itu terjadi sama saja
-mengundang cendawan datang. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/Benih-jagung--300x172.jpg)](http://127.0.0.1/mitra/wp-
+mengundang cendawan datang. [![](http://localhost/mitra/wp-
+content/uploads/2020/02/Benih-jagung--300x172.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/Benih-jagung-.jpg)
 
 ### Benih jagung super genjah Untuk Hasil Terbaik
@@ -104,7 +104,7 @@ lokasi budidaya berketinggian 500-700 m dpi, golden sweeter dipanen pada umur
 60-72 hari. Sebuah tanaman biasanya hanya dituai satu tongkol. Bobot rata-rata
 per tongkol mencapai 380-420 g. Dengan total populasi 66.000-70.000 tanaman
 per ha, pekebun dapat menuai 15-18 ton. Keunggulan lain, sosok tanaman rendah,
-1,2 m. Itu jelas mempermudah [perawatan](http://127.0.0.1/mitra/penggunaan-
+1,2 m. Itu jelas mempermudah [perawatan](https://www.mitrausahatani.com/penggunaan-
 nematoda-entomopatogen.html) dan panen. Sosok rendah berarti juga tahan
 terhadap rebah batang ketika angin bertiup kencang. Selain itu, butiran golden
 sweeter juga mudah dipipil. Dengan segudang kelebihan itu wajar saja banyak

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-06 15:36:03
-blogger_orig_url: "http://localhost/mitra/nuri-ternate-si-cantik-yang-pintar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/nuri-ternate-si-cantik-yang-pintar.html"
 ---
 
 _"Selamat pagi, selamat pagi," sapa nuri ternate milik Krisno berulang-ulang.

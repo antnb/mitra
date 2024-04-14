@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-17 15:29:02
-blogger_orig_url: "http://localhost/mitra/perburuan-durian-unggul-di-pelosok.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perburuan-durian-unggul-di-pelosok.html"
 ---
 
 _Memasuki Desember -Januari telepon genggam di tangan Prakoso semakin sering
@@ -24,7 +24,7 @@ dinikmatinya sebagai durian nonot. Nonot ialah sebutan akrab Prakoso di
 kalangan sahabatnya. Komentar serupa datang dari Husny, pengusaha tekstil di
 Surabaya, setelah menikmati durian. “Wah, saya belum pernah makan durian di
 Surabaya seenak ini. Bisa-bisa mabuk nih,” ujarnya. Cerita ketiga orang
-kenalan [[Mitra Usaha Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+kenalan [[Mitra Usaha Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 di pertengahan Januari itu terngiang terus kala tim redaksi merencanakan
 perjalanan ke luar kota. Supaya tak penasaran, 5 hari penuh dijadwalkan untuk
 melakukan perburuan ke sentra-sentra durian di Jawa Tengah. Daerah Kendal,
@@ -41,7 +41,7 @@ istirahat dulu?” kata Prakoso yang menjemput di hotel. Karena legitnya durian
 sudah terbayang di pelupuk mata, diputuskan untuk langsung meluncur ke Boja,
 Kabupaten Kendal. Perjalanan itu melewati Pasar Mijen, Semarang Barat, sebuah
 pasar durian terkenal di Semarang. Sayang, ketika [[[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)](http://127.0.0.1/mitra)
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)](https://www.mitrausahatani.com)
 meminta waktu untuk wawancara dan mengambil foto Prakoso menolak. “Sst, kita
 cari durian enak langsung ke pemiliknya. Kalau hanya ke pasar, tak perlu
 diantar saya,” katanya. Setengah jam kemudian, pohon-pohon durian di Desa
@@ -50,7 +50,7 @@ pemburu. Menurut Arif Budiman, warga asli Boja yang kerap mengantar mania
 durian dari luar kota, di desa itulah pusat durian enak. Sebut saja
 kumbokarno, durian legendaris dari Kendal yang telah menasional, berasal dari
 Desa Ngabean. (baca: Dan sang Debutan pun Menang, [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) Maret 2004). “Itu
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) Maret 2004). “Itu
 durian terkenal, tapi yang rasanya selezat kumbokarno banyak,” kata Budi.
 Empat di antaranya bernama merica, ketan, bagong, dan tumbu. Keempat durian
 itu seolah menjadi maskot para penebas durian di desa itu. Maklum, sentra
@@ -58,7 +58,7 @@ durian di desa itu dikuasai oleh para penebas, bukan pemilik pohon. Para
 penebas memperoleh durian dengan 2 cara: sewa kontrak dan borongan. Cara yang
 pertama, sebuah pohon disewa selama 5 tahun penuh dengan harga Rp 300-ribu-Rp
 1-juta per tahun. Cara kedua, pohon durian dibeli kala berbunga atau berbuah
-muda dengan harga Rp 3-juta-Rp 8-juta. ![](http://127.0.0.1/mitra/wp-
+muda dengan harga Rp 3-juta-Rp 8-juta. ![](http://localhost/mitra/wp-
 content/uploads/2020/08/unnamed_1280x718.jpg)
 
 ### Durian Merica
@@ -75,7 +75,7 @@ kg. Namun, jarang mania yang bisa menghabiskan y 1 buah. Umumnya baru memakan
 separuh sudah 7 menyerah. “Dagingnya tebal dan bijinya kempes. » Menyantap
 sebutir merica sama kenyangnya i dengan makan 4 buah durian biasa,” kata Budi.
 Sebelum ke tempat Nurcholis, sebetulnya [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) berkunjung ke tempat
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) berkunjung ke tempat
 Komari. Penebas durian itu mempunyai 150 pohon. Durian andalan Komari ialah
 tumbu. Sayang saat itu duriannya belum masak benar. Toh, kekecewaan itu
 terobati setelah Komari membelah sebuah durian tanpa nama. “Walau tanpa nama,
@@ -85,11 +85,11 @@ dari 150 pohon yang dimiliki, 2-3 pohon durian yang berbuah enak habis dipesan
 para mania. Sisanya, dilempar ke bakul yang menjual ke Surabaya dan
 Gunungpati, Semarang. “Yang rasanya biasa saja, dikirim ke Pasar Mijen,” kata
 Komari. Komentar Komari itu seolah menjawab rasa penasaran [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) saat hendak mencicipi
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) saat hendak mencicipi
 durian di Mijen. Dari Desa Ngabean, perjalanan berlanjut ke Desa Brayu,
 Kecamatan Singorojo, Kendal. Di sana sebuah durian bernama subur amat
 terkenal. Kala [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) bertandang, tak lama
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) bertandang, tak lama
 kemudian beberapa pejabat Pemda Kendal datang dan langsung mencari subur.
 Sayang, pada hari itu tak ada buah yang jatuh. Namun, sebuah durian angel yang
 tak kalah lezatnya menjadi pengganti. Disebut angel (bahasa Jawa, susah, red)
@@ -124,7 +124,7 @@ andalan Hj Gipah, yakni gipah 01, gipah 02, gipah 03, pilah, karti, dan
 asnawi. Itu adalah durian jawara kontes se-Jepara yang dikirimkan Gipah sejak
 1986-2005. Karti misalnya, meraih jawara 1 pada 2005. Gipah 03, ia pernah
 berjaya pada 1986. [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) melihat, piagam
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) melihat, piagam
 pemenang masing-masing durian di tempel di dinding rumahnya. “Ini untuk
 meningkatkan gengsi buah. Harganya pun terdongkrak,” kata Gipah. Segera saja 3
 buah durian disodorkan. Gipah berwarna kuning mentega, berasa manis dan
@@ -152,14 +152,14 @@ mulai dibibitkan (baca: Durian Gembong Pilihan Bupati, Incaran Mania, hal
 Seminggu kemudian, perburuan diteruskan ke Rancamaya, Bogor, Jawa Barat.
 Daerah yang hanya sepelemparan batu dari Jakarta itu memang dikenal sebagai
 sentra durian. Namun, semua itu seperti bertolak belakang ketika [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra) berkunjung ke sana.
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com) berkunjung ke sana.
 Hanya 1-2 jongko dengan penampilan durian kurang menarik yang menyambut.
 Setelah bertanya kepada salah satu pemilik jongkodipintuperumahanRancamaya,
 rasa penasaran mulai terjawab. Ternyata sentra durian Rancamaya mesti masuk
 2-3 km lebih ke dalam melalui jalan kecil bernama Gang Nangka. Bak seorang
 intel, akhirnya nama Haji Jumhari- penjual durian enak-yang dibekali Rudi
 Sendjaya, pemilik Toko Buah Segar kolega [[Mitra Usaha
-Tani](http://127.0.0.1/mitra)](http://127.0.0.1/mitra), berhasil ditemukan. Di
+Tani](https://www.mitrausahatani.com)](https://www.mitrausahatani.com), berhasil ditemukan. Di
 depan jongkonya, sebuah plang nama bertuliskan “Warung Durian Haji Jumhari
 Rancamaya” menyambut. Sebuah sedan milik seorang penikmat durian tengah
 diparkir di halaman. Pilihan Rudi tak salah, dari 4 buah durian yang

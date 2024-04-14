@@ -11,7 +11,7 @@ tags:
 - Palembang
 
 modification_time: 2022-09-13 10:59:12
-blogger_orig_url: "http://localhost/mitra/potensi-dan-nilai-ekonomis-duku.html"
+blogger_orig_url: "http://www.mitrausahatani.com/potensi-dan-nilai-ekonomis-duku.html"
 ---
 
 Sang pemilik jongko setengah berteriak menawarkan dagangannya. "Punggurnya
@@ -19,7 +19,7 @@ pak? " Tanpa ba bi bu pasangan suami istri yang turun dari mobil itu langsung
 meminta 5 kg. Uang sebanyak Rp 40.000 pun berpindah tangan. Nama punggur
 memang jaminan duku enak di Pontianak, sehingga konsumen berani membeli dengan
 harga tinggi. Tak aneh banyak pedagang mencatut namanya. Lacakan [Mitra Usaha
-Tani](http://127.0.0.1/mitra) ke beberapa pedagang di Singkawang-berjarak 100
+Tani](https://www.mitrausahatani.com) ke beberapa pedagang di Singkawang-berjarak 100
 km dari Pontianak-semua menyebut punggur untuk duku yang dijual. Padahal
 menurut Anton Kamaruddin SP, staf Dinas Pertanian Provinsi Kalimantan Barat,
 ada beberapa varietas langsat punggur pontianak yang berkembang di Bumi
@@ -68,8 +68,8 @@ Keistimewaan buah Duku Punggur ini telah dibuktikan oleh beberapa penelitian.
 Oleh karena itu, buah ini sangat cocok dikonsumsi oleh siapa saja yang ingin
 menjaga kesehatannya.
 
-## [![](http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-
-Punggur-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/02/Duku-
+## [![](http://localhost/mitra/wp-content/uploads/2020/02/Duku-
+Punggur-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2020/02/Duku-
 Punggur.jpg)Nilai Ekonomis Buah duku punggur
 
 Buah ini memiliki rasa yang segar dan manis, dan juga kaya akan nutrisi.
@@ -107,7 +107,7 @@ pohon berumur lebih dari 50-an tahun itu mengaku duku palembang lebih manis.
 Ukuran varietas langsat punggur pontianak lebih besar ketimbang palembang. Di
 dalamnya terdapat 5-6 pasi. Pasi besar umumnya berbiji besar; pasi kecil
 kebanyakan tanpa biji. "Pasi-pasi itu tetap manis dan tidak busuk meski kulit
-menghitam," tambah Yusni. Itu [Mitra Usaha Tani](http://127.0.0.1/mitra)
+menghitam," tambah Yusni. Itu [Mitra Usaha Tani](https://www.mitrausahatani.com)
 saksikan saat duku punggur dipamerkan di ajang Pameran Buah Tropis di Bali
 penghujung 2003. Buah yang kulitnya menghitam bahkan mengering justru diserbu
 pengunjung karena rasanya semakin manis. Punggur hanya tahan simpan di suhu
@@ -117,8 +117,8 @@ terbatas di seputar Kalimantan. Paling jauh ke Pulau Batam. "Jakarta dan pasar
 ekspor Singapura sebetulnya minta pasokan. Hanya karena kendala di perjalanan
 impian mengapalkan punggur ke Jawa dan Jakarta belum terwujud," tutur ayah 2
 anak itu. [![Yusni, "Saya hanya punya 1.000
-pohon."](http://127.0.0.1/mitra/wp-
-content/uploads/2020/02/Punggur-300x169.jpg)](http://127.0.0.1/mitra/wp-
+pohon."](http://localhost/mitra/wp-
+content/uploads/2020/02/Punggur-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/02/Punggur.jpg)
 
 ## Kebun Duku Ribuan hektar

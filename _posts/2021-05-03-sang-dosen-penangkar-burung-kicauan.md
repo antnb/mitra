@@ -13,7 +13,7 @@ tags:
 - usaha penangkaran
 
 modification_time: 2021-05-03 14:49:34
-blogger_orig_url: "http://localhost/mitra/sang-dosen-penangkar-burung-kicauan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sang-dosen-penangkar-burung-kicauan.html"
 ---
 
 Di rumahnya tak ada tanda-tanda Djumadi sebagai penangkar cucak rawa, jalak
@@ -44,8 +44,8 @@ indukan jalak suren.
 ### Ayam dan puyuh
 
 [caption id="attachment_10186" align="aligncenter"
-width="641"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/gacor.jpg)](http://127.0.0.1/mitra/wp-
+width="641"][![](http://localhost/mitra/wp-
+content/uploads/2021/05/gacor.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/gacor.jpg) Tambahan pendapatanya dari penangkaran
 burung[/caption] Usaha penangkaran burung baru dijalani 3 tahun. Sebelumnya
 kelahiran Surakarta 28 Juni 1970 itu menggeluti budidaya ayam pedaging pada
@@ -87,8 +87,8 @@ untuk sebidang tanah.
 #### Sangkar kecil
 
 [caption id="attachment_10187" align="aligncenter"
-width="594"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/jalak.jpg)](http://127.0.0.1/mitra/wp-
+width="594"][![](http://localhost/mitra/wp-
+content/uploads/2021/05/jalak.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/jalak.jpg) Jalak suren salah satu andalan DJumadi
 meraih laba[/caption] Walau pemasaran bukan masalah, tetapi sejak awal
 menangkarkan Djumadi rutin mengikuti kontes. Selain mengukur mutu hasil

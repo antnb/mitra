@@ -14,7 +14,7 @@ tags:
 - pride of sumatera
 
 modification_time: 2021-01-23 03:24:29
-blogger_orig_url: "http://localhost/mitra/semarak-bunga-eksklusif-penghias-taman.html"
+blogger_orig_url: "http://www.mitrausahatani.com/semarak-bunga-eksklusif-penghias-taman.html"
 ---
 
 Selain donacarmen, pride of sumatera kini juga ditanam kolosal sebagai border
@@ -22,9 +22,9 @@ teduh. Chandra Gunawan, kolektor tanaman hias di Sawangan, Depok
 memanfaatkannya untuk elemen Penghias Taman. bunga eksklusif berharga Rp
 15.000 per helai daun itu ditanam di antara walisongo dan philodendron. Meski
 hanya menggunakan 10 tanaman, taman mungil seluas 50 m2 jadi terkesan
-eksklusif. Kedua [aglaonema](http://127.0.0.1/mitra/topik/aglaonema
+eksklusif. Kedua [aglaonema](https://www.mitrausahatani.com/topik/aglaonema
 "aglaonema") itu pernah merajai pasar Indonesia pada 1998. Para mania [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") memburu mereka meski
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") memburu mereka meski
 harganya sangat mahal. Saat itu pride of sumatera dibandrol Rp350-ribu/helai
 daun; donacarmen Rp40-ribu. Wajar, bila bunga eksklusif itu memperoleh
 perlakuan istimewa dari sang pemilik. Ia diwadahi pot cantik dan jadi penghias
@@ -34,8 +34,8 @@ sosoknya yang ngejreng.
 ## Permintaan Bunga Penghias Taman terus Meningkat
 
 [caption id="attachment_7929" align="alignleft" width="312"][![bunga
-eksklusif](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_taman1_1024x600.jpg)](http://127.0.0.1/mitra/wp-
+eksklusif](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_taman1_1024x600.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_taman1_1024x600.jpg) Menambah kesan
 eksklusif[/caption] Kini harga pride of sumatera merosot menjadi Rp11-ribu per
 lembar dan donacarmen Rp25-ribu per pot. Anjloknya harga tak disia-siakan
@@ -72,8 +72,8 @@ Veteran itu.
 ## Proses Perbanyakan Berlangsung Lambat
 
 [caption id="attachment_7928" align="alignleft" width="296"][![bunga cantik
-Penghias Taman](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_taman2_1024x726.jpg)](http://127.0.0.1/mitra/wp-
+Penghias Taman](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_taman2_1024x726.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_taman2_1024x726.jpg) Meski murah tetap
 eksklusif[/caption] Tak hanya desainer taman yang getol memburu aglaonema
 untuk dijadikan Penghias Taman. Kolektor tanaman hias juga mencari jenis

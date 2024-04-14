@@ -12,7 +12,7 @@ tags:
 - pencernaan
 
 modification_time: 2019-10-28 12:56:00
-blogger_orig_url: "http://localhost/mitra/biji-ketumbar-multikhasiat-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/biji-ketumbar-multikhasiat-untuk.html"
 ---
 
 Buah Ketumbar yang selama ini menjadi bumbu penyedap ternyata ampuh mengatasi
@@ -31,8 +31,8 @@ ketika buah berdiameter 2-3 mm masih muda. Namun,saat buah masak aroma
 berganti harum tajam. [Sebutan untuk
 biji](https://pfaf.org/user/Plant.aspx?LatinName=Coriandrum+sativum) yang
 dikeringkan itu beragam seperti katuncar di wilayah Jawa Barat, coriandri di
-Inggris, dan cilantro di Amerika Serikat. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/ketumbar_640x356.jpg)](http://127.0.0.1/mitra/wp-
+Inggris, dan cilantro di Amerika Serikat. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/ketumbar_640x356.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/ketumbar_640x356.jpg)
 
 ## Khasiat ketumbar dan Zat Antikanker
@@ -98,8 +98,8 @@ sakit yang berlebihan. Ketumbar juga bisa mengatasi aliran menstruasi yang
 sangat berat. Caranya, rebus enam gram biji ketumbar yang telah digiling
 menjadi serbuk dalam 500 ml air. Tambahkan satu sendok makan gula dan minumlah
 selagi hangat. [![manfaat buah ketumbar untuk
-tubuh](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/ketumbar_445x480.jpg)](http://127.0.0.1/mitra/wp-
+tubuh](http://localhost/mitra/wp-
+content/uploads/2019/10/ketumbar_445x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/ketumbar_445x480.jpg)
 
 ## Pengobatan Diabetes mellitus
@@ -111,7 +111,7 @@ mengatasi bengkak atau peradangan sendi akibat rematik dan arthritis. Biji
 tanaman anggota famili pegagan-pegaganan itu juga mengandung kumin yang mampu
 menstimulasi kelenjar endokrin dalam meningkatkan sekresi insulin dari
 pankreas. Peran itu membantu mengubah gula darah bebas menjadi glikogen
-<http://127.0.0.1/mitra/herbal-nanopropolis-mujarab-untuk.html> Akibat
+<https://www.mitrausahatani.com/herbal-nanopropolis-mujarab-untuk.html> Akibat
 diubahnya gula darah bebas ke glikogen atau bentuk senyawa gula yang dapat
 dimanfaatkan tubuh, maka kadar gula darah yang tinggi bisa turun ke level
 normal. Sementara itu minyak asiri ketumbar mengandung vitamin A, C, mineral,

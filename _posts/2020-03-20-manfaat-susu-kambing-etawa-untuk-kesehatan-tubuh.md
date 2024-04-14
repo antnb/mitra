@@ -3,14 +3,14 @@ layout: post
 title: 'Manfaat Susu Kambing Etawa Untuk Kesehatan Tubuh'
 categories: artikel|Herbal|kesehatan
 date: 2020-03-20 10:32:16
-author: Anton N
+author: Yudianto
 image: media/Untitled_918x800.jpg
 tags:
 - kambing
 - susu
 
 modification_time: 2020-03-20 10:32:16
-blogger_orig_url: "http://localhost/mitra/manfaat-susu-kambing-etawa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/manfaat-susu-kambing-etawa.html"
 ---
 
 Rutinitas itu dijalaninya selama 2 minggu. Hasilnya, batuk berangsur-angsur
@@ -23,8 +23,8 @@ terlalu banyak merokok. Ia divonis mengidap flek paru-paru setelah melakukan
 rontgen di salah satu rumah sakit di Bogor, Jawa Barat. "Awalnya cuma batuk
 biasa. Tapi 2 bulan ngga sembuh-sembuh," ujarnya. Berbagai obat dari dokter
 sudah dihabiskan. [![manfaat minum susu kambing etawa sebelum tidur
-](http://127.0.0.1/mitra/wp-content/uploads/2020/03/kambing-
-etawa-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-content/uploads/2020/03/kambing-
+etawa-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/03/kambing-etawa.jpg)
 
 ## Khasiat Susu Kambing Etawa Untuk Paru Paru
@@ -32,7 +32,7 @@ content/uploads/2020/03/kambing-etawa.jpg)
 Rumah sakit khusus paru-paru pun didatangi. Sayang, kesembuhan bak jauh api
 dari panggang. Hingga akhirnya ia jatuh di kamar mandi dan pingsan. Keesokan
 hari, seorang tetangga menyodorkan 2 gelas susu kambing murni yang katanya
-[mujarab untuk](http://127.0.0.1/mitra/herbal-nanopropolis-mujarab-untuk.html)
+[mujarab untuk](https://www.mitrausahatani.com/herbal-nanopropolis-mujarab-untuk.html)
 pengobatan perokok akut. Masing-masing segelas diminum Ujang pagi dan sore.
 Tak hanya batuk, napasnya pun terasa berat. Berjalan beberapa langkah saja
 amat sakit. Untuk tidur ia memilih bersandar di kursi. "Kalau berbaring dada
@@ -50,7 +50,7 @@ etawa benar benar terbukti karena saat dirontgen paru-paru terlihat bersih.
 
 Minum segelas susu kambing etawa pada pagi hari dan segelas lagi menjelang
 tidur akan terasa manfaatnya bagi
-[kesehatan](http://127.0.0.1/mitra/kesehatan) tubuh. Itulah anjuran Prof. Dr.
+[kesehatan](https://www.mitrausahatani.com/kesehatan) tubuh. Itulah anjuran Prof. Dr.
 T. K. Mukheijee, peneliti Genetic and Dean, Institute of Advanced Studies,
 University of Malaya, Kuala Lumpur. Susu kambing terbukti berperan positif
 pada penderita TBC. "manfaat susu kambing etawa telah terbukti karena susu
@@ -60,7 +60,7 @@ menyembuhkan penyakit kulit. George Dermitt, peneliti di M.D. Superintendent
 General Hospital Toledo, Ohio, Amerika Serikat yang memberikan susu kambing
 pada anak-anak pengidap eksim terbukti sembuh. Ia juga bagus untuk pembentukan
 sel-sel [kulit karena mengandung acid nikotinik yang membantu fungsi
-pencernaan sehingga meningkatkan kesehatan](http://127.0.0.1/mitra/khasiat-
+pencernaan sehingga meningkatkan kesehatan](https://www.mitrausahatani.com/khasiat-
 ekstrak-kulit-jeruk-sebagai.html) kulit. Makanya, wajah Cleopatra pun tampak
 cantik dan berseri karena rajin minum susu kambing. Molekul lemak susu kambing
 pun jauh lebih kecil dan homogen dibandingkan lemak susu sapi. Oleh karena
@@ -106,8 +106,8 @@ mg/dl. "Saya kapok berhenti minum susu kambing. Itu seperti suplemen buat
 saya," katanya. Manfaat susu kambing etawa memang tidak seterkenal susu sapi.
 Apalagi citranya yang beraroma prengus membuat orang enggan meminumnya. Namun,
 anggapan itu hapus kala ia terbukti berkhasiat menyembuhkan beragam penyakit.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/03/susu-
-kambing-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/03/susu-
+[![](http://localhost/mitra/wp-content/uploads/2020/03/susu-
+kambing-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2020/03/susu-
 kambing.jpg)
 
 ## Rahasia di Balik Susu Kambing
@@ -125,8 +125,8 @@ Mereka biasanya memesan SGM atau Susu Gairah Malam. Isinya susu kambing
 dicampur telur, madu, dan lada hitam. Ini diyakini dapat meningkatkan gairah
 seksual. Alasan khasiat susu kambing untuk kesehatan menjadi daya tarik utama.
 [caption id="attachment_473" align="aligncenter" width="1024"][![Perbandingan
-Kandungan Gizi](http://127.0.0.1/mitra/wp-
-content/uploads/2020/03/Untitled_1280x344-1024x275.jpg)](http://127.0.0.1/mitra/wp-
+Kandungan Gizi](http://localhost/mitra/wp-
+content/uploads/2020/03/Untitled_1280x344-1024x275.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/03/Untitled_1280x344.jpg) Perbandingan Kandungan Gizi
 pada susu kambing[/caption]
 
@@ -149,10 +149,10 @@ mencegah kaku sendi, anemia, dan mengobati kudis.
 ### Makanan Dengan Kadar Gizi sempurna
 
 Manfaat susu kambing etawa lainnya sering digunakan sebagai bahan makanan
-tambahan [bagi bayi yang alergi](http://127.0.0.1/mitra/manfaat-kefir-yang-
+tambahan [bagi bayi yang alergi](https://www.mitrausahatani.com/manfaat-kefir-yang-
 kaya-akan-zat-anti.html) terhadap susu sapi. Alergi pada saluran pencernaan
 bayi berangsur-angsur dapat disembuhkan setelah diberi susu kambing. Sekitar
-40 persen pasien [yang alergi](http://127.0.0.1/mitra/manfaat-kefir-yang-kaya-
+40 persen pasien [yang alergi](https://www.mitrausahatani.com/manfaat-kefir-yang-kaya-
 akan-zat-anti.html) terhadap protein susu sapi memiliki toleransi yang baik
 terhadap susu kambing. Alergi terjadi kerena sensitifitas terhadap
 lactoglobulin yang terkandung pada susu bangsa sapi tertentu. Dari hasil

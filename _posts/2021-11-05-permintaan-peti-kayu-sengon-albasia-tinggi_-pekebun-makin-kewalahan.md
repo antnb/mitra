@@ -10,7 +10,7 @@ tags:
 - sengon
 
 modification_time: 2021-11-05 08:11:03
-blogger_orig_url: "http://localhost/mitra/peti-kayu-albasia-dari-pohon-sengon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peti-kayu-albasia-dari-pohon-sengon.html"
 ---
 
 Kayu albasia, kayu sengon, jeungjing, atau apapun namanya selalu merujuk pada
@@ -24,8 +24,8 @@ menjual sekubik papan sengon dengan harga Rp500.000. Rendemen pembuatan papan
 kayu sengon mencapai 70% bila diameter log 20cm. Harga log saat ini berkisar
 antara Rp100.000 sampai Rp150.000. [caption id="attachment_14679"
 align="aligncenter" width="1024"][![Peti kemasan dari kayu
-sengon](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/kayu-1024x619.jpg)](http://127.0.0.1/mitra/wp-
+sengon](http://localhost/mitra/wp-
+content/uploads/2021/11/kayu-1024x619.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/kayu.jpg) pembuatan Peti kemasan dari sengon[/caption]
 
 ## Pohon Sengon (Albizia chinensis)
@@ -36,7 +36,7 @@ polong (Fabaceae)](https://www.britannica.com/plant/albizia). Meskipun
 sebagian besar spesies berasal dari bagian hangat Dunia Lama, genusnya adalah
 pantropis. Kayu sengon banyak dimanfaatkan untuk pakan ternak dan kayu. Untuk
 bunganya yang indah, beberapa spesies ditanam sebagai [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias"). Albizia sering
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias"). Albizia sering
 disebut "mimosa", namun istilah itu merujuk pada tumbuhan dalam genus Mimosa,
 yang berkerabat dengan Albizia. Siklus pohon albasia berumur pendek, semak
 yang tumbuh cepat atau pohon kecil. Selebaran dari daun majemuk alternatif
@@ -58,7 +58,7 @@ tengah. Pengolahan itu juga memunculkan sampah berupa keempat sisi log.
 Masyarakat Sukabumi, Jawa Barat, menyebutnya sebagai babiran.
 
 Bahan yang tidak dapat digunakan untuk bistek itu, "Saya manfaatkan untuk peti
-[tomat,"](http://127.0.0.1/mitra/topik/tomat) tutur penanggungjawab produksi
+[tomat,"](https://www.mitrausahatani.com/topik/tomat) tutur penanggungjawab produksi
 Chiper, Lukmanulhakim. Pemanfaatan babiran sebetulnya tidak melulu untuk
 mengemas tomat. Duku, jeruk, atau salak juga dikemas menggunakan peti dari
 babiran. Namun, peti kayu sengon berukuran 40cm X 30cm X 20cm itu oleh petani
@@ -100,8 +100,8 @@ yang diinginkan republik di Asia Timur itu hanya grade A. Cirinya: berukuran
 29cm X 6,9cm X 6,9cm dan S4S atau semua sisi tampak mulus. "kayu sengon juga
 harus bebas dari blue stain atau jamur kayu," kata Ramdhanie. Sekali
 pengiriman, Sumber Indo Jaya mengapalkan 2 kontainer dari Pelabuhan
-Tanjungpriok, Jakarta Utara. [![hutan kayu albasia](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/kebun-sengon-1024x690.jpg)](http://127.0.0.1/mitra/wp-
+Tanjungpriok, Jakarta Utara. [![hutan kayu albasia](http://localhost/mitra/wp-
+content/uploads/2021/11/kebun-sengon-1024x690.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/kebun-sengon.jpg)
 
 ## Berapa lama pohon sengon bisa dipanen
@@ -136,7 +136,7 @@ dengan cara menebas memborong suatu komoditas sebelum dituai. Yakni membeli
 sengon yang masih berdiri tegak di lahan pohon sengon. Satu hektar lahan pohon
 sengon berumur 5 tahun misalnya, ditebas dengan harga Rp1,5-juta sampai
 Rp2-juta. Bila diolah hasil tebasan menghasilkan hingga 15 kubik log. Menurut
-Syaefuddin dari Dinas [Perkebunan](http://127.0.0.1/mitra/perkebunan
+Syaefuddin dari Dinas [Perkebunan](https://www.mitrausahatani.com/perkebunan
 "Perkebunan") Kabupaten Sukabumi, saat ini di wilayah seluas 3.932,47km2 itu
 terdapat sekitar 4.500 ha perkebunan sengon. Antara lain terdapat di Kecamatan
 Cikidang, Cibadak, Jampang Tengah, Kelapanunggal, dan Parungkuda. Selain oleh

@@ -10,7 +10,7 @@ tags:
 - minyak cengkih
 
 modification_time: 2020-11-09 11:47:29
-blogger_orig_url: "http://localhost/mitra/old-crack-nya-minyak-cengkeh-banyumas.html"
+blogger_orig_url: "http://www.mitrausahatani.com/old-crack-nya-minyak-cengkeh-banyumas.html"
 ---
 
 Julukan old crack-jago tua-pantas disandang Haji Soenarjo Soebagyo dari Desa
@@ -19,7 +19,7 @@ bisnis minyak daun cengkeh sudah kenyang dilakoni puluhan tahun. Terjungkir
 akibat belasan ton minyak tak terjual sampai terbalik di zaman BPPC pernah
 dikecapnya. Toh, kerikil-kerikil itu pantang mengerem roda bisnisnya. Justru
 berbekal pengalaman itu ia sekarang menangguk laba bersih Rpl 5-juta /bulan.
-Kesibukan mengepak menemani [Mitra Usaha Tani](http://127.0.0.1/mitra) saat
+Kesibukan mengepak menemani [Mitra Usaha Tani](https://www.mitrausahatani.com) saat
 berkunjung di kediaman Soenarjo. Si empunya sibuk mengawasi sambil sesekali
 memerintah pegawainya. Satu persatu drum volume 1001 minyak cengkeh mulai
 menyesaki bak truk diesel berukuran sedang. Semua segera dikirim ke Jakarta.
@@ -34,8 +34,8 @@ diperoleh,” tutur Soenarjo. Sebab, guguran daun cengkeh di kebun 5 ha
 diGrumbul Mudai, Purwokerto dan pasokan dari pengepul daun dirasakan sudah
 tidak mencukupi. Dengan modal RplOO-juta pada 1998 ia membangun base camp di
 lokasi baru itu. Seluruh unit-unit ketel yang ada di Dawuanwetan ikut dimutasi
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-Minyak-
-Cengkeh.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/pembuatan-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/pembuatan-Minyak-
+Cengkeh.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/pembuatan-
 Minyak-Cengkeh.jpg)
 
 ## Sempat ditolak
@@ -70,8 +70,8 @@ seluruh penyuling di desanya. Hasilnya sekitar 30 ton/bulan minyak cengkeh
 rutin dipasok ke Bandung. Dengan harga jual Rp3.000/kg, setiap bulan Soenarjo
 bisa meraup pendapatan Rp50-juta setelah dipotong dana pinjaman. [caption
 id="attachment_20605" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-
-Cengkeh.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/Minyak-
+width="1511"][![](http://localhost/mitra/wp-content/uploads/2020/11/Minyak-
+Cengkeh.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/Minyak-
 Cengkeh.jpg) Soenarjo Juragan minyak daun cengkeh[/caption]
 
 ### Terpuruk karena BPPC

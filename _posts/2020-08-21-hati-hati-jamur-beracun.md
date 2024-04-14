@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-21 11:32:51
-blogger_orig_url: "http://localhost/mitra/hati-hati-jamur-beracun.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hati-hati-jamur-beracun.html"
 ---
 
 _Cisolok, Sukabumi tiba-tiba gempar. Pasangan suami-istri, Misdia dan Kesih

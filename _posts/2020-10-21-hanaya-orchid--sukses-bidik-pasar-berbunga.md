@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-21 12:11:58
-blogger_orig_url: "http://localhost/mitra/hanaya-orchid-sukses-bidik-pasar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/hanaya-orchid-sukses-bidik-pasar.html"
 ---
 
 Esa Sirat dengan jeli membidik segmen flowering size sebagai kartu as usaha

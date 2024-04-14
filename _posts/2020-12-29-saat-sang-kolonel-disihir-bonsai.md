@@ -3,7 +3,7 @@ layout: post
 title: 'Saat Sang Kolonel Disihir Bonsai'
 categories: Gardening|tanaman hias
 date: 2020-12-29 12:02:58
-author: Anton N
+author: Yudianto
 image: media/Gambar_bongsai1_750x768.jpg
 tags:
 - bonsai
@@ -11,7 +11,7 @@ tags:
 - tanaman favorit
 
 modification_time: 2020-12-29 12:02:58
-blogger_orig_url: "http://localhost/mitra/saat-sang-kolonel-disihir-bonsai.html"
+blogger_orig_url: "http://www.mitrausahatani.com/saat-sang-kolonel-disihir-bonsai.html"
 ---
 
 Raksasa kecil bergaya broom itu memang salah satu kebanggaan lantaran tampil
@@ -26,8 +26,8 @@ Sapto.
 ## Keunikan tersendiri
 
 [caption id="attachment_3156" align="alignleft" width="354"][![mustam
-andalan](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_bongsai_774x768.jpg)](http://127.0.0.1/mitra/wp-
+andalan](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_bongsai_774x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_bongsai_774x768.jpg) Saptodarsono dengan mustam
 andalan[/caption] Di halaman seluas 100 m2, sekitar 100 bonsai lain ikut
 menyesaki. Kerabat fikus paling banyak dikoleksi—sekitar 20 pohon. Pria yang
@@ -40,7 +40,7 @@ mendapatkannya dari Solo. Sosok nyaris sempurna. Tajuk, percabangan, dan
 perakaran tertata rapi, dengan batang keras dan hitam legam. Purnawirawan
 Kolonel Angkatan Darat itu juga mengoleksi bonsai-bonsai unik, seperti serut
 Streblus asper. Tanaman setinggi 80 cm itu berbonggol besar mirip
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium"), padahal bukan jenis
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium"), padahal bukan jenis
 berbonggol. Umur rentalah yang membuat batangnya membengkak berdiameter 25 cm.
 Di atas bonggol muncul batang kecil. Tajuk kemudian dibentuk mengikuti kaidah
 bonsai sehingga bagian atas tetap mini. Meski tak memenuhi kriteria bonsai

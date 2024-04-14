@@ -10,7 +10,7 @@ tags:
 - Srondolkidul
 
 modification_time: 2021-01-09 09:18:20
-blogger_orig_url: "http://localhost/mitra/durian-strum-srondol-kidul-bau.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-strum-srondol-kidul-bau.html"
 ---
 
 Itulah pohon buah durian strum milik Tatir Sudarman di Srondolkulon,
@@ -29,8 +29,8 @@ sampai ke tempat tujuan.
 ## Durian strum banyak dicari
 
 [caption id="attachment_7791" align="alignleft" width="175"][![durian
-enak](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_durio_731x768.jpg)](http://127.0.0.1/mitra/wp-
+enak](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_durio_731x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_durio_731x768.jpg) Durian strum[/caption]
 Kendati memabukkan, di saat musim berbuah, telepon di rumah Darman terus
 berdering. Penelepon tidak lain penikmat fanatik strum dari berbagai kota

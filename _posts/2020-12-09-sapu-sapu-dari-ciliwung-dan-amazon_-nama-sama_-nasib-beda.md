@@ -11,7 +11,7 @@ tags:
 - sapu sapu hias
 
 modification_time: 2020-12-09 08:02:49
-blogger_orig_url: "http://localhost/mitra/sapu-sapu-dari-ciliwung-dan-amazon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sapu-sapu-dari-ciliwung-dan-amazon.html"
 ---
 
 _Hypostomus_ pernah tren di era 1980-an. Sayang coraknya yang melulu hitam,
@@ -52,7 +52,7 @@ permintaan Riyadh dan Australia yang mencapai 5.000 ekor/bulan. "Bila
 dihitung-hitung permintaan bisa naik 100%, tapi barang kurang," ungkapnya.
 Negeri Kincir Angin pun meminta jenis itu. "Seminggu sekali ekspor ke Belanda
 sebanyak 200 ekor ukuran 5 cm," ujar Feni, ketua Koperasi
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") Kota Bogor. Bagi
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") Kota Bogor. Bagi
 alumnus Akademi Wiraswasta Dewantara di Jakarta itu, tidak sulit menawarkan si
 albino. Awalnya, pada 2005 Belanda hanya meminta 50 ekor. Selain peternak di
 tanahair, Singapura pun kebanjiran permintaan sapu-sapu hias. Menurut Teo Boon

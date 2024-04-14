@@ -10,7 +10,7 @@ tags:
 - Euphorbia
 
 modification_time: 2021-05-31 07:38:09
-blogger_orig_url: "http://localhost/mitra/bila-juragan-valas-kepincut-euphorbia.html"
+blogger_orig_url: "http://www.mitrausahatani.com/bila-juragan-valas-kepincut-euphorbia.html"
 ---
 
 Mata Kang Chien Chung tak lepas menatap pergerakan angka di lapar komputer.
@@ -36,8 +36,8 @@ itu.
 
 ## Giat berburu euphorbia Langka
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Euphorbia.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/Euphorbia.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Euphorbia.jpg) Bagi pemilik Sino Pac Company itu,
 euphorbia bunga yang menakjubkan. “Ia tidak berhenti berbunga sepanjang tahun,
 bahkan di musim dingin," ucap Kang. Itu sebabnya ia tak henti-hentinya
@@ -66,11 +66,11 @@ merah muda.
 
 [![Biji dikumpulkan berdasarkan warna bunga
 
-](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/Euphorbia1.jpg)](http://127.0.0.1/mitra/wp-
+](http://localhost/mitra/wp-
+content/uploads/2021/05/Euphorbia1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/Euphorbia1.jpg) Kang bukan pemain baru famili
 Euphorbiaceae. Hampir 10 tahun ia berkutat di euphorbia. Itu bermula dari
-pameran [tanaman hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di
+pameran [tanaman hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di
 Australia. Begitu melihat small word pria berusia 37 tahun itu langsung jatuh
 hati. Ia pun memboyong beberapa tanaman ke Kaohsiung. Perkenalannya dengan
 somonas di Jerman makin mengokohkan minat Kang menggeluti chin lin
@@ -89,8 +89,8 @@ silangannya. Namun, Kang enggan melepas meski ditawar dengan harga tinggi.
 
 #### Rawat sendiri
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/bunga-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/bunga-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/bunga-1.jpg) Kang tak sekadar menikmati keindahan
 bunga-bunga itu. Semua tanaman itu dirawat sendiri. “Ada kenikmatan tersendiri
 melihat perkembanagan tanaman,” ucap pria berpostur tinggi besar itu. Tak

@@ -10,7 +10,7 @@ tags:
 - ubi jalar
 
 modification_time: 2020-11-14 06:11:35
-blogger_orig_url: "http://localhost/mitra/ubi-telo-unggulan-silangan-arek-malang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ubi-telo-unggulan-silangan-arek-malang.html"
 ---
 
 Produksi rata-rata ubijalar hanya 10-15 ton/ha. Namun, potensi produksi 5
@@ -31,8 +31,8 @@ kelima varietas cukup baik. Malah, sari kini telah mendominasi lebih dari 50%
 lahan ubijalar di Malang. Sukuh dikembangkan dalam skala luas oleh PT Toyota,
 Lampung untuk keperluan pakan ternak dan industri plastik ramah lingkungan.
 Berikut deskripsi lengkap varietas unggul tersebut.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/ubi.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/ubi.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/ubi.jpg)
 
 ## Varietas Permata Tahan Serangan Boleng
@@ -52,8 +52,8 @@ inhibitor (pin II) dari kentang. Sedang ketahanan terhadap FMV diambil dari
 virus itu sendiri (cp-FMV). Cara penyisipan kedua gen sama, dengan
 memanfaatkan _agrobacterium tumefaciens_. Bakteri itu secara alami menginfeksi
 tanaman dan memindahkan DNA-nya ke dalam ubi jalar.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ubi-
-jalar.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/ubi-jalar.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/ubi-
+jalar.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/ubi-jalar.jpg)
 Dengan cara itu regenerasi tanaman lebih mudah ketimbang jika pemberiannya
 ditembak gas helium. Dari semua bagian tanaman yang disisipi, petiole tangkai
 daun paling responsif, la mampu memaparkan transformasi gen dan tumbuh. Dari

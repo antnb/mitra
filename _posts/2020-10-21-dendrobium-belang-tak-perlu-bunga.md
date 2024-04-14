@@ -9,12 +9,12 @@ tags:
 - 
 
 modification_time: 2020-10-21 10:46:01
-blogger_orig_url: "http://localhost/mitra/dendrobium-belang-tak-perlu-bunga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/dendrobium-belang-tak-perlu-bunga.html"
 ---
 
 Bagi Joseph, pekebun tanaman hias di Bogor, dendrobium ini begitu disayangi.
 Ia menjadi salah satu koleksi andalan di antara ratusan jenis [tanaman
-eksklusif](http://127.0.0.1/mitra/anggrek-bulan-di-baju-sang-perancang.html)
+eksklusif](https://www.mitrausahatani.com/anggrek-bulan-di-baju-sang-perancang.html)
 lain. Uniknya, yang jadi daya tarik justru daun. Jumlahnya tak banyak, masih
 3-5 daun. Namun [jangan tanya harganya](https://www.budidayatani.com/budidaya-
 dendrobium-untung-dalam-4.html), Rp300-ribu-Rp600-ribu, berlipat tak karuan
@@ -40,7 +40,7 @@ hijau dan separuh kuning. Sayangnya tak semua daun muncul demikian. Proporsi
 itu berubah-ubah antardaun. Untuk jenis variegata, hal semacam itu dianggap
 jamak Mungkin iklim yang tak pas membuat sifat aslinya kembali muncul. Serupa
 dengan Joseph, Chandra Gunawan, pekebun [tanaman
-hias](http://127.0.0.1/mitra/tanaman-hias "tanaman hias") di Sawangan, Depok
+hias](https://www.mitrausahatani.com/tanaman-hias "tanaman hias") di Sawangan, Depok
 juga mengoleksinya. Tak terbatas pada dendrobium, aneka anggrek variegata pun
 dimiliki pemilik Godong Ijo Nursery itu. Sebut saja mokara, vanda, dan
 phalaenopsis. Sebagian besar dibeli saat belanja tanaman di Thailand. Untuk
@@ -49,7 +49,7 @@ Penampilan pola yang sama muncul persis di semua daun. “Variegatanya sudah
 stabil, sampai ke semua anakan,” ujar Chandra. Bunga yang pernah mekar
 berwarna keunguan. Di antara sekian banyak koleksinya, Chandra paling senang
 dengan corak variegata pada mokara. “Ini yang paling sempurna di Thailand,”
-ujar pekebun [adenium](http://127.0.0.1/mitra/topik/adenium "adenium") dan
+ujar pekebun [adenium](https://www.mitrausahatani.com/topik/adenium "adenium") dan
 berbagai tanaman hias daun itu. Selain sifat variegatanya yang stabil, ia
 tahan banting. Artinya tak pernah mengalami daun “terbakar” seperti pada
 tanaman variegata lain. Sifat sama juga dimiliki dendrobiumnya. Yang aneh,

@@ -10,7 +10,7 @@ tags:
 - unggas
 
 modification_time: 2022-09-11 00:33:04
-blogger_orig_url: "http://localhost/mitra/peluang-kendala-dalam-beternak-itik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/peluang-kendala-dalam-beternak-itik.html"
 ---
 
 _Hanya dengan memelihara 500 ekor, setiap pagi bisa dipungut minimum Rp
@@ -113,7 +113,7 @@ dengan itu lokasi yang dipilih untuk itik tidak sembarangan. Belum lagi pada
 puncak musim hujan, produksi biasanya turun drastis. “Selama beberapa hari
 kala hujan terus-menerus produksi telur hanya mampu bertahan pada tingkat
 15%-20%. Sama turunnya ketika mengalami rontok bulu atau laring,” tutur H.
-Hibatullah, ketika ditemui di [peternakan](http://127.0.0.1/mitra/peternakan
+Hibatullah, ketika ditemui di [peternakan](https://www.mitrausahatani.com/peternakan
 "peternakan") itiknya, di Sukapura, Cilincing, Jakarta Utara. Sederet
 permasalahan mengusahakan itik akan menghadang, sehingga dituntut keseriusan
 peternak. Tak salah bila para peternak yang telah mapan mengatakan, beternak
@@ -130,7 +130,7 @@ bandar yang bertanggungjawab tak akan menyarankan kepada calon peternak
 membeli itik yang tengah bertelur. Risikonya besar, akibat pengangkutan akan
 teijadi stagnasi produksi atau bahkan sistem reproduksinya rusak. [caption
 id="attachment_1427" align="aligncenter" width="550"]![telur
-asin](http://127.0.0.1/mitra/wp-content/uploads/2020/08/itik_1247x800.jpg)
+asin](http://localhost/mitra/wp-content/uploads/2020/08/itik_1247x800.jpg)
 Pengepul telur asin[/caption]
 
 ### Permintaan Pasar Yang tidak ada habisnya

@@ -13,12 +13,12 @@ tags:
 - tanaman palawija
 
 modification_time: 2022-11-21 18:04:54
-blogger_orig_url: "http://localhost/mitra/tanaman-palawija.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-palawija.html"
 ---
 
 Palawija adalah sebuah kelompok tanaman yang termasuk dalam keluarga Fabaceae.
 Palawija biasanya ditanam untuk tujuan
-[pertanian](http://127.0.0.1/mitra/pertanian "pertanian"), seperti untuk bahan
+[pertanian](https://www.mitrausahatani.com/pertanian "pertanian"), seperti untuk bahan
 makanan atau untuk industri. Beberapa jenis palawija yang paling umum ditanam
 adalah kacang-kacangan, seperti kacang tanah, kacang hijau, dan kacang merah.
 Palawija juga termasuk jenis-jenis tanaman seperti kedelai, jagung, dan

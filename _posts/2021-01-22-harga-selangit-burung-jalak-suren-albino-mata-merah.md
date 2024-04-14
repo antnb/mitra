@@ -9,7 +9,7 @@ tags:
 - jalak
 
 modification_time: 2021-01-22 02:16:35
-blogger_orig_url: "http://localhost/mitra/burung-albino-mata-merah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/burung-albino-mata-merah.html"
 ---
 
 Harga tinggi itu diperolah Anda setelah terlibat tawar-menawar alot selama
@@ -63,8 +63,8 @@ seharga Rp4-juta sebagai penukar.
 ## Bisa ditangkar
 
 [caption id="attachment_7900" align="alignleft" width="123"][![Burung Cendet
-albino](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_cendet_521x768.jpg)](http://127.0.0.1/mitra/wp-
+albino](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_cendet_521x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_cendet_521x768.jpg) Cendet, ditawar Rp
 25-Juta[/caption] Pertengahan 2004 koleksi Anda bertambah dengan kehadiran
 cucak jawa. Begitu seorang kenalan menawarkan kepadanya, Anda langsung

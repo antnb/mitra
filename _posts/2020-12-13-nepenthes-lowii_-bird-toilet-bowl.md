@@ -12,7 +12,7 @@ tags:
 - toilet bowl
 
 modification_time: 2020-12-13 08:19:24
-blogger_orig_url: "http://localhost/mitra/nepenthes-lowii-bird-toilet-bowl.html"
+blogger_orig_url: "http://www.mitrausahatani.com/nepenthes-lowii-bird-toilet-bowl.html"
 ---
 
 Ada 5 pot lowii terlihat di atas rak besi setinggi 1,5 m beralas asbes dengan
@@ -30,8 +30,8 @@ mirip agar-agar. Berbeda dengan nektar nepenthes lain yang berwarna bening dan
 jumlahnya jauh lebih sedikit lazimnya ditemukan di seputar mulut kantong.
 Lowii memanfaatkan gumpalan nektar beraroma harum dengan citarasa manis itu
 untuk menjebak mangsa-mangsanya sehingga tanpa sadar terjatuh ke dalam
-kantong. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Nepenthes.jpg)](http://127.0.0.1/mitra/wp-
+kantong. [![](http://localhost/mitra/wp-
+content/uploads/2020/12/Nepenthes.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Nepenthes.jpg)
 
 ## Tanaman Langka
@@ -60,8 +60,8 @@ langsung belum pernah,” kata IrTri Budi Utama, MT, kolektor di Kaliurang,
 Yogyakarta. Sudah berkali-kali pria yang punya usaha rumah makan sekaligus
 kolam pancing itu memesan pada beberapa teman. Namun, sampai sekarang hasilnya
 nihil. [caption id="attachment_20579" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Nepenthes-
-Lowii.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/Nepenthes-
+width="1511"][![](http://localhost/mitra/wp-content/uploads/2020/12/Nepenthes-
+Lowii.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/Nepenthes-
 Lowii.jpg) Kantong bawah lowii, punya banyak kombinasi warna[/caption]
 
 ## Toilet burung

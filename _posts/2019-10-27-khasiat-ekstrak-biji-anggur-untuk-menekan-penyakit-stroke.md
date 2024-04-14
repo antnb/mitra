@@ -12,7 +12,7 @@ tags:
 - stroke
 
 modification_time: 2022-12-30 09:34:07
-blogger_orig_url: "http://localhost/mitra/khasiat-ekstrak-biji-anggur-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-ekstrak-biji-anggur-untuk.html"
 ---
 
 Anggur (Vitis vinifera) merupakan salah satu buah yang paling populer dan
@@ -55,8 +55,8 @@ dan merekomendasikan perawatan inap. Nurwati menurut dan menjalani opname.
 Sampai hari ke-6, tanda kesembuhan tak kunjung tampak. Lantaran keterbatasan
 finansial, Nurwati memilih pulang. Setiba di rumah, ibu 6 anak itu hanya
 berbaring. Jangankan bangkit untuk duduk atau berdiri, hendak memiringkan
-tubuh saja ia tak mampu. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/biji-mini_515x480.jpg)](http://127.0.0.1/mitra/wp-
+tubuh saja ia tak mampu. [![](http://localhost/mitra/wp-
+content/uploads/2019/10/biji-mini_515x480.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/biji-mini_515x480.jpg)
 
 ## Buah Anggur untuk Pengobatan penyakit stroke
@@ -85,7 +85,7 @@ mampu mengendalikan anggota tubuh yang menjadi "tugas"nya. Itu sebabnya pasien
 mengalami kelumpuhan parsial pascastroke. Pemicu stroke iskemik biasanya gaya
 hidup dan pola konsumsi. Penyebab tekanan darah tinggi alias hipertensi antara
 lain konsumsi makanan tinggi kolesterol (lihat [Pemicu Risiko
-Stroke](http://127.0.0.1/mitra/jus-mengkudu-perontok-berbagai-macam.html)).
+Stroke](https://www.mitrausahatani.com/jus-mengkudu-perontok-berbagai-macam.html)).
 Menurut Hardhi kolesterol mengurangi kelenturan pembuluh darah sekaligus
 membuat darah mengental. Efeknya jantung mesti memompa lebih keras agar darah
 dapat mencapai seluruh tubuh.
@@ -98,7 +98,7 @@ terhidang di meja makan orang kaya. "Masyarakat kelas bawah justru kerap
 mengolah makanan dengan minyak goreng yang dipakai berulang-ulang alias minyak
 jelantah," ungkap Clara. Minyak jelantah menyebabkan makanan mengandung lemak
 jenuh yang merusak kapiler pembuluh darah. Nurwati yang lahir dan besar di
-Banyuwangi akrab dengan [produk olahan](http://127.0.0.1/mitra/produk-olahan-
+Banyuwangi akrab dengan [produk olahan](https://www.mitrausahatani.com/produk-olahan-
 kelapa-pandan-wangi.html) laut yang diawetkan seperti ikan asin. Konsumsi ikan
 asin juga memicu kenaikan tekanan darah, salah satu pemicu stroke. Biang
 keladinya adalah kandungan sodium dalam garam. Sejatinya, "Sodium berperan
@@ -119,14 +119,14 @@ pembaringan, la belajar berjalan menggunakan kursi, lalu berpindah ke tongkat.
 Kini ia hidup normal seperti sebelum terkena stroke, meski kadang mengeluhkan
 rasa kaku di sebelah tubuhnya. Menurut effendi produsen kapsul ekstrak biji
 buah anggur di Cengkareng, Tangerang, biji anggur lebih dulu digunakan di
-negara barat [untuk penyakit jantung dan](http://127.0.0.1/mitra/manfaat-susu-
+negara barat [untuk penyakit jantung dan](https://www.mitrausahatani.com/manfaat-susu-
 kambing-etawa.html) stroke. Untuk meningkatkan kemampuan menyembuhkan
 kerusakan otak, ia menambahkan ekstrak daun pegagan Centella osiatica.
-’’Sebaiknya kapsul [herbal sekadar untuk](http://127.0.0.1/mitra/herbal-
+’’Sebaiknya kapsul [herbal sekadar untuk](https://www.mitrausahatani.com/herbal-
 nanopropolis-mujarab-untuk.html) mendampingi obat medis sehingga kondisi
 pasien terpantau secara mendetil," ujar Effendi.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2019/10/grape-
-plants-1024x576.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2019/10/grape-
+[![](http://localhost/mitra/wp-content/uploads/2019/10/grape-
+plants-1024x576.jpg)](http://localhost/mitra/wp-content/uploads/2019/10/grape-
 plants.jpg)
 
 ## Manfaat Biji Anggur Untuk Menurunkan Tekanan Darah
@@ -136,7 +136,7 @@ Persentase biji anggur paling banyak hanya 5% dari total bobot buah. Namun,
 biji menyimpan 67% [kandungan antioksidan](https://www.anton-
 nb.com/antioksidan-kunci-agar-selalu-awet.html) anggur. Vivian Molina dari
 Pusat Riset Ilmiah Nasional, Havana, Kuba, membuktikan [khasiat
-ekstrak](http://127.0.0.1/mitra/khasiat-ekstrak-kulit-jeruk-sebagai.html) biji
+ekstrak](https://www.mitrausahatani.com/khasiat-ekstrak-kulit-jeruk-sebagai.html) biji
 anggur untuk mencegah kerusakan sel otak dan saraf akibat stroke. Hasil
 terbaik dicapai dengan pemberian asupan ekstrak biji anggur sebanyak 200 mg/kg
 bobot badan per hari. Jumlah itu setara 4 gram buah anggur. Jika bobot buah

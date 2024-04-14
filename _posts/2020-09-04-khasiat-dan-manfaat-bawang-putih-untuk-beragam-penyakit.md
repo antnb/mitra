@@ -3,13 +3,13 @@ layout: post
 title: 'Khasiat Dan Manfaat Bawang Putih Untuk Beragam Penyakit'
 categories: artikel|Herbal|kesehatan
 date: 2020-09-04 06:15:55
-author: Anton N
+author: Yudianto
 image: media/Gambar_Allium-sativum_1067x800.jpg
 tags:
 - 
 
 modification_time: 2020-09-04 06:15:55
-blogger_orig_url: "http://localhost/mitra/khasiat-dan-manfaat-bawang-putih-untuk.html"
+blogger_orig_url: "http://www.mitrausahatani.com/khasiat-dan-manfaat-bawang-putih-untuk.html"
 ---
 
 _Bawang putih**Allium sativum** bukan sekadar bumbu dapur. Garlic itu mampu
@@ -44,7 +44,7 @@ dengan mengontrol tekanan darah, konsentrasi lemak darah, gula darah, dan
 faktor kekentalan darah. Penderita diabetes mellitus tipe II (DM tidak
 tergantung insulin) mengkonsumsi bawang putih karena dapat menurunkan kadar
 glukosa darah. Dr. Steven Fulder, pakar [tanaman
-obat](http://127.0.0.1/mitra/kesehatan "tanaman obat") kelas dunia dalam
+obat](https://www.mitrausahatani.com/kesehatan "tanaman obat") kelas dunia dalam
 bukunya The Garlic Book menyebutkan, bawang putih berperan penting mencegah
 penyakit hati. Umbi ini terbukti melindungi sel hati dari kerusakan akibat
 pemakaian obat-obat sintetis dan bahan kimia berbahaya lain.

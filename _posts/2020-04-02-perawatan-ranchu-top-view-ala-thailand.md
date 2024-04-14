@@ -9,7 +9,7 @@ tags:
 - ranchu
 
 modification_time: 2020-04-02 09:44:02
-blogger_orig_url: "http://localhost/mitra/perawatan-ranchu-top-view-ala-thailand.html"
+blogger_orig_url: "http://www.mitrausahatani.com/perawatan-ranchu-top-view-ala-thailand.html"
 ---
 
 _Kini tak ada yang meragukan kualitas ranchu top view keluaran negeri tak
@@ -37,15 +37,15 @@ negeri Gajah Putih itu pun memanfaatkan net sebagai penaung bak. Net dipasang
 pada tiang-tiang besi setinggi 1,5-2 m. Beberapa farm diantaranya bahkan
 menggunakan atap permanen terbuat dari beton. Naungan itu bertujuan mengurangi
 perubahan suhu secara drastis antara siang dan malam.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Ranchu-Top-
-View.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/Ranchu-Top-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/Ranchu-Top-
+View.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/Ranchu-Top-
 View.jpg)
 
 ## Perhatikan Ketinggian air
 
 Kualitas air sangat penting dalam pemeliharaan ranchu top view. Rata-rata
 kedalaman air dalam bak 15-30 cm, tergantung ukuran tubuh [ikan
-hias](http://127.0.0.1/mitra/ikan-hias). Ranchu junior butuh kedalaman 15 cm.
+hias](https://www.mitrausahatani.com/ikan-hias). Ranchu junior butuh kedalaman 15 cm.
 Berturut-turut 20 cm tosai; 25 cm nisai; dan 30 cm oya. Kolam terlalu dangkal
 menyebabkan suhu air tinggi. Suhu tinggi membuat pernafasan dan metabolisme di
 tubuh lebih cepat. Akibatnya kadar amonia hasil buangan tubuh hewan berdarah
@@ -65,7 +65,7 @@ bak harus diangkat setiap hari Pilih tipe filter berarus lambat. Arus kencang
 akan membuat pertumbuhan ranchu tidak proporsional, terutama di ekor dan
 jambul. Perubahan itu kerap terjadi pada ranchu junior dan tosai. Arus deras
 membuat ranchu top view jambul tidak berbentuk kotak, ukuran tubuh tidak
-seimbang, dan ekor menjadi kaku dan turun. ![](http://127.0.0.1/mitra/wp-
+seimbang, dan ekor menjadi kaku dan turun. ![](http://localhost/mitra/wp-
 content/uploads/2020/04/kolam-Ranchu-Top-View.jpg)
 
 ## Dosis pakan Ranchu Top View yang tepat
@@ -82,7 +82,7 @@ berselang-seling dengan takaran berbeda. Untuk ranchu yunior misalnya, ia
 paling cocok diberikan hanya pakan hidup. Frekuensi pemberian 5 kali sehari.
 Untuk memperkirakan dosis yang dipakai, berilah agak berlebih terlebih dulu.
 Selisih dengan sisa yang tidak termakan dapat dijadikan patokan pemberian
-berikutnya. ![Tabel komposisi pakan Ranchu](http://127.0.0.1/mitra/wp-
+berikutnya. ![Tabel komposisi pakan Ranchu](http://localhost/mitra/wp-
 content/uploads/2020/03/pusat-ikan-hias-radio-dalam-1_1280x719.jpg)
 
 

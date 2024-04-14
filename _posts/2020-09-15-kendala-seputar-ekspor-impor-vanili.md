@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-09-15 08:10:00
-blogger_orig_url: "http://localhost/mitra/kendala-seputar-ekspor-impor-vanili.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kendala-seputar-ekspor-impor-vanili.html"
 ---
 
 _Menurut Johny Sinaga, penampung vanili di Bogor, beberapa bulan terakhir

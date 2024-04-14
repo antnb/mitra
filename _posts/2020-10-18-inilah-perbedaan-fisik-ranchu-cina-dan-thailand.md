@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-18 12:14:59
-blogger_orig_url: "http://localhost/mitra/inilah-perbedaan-fisik-ranchu-cina-dan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/inilah-perbedaan-fisik-ranchu-cina-dan.html"
 ---
 
 Sama-sama ranchu, tetapi beda cara menikmatinya. Ranchu dari Cina elok
@@ -20,7 +20,7 @@ asal negeri Tirai Bambu paling mudah dijumpai. Penyebabnya soal kebiasaan
 saja. Penggemar di tanah air umumnya memandangi Casssius auratus dari samping.
 Sebab, akuarium dipakai untuk memelihara kelangenan itu. Ranchu asal Thailand
 justru dinikmati di bak atau baskom.  ![Ranchu
-Thailand](http://127.0.0.1/mitra/wp-content/uploads/2020/10/Ranchu-Cina.jpg)
+Thailand](http://localhost/mitra/wp-content/uploads/2020/10/Ranchu-Cina.jpg)
 Fig.1 - Ranchu Thailand. Cina menangkarkan ranchu sejak zaman Dinasti Sung
 (960-1279) hingga sekarang. Di Thailand keberadaan ranchu baru 5 tahun silam.
 Berawal dari daerah Narat Sukhintai lalu menyebar ke Bangkok dan Provinsi

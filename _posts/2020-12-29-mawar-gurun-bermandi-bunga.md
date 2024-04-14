@@ -10,13 +10,13 @@ tags:
 - perbanyakan vegetatif
 
 modification_time: 2020-12-29 05:33:50
-blogger_orig_url: "http://localhost/mitra/mawar-gurun-bermandi-bunga.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mawar-gurun-bermandi-bunga.html"
 ---
 
 Sosok mawar gurun itu amat mini. Cabangnya ditumbuhi banyak ranting.
 Penampilannya jauh berbeda dengan Adenium arabicum berbonggol besar, batang
 lurus hingga 1 sampai 2 m. Bunga berukuran besar, tetapi sedikit. Lain dengan
-[adenium](http://127.0.0.1/mitra/topik/adenium "adenium") liliput itu. Meski
+[adenium](https://www.mitrausahatani.com/topik/adenium "adenium") liliput itu. Meski
 ukuran bunga cuma 3 cm, tetap semarak karena jumlahnya banyak. Lantaran itulah
 ia dijuluki queen of the thousand flowers. Di Thailand ia disebut rachini
 phan-dook yang berarti ratu para bunga. Penampilannya tak kalah ramai dari
@@ -25,8 +25,8 @@ tanaman.
 
 ## Mawar Gurun Hadiah King Fahd
 
-[![Fragrant star](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_adenium1_1024x756.jpg)](http://127.0.0.1/mitra/wp-
+[![Fragrant star](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_adenium1_1024x756.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_adenium1_1024x756.jpg)Frans Wiratmahusada,
 pemilik Gama Cactus di Semarang mendapatkan adenium mini dari Thailand pada
 2003. Dulu, adenium seribu bunga itu hadiah Raja Fahd dari Saudi Arabia kepada
@@ -42,8 +42,8 @@ kurang “ramah” dengan batang yang disambungkan, alias inkompatibilitas.
 
 ## Scarlet O'hara
 
-[![scarlet ohara](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_scarlet_828x768.jpg)](http://127.0.0.1/mitra/wp-
+[![scarlet ohara](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_scarlet_828x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_scarlet_828x768.jpg)mawar gurun bersosok mungil
 itu bukan satu-satunya koleksi terbaru Frans Wiratmahusada. Ia juga memiliki
 scarlet o’hara, pendatang baru berbunga merah-jingga. Sekujur bunga, mulai
@@ -79,8 +79,8 @@ berdarah somalense itu juga datang dari Taiwan.
 ## Adenium Harry porter
 
 [caption id="attachment_3147" align="alignright" width="217"][![adenium Harry
-Potter](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_adenium2_1024x766.jpg)](http://127.0.0.1/mitra/wp-
+Potter](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_adenium2_1024x766.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_adenium2_1024x766.jpg) Harry Potter[/caption]
 Keistimewaan varietas ini pada strip merah yang amat tebal di setiap lembar
 petal. “Corak seperti itu belum pernah ada,” ungkap Handoko, staf Godongijo

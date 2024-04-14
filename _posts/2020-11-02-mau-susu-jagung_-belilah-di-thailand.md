@@ -10,7 +10,7 @@ tags:
 - susu
 
 modification_time: 2020-11-02 09:58:32
-blogger_orig_url: "http://localhost/mitra/mau-susu-jagung-belilah-di-thailand.html"
+blogger_orig_url: "http://www.mitrausahatani.com/mau-susu-jagung-belilah-di-thailand.html"
 ---
 
 Jus atau susu jagung sebetulnya sudah diproduksi Madam Mon’s Farm di Provinsi
@@ -23,8 +23,8 @@ kotak susu kedelai yang digemari pembeli. Wajar jika banyak perusahaan yang
 melirik bisnis ini. Selain Madam ada juga Women Farmers Group di Provinsi
 Chonburi, Nonthaburi, dan Saraburi, serta Malee Co Ltd di Provinsi Nakorn
 Pathom. Mereka tidak saja mengincar pasar lokal, tapi juga ekspor.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/corn-
-milk.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/corn-milk.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/11/corn-
+milk.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/corn-milk.jpg)
 
 ## Susu Jagung Berkualitas Membutuhkan Jagung Khusus
 
@@ -49,8 +49,8 @@ pandan untuk setiap bahan baku 15 kg. Masak di atas api sedang hingga mendidih
 sambil diaduk agar tidak berbusa dan menggumpal. Jus didinginkan sebelum
 dikemas dalam botol gelas atau plastik steril. Kemasan harus disimpan dalam
 kulkas tahan sampai 24 jam atau ruang pembeku sehingga tahan hingga 7 hari.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/susu-
-jagung.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/11/susu-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/susu-
+jagung.jpg)](http://localhost/mitra/wp-content/uploads/2020/11/susu-
 jagung.jpg)
 
 ## Kemasan Produk yang beragam

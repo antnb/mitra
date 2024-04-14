@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-17 09:20:15
-blogger_orig_url: "http://localhost/mitra/prospek-jangka-panjang-bisnis-sarang.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-jangka-panjang-bisnis-sarang.html"
 ---
 
 _Harga sarang walet terus menurun. Dua tahun lalu LJharga. sekilo mencapai Rp
@@ -27,7 +27,7 @@ yang berhenti. Harga sarang memang menjadi kunci langgeng tidaknya bisnis liur
 _Collocalia fuciphaga_ itu. Beberapa faktor pemicu harga rendah antara lain
 secara global produksi sarang kini meningkat. Kondisi itu tidak hanya terjadi
 di tanahair, tapi juga menimpa [negara penghasil
-walet](http://127.0.0.1/mitra/potensi-bisnis-sarang-walet-di-negri.html)
+walet](https://www.mitrausahatani.com/potensi-bisnis-sarang-walet-di-negri.html)
 seperti Malaysia dan Thailand. Jika dibandingkan dengan 10 tahun lalu,
 produksi sarang walet kini mencapai 3 kali lipat. Diduga jumlah itu terus
 meningkat dengan pasar terbesar: Cina.
@@ -53,7 +53,7 @@ terlalu drastis.
 
 ### Perluas pasar
 
-Untuk menjaga [bisnis walet](http://127.0.0.1/mitra/budidaya-sarang-walet-
+Untuk menjaga [bisnis walet](https://www.mitrausahatani.com/budidaya-sarang-walet-
 bisa-diternakan.html), sambil berharap harga kembali tinggi berbagai langkah
 perlu dilakukan. Penguasaan teknologi budidaya terus diperdalam sehingga
 kualitas sarang lebih bagus. Misalnya bentuk utuh menyerupai mangkuk, warna
@@ -71,7 +71,7 @@ hingga kapsul awet muda. Pemanfaatan itu memang perlu terus didorong hingga
 nantinya dunia farmasi dan kesehatan menjadi salah satu penyerap sarang
 terbesar. Isu walet terserang flu burung terbukti tidak benar. Orang tidak
 perlu resah menyantap sarang walet. Meski [kandungan nutrisi sarang
-walet](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-walet.html) yang
+walet](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-walet.html) yang
 berpengaruh untuk kesehatan belum semua diketahui. Beberapa penelitian
 menyebutkan mengkonsumsi sarang walet meningkatkan daya tahan tubuh.
 Penelitian itu mempertegas manfaat sarang walet yang sudah dipakai selama

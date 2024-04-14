@@ -10,18 +10,18 @@ tags:
 - maskoki
 
 modification_time: 2020-12-16 11:07:47
-blogger_orig_url: "http://localhost/mitra/prosedur-kepengurusan-karantina-ikan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prosedur-kepengurusan-karantina-ikan.html"
 ---
 
 Mengimpor itu gampang-gampang susah. Bagi importir yang ssering melakukannya
 tidak ada masalah. Namun, bagi pemula atau hobiis yang ingin memasukkan ratu
-[ikan hias](http://127.0.0.1/mitra/ikan-hias "ikan hias") itu menjadi
+[ikan hias](https://www.mitrausahatani.com/ikan-hias "ikan hias") itu menjadi
 hambatan. Mereka tidak mengerti prosedur pengurusan di karantina.
 
 ## Inilah ketentuan yang diterapkan karantina ketika memasukkan maskoki atau
 jenis ikan lainnya.
 
-  1. Importir harus melengkapi dokumen yang diperlukan, antara lain Surat Izin Pemasukan Impor dari Direktorat Jenderal Budidaya oleh Menteri Kelautan dan [Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan"), surat penunjukkan instalasi sementara dari Pusat Karantina Ikan, dan surat kesehatan dari negara asal. Ikan diserahkan ke petugas yang ditunjuk untuk diberi tindakan di Instalasi Karantina Ikan.
+  1. Importir harus melengkapi dokumen yang diperlukan, antara lain Surat Izin Pemasukan Impor dari Direktorat Jenderal Budidaya oleh Menteri Kelautan dan [Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan"), surat penunjukkan instalasi sementara dari Pusat Karantina Ikan, dan surat kesehatan dari negara asal. Ikan diserahkan ke petugas yang ditunjuk untuk diberi tindakan di Instalasi Karantina Ikan.
   2. Maskoki dihitung satu per satu, lalu dicemplungkan ke akuarium dan diaerasi secukupnya. Air sebagai media hidup ikan selama pengangkutan disedot dengan pipet kecil, lalu dimasukkan ke gelas ukur. Selanjutnya air diuji di mikroskop untuk mendeteksi kehadiran bibit penyakit. Air didisenfektan dengan formalin, dosis sesuai hasil pengecekan di laboratorium. Berikutnya air dimasukkan ke bak penampung khusus agar tidak mencemari lingkungan. Plastik pembungkus dibakar.
   3. Sampel ikan diambil secara acak. Kerok sisik dengan pinset, lalu oleskan ke kaca preparat. Kehadiran parasit bisa diintip dengan mikroskop yang dilengkapi kamera dan bisa disaksikan dengan jelas di layar televisi.
   4. Pengujian selanjutnya dengan mengambil ginjal dan hati.. Organ dalam itu diambil secuil dengan pisau kecil, lalu dimasukkan ke media yang terbuat dari agar-agar. Kultur bakteri itu dilihat di mikroskop pada keesokan hari. Itu untuk mengetahui kehadiran bakteri di tubuh ikan

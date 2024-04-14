@@ -16,14 +16,14 @@ tags:
 - virus
 
 modification_time: 2022-09-13 12:18:58
-blogger_orig_url: "http://localhost/mitra/menghilangkan-hama-kutuputih-kutu-kebul.html"
+blogger_orig_url: "http://www.mitrausahatani.com/menghilangkan-hama-kutuputih-kutu-kebul.html"
 ---
 
 Impian pekebun meraih laba besar kerap kandas gara-gara sosok kecil itu.
 Panjang tubuhnya cuma 2 mm. la adalah hama kutu putih (nama ilmiah kutu putih
 Silverleaf whitefly). Karena ulah mereka, miliaran rupiah melayang . Ketika
 itu Rp7,31 -miliar musnah dari 984,6 ha lahan
-[cabai](http://127.0.0.1/mitra/topik/cabai). Insektisida kutu kebul paling
+[cabai](https://www.mitrausahatani.com/topik/cabai). Insektisida kutu kebul paling
 ampuh untuk membasmi [Silverleaf whitefly](https://cisr.ucr.edu/invasive-
 species/silverleaf-whitefly) harus segera dicari sebelum terjadi kerugian di
 lahan sayuran lain seperti tomat dan kentang yang tak luput dari ganyangan si
@@ -77,7 +77,7 @@ tanaman. Ini adalah hama serius dari banyak tanaman, termasuk tomat, mentimun,
 labu, dan melon. Asal geografis yang tepat dari Kutu kebul tidak diketahui,
 tetapi mungkin di suatu tempat di sekitar India dan diperkirakan telah
 diperkenalkan secara tidak sengaja di Amerika Serikat sekitar tahun 1986 dan
-menyebar melalui perdagangan [tanaman hias](http://127.0.0.1/mitra/tanaman-
+menyebar melalui perdagangan [tanaman hias](https://www.mitrausahatani.com/tanaman-
 hias "tanaman hias") dari tenggara Amerika Serikat. Serangga mendapatkan
 namanya dari warna abu-abu perak pada sayapnya. Kutu kebul sulit dikendalikan
 karena dapat berkembang biak dengan cepat dan mengembangkan resistensi
@@ -121,8 +121,8 @@ India,” ujar Hermanu Triwidodo, dosen Departemen Perlindungan Tanaman Institut
 Pertanian Bogor. Produktivitas cabai Cina 45 sampai 48 ton; Indonesia, cuma 15
 ton per ha. [caption id="attachment_15780" align="aligncenter"
 width="300"][![Kutu kebul kerap membonceng virus tanaman
-pertanian](http://127.0.0.1/mitra/wp-
-content/uploads/2021/12/hama-300x169.jpg)](http://127.0.0.1/mitra/wp-
+pertanian](http://localhost/mitra/wp-
+content/uploads/2021/12/hama-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/12/hama.jpg) Kutu kebul kerap membonceng virus[/caption]
 
 ## Hama kutu putih pada tanaman dan virus yang Menyertainya
@@ -151,8 +151,8 @@ pasang sayap putih. Di bawah permukaan daun, ia memproduksi benang-benang
 lilin yang berjuntai seperti kapas. Umur betina 37 sampai 74 hari; jantan, 9
 sampai 17 hari. Imago hidup berkelompok dalam jumlah banyak. [caption
 id="attachment_15781" align="aligncenter" width="300"][![kelemahan kutu
-kebul](http://127.0.0.1/mitra/wp-content/uploads/2021/12/serangan-
-hama-300x169.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/12/serangan-
+kebul](http://localhost/mitra/wp-content/uploads/2021/12/serangan-
+hama-300x169.jpg)](http://localhost/mitra/wp-content/uploads/2021/12/serangan-
 hama.jpg) Lahan cabai incaran kutu kebul[/caption] Pada satu daun terdiri atas
 campuran telur, nimfa, dan imago hingga mencapai ratusan. Bila tanaman
 tersentuh, serangga akan beterbangan seperti kabut sehingga ia disebut hama
@@ -182,9 +182,9 @@ mengembangkan tanaman perangkap seperti nasubi alias terung jepang di sekitar
 kebun. Kutu kebul lebih memilih nasubi daripada tanaman utama. Terung jepang
 bisa disemprot dengan insektisida Applaud 10 WP, Mitac 200 EC, atau Monitor
 200 LC. Penanaman 4 sampai 6 baris
-[jagung](http://127.0.0.1/mitra/topik/jagung) sebagai border plant dapat
+[jagung](https://www.mitrausahatani.com/topik/jagung) sebagai border plant dapat
 melindungi tanaman utama. Bemisia tabaci yang masih di luar
-[pertanaman](http://127.0.0.1/mitra/pertanian "pertanaman") utama, gagal masuk
+[pertanaman](https://www.mitrausahatani.com/pertanian "pertanaman") utama, gagal masuk
 karena terhalang oleh jagung. Kemampuan terbang hama kutu putih maksimal 4 m.
 Cara itu dilakukan oleh pekebun di Lembang dan Padang. Strategi lain dengan
 mempertahankan keseimbangan ekosistem supaya musuh alami bertahan.

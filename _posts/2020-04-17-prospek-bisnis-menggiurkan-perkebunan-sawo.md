@@ -10,7 +10,7 @@ tags:
 - sawo
 
 modification_time: 2020-04-17 16:07:16
-blogger_orig_url: "http://localhost/mitra/prospek-bisnis-menggiurkan-perkebunan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/prospek-bisnis-menggiurkan-perkebunan.html"
 ---
 
 _Itulah hasil panen dari 150 pohon yang ditanam Ating di lahan seluas 1 ha.
@@ -24,8 +24,8 @@ pengepul 4 tahun silam. Saat panen raya Desember sampai Februari, Entang
 sanggup menampung 120 ton untuk dipasok ke Cirebon, Jakarta, Subang, dan
 Majalengka. Sawo dibeli Rp 2.000/kg dari pekebun dan dijual Rp 2.500-Rp
 3.000/kg. Artinya, ia memiliki tambahan pendapatan Rp l0-juta sebagai
-pedagang. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Perkebunan.jpg)](http://127.0.0.1/mitra/wp-
+pedagang. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Perkebunan.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Perkebunan.jpg)
 
 ## Pekebun Sawo Sukatali mulai bangkit
@@ -38,7 +38,7 @@ tradisional hingga pedagang pinggir jalan. Sekadar contoh, di sepanjang jalan
 raya Situraja puluhan jongko menjajakan sawo nan manis itu. Isar, pedagang
 dari Dusun Cijeruk umpamanya, sanggup menjual 30 kg per hari di luar musim dan
 100 kg saat panen raya. Harga jual rata-rata Rp 3.000-Rp 6.000/kg. Saat
-peliputan, [Mitra Usaha Tani](http://127.0.0.1/mitra) melihat beberapa
+peliputan, [Mitra Usaha Tani](https://www.mitrausahatani.com) melihat beberapa
 kendaraan berhenti untuk membeli buah tangan khas sukatali itu. Penumpangnya
 berasal dari Jakarta, Bandung, Cirebon, dan Sumedang. Sementara para pedagang
 antarkota lebih memilih mendatangi pekebun atau pengepul. Sebut saja Dahri,
@@ -48,13 +48,13 @@ uang dengan yang dialami Entang. "Tengkulak dari Jakarta dan Cirebon biasanya
 meminta minimal 13 kuintal sekali pasok, sedangkan yang tersedia hanya 5
 kuintal," keluhnya. Penyebabnya baru sebagian populasi berproduksi maksimal,
 karena sebagian tanaman belum mencapai umur produktif.
-[mitrausahatani](http://127.0.0.1/mitra/) melihat buah seukuran telur ayam
+[mitrausahatani](https://www.mitrausahatani.com/) melihat buah seukuran telur ayam
 bergelayutan di setiap cabang sawo ketika berkunjung akhir Juni. Padahal saat
 itu belumlah masuk musim panen raya. "Sawo sukatali memang rajin berbuah,
 dalam setahun ia hanya pere (berhenti, red) 1 bulan saja" ujar Ating.
 Produktivitas mencapai 1 ton per pohon per tahun pada umur produktif 15-20
-tahun. [![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-
-sawo.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/buah-sawo.jpg)
+tahun. [![](http://localhost/mitra/wp-content/uploads/2020/04/buah-
+sawo.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/buah-sawo.jpg)
 
 ## Komoditas Primadona
 
@@ -73,8 +73,8 @@ diuntungkan, penjual bibit pun turut bersukacita. Omet hanya mencemplungkan Rp
 bibit asal cangkokan itu siap jual seharga Rp 15.000-Rp 20.000/ pohon. Laba
 bersih R p 7 0 0 . 0 0 0 dikantonginya. "Modalnya hanya perlu telaten, kalau
 tidak 50% cangkokan bibit tidak berhasil," katanya. Jejak Omet dituruti
-sekitar 10 penangkar lain di Desa Sukatali. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/sawo-jumbo.jpg)](http://127.0.0.1/mitra/wp-
+sekitar 10 penangkar lain di Desa Sukatali. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/sawo-jumbo.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/sawo-jumbo.jpg)
 
 ### Pekebun Sawo Kecamatan Pare

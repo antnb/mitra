@@ -9,7 +9,7 @@ tags:
 - ikan koi
 
 modification_time: 2021-11-12 08:13:07
-blogger_orig_url: "http://localhost/mitra/gudang-koi-juara-dan-hobiis-fanatik.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gudang-koi-juara-dan-hobiis-fanatik.html"
 ---
 
 "Jangankan meraih gelar runner up koi champion, masuk peringkat tiga besar di
@@ -50,8 +50,8 @@ Indonesia, dan Inggris. "Dari jumlah itu 60% di antaranya terserap pasar
 Indonesia. Koi itu barang mewah. Hanya sedikit orang Jepang yang mampu
 mengoleksinya," kata Budi Widjaja. [caption id="attachment_14899"
 align="aligncenter" width="1024"][![ikan koi
-Kawarimono](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/Kawarimono-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+Kawarimono](http://localhost/mitra/wp-
+content/uploads/2021/11/Kawarimono-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Kawarimono.jpg) Kawarimono koi[/caption] Bermodal koi-
 koi berpenampilan prima itu, maka para hobiis Nusantara sangat antusias
 mengikutkan klangenannya di berbagai ajang adu molek tingkat dunia. "Indonesia
@@ -74,7 +74,7 @@ tahun terakhir, memicu permintaan koi impor. Sugiarto Budiono yang mengelola
 Jakarta Koi Center, misalnya, mengimpor 5-6 kali per tahun. Sekali impor
 Sugiarto mendatangkan 1.000 koi berukuran 15-25 cm dan 50 koi berukuran lebih
 dari 50 cm. "Menjelang kontes koi impor itu ludes dalam 2-3 bulan, padahal
-biasanya 6 bulan," ujar ketua Komisi [Ikan Hias](http://127.0.0.1/mitra/ikan-
+biasanya 6 bulan," ujar ketua Komisi [Ikan Hias](https://www.mitrausahatani.com/ikan-
 hias "Ikan Hias") Indonesia (KIHI) itu. Di tanah air, para hobiis mengandalkan
 koi asal Jepang untuk meraih juara pada setiap kontes. Lihat saja ikan koi
 blitar juara 1 asal negeri di timur jauh itu mendominasi para jawara kontes
@@ -88,8 +88,8 @@ koi blitar juara 1 produksi peternak di tanah air, sulit mencapai ukuran itu.
 Selain itu, "Corak warna bisanya pudar dan pertumbuhannya mandek setelah
 berumur 3 tahun," ujar Budi. [caption id="attachment_14900"
 align="aligncenter" width="1024"][![ikan Koi Hikarimoyo
-mono](http://127.0.0.1/mitra/wp-content/uploads/2021/11/Koi-Hikarimoyo-
-mono-1024x621.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/Koi-
+mono](http://localhost/mitra/wp-content/uploads/2021/11/Koi-Hikarimoyo-
+mono-1024x621.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/Koi-
 Hikarimoyo-mono.jpg) Koi-Hikarimoyo-mono[/caption] Penyebabnya, para peternak
 menggunakan induk yang belum optimal. Budi mengatakan banyak peternak
 memanfaatkan koi 60 cm sebagai induk. Akibatnya pertumbuhan anakan tidak akan
@@ -114,7 +114,7 @@ Padahal, menurut Budi Widjaja jumlah koi impor hanya 10% dari total populasi
 koi di tanahair. Sisanya produksi para peternak di beberapa sentra seperti
 Blitar, Jawa Timur, Sukabumi (Jawa Barat), Yogyakarta, dan Purwokerto (Jawa
 Tengah). Menurut Arif Wicaksono dari Pengolahan dan Pemasaran Hasil
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") (P2HP) Dinas
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") (P2HP) Dinas
 Perikanan Kabupaten Blitar, produksi koi di Blitar pada 2009 mencapai
 141.492.500 ekor senilai Rp707.462.500.000. Pada 2010 produksi meningkat
 menjadi 142.300.000 ekor senilai Rp711.500.000. Menurut peternak senior koi di
@@ -135,8 +135,8 @@ memperoleh 1 penghargaan. Dalam kontes di tanahair koi lokal hanya mampu
 berjaya pada kelas berukuran di bawah 40 cm. "Kalau lebih dari itu sulit
 bersaing dengan koi impor," ujar Sugeng. [caption id="attachment_14901"
 align="aligncenter" width="1024"][![ikan bekko koi
-](http://127.0.0.1/mitra/wp-content/uploads/2021/11/bekko-koi-
-fish-1024x666.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2021/11/bekko-
+](http://localhost/mitra/wp-content/uploads/2021/11/bekko-koi-
+fish-1024x666.jpg)](http://localhost/mitra/wp-content/uploads/2021/11/bekko-
 koi-fish.jpg) bekko-koi-fish[/caption] Kini kesempatan koi lokal unjuk gigi di
 arena kontes semakin terbuka setelah APKI menyelenggarakan Breeder Kol Show
 perdana di Bandung pada 2011. Peserta kontes itu hanya koi produksi peternak
@@ -173,8 +173,8 @@ pilihan pengisi kolam karena keindahannya dilihat dari atas," ujar Budi.
 Itulah sebabnya permintaan membangun kolam mengalir deras ke tangan Christian
 S AB peternak koi di Bandung. Saat ini ia sudah menerima 10-15 order pembuatan
 kolam rata-rata berkapasitas 20 m3. [caption id="attachment_14902"
-align="aligncenter" width="1024"][![Goshiki-koi](http://127.0.0.1/mitra/wp-
-content/uploads/2021/11/Goshiki-koi-1024x576.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1024"][![Goshiki-koi](http://localhost/mitra/wp-
+content/uploads/2021/11/Goshiki-koi-1024x576.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/11/Goshiki-koi.jpg) ikan Goshiki koi[/caption] Salah
 satunya factory outlet ternama di kawasan Setiabudi, Bandung. Itu menjadi
 bukti bahwa koi juara bukan hanya bergairah di kalangan hobiis penggemar
@@ -250,7 +250,7 @@ Bulatan merah di kepala
 
 Warna dasar solid dihiasi titik hitam yang menyebar [caption
 id="attachment_14898" align="aligncenter" width="1024"]![ikan Hikari
-utsuri](http://127.0.0.1/mitra/wp-content/uploads/2021/11/Hikari-
+utsuri](http://localhost/mitra/wp-content/uploads/2021/11/Hikari-
 utsuri-1024x500.jpg) Hikari utsuri koi[/caption]
 
 ## Bursa Penjualan Ikan Koi Via Internet

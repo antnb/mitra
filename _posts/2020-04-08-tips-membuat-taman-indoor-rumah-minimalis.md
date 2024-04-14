@@ -11,7 +11,7 @@ tags:
 - Taman
 
 modification_time: 2020-04-08 06:43:12
-blogger_orig_url: "http://localhost/mitra/tips-membuat-taman-indoor-rumah.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tips-membuat-taman-indoor-rumah.html"
 ---
 
 Rindu suasana bak tamansari itu mungkin yang mengilhami Ari Nababan
@@ -27,7 +27,7 @@ menuju kolam memecah kesunyian ruang tamu. Untuk mempermanis taman, palem
 chamaedorea dan Dracaena marginata tricolor diletakkan di sudut belakang.
 Sementara warna-warni bromelia menyemarakkan sudut depan. Suasana taman kian
 syahdu dengan kehadiran 4 lampu antik di tengah kolam. Di sanalah Ari [melepas
-penat setelah lelah seharian bekerja](http://127.0.0.1/mitra/kolam-taman-
+penat setelah lelah seharian bekerja](https://www.mitrausahatani.com/kolam-taman-
 minimalis-penghilang.html).
 
 ## taman indoor Anti lumut
@@ -38,7 +38,7 @@ membuat penampilan ruangan lebih indah. Lantaran salah pilih jenis dan tak
 rutin dirawat, tanaman-tanaman itu layu bahkan mati. Belum lagi hadirnya semut
 api yang bersarang di antara tanaman. Itu mengganggu penghuni rumah.
 Solusinya, menghadirkan taman kolam. Namun, menghadirkan taman itu pun tak
-mudah. [Konstruksi kolam musti kokoh](http://127.0.0.1/mitra/pancuran-kolam-
+mudah. [Konstruksi kolam musti kokoh](https://www.mitrausahatani.com/pancuran-kolam-
 minimalis-ala-bunderan.html). Pengaturan permukaan air harus baik sehingga
 tidak memercik keluar kolam. Itu supaya suasana taman tetap resik tanpa becek.
 Artinya posisi jatuhnya air mesti diatur agar tidak muncrat membasahi area
@@ -46,8 +46,8 @@ ruang tamu. Agar konstruksi kolam kokoh, tanah di lokasi itu dicor dengan
 beton sesuai rangka bentuk kolam. Lalu dipoles dengan batu palimanan yang
 disaput antilumut. Tujuannya agar lebih alami dan tidak berlumut. Di bagian
 atas taman, dibuat atap terbuka yang ditutup plastik polikarbonat agar tanaman
-tetap mendapat sinar matahari. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Indoor-.jpg)](http://127.0.0.1/mitra/wp-
+tetap mendapat sinar matahari. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Indoor-.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Indoor-.jpg)
 
 ## Filter Air mutlak
@@ -68,8 +68,8 @@ tidak mampet. Keuntungan menggunakan zeolit, kotoran ikan diuraikan oleh
 bakteri pengurai dalam media filter. Sedangkan zat-zat beracun diserap. Dengan
 filter memadai, air kolam selalu jernih minimal selama 6 bulan tanpa dikuras.
 Bila air mulai keruh, filter cukup dibersihkan dengan menyemprotkan air ke
-filter. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/Taman.jpg)](http://127.0.0.1/mitra/wp-
+filter. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/Taman.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/Taman.jpg)
 
 ### Pemilihan tanaman

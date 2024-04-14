@@ -16,7 +16,7 @@ tags:
 - walet
 
 modification_time: 2022-12-24 08:34:00
-blogger_orig_url: "http://localhost/mitra/budidaya-sarang-walet-bisa-diternakan.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-sarang-walet-bisa-diternakan.html"
 ---
 
 Syafrian Ali, seorang wirausahawan muda dari Jombang, Jawa Timur, berhasil
@@ -35,15 +35,15 @@ susah-payah memancing walet. Bisnis Sarang Walet kini menjadi sesuatu yang
 pasti, tidak lagi spekulasi. Bagi pegiat usaha walet, 20 sarang dianggap tak
 ada apa-apanya. Dinilai dengan uang paling cuma Rp 2,5-juta. Tak sebanding
 dengan biaya yang dikeluarkan untuk [beternak
-walet](http://127.0.0.1/mitra/alih-fungsi-ruko-menjadi-sarang-walet.html).
+walet](https://www.mitrausahatani.com/alih-fungsi-ruko-menjadi-sarang-walet.html).
 Namun, kalau sarang-sarang itu dijadikan titik awa pengembangan, sungguh luar
 biasa. “Memancing 1-2 pasang walet saja perlu waktu berbulan-bulan, bahkan
 tahun. Apalagi sampai berproduksi, paling tidak 2-5 tahun.” kata Ali.
 panggilan akrab Syafrian Ali, membandingkan. Itu sebabnya harga rumah
 berpenghuni belasan pasang pun mencapai Rp 400-juta-Rp 500-juta. [caption
 id="attachment_15857" align="aligncenter" width="800"][![Syafrlan All,
-ketekunan membuahkan hasil](http://127.0.0.1/mitra/wp-
-content/uploads/2019/09/walet_800x493.jpg)](http://127.0.0.1/mitra/wp-
+ketekunan membuahkan hasil](http://localhost/mitra/wp-
+content/uploads/2019/09/walet_800x493.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/09/walet_800x493.jpg) Syafrlan All, ketekunan membuahkan
 hasil[/caption] Keberhasilan Bisnis Sarang Walet secara aktif di Desa
 Panglejar, Cikalong Wetan, Bandung, itu merupakan yang kedua bagi Ali.
@@ -68,7 +68,7 @@ Sebut saja Boedi Mranata. Ilmuwan sekaligus praktisi di Jakarta itu mengutak-
 atik ternak walet sejak 1989. Lalu H. A Fatich Marzuki di Surabaya
 melakukannya pada 1997. Namun, keduanya belum menggapai hasil maksimal. Boedi
 Mranata hanya sampai sukses mengajari [walet menyosor
-pakan](http://127.0.0.1/mitra/cantik-dan-sehat-berkat-liur-walet.html) di
+pakan](https://www.mitrausahatani.com/cantik-dan-sehat-berkat-liur-walet.html) di
 wadah. Sementara Fatich Marzuki berhasil membesarkan walet hingga terbang,
 tapi tak kembali ke rumah setelah dilepas. “Saya coba berulang-ulang ternak
 walet. Sayangnya, belum berhasil sampai pada tingkat membuat sarang. Padahal,
@@ -81,7 +81,7 @@ tinggal. Penyebab kegagalan Fatich Marzuki dalam Bisnis Sarang Walet cuma
 satu. Ia terlalu tergesa-gesa melepas walet ke alam. “Saat dilatih keluar-
 masuk lubang rumah terlihat pintar. Tapi ternyata setelah dilepas tidak
 kembali,” sesalnya. Dibantu sang istri, ia melatih walet mengenali lingkungan
-luar gedung yang [dipasangi jaring](http://127.0.0.1/mitra/kain-sekat-ruang-
+luar gedung yang [dipasangi jaring](https://www.mitrausahatani.com/kain-sekat-ruang-
 inap-rumah-walet.html). Jaring bermata halus 6 m x 6 m x 3 m diletakkan di
 depan lubang keluar-masuk. Saat umur walet genap 61 hari, ia dilepas ke
 jaring. Setiap pagi selama 16 hari walet dibimbing keluar dan sore hari masuk

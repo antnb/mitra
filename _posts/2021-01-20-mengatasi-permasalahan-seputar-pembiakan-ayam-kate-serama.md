@@ -12,7 +12,7 @@ tags:
 - sel telur
 
 modification_time: 2021-01-20 13:43:31
-blogger_orig_url: "http://localhost/mitra/ayam-kate-serama.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ayam-kate-serama.html"
 ---
 
 Telur ayam kate serama menjadi harapan setiap peternak. Sebab, bulatan sebesar
@@ -58,8 +58,8 @@ jangan sampai loyo dengan pemberian pakan bergizi," ucap Rudiasfie Sjofinal.
 ## Perhatikan Waktu Yang Tepat Untuk Kawin
 
 [caption id="attachment_7884" align="alignleft" width="259"][![ayam serama
-mengerami telur](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_serama1_853x768.jpg)](http://127.0.0.1/mitra/wp-
+mengerami telur](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_serama1_853x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_serama1_853x768.jpg) Ciptakan suasana tenang
 saat induk mengeram[/caption] Rudiasfie Sjofinal selalu memprogram kawin untuk
 meningkatkan keberhasilan pembuahan. "Pakai sistem dodokan saja karena mampu
@@ -82,8 +82,8 @@ sekali untuk mencukupi gizi sekaligus mendongkrak libido," ucap Muchsinin.
 ## Telur Yang Fertil
 
 [caption id="attachment_7885" align="alignleft" width="293"][![anakan
-serama](http://127.0.0.1/mitra/wp-
-content/uploads/2021/01/Gambar_serama2_1024x709.jpg)](http://127.0.0.1/mitra/wp-
+serama](http://localhost/mitra/wp-
+content/uploads/2021/01/Gambar_serama2_1024x709.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/01/Gambar_serama2_1024x709.jpg) Segera masukkan
 inkubator[/caption] Kasus induk ayam kate serama ogah mengeram sering dialami
 penangkar. Fatalnya, induk meletakkan telur di sembarang tempat sehingga

@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-10-20 11:08:15
-blogger_orig_url: "http://localhost/mitra/tanaman-gunung-incaran-para-eksportir.html"
+blogger_orig_url: "http://www.mitrausahatani.com/tanaman-gunung-incaran-para-eksportir.html"
 ---
 
 Order sebanyak 1 ton gula aren setiap pekan baru dipenuhi ling sepertiganya.
@@ -105,7 +105,7 @@ Pertanian Banjarnegara.
 
 Oleh karena itu pihak terkait tengah melakukan pengembangan. Berbagai kendala
 di lapangan berupaya diatasi. Misalnya, untuk memecah masa dormansi yang
-terlalu lama, 1 tahun, Dinas [Perkebunan](http://127.0.0.1/mitra/perkebunan
+terlalu lama, 1 tahun, Dinas [Perkebunan](https://www.mitrausahatani.com/perkebunan
 "Perkebunan") telah mengaplikasikan hasil penelitiannya. Dengan temuan baru
 itu untuk mengecambahkan benih hanya butuh waktu 3 bulan. “Keberhasilannya di
 atas 60%,” ujar Joko. Selain itu kini ditemukan pohon induk yang menghasilkan

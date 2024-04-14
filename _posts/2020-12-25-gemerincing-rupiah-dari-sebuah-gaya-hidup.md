@@ -3,7 +3,7 @@ layout: post
 title: 'Gemerincing Rupiah dari Sebuah Gaya Hidup'
 categories: perkebunan
 date: 2020-12-25 18:37:44
-author: Anton N
+author: Yudianto
 image: media/Gambar_organik_1024x576.jpg
 tags:
 - Gaya Hidup
@@ -12,7 +12,7 @@ tags:
 - sayuran
 
 modification_time: 2020-12-25 18:37:44
-blogger_orig_url: "http://localhost/mitra/gemerincing-rupiah-dari-sebuah-gaya.html"
+blogger_orig_url: "http://www.mitrausahatani.com/gemerincing-rupiah-dari-sebuah-gaya.html"
 ---
 
 Kondisi itu berbalik 180° dengan keadaan 8 bulan silam. Kala itu kedatangan
@@ -22,7 +22,7 @@ lagi keluhan pusing-pusing akibat darah tinggi dan kolesterol tinggi. Penyakit
 "ringan" seperti influenza pun tak bosan menghampiri. Kalau sekarang ia
 kelihatan lebih segar dan awet muda, "Obatnya cuma mengkonsumsi sayuran,
 beras, dan susu organik," cetus mantan Menteri Kelautan dan
-[Perikanan](http://127.0.0.1/mitra/perikanan "Perikanan") di kabinet Gotong
+[Perikanan](https://www.mitrausahatani.com/perikanan "Perikanan") di kabinet Gotong
 Royong itu. Sejak diperkenalkan produk organik oleh sang menantu, Sarwono
 langsung jatuh cinta. "Rasanya lebih manis, renyah, dan segar," katanya.
 Sayuran dari penanaman cara biasa yang mungkin mengandung residu bahan kimia
@@ -48,8 +48,8 @@ kebiasaan itu klop dengan sang ayah. Apalagi kemudian si bungsu dalam
 keluarga, Mario Arnaz Hidayat, mesti diet ketat akibat kelebihan bobot badan.
 Ia hanya boleh menyantap daging bebas lemak dan sayuran organik. Maka sejak 5
 tahun silam keluarga besar itu menjadi penikmat produk-produk organik.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/12/organic-
-lifestyle.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/12/organic-
+[![](http://localhost/mitra/wp-content/uploads/2020/12/organic-
+lifestyle.jpg)](http://localhost/mitra/wp-content/uploads/2020/12/organic-
 lifestyle.jpg)
 
 ## produk organik Dan Gaya hidup
@@ -68,8 +68,8 @@ artikel di majalah 3 tahun silam. Sekali mencicipi, dosen Fakultas Arsitektur
 Universitas Parahyangan Bandung itu langsung ketagihan. Patrick L Stiady
 pemilik Mom’s Bakery di kawasan Progo, Bandung, dan pasangan dokter Ari Wibowo
 dan Maria Yulianti di Klojen, Malang, mengamini.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/organic.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/organic.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/organic.jpg)
 
 ## Laris manis
@@ -96,14 +96,14 @@ Ishar, sang pemilik, hanya 250 kg per minggu. Kini melonjak jadi 250 kg per
 pengiriman, 4 kali per minggu untuk 40 item. Peningkatan itu membuat Ishar
 yang berkebun sejak 4 tahun silam memperluas areal penanaman dari 0,5 ha
 menjadi 1 ha. Ia pun bermitra dengan 10 pekebun.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/vegetables.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/12/vegetables.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/vegetables.jpg)
 
 ## Masuknya hobiis
 
-[![sayuran organik](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_Gambar_organik_1024x576_1024x670.jpg)](http://127.0.0.1/mitra/wp-
+[![sayuran organik](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_Gambar_organik_1024x576_1024x670.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_Gambar_organik_1024x576_1024x670.jpg)Meski tren
 organik di masyarakat terbilang baru, "Sebenarnya konsep organik sudah lama
 ada," ujar Ali Fatoni dari Amani. Menurutnya ada 3 fase perkembangan organik

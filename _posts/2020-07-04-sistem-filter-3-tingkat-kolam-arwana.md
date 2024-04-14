@@ -10,7 +10,7 @@ tags:
 - kualitas air
 
 modification_time: 2020-07-04 13:42:31
-blogger_orig_url: "http://localhost/mitra/sistem-filter-3-tingkat-kolam-arwana.html"
+blogger_orig_url: "http://www.mitrausahatani.com/sistem-filter-3-tingkat-kolam-arwana.html"
 ---
 
 Pantas jika Jap Khiat Bun menanti cukup lama. Arwana-terutama _super red_
@@ -24,7 +24,7 @@ mencontohkan, pH yang cocok untuk arwana 5-6,5 dan suhu udara 27-29°C.
 “Teorinya mudah. Modifikasi di kolam kita yang agak sulit,” ujarnya.
 Musababnya, volume air kolam sangat besar sehingga sulit untuk mengaturnya.
 [caption id="attachment_1230" align="aligncenter" width="427"]![filter
-air](http://127.0.0.1/mitra/wp-
+air](http://localhost/mitra/wp-
 content/uploads/2020/07/1-12576914389p8I_987x800.jpg) Modifikasi dua sistem
 filterisasi[/caption]
 

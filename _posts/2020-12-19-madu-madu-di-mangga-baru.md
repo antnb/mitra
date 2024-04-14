@@ -12,7 +12,7 @@ tags:
 - Mangga Darakande
 
 modification_time: 2020-12-19 08:15:03
-blogger_orig_url: "http://localhost/mitra/madu-madu-di-mangga-baru.html"
+blogger_orig_url: "http://www.mitrausahatani.com/madu-madu-di-mangga-baru.html"
 ---
 
 Si manis yang bisa diseruput dengan sedotan itu ditemukan Dr Ir Mohammad Reza
@@ -29,8 +29,8 @@ rapat-rapat.
 ## Mangga Manenda
 
 [caption id="attachment_3022" align="alignleft" width="224"][![manis sejak
-masih mengkal](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_mangga_ntb_587x768.jpg)](http://127.0.0.1/mitra/wp-
+masih mengkal](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_mangga_ntb_587x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_mangga_ntb_587x768.jpg) Carangjuri, manis sejak
 masih mengkal[/caption] Benar saja, begitu buah matang dibelah terlihat daging
 berwarna kuning tua dan bertekstur seperti buah bonyok di dekat biji. Itulah
@@ -53,8 +53,8 @@ Jawa, Sunda) madu.
 ## Mangga Madu gurih
 
 [caption id="attachment_3021" align="alignleft" width="288"][![Mangga Endog
-madu](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_carangjuri_994x768.jpg)](http://127.0.0.1/mitra/wp-
+madu](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_carangjuri_994x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_carangjuri_994x768.jpg) Endog madu (kiri),
 mirip carangjuri (kanan)[/caption] Meski berukuran hampir sama berbobot
 250—300 g per buah, endog madu mudah dibedakan dari carangjuri. Bentuk endog
@@ -75,8 +75,8 @@ alias madu gurih.
 ## Mangga Darakande
 
 [caption id="attachment_3020" align="alignleft" width="258"][![buah mangga
-Darakande](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_darakande_967x768.jpg)](http://127.0.0.1/mitra/wp-
+Darakande](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_darakande_967x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_darakande_967x768.jpg) Darakande, oleh-oleh
 favorit dari Narmada[/caption] Trubus juga menemukan mangga bermadu kala
 menghadiri acara Tropical Fruit Festival di Kuta, Bali, penghujung tahun

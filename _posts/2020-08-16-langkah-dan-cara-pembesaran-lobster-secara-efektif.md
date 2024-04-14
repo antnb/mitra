@@ -9,7 +9,7 @@ tags:
 - 
 
 modification_time: 2020-08-16 11:52:48
-blogger_orig_url: "http://localhost/mitra/langkah-dan-cara-pembesaran-lobster.html"
+blogger_orig_url: "http://www.mitrausahatani.com/langkah-dan-cara-pembesaran-lobster.html"
 ---
 
 _Selama ini lobster yang dibesarkan dengan beragam teknologi waring danEDU
@@ -66,7 +66,7 @@ dengan melapisi terpal tebal atau bahan lain yang tidak mungkin robek oleh
 capit lobster. “Supaya murah biayanya, dinding kolam dilapisi potongan bambu
 saja. Dasarnya tetap tanah yang dipadatkan,” ujar Riswan Rismawan, peternak di
 Bekasi Barat. [caption id="attachment_1387" align="aligncenter"
-width="740"]![pembesaran lobster](http://127.0.0.1/mitra/wp-
+width="740"]![pembesaran lobster](http://localhost/mitra/wp-
 content/uploads/2020/08/lobster_1121x800.jpg) tanah lempung dan berlumpur
 cocok untuk pembesaran lobster[/caption]
 
@@ -89,7 +89,7 @@ memakai anco. “Minimal dalam setengah tahun sejak tebar 2 inci lobster sudah
 dapat dipanen I dengan bobot rata-rata 90-100 g/ ekor,” ujar alumnus Teknik
 Arsitektur Universitas Kristen Petra, Surabaya, itu. [caption
 id="attachment_1387" align="aligncenter" width="728"]![Pembesaran lobster
-dengan bak](http://127.0.0.1/mitra/wp-
+dengan bak](http://localhost/mitra/wp-
 content/uploads/2020/08/lobster_1121x800.jpg) Pembesaran dengan bak syaratnya
 sirkulasi air lancar[/caption]
 

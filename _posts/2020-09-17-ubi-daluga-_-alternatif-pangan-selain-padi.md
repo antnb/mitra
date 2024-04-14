@@ -3,19 +3,19 @@ layout: post
 title: 'Ubi daluga : Alternatif Pangan Selain Padi'
 categories: artikel
 date: 2020-09-17 09:16:19
-author: Anton N
+author: Yudianto
 image: media/Gambar_daluga.jpg6__1280x720.jpg
 tags:
 - 
 
 modification_time: 2020-09-17 09:16:19
-blogger_orig_url: "http://localhost/mitra/ubi-daluga-alternatif-pangan-selain.html"
+blogger_orig_url: "http://www.mitrausahatani.com/ubi-daluga-alternatif-pangan-selain.html"
 ---
 
 _Keheranan itu tercermin dari ujaran Ir Lusiana Sigilipu seolah mewakili
 orang-orang yang berkerumun di sana. “Baru kali ini saya melihat ubi daluga
 sebesar ini,” kata pegawai Badan Ketahanan Pangan dan
-Penyuluhan[Pertanian](http://127.0.0.1/mitra/pertanian "Pertanian") Kabupaten
+Penyuluhan[Pertanian](https://www.mitrausahatani.com/pertanian "Pertanian") Kabupaten
 Poso, Sulawesi Tengah. Sebuah kekaguman yang wajar. Jangankan dari luar
 daerah, masyarakat Sulawesi Utara pun banyak yang belum mengenal ubi berbentuk
 kerucut itu._ “Bagaimana mencabut tanamannya kalau sudah sebesar ini,”
@@ -70,7 +70,7 @@ sebagai rambatan batang berduri. Suza dibudidayakan tumpang sari dengan jagung
 dan tanaman kacang-kacangan. Menurut Silvester Teda dari Badan Ketahanan
 Pangan Kabupaten Ngada, peran suza amat penting bagi penyediaan bahan pangan.
 [caption id="attachment_1724" align="aligncenter" width="471"]![Suza
-disertakan dalam perayaan Geki](http://127.0.0.1/mitra/wp-
+disertakan dalam perayaan Geki](http://localhost/mitra/wp-
 content/uploads/2020/09/Gambar_Tanaman_Talas_1149x800.jpg) Suza disertakan
 dalam perayaan Geki[/caption]
 

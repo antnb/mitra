@@ -10,7 +10,7 @@ tags:
 - kalimantan
 
 modification_time: 2020-08-24 10:03:03
-blogger_orig_url: "http://localhost/mitra/durian-lai-mas-cocok-untuk-pasar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/durian-lai-mas-cocok-untuk-pasar.html"
 ---
 
 _Bila tak doyan buah lay kalimantan dengan aroma yang berbau menyengat, durian
@@ -18,7 +18,7 @@ yang satu ini boleh dicoba. rasa buah lai dan aromanya tidak "menggigit"
 seperti durian lokal biasa. Dagingnya jingga menggiurkan. Potensial untuk
 pasar Eropa._ Buah lai adalah species Durian yang berasal dari Desa
 Jabonmekar, Parung, Bogor. Dia diduga merupakan hibrida alam antara [_Durio
-zibethinus_](http://127.0.0.1/mitra/topik/durian) (durian biasa) dan [Durio
+zibethinus_](https://www.mitrausahatani.com/topik/durian) (durian biasa) dan [Durio
 kutejensis](https://www.nparks.gov.sg/florafaunaweb/flora/7/2/7205) (Lai, asal
 Kalimantan). Karena kualitas buahnya baik Henny Guntur, hobiis tanaman, sudah
 membibitkan dan mempopulerkannya sejak 1980-an. Sejak itu durian ini banyak

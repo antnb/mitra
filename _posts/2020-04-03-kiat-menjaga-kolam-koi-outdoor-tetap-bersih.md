@@ -11,7 +11,7 @@ tags:
 - kolam koi
 
 modification_time: 2020-04-03 06:50:20
-blogger_orig_url: "http://localhost/mitra/kiat-menjaga-kolam-koi-outdoor-tetap.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kiat-menjaga-kolam-koi-outdoor-tetap.html"
 ---
 
 _Sejauh ini jarang hobiis yang berani membangun kolam koi tanpa naungan.
@@ -26,9 +26,9 @@ memberi banyak manfaat. Sinar surya yang bebas menembus kolam membuat warna
 koi semakin cerah. Keuntungan lain, ada pergerakan udara bebas di atas kolam.
 Ini mempergaruhi kadar oksigen dalam air. "Kolam di bawah naungan memerlukan
 high blow untuk menyediakan oksigen di dalam air. Kalau kolam terbuka [cukup
-dengan pancuran](http://127.0.0.1/mitra/pancuran-kolam-minimalis-ala-
-bunderan.html) saja," papar Budi [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/kolam-koi-outdoor3.jpg)](http://127.0.0.1/mitra/wp-
+dengan pancuran](https://www.mitrausahatani.com/pancuran-kolam-minimalis-ala-
+bunderan.html) saja," papar Budi [![](http://localhost/mitra/wp-
+content/uploads/2020/04/kolam-koi-outdoor3.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/kolam-koi-outdoor3.jpg)
 
 ## Kapasitas Filter kolam koi Minimal 30%
@@ -38,7 +38,7 @@ air harus benar-benar terjaga dengan bantuan filter. "_Minimal kapasitas
 filter 30% dari kapasitas kolam_. Chamber (ruang filter, red) pun harus lebih
 banyak Setidaknya berjumlah 7-8 dengan media bagus," ujar Wiwi panggilan akrab
 Winarso. Menurut Budi Wijaya kapasitas filter sebaiknya 50% dari [kapasitas
-kolam](http://127.0.0.1/mitra/kolam-taman-minimalis-penghilang.html) untuk
+kolam](https://www.mitrausahatani.com/kolam-taman-minimalis-penghilang.html) untuk
 menghindari efek air hujan. Alumnus Arkansas State University jurusan desain
 interior itu memakai 8 chamber filterisasi. Enam chamber di antaranya
 berukuran 2 m x 0,5 m x 2 m. Yang lain berupa trikle dan tabung trikle.
@@ -59,8 +59,8 @@ Jakarta 29 tahun silam itu. Air yang lain dipompa masuk ke tabung trikle yang
 berisi bioball. Tabung setinggi 2,5 m berdiameter 30 cm itu akan menguraikan
 amonia di air menjadi nitrat sebelum masuk ke dalam kolam. Tabung trikle
 dilengkapi dengan katup backwash. Fungsinya membuang sisa-sisa air yang
-mengandung gas rawa alias H2S. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/kolam-koi-outdoor1.jpg)](http://127.0.0.1/mitra/wp-
+mengandung gas rawa alias H2S. [![](http://localhost/mitra/wp-
+content/uploads/2020/04/kolam-koi-outdoor1.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/kolam-koi-outdoor1.jpg)
 
 ## Waspada Perubahan Kadar PH Air Kolam
@@ -76,8 +76,8 @@ sampai 50% bisa membahayakan ikan," ujar Budi. Kolam-kolam berukuran tanggung
 seperti berkapasitas kurang dari 1 ton sangat riskan. Maklum guyuran air hujan
 selama 1-2 jam sudah membuat air kolam tergantikan. Kondisi seperti ini akan
 membuat komposisi zat dan mineral di air turut berubah.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/kolam-koi-
-outdoor2.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/kolam-koi-
+[![](http://localhost/mitra/wp-content/uploads/2020/04/kolam-koi-
+outdoor2.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/kolam-koi-
 outdoor2.jpg)
 
 ## Pencegahan Serangan Jamur Dan Parasit Penggangu
@@ -85,7 +85,7 @@ outdoor2.jpg)
 Menurut Budi [kolam koi minimalis](https://www.budidayatani.com/desain-sistim-
 filter-kolam-koi.html) tanpa naungan minimal memiliki kedalaman 1,5 m dengan
 luas 3 x 4 m. Dengan model seperti itu [kolam dapat
-menampung](http://127.0.0.1/mitra/pancuran-kolam-minimalis-ala-bunderan.html)
+menampung](https://www.mitrausahatani.com/pancuran-kolam-minimalis-ala-bunderan.html)
 air hujan dalam rentang lebih lama. Selain itu ia mampu mengurangi perubahan
 suhu yang drastis akibat terpaan langsung sinar matahari. Obat-obatan pun
 mutlak dipakai. "Di kolam terbuka koi rentan diserang kutu jarum, jamur, dan

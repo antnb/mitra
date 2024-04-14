@@ -10,7 +10,7 @@ tags:
 - duku
 
 modification_time: 2021-05-04 13:02:16
-blogger_orig_url: "http://localhost/mitra/kemenangan-nyaris-sempurna-duku.html"
+blogger_orig_url: "http://www.mitrausahatani.com/kemenangan-nyaris-sempurna-duku.html"
 ---
 
 Serupa tapi tak sama, kemenangan duku rasuan dalam Lomba Buah Unggul Nasional
@@ -22,8 +22,8 @@ buah-buahan selama 20 tahun.
 
 ## Duku Terkenal
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/duku-2.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/duku-2.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/duku-2.jpg)Nama rasuan disematkan lantaran duku itu
 berasal dari Desa Rasuan, Kecamatan Madang Suku II, Palembang. Wilayah
 berjarak 150 km dari Baturaja sampai ibukota Ogan Komering Ulu (OKU) itu sejak
@@ -45,8 +45,8 @@ kabupaten lain, tapi hingga kini belum bisa dilayani.
 
 ### Tertata rapi
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/duku-3.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/duku-3.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/duku-3.jpg)Pemenang ke-2 diraih duku sumber. Peserta
 nomor 80 itu memiliki kulit kuning menarik. Sayang, warna daging buah putih
 susu. “Daging buah seperti itu biasanya masam di lidah,” ujar Rudi Sendjaja.
@@ -67,8 +67,8 @@ mencapai Rp12.000/kg yang diambil sendiri pedagang ke kebun.
 
 ### Duku Istimewa
 
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2021/05/duku-1.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2021/05/duku-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2021/05/duku-1.jpg)Sang pemenang ke-3, duku kepayang, berkulit
 cokelat muda kemerahan. Saat dikupas, daging buah agak putih dengan rasa
 perpaduan manis masam. Sesuai dengan namanya, duku itu ditanam di Desa

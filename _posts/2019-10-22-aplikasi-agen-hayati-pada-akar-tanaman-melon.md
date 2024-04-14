@@ -13,7 +13,7 @@ tags:
 - pupuk
 
 modification_time: 2022-09-24 08:02:23
-blogger_orig_url: "http://localhost/mitra/aplikasi-agen-hayati-akar-tanaman-melon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/aplikasi-agen-hayati-akar-tanaman-melon.html"
 ---
 
 Tanaman tetap sehat hingga panen dengan aplikasi agen hayati pada akar tanaman
@@ -28,8 +28,8 @@ sekali pekebun yang bisa memperoleh hasil panen sempurna. Paling banter 50%
 dari total panen masuk kualitas A. Dampaknya, pendapatan pekebun pun turun.
 [caption id="attachment_15985" align="aligncenter" width="300"][![agen hayati
 Root King® mampu mengurangi dosis pemberian pupuk NPK tanpa mempengaruhi hasil
-panen](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/melon_640x465-1-300x218.jpg)](http://127.0.0.1/mitra/wp-
+panen](http://localhost/mitra/wp-
+content/uploads/2019/10/melon_640x465-1-300x218.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/melon_640x465-1.jpg) Penggunaan Root King® mampu
 mengurangi dosis pemberian pupuk NPK tanpa mempengaruhi hasil panen[/caption]
 
@@ -85,14 +85,14 @@ dapat membantu memberikan nutrisi yang dibutuhkan oleh tanaman untuk tumbuh
 dan berkembang dengan baik. Pupuk untuk akar dapat membantu meningkatkan
 pertumbuhan dan produksi tanaman. Pupuk untuk akar juga dapat membantu
 mengurangi kerusakan akar akibat penyakit dan hama. Karena akar tanaman melon
-kaya akan nutrisi, [Mitra Usaha Tani](http://127.0.0.1/mitra) menyarankan agar
+kaya akan nutrisi, [Mitra Usaha Tani](https://www.mitrausahatani.com) menyarankan agar
 Anda menambahkan pupuk kandang, kompos dan daun dalam jumlah sedang ketika
 menanam. Dalam risetnya, PT Makmur Fantawijaya membagi sampel tanaman menjadi
 3 kelompok perlakuan yakni 100% NPK (Control), Root King® dan 75% NPK (Pl),
 serta Root King® dan 100% NPK (P2). [caption id="attachment_15984"
 align="aligncenter" width="640"][![tanaman dari akar yang diberi aplikasi agen
-hayati terlihat lebih sehat](http://127.0.0.1/mitra/wp-
-content/uploads/2019/10/melon_640x317-1.jpg)](http://127.0.0.1/mitra/wp-
+hayati terlihat lebih sehat](http://localhost/mitra/wp-
+content/uploads/2019/10/melon_640x317-1.jpg)](http://localhost/mitra/wp-
 content/uploads/2019/10/melon_640x317-1.jpg) Akar tanaman yang diberi aplikasi
 rootking terlihat lebih sehat[/caption]
 

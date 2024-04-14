@@ -10,7 +10,7 @@ tags:
 - super red
 
 modification_time: 2020-11-06 05:50:38
-blogger_orig_url: "http://localhost/mitra/super-merah-jawara-di-formosa.html"
+blogger_orig_url: "http://www.mitrausahatani.com/super-merah-jawara-di-formosa.html"
 ---
 
 Gedung World Trade Center Taipeh, Taiwan, pukul 10.00. Di lantai dasar
@@ -23,7 +23,7 @@ Di sisi pita itulah ratusan pengunjung menyaksikan penjurian dengan tenang.
 Suasana tertib. Meski dikutip Rp200.000 per kepala mereka tampak antusias.
 Itulah sebagian pemandangan pada kontes perdana arwana. Masing-masing juri
 datang dari Indonesia, Jepang, Malaysia, Singapura, dan Taiwan. Edwin anggota
-Asosiasi Pengusaha [Ikan Hias](http://127.0.0.1/mitra/ikan-hias "Ikan Hias")
+Asosiasi Pengusaha [Ikan Hias](https://www.mitrausahatani.com/ikan-hias "Ikan Hias")
 Indonesia salah satu juri pada kontes itu. Mereka memasuki arena kontes
 setelah upacara pembukaan berlangsung di gedung sama. Satu per satu akuarium
 didatangi. Pengamatan cermat pun berlangsung untuk setiap peserta. Ikan hias
@@ -33,8 +33,8 @@ setelah dinding akuarium diketuk beberapa kali. Warna merah tubuhnya tampak
 mencolok. Pukul 14.00 waktu setempat ketika para jawara diumumkan arwana milik
 PT Munjul Prima Utama (MPU) itu dinobatkan sebagai juara ke-2 kelas dewasa. Ia
 berhak atas sejumlah hadiah serta trofi. Untuk kelas serupa juara I jatuh ke
-tangan arwana tuan rumah. [![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/Super-Merah-Jawara.jpg)](http://127.0.0.1/mitra/wp-
+tangan arwana tuan rumah. [![](http://localhost/mitra/wp-
+content/uploads/2020/11/Super-Merah-Jawara.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/Super-Merah-Jawara.jpg)
 
 ## 4 kelas
@@ -57,8 +57,8 @@ lantaran banyak penggemar di Taiwan. Sementara kelas terakhir, diiisi oleh
 arwana-arwana unik yang umumnya lahir cacat seperti arwana ekor kumpai. Jumlah
 peserta untuk masing-masing 20 untuk kelas remaja dan golden, 16 ekor kelas
 dewasa, dan 4 ekor di kelas antik. [caption id="attachment_20629"
-align="aligncenter" width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/super-merah-arowana.jpg)](http://127.0.0.1/mitra/wp-
+align="aligncenter" width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/11/super-merah-arowana.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/super-merah-arowana.jpg) Arwana super red[/caption]
 
 ### Puasa 9 hari

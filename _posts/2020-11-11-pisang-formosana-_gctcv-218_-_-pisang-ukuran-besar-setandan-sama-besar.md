@@ -9,7 +9,7 @@ tags:
 - Pisang
 
 modification_time: 2022-10-17 06:53:11
-blogger_orig_url: "http://localhost/mitra/pisang-formosana-setandan-sama-besar.html"
+blogger_orig_url: "http://www.mitrausahatani.com/pisang-formosana-setandan-sama-besar.html"
 ---
 
 Pisang GCTCV-218 adalah salah satu varietas pisang yang awalnya dikembangkan
@@ -38,7 +38,7 @@ Karakteristik utama dari Pisang Formosana adalah ketahanannya terhadap Foc
 TR4, hasil tinggi, tandan besar dan seragam, serta kualitas buah yang baik.
 Pisang Formosana sangat cocok untuk budidaya di daerah tropis dan subtropis
 dengan insiden Foc TR4 yang tinggi. Direkomendasikan untuk produksi
-[perkebunan](http://127.0.0.1/mitra/perkebunan "perkebunan") skala kecil dan
+[perkebunan](https://www.mitrausahatani.com/perkebunan "perkebunan") skala kecil dan
 skala besar.
 
 ## Pisang cavendish
@@ -81,8 +81,8 @@ yang agak bulat dan ukuran yang sedang, dengan kulitnya yang berwarna hijau
 tua. Pisang Formosana terkenal karena rasanya yang sangat manis dan segar.
 Pisang Formosana biasanya dijadikan sebagai bahan untuk membuat kue atau
 puding, namun juga bisa dimakan sebagai camilan sehari-hari.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/11/formosana-300x207.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/11/formosana-300x207.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/formosana.jpg)
 
 ## Pisang formosana Memiliki ukuran Buah Yang Sama Besar
@@ -105,8 +105,8 @@ membutuhkan ruang lebih banyak. Padahal sekali terbentur pisang gampang
 bonyok. Keunggulan lain formosana tidak mudah copot dari tangkai. Meski buah
 sudah berwarna kuning, tangkai tetap hijau. Buah dipetik 3-4 bulan sejak bunga
 mekar. Setelah itu diperam hingga warna kuning timbul.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/11/formosana-
-banana-300x209.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-content/uploads/2020/11/formosana-
+banana-300x209.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/11/formosana-banana.jpg)
 
 ## Dikembangkan secara Intensif

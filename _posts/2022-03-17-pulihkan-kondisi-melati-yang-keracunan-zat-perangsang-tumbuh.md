@@ -9,7 +9,7 @@ tags:
 - melati
 
 modification_time: 2022-09-09 12:12:59
-blogger_orig_url: "http://localhost/mitra/melati-yang-keracunan-zpt-fitohormon.html"
+blogger_orig_url: "http://www.mitrausahatani.com/melati-yang-keracunan-zpt-fitohormon.html"
 ---
 
 Zat perangsang tumbuh (ZPT) dapat merangsang melati berbunga. Kalau
@@ -27,8 +27,8 @@ Tanaman harus merespon dengan tepat terhadap lingkungan yang selalu berubah,
 yang mengharuskan penggunaan fitohormon. Sebuah fitohormon tunggal dapat
 mempengaruhi beberapa proses seluler dan perkembangan, sementara beberapa
 hormon dapat mempengaruhi satu proses pada waktu yang sama.
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2022/03/hormon-300x169.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2022/03/hormon-300x169.jpg)](http://localhost/mitra/wp-
 content/uploads/2022/03/hormon.jpg)
 
 ## Fungsi zpt Pada Tanaman
@@ -54,7 +54,7 @@ parah lagi, tanaman tidak berbunga sama sekali.
 
 ## Ganti media tanam
 
-Untuk menyelamatkan [bunga puspa bangsa](http://127.0.0.1/mitra/topik/melati)
+Untuk menyelamatkan [bunga puspa bangsa](https://www.mitrausahatani.com/topik/melati)
 itu caranya mudah. Tanaman dikeluarkan dari pot dan tanam di tanah. Bila tidak
 memungkinkan, tanam di pot dengan media baru. Medianya berupa campuran tanah,
 pupuk kandang sapi, sekam bakar, dan humus bambu dengan perbandingan 2: 1: 1:

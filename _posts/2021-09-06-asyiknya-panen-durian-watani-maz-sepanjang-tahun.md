@@ -10,7 +10,7 @@ tags:
 - Watani maz
 
 modification_time: 2021-09-06 14:31:37
-blogger_orig_url: "http://localhost/mitra/asyiknya-panen-durian-watani-maz.html"
+blogger_orig_url: "http://www.mitrausahatani.com/asyiknya-panen-durian-watani-maz.html"
 ---
 
 Dering telepon terdengar nyaring di salah satu ruang di Pesantren Al-Zaytun.
@@ -20,13 +20,13 @@ kemudian durian istimewa itu sampai ke tangan pimpinan pondok pesantren di
 Indramayu itu. Pantas saja Panji terlihat sumringah. Durian Watani Maz yang
 ditanam di rumah tetirah di kawasan Depok itu memang istimewa. "Rasanya manis
 legit," kata pria asli Banten itu. Daging
-[durian](http://127.0.0.1/mitra/topik/durian) berwarna kuning tua, bertekstur
+[durian](https://www.mitrausahatani.com/topik/durian) berwarna kuning tua, bertekstur
 halus tanpa serat, dan kering dengan aroma lembut. Saking keringnya bila
 pongge Durian Watani Maz dimasukkan ke kantong kemeja, tak bakalan mengotori
 baju. _Durio zibethinus_ yang gampang dibelah itu paling nikmat disantap 1
 sampai 2 hari setelah jatuh pohon. [caption id="attachment_13924"
 align="aligncenter" width="1511"]![Buah Durian
-super](http://127.0.0.1/mitra/wp-content/uploads/2021/09/durian.jpg) Buah
+super](http://localhost/mitra/wp-content/uploads/2021/09/durian.jpg) Buah
 Durian[/caption] **Watani maz** nama itu akronim dari woh-wohan tandurane wong
 tani Indonesia yang berarti buah-buahan hasil tanam orang Indonesia, maz,
 singkatan dari Ma’had Al-Zaytun berbiji hepe. Dari sebuah paling hanya ada 5
@@ -48,7 +48,7 @@ kulit hijau segar memang baru tahun ini belajar berbuah. Namun, kemampuan
 berproduksi di luar musim saat Kami berkunjung ke Depok pada awal Oktober,
 durian di sekeliling watani maz belum terlihat berbunga terbilang luar biasa.
 [caption id="attachment_13923" align="aligncenter" width="814"]![durian watani
-maz](http://127.0.0.1/mitra/wp-content/uploads/2021/09/Untitled.jpg) Panji
+maz](http://localhost/mitra/wp-content/uploads/2021/09/Untitled.jpg) Panji
 Gumilang dan watani maz[/caption] Rupanya kunci sukses itu ada pada perawatan
 istimewa. Setiap tahun tanaman dipupuk dengan pupuk kandang asal kotoran sapi.
 Sekali pembenaman 50 karung setara 15 sampai 25 kuintal. Caranya di bawah

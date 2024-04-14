@@ -9,7 +9,7 @@ tags:
 - belut
 
 modification_time: 2020-04-04 12:30:09
-blogger_orig_url: "http://localhost/mitra/budidaya-dan-cara-beternak-belut-dalam.html"
+blogger_orig_url: "http://www.mitrausahatani.com/budidaya-dan-cara-beternak-belut-dalam.html"
 ---
 
 _Di era 90-an peternak belut hanya bisa memanen belut ukuran besar dalam
@@ -39,8 +39,8 @@ hujan. Kolam dilengkapi saluran pemasukan dan pengeluaran air. “Jika air
 berlimpah bisa diterapkan running water system, sehingga ketersediaan oksigen
 untuk belut lebih terjamin,” ungkap penggemar traveling ini. Sebelum diisi
 media kolam dinetralisir dengan kalium permanganat (PK).
-[![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/kolam.jpg)](http://127.0.0.1/mitra/wp-
+[![](http://localhost/mitra/wp-
+content/uploads/2020/04/kolam.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/kolam.jpg)
 
 ## Media ternak belut Yang Tepat
@@ -59,8 +59,8 @@ tidak ada gelembung gas yang muncul ke permukaan, artinya proses fermentasi
 sudah selesai. Kolam siap menampung bibit belut. Sebelumnya air diganti untuk
 membuang limbah hasil fermentasi. Beberapa peternak menambahkan eceng gondok
 di permukaan kolam, manfaatnya sebagai peneduh bagi belut.
-[![](http://127.0.0.1/mitra/wp-content/uploads/2020/04/belut-
-kolam.jpg)](http://127.0.0.1/mitra/wp-content/uploads/2020/04/belut-kolam.jpg)
+[![](http://localhost/mitra/wp-content/uploads/2020/04/belut-
+kolam.jpg)](http://localhost/mitra/wp-content/uploads/2020/04/belut-kolam.jpg)
 
 ## Pemilihan benih belut Yang Berkualitas
 
@@ -90,12 +90,12 @@ air tidak terjaga dan kandungan oksigen kurang. Jamur menyebabkan belut kurus
 dan akhirnya mati. Pencegahan paling mudah dengan menjaga kualitas air, jangan
 sampai tercemar limbah. Untuk mengurangi kepadatan 2 bulan setelah tebar
 populasi belut perlu dikurangi. Sebagian dipindahkan [ke
-kolam](http://127.0.0.1/mitra/kolam-taman-minimalis-penghilang.html)
+kolam](https://www.mitrausahatani.com/kolam-taman-minimalis-penghilang.html)
 pemeliharaan lain. Populasi eceng gondok yang tumbuh di atas kolam juga
 dikurangi agar tidak terjadi persaingan oksigen. [caption
 id="attachment_19965" align="aligncenter"
-width="1511"][![](http://127.0.0.1/mitra/wp-
-content/uploads/2020/04/belut.jpg)](http://127.0.0.1/mitra/wp-
+width="1511"][![](http://localhost/mitra/wp-
+content/uploads/2020/04/belut.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/04/belut.jpg) Media pembesaran belut berlapis-
 lapis[/caption]
 
@@ -107,7 +107,7 @@ disukai pasar Hongkong. Sedangkan panen umur 8 bulan menghasilkan belut ukuran
 400- 500 g/ekor, biasanya untuk tujuan Taiwan. Ukuran lebih kecil bisa dijual
 untuk pasar lokal seperti restoran padang atau pasar swalayan. Pemanenan hasil
 dari budidaya belut dilakukan secara bertahap. Pertama dengan menggunakan bubu
-untuk mengurangi [kepadatan kolam](http://127.0.0.1/mitra/kiat-menjaga-kolam-
+untuk mengurangi [kepadatan kolam](https://www.mitrausahatani.com/kiat-menjaga-kolam-
 koi-outdoor-tetap.html). Setelah itu kolam dikeringkan untuk panen total.
 Belut hasil panen dimasukkan ke kolam air bersih selama 1-2 hari agar lumpur
 dan kotoran yang melekat terlepas. Langkah terakhir adalah penyortiran dan

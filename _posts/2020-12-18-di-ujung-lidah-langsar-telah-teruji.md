@@ -12,7 +12,7 @@ tags:
 - varietas srikaya
 
 modification_time: 2020-12-18 09:46:03
-blogger_orig_url: "http://localhost/mitra/di-ujung-lidah-langsar-telah-teruji.html"
+blogger_orig_url: "http://www.mitrausahatani.com/di-ujung-lidah-langsar-telah-teruji.html"
 ---
 
 Jika melancong ke Madura, sempatkan mengunjungi pasar malam itu. Ditemani
@@ -29,8 +29,8 @@ setelah memasuki Sumenep dari Kabupaten Bangkalan.
 ## Nama Yang sering Dicatut
 
 [caption id="attachment_2985" align="alignleft" width="343"][![Pasar
-langsar](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_langsat_702x768.jpg)](http://127.0.0.1/mitra/wp-
+langsar](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_langsat_702x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_langsat_702x768.jpg) Pasar langsar di
 Sumenep[/caption] Ada benarnya juga peribahasa Latin, _caveat emptor_ ,
 pembeli harus waspada. "Hati-hati kalau beli langsar, bisa-bisa diberi srikaya
@@ -91,8 +91,8 @@ dinikmati tanpa tambahan apa pun.
 ## Buah Multifungsi Dan Kaya Manfaat
 
 [caption id="attachment_2986" align="alignright" width="346"][![srikaya kulit
-merah](http://127.0.0.1/mitra/wp-
-content/uploads/2020/12/Gambar_srikaya1_708x768.jpg)](http://127.0.0.1/mitra/wp-
+merah](http://localhost/mitra/wp-
+content/uploads/2020/12/Gambar_srikaya1_708x768.jpg)](http://localhost/mitra/wp-
 content/uploads/2020/12/Gambar_srikaya1_708x768.jpg) Kulit merah salah satu
 varietas srikaya[/caption] Buah srikaya memang kaya vitamin seperti karoten
 7IU, thiamin 0,13 mg, dan riblofamin 0,931 mg. Selain itu ia juga mengandung
