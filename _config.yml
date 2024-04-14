@@ -1,7 +1,7 @@
-title: "Affiliates"
+title: "mitra usaha tani"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/mitra"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -29,15 +29,15 @@ authors:
     display_name: Yudianto
     avatar: 'assets/images/sal.png'
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
+    web: https://linktr.ee/yudiant0
     twitter: https://twitter.com/wowthemesnet
     description: "Yudianto, penulis aktif di Budidayatani dan Mitrausahatani.com, memiliki hobi di bidang pertanian. Ia sering menulis artikel terkait teknik budidaya tanaman dan usaha tani, berkontribusi untuk mendukung pertanian yang berkelanjutan dan inovatif."
 
 # Social
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  facebook: https://www.facebook.com/Mitrausahatanikita
+  twitter: https://twitter.com/mitratanikita
 
 # Plugins
 plugins: 
@@ -46,3 +46,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+
+# Include media directory
+include:
+  - 'media'
