@@ -46,3 +46,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+
+# Include media directory
+include:
+  - 'media'
