@@ -3,7 +3,7 @@ layout: post
 title: 'Peluang &amp; Kendala Dalam Beternak Itik'
 categories: artikel|Peternakan
 date: 2020-08-18 10:39:24
-author: Mitra
+author: Yudianto
 image: media/itik.jpg
 tags:
 - bebek

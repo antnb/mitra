@@ -3,7 +3,7 @@ layout: post
 title: 'Babak Baru Bisnis Rebung Tanah Air'
 categories: perkebunan
 date: 2021-11-10 07:48:33
-author: adisucipto
+author: Yudianto
 image: media/bisnis-rebung.jpg
 tags:
 - rebung

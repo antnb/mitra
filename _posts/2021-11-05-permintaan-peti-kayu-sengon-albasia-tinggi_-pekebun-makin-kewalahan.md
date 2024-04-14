@@ -3,7 +3,7 @@ layout: post
 title: 'Permintaan Peti Kayu Sengon Albasia Tinggi, Pekebun Makin Kewalahan'
 categories: artikel
 date: 2021-11-05 08:11:03
-author: Mitra
+author: Yudianto
 image: media/kayu-sengon.jpg
 tags:
 - papan

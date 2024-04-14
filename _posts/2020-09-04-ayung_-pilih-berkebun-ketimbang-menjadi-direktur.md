@@ -3,7 +3,7 @@ layout: post
 title: 'Ayung, Pilih Berkebun Ketimbang Menjadi Direktur'
 categories: artikel|perkebunan
 date: 2020-09-04 05:11:03
-author: Mitra
+author: Yudianto
 image: media/Gambar_DSC08547_1205x800.jpg
 tags:
 - 

@@ -3,7 +3,7 @@ layout: post
 title: 'Memperbaiki Kualitas Air Tambak Udang Dengan alga merah'
 categories: Perikanan
 date: 2021-01-08 11:50:18
-author: Mitra
+author: Yudianto
 image: media/Gambar_Penaeusmonodon_1024x651.jpg
 tags:
 - udang

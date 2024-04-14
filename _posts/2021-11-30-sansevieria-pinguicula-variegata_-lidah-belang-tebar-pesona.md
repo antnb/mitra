@@ -3,7 +3,7 @@ layout: post
 title: 'Sansevieria Pinguicula Variegata: Lidah Belang Tebar Pesona'
 categories: Gardening|hobi|tanaman hias
 date: 2021-11-30 08:43:48
-author: adisucipto
+author: Yudianto
 image: media/sansieta.jpg
 tags:
 - sansevieria

@@ -3,7 +3,7 @@ layout: post
 title: 'Melaju Dengan Bahan Bakar Minyak Jarak Murni'
 categories: artikel
 date: 2021-12-08 06:23:39
-author: Mitra
+author: Yudianto
 image: media/proses-minyak.jpg
 tags:
 - biodiesel

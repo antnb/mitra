@@ -3,7 +3,7 @@ layout: post
 title: 'Manajemen Pengolahan Terong: Dari Lahan hingga Olahan Beku'
 categories: perkebunan|Pertanian
 date: 2021-02-05 16:43:41
-author: adisucipto
+author: Yudianto
 image: media/Gambar_terong_jepang_1024x761.jpg
 tags:
 - terung

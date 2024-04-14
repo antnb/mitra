@@ -3,7 +3,7 @@ layout: post
 title: 'Sayuran Segar Dan Tahan Lama Dari Kota Musim Semi Abadi'
 categories: perkebunan
 date: 2021-09-11 06:28:40
-author: Mitra
+author: Yudianto
 image: media/sayuran.jpg
 tags:
 - sayuran

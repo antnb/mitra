@@ -3,7 +3,7 @@ layout: post
 title: 'Sistim Tambak Udang Organik: Si Bongkok Melenggang ke Pasar'
 categories: Perikanan
 date: 2021-05-27 08:14:59
-author: Mitra
+author: Yudianto
 image: media/windu.jpg
 tags:
 - udang

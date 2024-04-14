@@ -3,7 +3,7 @@ layout: post
 title: 'Panen Liur Emas di Luar Jawa'
 categories: artikel
 date: 2021-01-21 12:49:10
-author: adisucipto
+author: Yudianto
 image: media/Gambar_walet2_1024x576.jpg
 tags:
 - pakan walet

@@ -3,7 +3,7 @@ layout: post
 title: 'Euphorbia: Budidaya Tanaman Hias Di Halaman Rumah'
 categories: hobi|tanaman hias
 date: 2021-05-31 06:06:04
-author: Mitra
+author: Yudianto
 image: media/Euphorbia-2.jpg
 tags:
 - delapan dewa

@@ -3,7 +3,7 @@ layout: post
 title: 'Paprika Pancawarna: Varietas Terbaru Tahan Tobaco Mosaic Virus'
 categories: perkebunan|Pertanian
 date: 2021-04-29 12:35:13
-author: adisucipto
+author: Yudianto
 image: media/paprika.jpg
 tags:
 - benih paprika

@@ -3,7 +3,7 @@ layout: post
 title: 'Halfmoon Generasi Emas dari Thailand'
 categories: ikan hias
 date: 2021-01-07 13:17:54
-author: adisucipto
+author: Yudianto
 image: media/Gambar_lavender1_839x768.jpg
 tags:
 - doubletail halfmoon

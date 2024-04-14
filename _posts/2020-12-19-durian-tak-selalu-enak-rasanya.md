@@ -3,7 +3,7 @@ layout: post
 title: 'Durian Tak Selalu Enak Rasanya'
 categories: perkebunan
 date: 2020-12-19 07:10:06
-author: Mitra
+author: Yudianto
 image: media/Gambar_durian_1024x576.jpg
 tags:
 - daging buah

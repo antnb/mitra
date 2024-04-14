@@ -3,7 +3,7 @@ layout: post
 title: 'Buah Unggulan Balitbu Solok: Alpukat 001 Dan Rambutan Sindanglaka'
 categories: Arsip|artikel|perkebunan
 date: 2020-09-01 15:30:00
-author: Mitra
+author: Yudianto
 image: media/Gambar_rambutan_1200x800.jpg
 tags:
 - alpukat

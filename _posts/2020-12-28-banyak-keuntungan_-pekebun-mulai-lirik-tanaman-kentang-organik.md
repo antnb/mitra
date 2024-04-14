@@ -3,7 +3,7 @@ layout: post
 title: 'Banyak Keuntungan, Pekebun Mulai Lirik Tanaman Kentang Organik'
 categories: perkebunan
 date: 2020-12-28 08:14:35
-author: adisucipto
+author: Yudianto
 image: media/Gambar_kentang1_1024x670.jpg
 tags:
 - Kentang

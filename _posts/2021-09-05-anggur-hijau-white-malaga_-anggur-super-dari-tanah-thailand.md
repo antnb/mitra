@@ -3,7 +3,7 @@ layout: post
 title: 'Anggur Hijau White malaga, Anggur Super Dari Tanah Thailand'
 categories: perkebunan
 date: 2021-09-05 11:28:47
-author: Mitra
+author: Yudianto
 image: media/anggur.jpg
 tags:
 - Anggur

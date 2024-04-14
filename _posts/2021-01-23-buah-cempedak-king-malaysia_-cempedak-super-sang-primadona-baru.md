@@ -3,7 +3,7 @@ layout: post
 title: 'Buah Cempedak King Malaysia, Cempedak Super Sang Primadona Baru'
 categories: perkebunan
 date: 2021-01-23 07:37:32
-author: Mitra
+author: Yudianto
 image: media/Gambar_cempedak_959x768.jpg
 tags:
 - cempedak

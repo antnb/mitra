@@ -3,7 +3,7 @@ layout: post
 title: 'Perihal Retribusi dan Larangan Perdagangan Sarang Walet'
 categories: artikel
 date: 2020-09-06 06:13:13
-author: Mitra
+author: Yudianto
 image: media/Gambar_Perdagangan-Sarang-Walet_1280x719.jpg
 tags:
 - 

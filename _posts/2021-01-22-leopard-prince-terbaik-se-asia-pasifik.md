@@ -3,7 +3,7 @@ layout: post
 title: 'Leopard prince Terbaik Se-Asia Pasifik'
 categories: tanaman hias
 date: 2021-01-22 14:50:41
-author: adisucipto
+author: Yudianto
 image: media/Gambar_angrek_969x768.jpg
 tags:
 - Anggrek

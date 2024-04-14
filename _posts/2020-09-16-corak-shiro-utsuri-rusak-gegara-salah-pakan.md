@@ -3,7 +3,7 @@ layout: post
 title: 'Corak Shiro Utsuri Rusak Gegara Salah Pakan'
 categories: artikel|ikan hias
 date: 2020-09-16 08:16:35
-author: Mitra
+author: Yudianto
 image: media/Gambar_ikan-koi-shiro-utsuri_1071x800.jpg
 tags:
 - 

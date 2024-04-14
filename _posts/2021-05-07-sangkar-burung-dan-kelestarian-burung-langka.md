@@ -3,7 +3,7 @@ layout: post
 title: 'Sangkar Burung Dan Kelestarian Burung Langka'
 categories: artikel
 date: 2021-05-07 13:29:42
-author: Mitra
+author: Yudianto
 image: media/burung.jpg
 tags:
 - burung berkicau

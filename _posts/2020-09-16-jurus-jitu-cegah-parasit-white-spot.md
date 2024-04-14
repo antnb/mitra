@@ -3,7 +3,7 @@ layout: post
 title: 'Jurus Jitu Cegah Parasit White Spot'
 categories: hobi|ikan hias
 date: 2020-09-16 10:48:57
-author: Mitra
+author: Yudianto
 image: media/Gambar_aquarium_1213x800.jpg
 tags:
 - parasit

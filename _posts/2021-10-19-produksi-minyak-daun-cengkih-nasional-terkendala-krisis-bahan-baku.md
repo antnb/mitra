@@ -3,7 +3,7 @@ layout: post
 title: 'Produksi Minyak Daun Cengkih Nasional Terkendala Krisis Bahan Baku'
 categories: perkebunan
 date: 2021-10-19 07:54:38
-author: Mitra
+author: Yudianto
 image: media/Minyak-Cengkih.jpg
 tags:
 - cengkih

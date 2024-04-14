@@ -3,7 +3,7 @@ layout: post
 title: 'Beragam Kendala Pemasaran Gambir Lokal Ke Pasar Internasional'
 categories: perkebunan
 date: 2021-11-05 06:33:46
-author: Mitra
+author: Yudianto
 image: media/gambir.jpg
 tags:
 - ekspor

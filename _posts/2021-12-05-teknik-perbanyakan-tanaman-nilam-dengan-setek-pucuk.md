@@ -3,7 +3,7 @@ layout: post
 title: 'Teknik Perbanyakan Tanaman Nilam Dengan setek pucuk'
 categories: perkebunan
 date: 2021-12-05 11:46:27
-author: Mitra
+author: Yudianto
 image: media/Pogostemon-cablin-Benth.jpg
 tags:
 - nilam

@@ -3,7 +3,7 @@ layout: post
 title: 'Tabulampot Srikaya Merah Untuk Koleksi Kebun Rumah'
 categories: perkebunan
 date: 2021-10-31 04:04:01
-author: adisucipto
+author: Yudianto
 image: media/buah-srikaya.jpg
 tags:
 - srikaya

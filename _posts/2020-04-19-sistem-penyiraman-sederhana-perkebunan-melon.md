@@ -3,7 +3,7 @@ layout: post
 title: 'Sistem penyiraman Sederhana Perkebunan Melon'
 categories: artikel|perkebunan
 date: 2020-04-19 13:58:11
-author: Mitra
+author: Yudianto
 image: media/tanaman-melon.jpg
 tags:
 - irigasi

@@ -3,7 +3,7 @@ layout: post
 title: 'Provinsi Gorontalo Dan Pengembangan Kawasan Agropolitan'
 categories: artikel
 date: 2020-11-06 09:22:58
-author: adisucipto
+author: Yudianto
 image: media/agropolitan.jpg
 tags:
 - 

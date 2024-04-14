@@ -3,7 +3,7 @@ layout: post
 title: 'Kriteria Dalam memilih dan perawatan cupang aduan Terbaik'
 categories: hobi|ikan hias
 date: 2021-11-17 08:15:50
-author: Mitra
+author: Yudianto
 image: media/cupang.jpg
 tags:
 - 

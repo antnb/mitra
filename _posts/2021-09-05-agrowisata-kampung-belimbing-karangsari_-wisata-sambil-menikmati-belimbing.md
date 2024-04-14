@@ -3,7 +3,7 @@ layout: post
 title: 'Agrowisata kampung belimbing karangsari, Wisata Sambil Menikmati belimbing'
 categories: perkebunan
 date: 2021-09-05 15:05:00
-author: Mitra
+author: Yudianto
 image: media/blimbing.jpg
 tags:
 - Belimbing

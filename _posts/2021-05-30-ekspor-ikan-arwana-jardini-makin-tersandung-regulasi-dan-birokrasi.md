@@ -3,7 +3,7 @@ layout: post
 title: 'Ekspor Ikan Arwana Jardini Makin Tersandung Regulasi Dan Birokrasi'
 categories: artikel|hobi|ikan hias
 date: 2021-05-30 05:42:55
-author: Mitra
+author: Yudianto
 image: media/arwana-2-1.jpg
 tags:
 - kesehatan ikan

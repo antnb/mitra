@@ -3,7 +3,7 @@ layout: post
 title: 'Shelldance bromeliad,  Koleksi bromeliad baru nan molek'
 categories: tanaman hias
 date: 2021-11-30 06:15:03
-author: adisucipto
+author: Yudianto
 image: media/shell-dance.jpg
 tags:
 - bromeliad

@@ -3,7 +3,7 @@ layout: post
 title: 'Pakan Itik Irit Dari Limbah Guna Tekan Biaya Produksi'
 categories: artikel|Peternakan
 date: 2020-08-18 14:20:01
-author: Mitra
+author: Yudianto
 image: media/180609171648-573_1280x738.jpg
 tags:
 - 

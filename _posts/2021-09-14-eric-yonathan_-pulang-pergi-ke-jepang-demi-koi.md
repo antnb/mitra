@@ -3,7 +3,7 @@ layout: post
 title: 'Eric Yonathan: Pulang Pergi ke Jepang Demi Koi'
 categories: hobi|ikan hias
 date: 2021-09-14 09:35:36
-author: Mitra
+author: Yudianto
 image: media/ikan-koi.jpg
 tags:
 - farm koi

@@ -3,7 +3,7 @@ layout: post
 title: 'Rambutan Cilengkeng Dan Basariah: Rambutan Langka Daging Buah Tebal Biji Kecil'
 categories: artikel|perkebunan
 date: 2021-02-13 12:31:45
-author: Mitra
+author: Yudianto
 image: media/Gambar_rambutan_1280x931.jpg
 tags:
 - rambutan

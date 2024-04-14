@@ -3,7 +3,7 @@ layout: post
 title: 'Bingung Memilih Tanaman Yang Cocok Untuk Taman? Pilih Saja Bromelia'
 categories: hobi|tanaman hias
 date: 2021-06-05 12:46:41
-author: adisucipto
+author: Yudianto
 image: media/bromela4.jpg
 tags:
 - Bromelia

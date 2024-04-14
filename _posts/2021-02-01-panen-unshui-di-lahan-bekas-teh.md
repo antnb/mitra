@@ -3,7 +3,7 @@ layout: post
 title: 'Panen Unshui di lahan bekas teh'
 categories: Pertanian|Peternakan
 date: 2021-02-01 09:29:06
-author: adisucipto
+author: Yudianto
 image: media/Gambar_jeruks2_1024x757.jpg
 tags:
 - buah berwarna kuning

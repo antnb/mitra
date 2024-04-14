@@ -3,7 +3,7 @@ layout: post
 title: 'Cara Membasmi Rumput Liar (Gulma) Dengan Herbisida Organik'
 categories: artikel|perkebunan|Pertanian
 date: 2021-02-06 15:44:28
-author: Mitra
+author: Yudianto
 image: media/Gambar_gulma31_1024x690.jpg
 tags:
 - gulma

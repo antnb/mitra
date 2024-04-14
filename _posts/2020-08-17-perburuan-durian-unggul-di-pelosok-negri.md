@@ -3,7 +3,7 @@ layout: post
 title: 'Perburuan Durian Unggul Di Pelosok Negri'
 categories: artikel|perkebunan
 date: 2020-08-17 15:29:02
-author: Mitra
+author: Yudianto
 image: media/IMG_0934-L_800x800.jpg
 tags:
 - 

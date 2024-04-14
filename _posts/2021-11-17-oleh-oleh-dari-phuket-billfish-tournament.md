@@ -3,7 +3,7 @@ layout: post
 title: 'Oleh-oleh dari Phuket Billfish Tournament'
 categories: hobi
 date: 2021-11-17 06:53:50
-author: adisucipto
+author: Yudianto
 image: media/Phuket-Tournament.jpg
 tags:
 - Memancing

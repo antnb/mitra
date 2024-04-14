@@ -3,7 +3,7 @@ layout: post
 title: 'Perihal Usaha Pembesaran Gurami'
 categories: Tanya Jawab
 date: 2020-12-08 12:07:34
-author: adisucipto
+author: Yudianto
 image: media/Gambar_pembesaran_gurami_1024x629-1.jpg
 tags:
 - benih gurami

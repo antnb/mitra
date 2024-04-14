@@ -3,7 +3,7 @@ layout: post
 title: 'Manfaat Dan Khasiat Kunyit untuk Kesehatan'
 categories: Herbal
 date: 2021-01-23 05:50:11
-author: adisucipto
+author: Yudianto
 image: media/Gambar_kunyit_1011x768.jpg
 tags:
 - ekstrak kunyit

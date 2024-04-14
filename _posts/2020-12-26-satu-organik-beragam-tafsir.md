@@ -3,7 +3,7 @@ layout: post
 title: 'Satu Organik Beragam Tafsir'
 categories: perkebunan
 date: 2020-12-26 12:14:31
-author: adisucipto
+author: Yudianto
 image: media/Gambar_Gambar_organik_1024x576_1024x666.jpg
 tags:
 - bahan anorganik

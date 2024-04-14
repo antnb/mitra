@@ -3,7 +3,7 @@ layout: post
 title: 'Pacu Produksi Kentang Dengan Ajir'
 categories: artikel|perkebunan
 date: 2020-08-21 13:23:41
-author: Mitra
+author: Yudianto
 image: media/busuk-daun_1280x744.jpg
 tags:
 - 

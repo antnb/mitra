@@ -3,7 +3,7 @@ layout: post
 title: 'Oven Pengering Jantung Pisang Bertenaga Surya untuk Segala Cuaca'
 categories: artikel
 date: 2021-12-07 10:28:08
-author: adisucipto
+author: Yudianto
 image: media/jantung-pisang.jpg
 tags:
 - alat

@@ -3,7 +3,7 @@ layout: post
 title: 'Buah Indonesia Dan Sistem Perbuahan Nasional Yang Tidak Optimal'
 categories: perkebunan
 date: 2021-05-05 12:35:51
-author: Mitra
+author: Yudianto
 image: media/kontes.jpg
 tags:
 - buah buahan

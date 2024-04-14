@@ -3,7 +3,7 @@ layout: post
 title: 'Azolla Sang Pendongkrak unsur Hara Tanah'
 categories: artikel
 date: 2020-09-17 14:35:46
-author: adisucipto
+author: Yudianto
 image: media/Gambar_Azolla_1214x800.jpg
 tags:
 - 

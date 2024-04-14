@@ -3,7 +3,7 @@ layout: post
 title: 'Teknik Packing Lobster Hidup Dengan Pembiusan Alami'
 categories: artikel
 date: 2020-08-16 14:41:44
-author: Mitra
+author: Yudianto
 image: media/yabby_1067x800.jpg
 tags:
 - lobster

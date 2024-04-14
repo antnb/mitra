@@ -3,7 +3,7 @@ layout: post
 title: 'Sayur Lilin Tanaman Khas Papua Bertekstur Manis Dan Lembut'
 categories: artikel
 date: 2020-09-18 10:40:27
-author: adisucipto
+author: Yudianto
 image: media/Gambar_sayur-lilin_1100x800.jpg
 tags:
 - 

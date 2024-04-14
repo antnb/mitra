@@ -3,7 +3,7 @@ layout: post
 title: 'Pepaya Madu Honolulu Dari Pontianak'
 categories: artikel|perkebunan|Pertanian
 date: 2021-02-13 14:16:33
-author: adisucipto
+author: Yudianto
 image: media/Gambar_gedang_1280x728.jpg
 tags:
 - pepaya

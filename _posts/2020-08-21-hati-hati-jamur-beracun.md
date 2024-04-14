@@ -3,7 +3,7 @@ layout: post
 title: 'Hati Hati Jamur Beracun'
 categories: artikel
 date: 2020-08-21 11:32:51
-author: Mitra
+author: Yudianto
 image: media/jamur_1280x720.jpg
 tags:
 - 

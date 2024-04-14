@@ -3,7 +3,7 @@ layout: post
 title: 'Bila Juragan Valas Kepincut Euphorbia'
 categories: hobi|tanaman hias
 date: 2021-05-31 07:38:09
-author: Mitra
+author: Yudianto
 image: media/taman.jpg
 tags:
 - delapan dewa

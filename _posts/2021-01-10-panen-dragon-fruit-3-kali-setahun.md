@@ -3,7 +3,7 @@ layout: post
 title: 'Panen Dragon fruit 3 Kali Setahun'
 categories: perkebunan
 date: 2021-01-10 07:13:17
-author: Mitra
+author: Yudianto
 image: media/Gambar_buahnaga_1024x710.jpg
 tags:
 - Buah Naga

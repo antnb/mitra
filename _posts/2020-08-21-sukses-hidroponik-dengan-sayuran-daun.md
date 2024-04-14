@@ -3,7 +3,7 @@ layout: post
 title: 'Sukses Hidroponik Dengan Sayuran Daun'
 categories: artikel|perkebunan
 date: 2020-08-21 05:55:11
-author: Mitra
+author: Yudianto
 image: media/Screenshot_101.png
 tags:
 - 

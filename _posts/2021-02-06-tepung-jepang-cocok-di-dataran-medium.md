@@ -3,7 +3,7 @@ layout: post
 title: 'Tepung Jepang Cocok di dataran Medium'
 categories: perkebunan|Pertanian
 date: 2021-02-06 05:38:20
-author: Mitra
+author: Yudianto
 image: media/Gambar_terong_1024x633.jpg
 tags:
 - dataran rendah

@@ -3,7 +3,7 @@ layout: post
 title: 'Leci Maluku: Citarasa Lacing Asam Manis Dari Pulau Seram'
 categories: perkebunan
 date: 2021-01-08 14:12:17
-author: adisucipto
+author: Yudianto
 image: media/Gambar_leci_1024x579.jpg
 tags:
 - leci

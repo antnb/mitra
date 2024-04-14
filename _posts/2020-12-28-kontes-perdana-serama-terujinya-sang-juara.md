@@ -3,7 +3,7 @@ layout: post
 title: 'Kontes Perdana Serama Terujinya sang Juara'
 categories: Arsip
 date: 2020-12-28 09:39:28
-author: adisucipto
+author: Yudianto
 image: media/Gambar_serama1_773x768.jpg
 tags:
 - serama di indonesia

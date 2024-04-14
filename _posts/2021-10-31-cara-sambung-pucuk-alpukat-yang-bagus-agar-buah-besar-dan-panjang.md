@@ -3,7 +3,7 @@ layout: post
 title: 'Cara Sambung Pucuk Alpukat Yang Bagus Agar Buah Besar Dan Panjang'
 categories: perkebunan|Pertanian
 date: 2021-10-31 08:10:14
-author: Mitra
+author: Yudianto
 image: media/pucuk.jpg
 tags:
 - alpukat

@@ -3,7 +3,7 @@ layout: post
 title: 'Kemenangan (Nyaris) Sempurna Duku Rasuan'
 categories: perkebunan
 date: 2021-05-04 13:02:16
-author: Mitra
+author: Yudianto
 image: media/duku-4.jpg
 tags:
 - buah buahan

@@ -3,7 +3,7 @@ layout: post
 title: 'Merry Andani: Antara Dangdut dan Organik'
 categories: perkebunan
 date: 2021-09-10 13:37:14
-author: Mitra
+author: Yudianto
 image: media/mery-andani.jpg
 tags:
 - produk organik

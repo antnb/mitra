@@ -3,7 +3,7 @@ layout: post
 title: 'Permintaan Ekspor Kapulaga Tinggi, Eksportir Dan Pengepul Kesulitan Penuhi Pasokan'
 categories: perkebunan
 date: 2020-08-22 09:39:27
-author: Mitra
+author: Yudianto
 image: media/kapulaga_1280x720.jpeg
 tags:
 - ekspor

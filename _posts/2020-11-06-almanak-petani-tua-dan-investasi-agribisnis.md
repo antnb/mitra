@@ -3,7 +3,7 @@ layout: post
 title: 'Almanak Petani Tua dan Investasi Agribisnis'
 categories: artikel|Pertanian
 date: 2020-11-06 12:13:43
-author: adisucipto
+author: Yudianto
 image: media/Gambar_petani_1080x720.jpg
 tags:
 - petani

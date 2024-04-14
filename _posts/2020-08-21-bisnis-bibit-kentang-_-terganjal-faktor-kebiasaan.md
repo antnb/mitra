@@ -3,7 +3,7 @@ layout: post
 title: 'Bisnis Bibit Kentang : Terganjal Faktor kebiasaan'
 categories: artikel|perkebunan
 date: 2020-08-21 15:37:39
-author: Mitra
+author: Yudianto
 image: media/bibit-kentang_1067x800.jpg
 tags:
 - 

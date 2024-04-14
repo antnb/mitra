@@ -3,7 +3,7 @@ layout: post
 title: 'Analisa Keuntungan Ternak Itik Dengan Sistim Angon'
 categories: artikel|Peternakan
 date: 2020-08-18 12:19:35
-author: Mitra
+author: Yudianto
 image: media/bebek.jpeg
 tags:
 - 

@@ -3,7 +3,7 @@ layout: post
 title: 'Varietas Buah Unggulan Dari Sumatera Utara'
 categories: artikel
 date: 2020-08-23 15:03:37
-author: Mitra
+author: Yudianto
 image: media/siam_800x800.jpg
 tags:
 - 

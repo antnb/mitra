@@ -3,7 +3,7 @@ layout: post
 title: 'Imunisasi Padi 8-9 ton/ha'
 categories: Pertanian
 date: 2021-01-17 05:06:55
-author: Mitra
+author: Yudianto
 image: media/Gambar_padi_1024x679-1.jpg
 tags:
 - padi

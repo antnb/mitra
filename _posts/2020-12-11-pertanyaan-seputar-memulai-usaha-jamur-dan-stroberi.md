@@ -3,7 +3,7 @@ layout: post
 title: 'Pertanyaan seputar memulai usaha jamur dan stroberi'
 categories: Tanya Jawab
 date: 2020-12-11 07:56:39
-author: adisucipto
+author: Yudianto
 image: media/pleurotus-ostreatus-fungo-orecchione.jpg
 tags:
 - jamur tiram

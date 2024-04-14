@@ -3,7 +3,7 @@ layout: post
 title: 'Mitos Perkutut Jawa Di Negri Thailand'
 categories: hobi
 date: 2021-11-16 16:57:01
-author: adisucipto
+author: Yudianto
 image: media/perkutut2.jpg
 tags:
 - perkutut

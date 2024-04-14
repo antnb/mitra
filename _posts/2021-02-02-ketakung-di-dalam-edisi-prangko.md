@@ -3,7 +3,7 @@ layout: post
 title: 'Ketakung di Dalam Edisi Prangko'
 categories: artikel
 date: 2021-02-02 12:26:08
-author: adisucipto
+author: Yudianto
 image: media/Gambar_prangko_1024x666.jpg
 tags:
 - keanekaragaman hayati

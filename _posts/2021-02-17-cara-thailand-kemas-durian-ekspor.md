@@ -3,7 +3,7 @@ layout: post
 title: 'Cara Thailand Kemas Durian Ekspor'
 categories: artikel|perkebunan
 date: 2021-02-17 07:13:14
-author: Mitra
+author: Yudianto
 image: media/duren56.jpg
 tags:
 - Durian

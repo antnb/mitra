@@ -3,7 +3,7 @@ layout: post
 title: 'Hama dan Penyakit Aglaonema Serta Pengendaliannya'
 categories: hobi|tanaman hias
 date: 2021-05-22 08:16:43
-author: adisucipto
+author: Yudianto
 image: media/Aglaonema2-1.jpg
 tags:
 - Aglaonema

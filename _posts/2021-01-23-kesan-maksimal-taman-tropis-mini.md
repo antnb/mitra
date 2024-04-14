@@ -3,7 +3,7 @@ layout: post
 title: 'Kesan Maksimal Taman Tropis Mini'
 categories: Gardening|tanaman hias
 date: 2021-01-23 04:55:18
-author: Mitra
+author: Yudianto
 image: media/Gambar_taman1_1024x729.jpg
 tags:
 - gardening tanaman

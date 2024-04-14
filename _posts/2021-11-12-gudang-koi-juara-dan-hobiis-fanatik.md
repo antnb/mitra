@@ -3,7 +3,7 @@ layout: post
 title: 'Gudang koi juara dan hobiis fanatik'
 categories: hobi|ikan hias
 date: 2021-11-12 08:13:07
-author: adisucipto
+author: Yudianto
 image: media/bekko-koi-fish-champion.jpg
 tags:
 - ikan koi

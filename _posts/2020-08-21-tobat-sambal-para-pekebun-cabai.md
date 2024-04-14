@@ -3,7 +3,7 @@ layout: post
 title: 'Tobat Sambal Para Pekebun Cabai'
 categories: artikel|perkebunan
 date: 2020-08-21 12:06:18
-author: Mitra
+author: Yudianto
 image: media/Pekebun-Cabai_1194x800.jpg
 tags:
 - cabai

@@ -3,7 +3,7 @@ layout: post
 title: 'Ada Kebun Nanas 500 ha di Kampar'
 categories: perkebunan
 date: 2021-09-07 09:06:27
-author: Mitra
+author: Yudianto
 image: media/nanas1.jpg
 tags:
 - nanas

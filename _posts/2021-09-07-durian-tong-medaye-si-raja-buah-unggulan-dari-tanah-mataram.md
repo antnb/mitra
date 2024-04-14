@@ -3,7 +3,7 @@ layout: post
 title: 'Durian Tong Medaye Si Raja Buah Unggulan Dari Tanah Mataram'
 categories: perkebunan
 date: 2021-09-07 06:40:31
-author: Mitra
+author: Yudianto
 image: media/durian-1.jpg
 tags:
 - Durian

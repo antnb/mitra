@@ -3,7 +3,7 @@ layout: post
 title: 'Mereka Datang Disambut "Ngaben"'
 categories: Tak Berkategori
 date: 2021-05-26 06:45:34
-author: Mitra
+author: Yudianto
 image: media/gandum1.jpg
 tags:
 - gandum

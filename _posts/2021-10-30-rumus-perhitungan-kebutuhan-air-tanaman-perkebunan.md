@@ -3,7 +3,7 @@ layout: post
 title: 'Rumus Perhitungan Kebutuhan Air Tanaman Perkebunan'
 categories: perkebunan
 date: 2021-10-30 08:20:16
-author: Mitra
+author: Yudianto
 image: media/sistim-pengairan.jpg
 tags:
 - pengairan

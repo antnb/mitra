@@ -3,7 +3,7 @@ layout: post
 title: 'Sang Dosen Penangkar Burung kicauan'
 categories: artikel|hobi
 date: 2021-05-03 14:49:34
-author: adisucipto
+author: Yudianto
 image: media/kicau.jpg
 tags:
 - Anis merah

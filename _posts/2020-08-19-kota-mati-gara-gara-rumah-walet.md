@@ -3,7 +3,7 @@ layout: post
 title: 'Kota Mati gara Gara Rumah Walet'
 categories: artikel
 date: 2020-08-19 14:07:13
-author: Mitra
+author: Yudianto
 image: media/rumah-walet_1067x800.jpg
 tags:
 - 

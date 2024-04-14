@@ -3,7 +3,7 @@ layout: post
 title: 'Jenis Jenis Jambu Air Lokal Yang Makin Populer Di Negri Orang'
 categories: artikel|perkebunan
 date: 2021-10-30 06:13:35
-author: Mitra
+author: Yudianto
 image: media/buah1.jpg
 tags:
 - jambu air

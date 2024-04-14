@@ -3,7 +3,7 @@ layout: post
 title: 'Pola Pertanian Padi Dengan Sistim Organik'
 categories: Pertanian
 date: 2020-12-26 13:28:43
-author: adisucipto
+author: Yudianto
 image: media/Gambar_ornaik_padi_1024x617.jpg
 tags:
 - musim tanam

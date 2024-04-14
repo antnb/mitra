@@ -3,7 +3,7 @@ layout: post
 title: 'Cara Mudah Mencangkok Batang Aglaonema'
 categories: artikel|Gardening|hobi|tanaman hias
 date: 2020-08-09 13:31:53
-author: Mitra
+author: Yudianto
 image: media/cangkok_1280x651.jpg
 tags:
 - 

@@ -3,7 +3,7 @@ layout: post
 title: 'Tanaman Golok Elok Si Penghias Ruangan'
 categories: hobi|tanaman hias
 date: 2020-10-21 12:58:39
-author: Mitra
+author: Yudianto
 image: media/cryptanthus.jpg
 tags:
 - 

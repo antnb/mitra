@@ -3,7 +3,7 @@ layout: post
 title: "Membedakan Plakat/Halfmoon Palsu Yang Makin Marak Di Pasaran"
 categories: hobi|ikan hias
 date: 2021-05-29 08:12:10
-author: adisucipto
+author: Yudianto
 image: "http://localhost/mitra/wp-content/uploads/2021/05/Halfmoon.jpg"
 tags:
 - cupang adu

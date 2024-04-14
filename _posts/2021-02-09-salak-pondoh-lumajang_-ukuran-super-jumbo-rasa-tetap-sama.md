@@ -3,7 +3,7 @@ layout: post
 title: 'Salak Pondoh Lumajang: Ukuran Super Jumbo Rasa Tetap Sama'
 categories: perkebunan
 date: 2021-02-09 10:57:43
-author: adisucipto
+author: Yudianto
 image: media/Gambar_pondoh1_1024x695.jpg
 tags:
 - pegunungan

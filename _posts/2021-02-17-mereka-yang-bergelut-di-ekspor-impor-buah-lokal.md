@@ -3,7 +3,7 @@ layout: post
 title: 'Mereka Yang Bergelut Di Ekspor Impor Buah Lokal'
 categories: artikel
 date: 2021-02-17 08:23:09
-author: Mitra
+author: Yudianto
 image: media/durian11.jpg
 tags:
 - ekspor

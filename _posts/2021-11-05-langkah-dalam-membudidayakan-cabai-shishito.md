@@ -3,7 +3,7 @@ layout: post
 title: 'Langkah Dalam Membudidayakan Cabai shishito'
 categories: perkebunan
 date: 2021-11-05 08:49:07
-author: Mitra
+author: Yudianto
 image: media/shisito-1.jpg
 tags:
 - cabai

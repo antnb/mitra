@@ -3,7 +3,7 @@ layout: post
 title: 'Langsat Tanjung: Sekali Cicip Langsung Ketagihan'
 categories: perkebunan
 date: 2021-12-03 06:39:56
-author: Mitra
+author: Yudianto
 image: media/Langsat-Tanjung.jpg
 tags:
 - langsat

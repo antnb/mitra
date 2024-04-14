@@ -3,7 +3,7 @@ layout: post
 title: 'Nafas Ellindo di Phalaenopsis Taiwan'
 categories: tanaman hias
 date: 2022-02-28 12:33:41
-author: Mitra
+author: Yudianto
 image: media/
 tags:
 - 

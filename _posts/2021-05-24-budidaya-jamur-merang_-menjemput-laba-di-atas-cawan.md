@@ -3,7 +3,7 @@ layout: post
 title: 'Budidaya jamur merang: Menjemput Laba di Atas Cawan'
 categories: perkebunan
 date: 2021-05-24 11:25:56
-author: Mitra
+author: Yudianto
 image: media/jamur2-1.jpg
 tags:
 - jamur

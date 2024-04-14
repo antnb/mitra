@@ -3,7 +3,7 @@ layout: post
 title: 'Perbedaan Pepaya California dan bibit vanili tahan fusarium'
 categories: Tanya Jawab
 date: 2020-12-11 11:01:08
-author: adisucipto
+author: Yudianto
 image: media/Pepaya_California_Super_segar_dan_manis.jpg
 tags:
 - pepaya

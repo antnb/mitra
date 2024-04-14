@@ -3,7 +3,7 @@ layout: post
 title: 'Teknik Sambung Tempel Euphorbia Milii'
 categories: artikel|hobi|tanaman hias
 date: 2021-05-31 11:49:37
-author: Mitra
+author: Yudianto
 image: media/euphorbia-1-1.jpg
 tags:
 - Euphorbia

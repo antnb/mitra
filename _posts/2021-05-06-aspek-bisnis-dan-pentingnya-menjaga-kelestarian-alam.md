@@ -3,7 +3,7 @@ layout: post
 title: 'Aspek Bisnis Dan Pentingnya Menjaga Kelestarian Alam'
 categories: artikel
 date: 2021-05-06 10:43:08
-author: Mitra
+author: Yudianto
 image: media/cites-2.jpg
 tags:
 - appendix iii

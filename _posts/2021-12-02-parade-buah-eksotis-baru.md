@@ -3,7 +3,7 @@ layout: post
 title: 'Parade Buah Eksotis Baru'
 categories: artikel|perkebunan
 date: 2021-12-02 06:27:22
-author: adisucipto
+author: Yudianto
 image: media/eksotis.jpg
 tags:
 - cempedak

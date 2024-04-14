@@ -3,7 +3,7 @@ layout: post
 title: 'Pisang Sepatu Amora Tanpa Jantung, Tahan Hama Penyakit'
 categories: perkebunan
 date: 2021-09-04 10:06:17
-author: Mitra
+author: Yudianto
 image: media/pisang.jpg
 tags:
 - Pisang

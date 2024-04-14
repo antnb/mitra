@@ -3,7 +3,7 @@ layout: post
 title: 'Sepotong tanaman bunga zinnia incaran perangkai bunga'
 categories: Gardening|tanaman hias
 date: 2021-09-04 06:49:51
-author: Mitra
+author: Yudianto
 image: media/Zinnia1.jpg
 tags:
 - krisan

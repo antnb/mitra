@@ -3,7 +3,7 @@ layout: post
 title: 'Trik Dan Langkah Bungakan Kembali Anggrek Bulan Yang Layu'
 categories: hobi|tanaman hias
 date: 2021-05-24 08:21:31
-author: adisucipto
+author: Yudianto
 image: media/anggrek.jpg
 tags:
 - anggrek bulan

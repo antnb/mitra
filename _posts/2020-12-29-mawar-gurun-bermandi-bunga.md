@@ -3,7 +3,7 @@ layout: post
 title: 'Mawar Gurun Bermandi Bunga'
 categories: tanaman hias
 date: 2020-12-29 05:33:50
-author: Mitra
+author: Yudianto
 image: media/Gambar_adenium_966x768.jpg
 tags:
 - Adenium

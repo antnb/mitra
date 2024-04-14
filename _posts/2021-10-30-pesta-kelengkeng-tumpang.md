@@ -3,7 +3,7 @@ layout: post
 title: 'Pesta Kelengkeng Tumpang'
 categories: perkebunan
 date: 2021-10-30 15:23:29
-author: Mitra
+author: Yudianto
 image: media/lengkeng1.jpg
 tags:
 - Kelengkeng

@@ -3,7 +3,7 @@ layout: post
 title: 'Panah Merah Menancap Sasaran'
 categories: artikel|perkebunan
 date: 2020-10-24 04:39:42
-author: Mitra
+author: Yudianto
 image: media/expo.jpg
 tags:
 - 

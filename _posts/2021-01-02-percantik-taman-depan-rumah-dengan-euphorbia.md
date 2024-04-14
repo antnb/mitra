@@ -3,7 +3,7 @@ layout: post
 title: 'Percantik taman depan rumah Dengan Euphorbia'
 categories: Gardening|tanaman hias
 date: 2021-01-02 09:37:32
-author: adisucipto
+author: Yudianto
 image: media/Gambar_euphorbia_.jpg
 tags:
 - Euphorbia

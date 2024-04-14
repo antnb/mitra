@@ -3,7 +3,7 @@ layout: post
 title: 'Mengatasi Kekurangan Unsur Hara Pada Lahan Tanaman Pertanian'
 categories: perkebunan
 date: 2021-09-05 05:01:51
-author: adisucipto
+author: Yudianto
 image: media/tabulampot.jpg
 tags:
 - air

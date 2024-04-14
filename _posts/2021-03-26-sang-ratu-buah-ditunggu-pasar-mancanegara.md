@@ -3,7 +3,7 @@ layout: post
 title: 'Sang Ratu Buah Ditunggu Pasar Mancanegara'
 categories: perkebunan|Pertanian
 date: 2021-03-26 01:38:21
-author: adisucipto
+author: Yudianto
 image: media/buahmanggis.jpg
 tags:
 - buah buahan

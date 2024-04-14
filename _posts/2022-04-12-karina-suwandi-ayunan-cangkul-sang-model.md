@@ -3,7 +3,7 @@ layout: post
 title: 'Karina Suwandi Ayunan Cangkul sang Model'
 categories: artikel
 date: 2022-04-12 12:41:38
-author: Mitra
+author: Yudianto
 image: media/kebun-belakang.jpg
 tags:
 - organik

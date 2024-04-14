@@ -3,7 +3,7 @@ layout: post
 title: 'Bisnis Manis Usaha Jagung Kalengan'
 categories: perkebunan
 date: 2021-09-10 14:31:26
-author: Mitra
+author: Yudianto
 image: media/jagung-manis.jpg
 tags:
 - jagung

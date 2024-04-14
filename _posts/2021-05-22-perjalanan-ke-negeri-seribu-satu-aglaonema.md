@@ -3,7 +3,7 @@ layout: post
 title: 'Perjalanan ke Negeri Seribu Satu Aglaonema'
 categories: hobi|tanaman hias
 date: 2021-05-22 06:56:23
-author: adisucipto
+author: Yudianto
 image: media/Aglaonema1.jpg
 tags:
 - Aglaonema

@@ -3,7 +3,7 @@ layout: post
 title: 'Alpukat Girisonta di Petirahan Para Romo'
 categories: artikel
 date: 2020-09-13 10:04:24
-author: Mitra
+author: Yudianto
 image: media/Gambar_alpukat_1124x800.jpg
 tags:
 - 

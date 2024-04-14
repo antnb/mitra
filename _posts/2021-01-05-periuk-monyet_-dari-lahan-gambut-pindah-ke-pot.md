@@ -3,7 +3,7 @@ layout: post
 title: 'Periuk Monyet: Dari Lahan Gambut Pindah ke Pot'
 categories: Tutorial
 date: 2021-01-05 07:42:55
-author: adisucipto
+author: Yudianto
 image: media/Gambar_1024px-Nepenthes_densiflora_Mount_Kemiri_1024x683.jpg
 tags:
 - kantong semar

@@ -3,7 +3,7 @@ layout: post
 title: 'Kumbung Jamur Merang Untuk Menjaga Kualitas Jamur Terbaik'
 categories: perkebunan
 date: 2021-12-03 07:15:43
-author: Mitra
+author: Yudianto
 image: media/jamur3.jpg
 tags:
 - jamur

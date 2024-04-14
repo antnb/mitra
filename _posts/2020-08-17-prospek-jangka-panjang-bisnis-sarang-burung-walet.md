@@ -3,7 +3,7 @@ layout: post
 title: 'Prospek Jangka Panjang Bisnis Sarang Burung Walet'
 categories: artikel
 date: 2020-08-17 09:20:15
-author: Mitra
+author: Yudianto
 image: media/ternak-sarang-burung-walet-sriti_1244x800.jpg
 tags:
 - 
