@@ -1,0 +1,33 @@
+---
+layout: post
+title: Puring Daun Berpilin Bernama Croton
+categories: hobi|tanaman hias
+date: 2020-11-18 09:20:05
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_puring_1024x685.jpg
+tags:
+- croton
+- daun
+- Nepenthes
+- puring
+- semak
+- tanaman
+- Tumbuhan berpembuluh
+
+modification_time: 2020-11-18 09:20:05
+blogger_orig_url: http://localhost/mitra/puring-daun-berpilin-bernama-croton.html
+---
+
+Pantas bila nara pirom namanya, diambildari nama kanal didaulat jadi juara. Penampilannya paling atraktif di antara peserta lain. Daun berpilin jarang ditemukan pada puring. Paduan warnanya pun berbeda. Suarsak Uamprig, sang empunya, menanam dari biji setahun lalu. Biji didapat dari hasil perkawinan induk-induk croton sebutan puring yang dikoleksi di kebun di Bang Kruei, Nonthaburi. Hasil silangan berkali-kali dengan induk berbeda menghasilkan nara pirom, si daun berpilin.
+Koleksi lain mantan awak darat maskapai penerbangan TG Airlines Thailand itu juga menyabet gelar juara. Namanya tawe wattana. Warna daun serupa dengan nara pirom, tapi bentuknya berbeda. Daun tawe wattana melebar di tengah, lantas menyempit dan agak runcing di ujung. Beberapa ujungnya melengkung ke atas, sedangkan kebanyakan daunnya sedikit mengatup.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/puring.jpg"><img class="aligncenter wp-image-19794 size-large" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/puring-1024x576.jpg" alt="" width="1024" height="576" /></a>
+<h2 id="Primadona">Puring kembali Jadi Primadona</h2>
+Penelusuran Mitra Usaha Tani menunjukkan puring asal negeri Siam memang lebih bervariasi. Di tempat Suarsak,wartawan Mitra Usaha Tani Destika Cahyana dan Rosy Nur Apriyanti melihat croton berdaun keriting di tepi. Warnanya paduan merah dan hitam pekat pada daun tua. Daun muda, kuning kehijauan.
+Belum lagi yang daunnya bulat dengan corak warna hitam-merah atau hijau-kuning. Si daun berpilin juga ada yang berwarna hijau dengan kombinasi kuning. Di tanahair, lazimnya puring berdaun sempit panjang mirip bulu ayam atau melebar. “Itu karena di Thailand banyak orang yang menyilangkannya,” tutur Surawit Wanna Krairoj, PhD, presiden Ornamental Plants Variety Developer Club. Salah satu penyilang adalah Suarsak.
+Dari sekian banyak jenis croton di Thailand, jenis berpilin kini tengah digandrungi. Maklum, itu varian yang paling anyar. Si daun mlintir baru muncul 2 sampai 3 tahun silam. Pantas waktu Mitra Usaha Tani menyusuri pasar <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a> Chatuchak, Bangkok, jenis itu tak terlihat. Yang mendominasi codiaeum berdaun keriting dan bulat.
+Suarsak beruntung mendapatkannya lantaran untuk menghasilkan si berpilin butuh waktu lama, sekitar 10 tahun. Toh hasilnya tak sia-sia. Sebut saja sai buri, diambil dari nama sebuah kabupaten di Provinsi Pattani, seng chan berarti cahaya bulan, dan kot cha si berarti kepala gajah badan singa. Sosok bagian atas kot cha si sepintas memang nampak seperti gajah berbelalai, sedangkan bagian bawahnya mirip misai singa.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/croton.jpg"><img class="aligncenter wp-image-19795 size-large" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/croton-1024x576.jpg" alt="" width="1024" height="576" /></a>
+<h2 id="hati">Euforia croton</h2>
+Dari negeri Siam, euforia croton menular ke tanahair. Di Tanahbaru, Depok, sudah etahun terakhir Lastini Chandra mengganti koleksi <a class="wpil_keyword_link " title="aglaonema" href="http://127.0.0.1/mitra/topik/aglaonema" data-wpil-keyword-link="linked">aglaonema</a> dengan puring. “Puring ik kalah indah daripada tanaman hias lain,” tutur ibu 3 putri itu. Dari 40 jenis koleksi, hampir separuh didatangkan dari Thailand dan Australia. Salah satunya jenis puring kura.
+Kerabat euphorbia bermotif daun seperti tempurung kura-kura itu kini jadi puring incaran di tanahair. Jenis lain: jengkol, apel, sendok, dan mangkok semua nama lokal berdasarkan sosok fisik daun.
+Setali tiga uang dengan Lastini, Agus Choliq di Yogyakarta juga mulai terpikat tanaman berdaun indah itu. Musababnya, “Pada selembar daun puring bisa muncul warna hijau, kuning, ungu, merah, dan kebiruan,” katanya. Karena kecantikan dan keragaman itulah yang membuat Croton kian digemari.

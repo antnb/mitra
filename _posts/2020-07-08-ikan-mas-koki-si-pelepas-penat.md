@@ -1,0 +1,36 @@
+---
+layout: post
+title: Ikan Mas Koki Si Pelepas Penat
+categories: artikel|hobi|ikan hias|Perikanan
+date: 2020-07-08 07:56:07
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/07/Goldfish_Lionchu_first_orize_winner_1200x800.jpg
+tags:
+- ranchu
+- ryukin
+
+modification_time: 2020-07-08 07:56:07
+blogger_orig_url: http://localhost/mitra/ikan-mas-koki-si-pelepas-penat.html
+---
+
+<em>Begitulah cara Ferdinandes menangkap pancaran energi dari maskoki untuk menghilangkan stres sehabis menempuh perjalanan dari rumah di Muarakarang, Jakarta Utara ke kantornya di Cikupa, Tangerang, Banten. Lalu lintas padat yang menghubungkan kedua tempat berjarak 50 km itu membuat perjalanan terasa jauh. “Sulit rasanya memulai aktivitas. Badan terasa pegal-pegal,” ujar kelahiran Medan 41 tahun silam itu.</em>
+Itulah sebabnya sejak 5 tahun lalu ia menghadirkan Ikan mas koki di ruang kerjanya. Harap mafhum, baginya-seperti kata feng shui-warna-warni dari tubuh maskoki memancarkan energi. “Gerakan <a href="https://www.fishbase.se/Summary/SpeciesSummary.php?id=271&amp;lang=bahasa">maskoki</a> lemah gemulai. Pplan tapi pasti, itu prinsip hidup saya,” ujarnya. Lantaran ciri khasnya itu pula cinta Ferdinandes terhadap <em>Carassius auratus</em> tak pernah luntur walau tren <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/ikan-hias"  title="ikan hias" data-wpil-keyword-link="linked">ikan hias</a> selalu berubah. Karena itu ia tak segan-segan mencari Ikan Mas Koki berkualitas walau harus merogoh banyak uang. Dua puluh di antara maskokinya dibeli dengan harga di atas Rp 5-juta. Sisanya, di kisaran Rp 500-ribu-Rp  1 -juta.
+[caption id="attachment_1237" align="aligncenter" width="364"]<img class="wp-image-1237" src="http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_799x800.jpg" alt="" width="364" height="364" /> Ferdinandes (kiri) bersama sang adik gandrung ranchu[/caption]
+<h3>Ikan Koi Kualitas Juara</h3>
+Seiring perjalanan waktu, tren maskoki kembali datang. Terbukti banyak kontes maskoki digelar. Atas saran sahabatnya Tony Bens, Ferdinandes turun gelanggang. Kontes Alfamart Fish Competition 2018 di Maspion Plaza, Maret lalu menjadi kontes perdananya. Tak disangka, ryukin jumbo jagoannya meraih juara II di kelasnya. “Senangnya bukan main. Seperti kejatuhan bintang dari langit,” katanya.
+Sukses perdana itu membuat ayah dari Nicholas Adam Muliate dan Glenda Tania Muliate semakin ketagihan. Mei 2018, giliran blackmoor andalannya dikirim ke Jogja Goldfish Contes 2018. Si hitam pun berhasil melenggang ke kursi jawara di kelas open.
+Yang tak diduga klangenannya itu berhasil meraih the <a href="http://127.0.0.1/mitra/2-jenis-ikan-discus-unggulan-hasil.html">best of the best</a>. “Dulu gelar grand champion hanya mimpi. Sekarang jadi kenyataan,” ujarnya. Sejak itu gelar demi gelar terus diraih oleh maskoki koleksinya.
+Sebagai bukti di kantornya ada akuarium yang di atasnya bertengger 12 piala yang direbut sejak 5 bulan terakhir.
+Berkat prestasi itu nama Ferdinandes menjadi buah bibir baru di kalangan hobiis maskoki. Sanjungan pun datang dari pemain senior. Fatono misalnya, pemain kawakan maskoki di Jakarta pernah memuji. “Jarang ada ikan berukuran jumbo sebagus itu,” ujarnya.
+<img class="wp-image-1240 aligncenter" src="http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_1246x800.jpg" alt="" width="444" height="300" />
+<h3>Cinta Ikan Koi Sejak Kecil</h3>
+Sebetulnya <strong>hobi Ikan Mas Koki</strong> sudah ditekuni suami Vonny Sunandar itu sejak lama. Ferdinandes kecil menolak pulang ke rumah usai sekolah. Sebab, di depan sekolahnya di Medan ada toko yang menjual ikan hias. “Sejak itu cinta pada ikan tertanam di hati,” ujarnya mengenang. Ia pun menangis bila ada ikan kesayangannya mati.
+Hobi pada ikan terus berkembang ke satwa lain. Beberapa tahun silam ia sempat memiliki kebun binatang mini yang dihuni beraneka ragam fauna. Seperti kasuari, kakaktua, kura-kura, dan beberapa binatang langka. Namun, beberapa binatang yang dilindungi itu kini telah diserahkan ke dinas kehutanan. “Mau apa lagi, negara melarang. Yang penting hewan kesayangan itu dirawat dengan baik, saya rela,” ujarnya. Namun, di antara mereka, maskoki adalah urutan pertama satwa yang paling ia cintai.
+Hingga saat ini, ia mempunyai 31 Ikan Mas Koki dari berbagai jenis: <em>ranchu</em>, <em>ryukin</em>, dan <em>oranda</em>. Delapan ekor diletakkan di ruang kerjanya dan 7 di ruang staf. Masih ada 11 ranchu di kolam fiber di halaman belakang. Sisanya, 5 maskoki diletakkan di rumahnya di Muarakarang, Jakarta Utara. “Dipisah-pisah. Agar semua tempat yang kita sayangi ada maskokinya,” ujarnya.
+[caption id="attachment_1237" align="aligncenter" width="456"]<img class="wp-image-1237" src="http://127.0.0.1/mitra/wp-content/uploads/2020/07/koki_799x800.jpg" alt="Jawara dari Kota Gudeg" width="456" height="381" /> Jawara dari Kota Gudeg[/caption]
+<h3>Keluarga Pun Menggemari Ikan maskoki</h3>
+Tak hanya Ferdinandes sendiri yang menyukai Ikan Mas Koki. Istri dan kedua anaknya ikut tertular menyukai kerabat ikan mas itu. Putra-putri Ferdinandes merasa bertanggungjawab terhadap 5 maskoki yang ada di rumah. Maklum, setiap ikan ditetapkan milik salah satu dari mereka.
+Nicholas misalnya, putra sulung Ferdinandes itu cinta mati dengan maskoki. Ia tak mau berangkat sekolah sebelum memberi pakan. Bocah 10 tahun itu baru bisa mengerjakan tugas dari sekolah di dekat akuarium. Glenda, putrinya, lain lagi. Ia tak mau bangun pagi, sebelum dikatakan ikannya lapar.
+Sebab, bila tahu ikannya lapar, ia langsung melesat menuju akuarium untuk memberi pakan.
+Saking cintanya, keluarga mereka setiap minggu mengunjungi showroom ikan hias di Jakarta untuk <a href="http://127.0.0.1/mitra/evolusi-perdagangan-aksesori-ikan-hias.html">membeli aksesoris</a>, pakan, dan obat. Liburan keluarga ke luar negeri pun selalu dibayang-bayangi oleh maskoki. Misalnya, saat ke Hongkong mereka pasti menyempatkan ke Victoria Park, pusat ikan hias di sana. Sulung dari 3 bersaudara itu pun tak mau menyia-nyiakan kesempatan itu dengan mengambil gambar setiap maskoki yang menarik hati. “Ikan di sana bagus-bagus.” katanya, sambil menunjukkan arsip foto.
+Mereka pun tak lupa dengan koleksi maskoki mereka di tanah air. Setiap hari Ferdinandes menelepon pegawai di kantor dan di rumah untuk menanyakan kesehatan maskokinya. “Staf saya sampai terheran-heran. Lha yang ditanya bukan kabar perusahaan, malah ikan,” ujarnya. Bila maskokinya dalam kondisi baik, maka perjalanan di mancanegara terasa lebih tenang. Sebaliknya, bila ikannya sakit, bukan tak mungkin ia memutuskan untuk segera kembali.

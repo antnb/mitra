@@ -1,0 +1,44 @@
+---
+layout: post
+title: leci Istimewa dari Tembok Samudera
+categories: perkebunan
+date: 2021-01-08 12:57:47
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_lecche1_640x360.jpg
+tags:
+- leci
+- leci dataran rendah
+- samut songkhram
+
+modification_time: 2021-01-08 12:57:47
+blogger_orig_url: http://localhost/mitra/leci-istimewa-dari-tembok-samudera.html
+---
+
+Jangan bayangkan suasana di sana seperti Chiang Mai atau Chiang Rai. Dua sentra Litchi sinensis di Thailand bagian utara itu berudara sejuk. Maklum posisinya di daerah subtropik pada 17 sampai 21° lintang utara dan ketinggian 500 m dpi. Saat leci panen raya pada musim panas sekitar April Mei, suhu rata-rata cuma 29,9°C.
+Lain halnya dengan Samut Songkhram dan Samut Sakhon. Di 2 provinsi berjarak sekitar 60 sampai 80 km ke selatan Bangkok itu, sinar matahari bak memanggang kulit kala leci berbuah. Mitrausahatani yang berkunjung ke Samut Songkhram merasakan pengapnya udara.
+Musababnya, Samut Songkhram dan Samut Sakhon hanya selemparan batu dari laut. Nama kedua provinsi mencerminkan itu, samut berarti laut; songkhram, tembok; dan sakhon, sungai atau mata air. Posisinya pada 13° lintang utara, artinya berada di daerah tropis. Jarak kebun-kebun leci hanya sekitar 15 km dari pantai pada ketinggian kurang dari 50 m dpi. Suhu rata-rata saat musim panas 39 sampai 41 °C. Di musim dingin pada November sampai Desember, saat leci berbunga, suhunya 22 sampai 25°C. Padahal, di daerah utara anggota famili Sapindaceae itu membutuhkan temperatur di bawah 15°C selama 10 hari agar berbunga.
+<h2 id="kerdil">Buah Si kerdil</h2>
+[caption id="attachment_7779" align="alignleft" width="316"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_leci_1024x678.jpg"><img class="wp-image-7779 " src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_leci_1024x678.jpg" alt="Boontham petani leci di thailand" width="316" height="209" /></a> Boontham laba Jutaan rupiah dari leci[/caption]
+Toh, lin-chi di 2 provinsi tepi pantai itu tumbuh baik dan produktif. Wajar karena, “Di Samut Songkhram dan Samut Sakhon yang dikembangkan varietas dataran rendah,” tutur Montri Wongrakpanich, kepala Departement of Agricultural Extention (DOAE) sebuah departemen khusus di bawah Kementerian Pertanian Thailand. Cukup dengan suhu 20°C selama 1 minggu kerabat rambutan itu berbunga.
+Jenis yang banyak ditanam ialah khom, dalam bahasa Thailand artinya kerdil. Buah khom sangat digemari penduduk negeri Siam. Meski berukuran relatif kecil, rasanya manis dengan daging tebal, kering, dan beraroma harum. Berbeda dengan hong-huey, ow-hia, dan chakraphat yang manis keasaman. Buah-buah asal sentra di utara itu memuncratkan air saat dikupas karena sangat juicy.
+Uniknya, bila khom ditanam di daerah lain, kualitas buah berubah menjadi lebih masam. Thawisak Duangthong, staf ahli DOAE yang menemani Trubus berkunjung ke sentra di selatan, menduga kandungan sodium yang terbawa air pasang yang kerap masuk hingga kebun-kebun di Samut Songkhram dan Samut Sakhon penyebab rasa buah lebih manis.
+<h2 id="varietas">Ganti varietas</h2>
+Sebenarnya ada 2 sampai 3 varietas dataran rendah lain, misal sam pau kew yang berkulit lebih cerah, ukuran buah besar, rasa manis, berbiji kecil, dan harum. Sayang, ia perlu temperatur lebih rendah agar mau berbunga. Atau kledkaew yang manis, berdaging tebal, bening, dan kering, serta berbiji kecil, tapi kulitnya gampang menjadi cokelat. Makanya banyak pekebun yang vaen-top-working varietas lain dengan khom.
+Itulah yang dikerjakan oleh Daengsakul Boontham. Sepuluh tahun silam, pekebun di Desa Meuntmay, Distrik Ampawa, Samut Songkhram, itu menebangi dahan-dahan pohon 4 sampai 5 varietas leci berusia sekitar 40 tahun di kebun seluas 2 acre (setara 0,8 ha, red). Saat tunas-tunas baru muncul langsung disambung dengan khom. Boontham juga menanam bibit-
+bibit baru. Total jenderal ada 130 pohon yang ditanam dalam bedeng-bedeng yang dipisahkan oleh parit.
+Tanaman asal bibit cangkokan dan sambung pucuk mulai belajar berbuah pada umur 3-4 tahun. “Saat itu buah yang dipanen masih sedikit,” kata pria 69 tahun itu. Memasuki umur 7 tahun produktivitas melonjak hingga mencapai 50 kg. Jumlah itu terus meningkat saat tanaman di atas 10 tahun. Saat itu dari 1 pohon dituai 100 sampai 300 kg buah.
+Pantas dengan harga di tingkat pekebun 50 sampai 80 baht per kg, Boontham mengaku mengantongi keuntungan 5.000 sampai 10.000 baht setara Rp 11,5-juta sampai Rp23-juta dari setiap pohon. Kalau ia menanam sam pau kew boleh jadi kantongnya kian menggelembung. Maklum, lantaran sulit dibuahkan dan jarang yang menanam, pasokan sam pau kew terbatas. Harga di kebun mencapai 100 baht.
+Untuk memetik leci di kebunnya, Boontham menyewa 10 orang selama 18 hari panen. Setiap orang diberi 300 baht untuk upah petik dan tambahan 150 baht bila ikut menyortir buah. Pria bersahaja itu tak pernah kesulitan memasarkan lantaran pengepul datang langsung ke kebun.
+<h2 id="Mahal">Harga Relatif Mahal</h2>
+[caption id="attachment_7780" align="alignleft" width="284"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_lecche_640x360.jpg"><img class=" wp-image-7780" src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_lecche_640x360.jpg" alt="leci dari wilayah selatan" width="284" height="160" /></a> Yang dari selatan lebih manis[/caption]
+Harga leci dataran rendah lebih mahal ketimbang yang berasal dari Chiang Mai atau Chiang Rai. “Di tingkat eceran harga leci dataran rendah mencapai lebih dari 100 baht per kg. Bahkan di OTK (pasar kelas atas di dekat Chatuchak, Bangkok, yang dipasok oleh pekebun langsung, red) mencapai 800 sampai 1.000 baht untuk buah yang benar-benar istimewa,” tutur Thawisak. Sementara leci dataran tinggi hanya 20 sampai 30 baht. Kalau sedang “banjir” malah merosot sampai 15 baht, yang dari dataran rendah paling cuma jatuh hingga 80 baht.
+Selain kualitas buah, perbedaan harga itu lantaran leci asal Samut Songkhram dan Samut Sakhon dipanen di awal musim. Panen raya
+di sana berlangsung mulai April selama sekitar 45 hari. Yang di Chiang Mai dan Chiang Rai baru mulai dipetik pada Mei sampai Juni. “Apalagi produksi dari utara memang lebih banyak 10 kali lipat daripada selatan,” lanjut pria yang 20 tahun berkarya di DOAE itu.
+Luasan penanaman di utara memang lebih banyak daripada di selatan. Total penanaman di Chiang Mai dan Chiang Rai mencapai puluhan ribu acre. Sementara di Samut Songkhram dan Samut Sakhon hanya 3.500 acre atau 1.400 ha. “Di utara setiap pekebun memiliki lahan mulai dari 50 sampai ribuan acre,” papar Thawisak. Di selatan kepemilikan lahan paling 2 sampai 5 acre (0,8 sampai 2 ha, red). Itu pun beberapa ditumpangsarikan dengan pamelo, pisang, dan jambu biji.
+Menurut Montri, kecilnya luasan di sentra di selatan lantaran banyak lahan leci beralih fungsi menjadi perumahan dan pabrik. Maklum Samut Songkhram dan Samut Sakhon kota industri. “Dengan ganti rugi cukup tinggi, dengan menjual 2 sampai 3 acre pekebun bisa membeli hingga 100 acre di utara,” lanjutnya.
+Agar pekebun di utara tidak merugi, pemerintah membeli sebagian hasil panen untuk diolah menjadi leci dalam kaleng, yaitu 30% dari total produksi. Sementara yang dari selatan melulu untuk konsumsi segar. Lebih dari setengah produksi leci kalengan diekspor dengan negara tujuan utama Amerika Serikat. Leci segar lebih banyak terserap pasar lokal, hanya 20% yang diekspor. Pengiriman terbanyak ke Hongkong, diikuti Cina, negara-negara Eropa, Malaysia, Singapura, dan Indonesia.
+<h2 id="Pesta">Pesta Leci dan Perang Air</h2>
+Tin..Tin..Tin..Byur... Suara klakson mobil dan bunyi guyuran air terdengar di jalan-jalan di wilayah Samut Songkhram. Hari itu 13 L/ April, penduduk provinsi terletak di selatan Bangkok itu sampai juga di wilayah Thailand lain sampai menyambut tahun baru menurut kalender Saka. Mereka merayakan dengan saling melempar air yang disebut festival sangkran. Udara di musim panas yang menyengat, suhu siang hari 41 °C, didinginkan dengan air.
+Kemeriahan pun terlihat di balaikota Kabupaten Mae Klong. Di sana para pekebun leci berkumpul dengan perasaan senang bercampur tegang. Mereka bukan bersiap “berperang air”, melainkan menunggu keputusan juri siapakah pemenang kontes leci kali ini.
+Thawee Kunnaprayote kerap jadi langganan juara. “Kualitas leci dari kebunnya istimewa karena perawatan intensif,” kata Thawisak Duangthong yang berkali-kali menjadi juri. Selain menobatkan pekebun terbaik, festival yang berlangsung pada 10 sampai 15 April itu melombakan varietas-varietas baru yang adaptif di dataran rendah. Seorang Nona Leci dipilih sebagai duta yang turut mempopulerkan anggota famili Sapindaceae itu.
+Bukan tanpa alasan bila festival diselenggarakan berbarengan dengan perayaan tahun baru. April merupakan masa panen raya di Samut Songkhram dan Samut Sakhon. Jadi memang tepat untuk mencicipi keistimewaan lin-chi-lin-chi dari selatan.

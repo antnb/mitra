@@ -1,0 +1,45 @@
+---
+layout: post
+title: Dulang Laba dari anggrek Liar
+categories: tanaman hias
+date: 2021-01-05 08:16:51
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_anggrek2_1024x646.jpg
+tags:
+- Anggrek
+- anggrek spesies
+- belanja anggrek
+- kebun anggrek
+- laba besar
+
+modification_time: 2021-01-05 08:16:51
+blogger_orig_url: http://localhost/mitra/dulang-laba-dari-anggrek-liar.html
+---
+
+Kesibukan terus berdenyut di ruang tamu Rini usai mengikuti festival hortikultura di Jakarta. Di ruang berukuran sekitar 60 m2 ia dibantu sang suami dan karyawannya melayani permintaan konsumen dari berbagai kota seperti Jakarta, Tangerang, Surabaya, dan Denpasar. "Ada yang minta 100 tanaman untuk setiap jenis anggrek yang saya koleksi," ujar alumnus Universitas Negeri Semarang itu.
+Padahal koleksi Rini ditaksir mencapai ratusan jenis. Saat ini jenis yang jumlahnya lebih dari 100 tanaman cuma sekitar 20-an. Ibu 2 anak itu mesti bekerja ekstrakeras demi melayani permintaan itu. Antusiasme hobiis itulah yang mengalirkan rupiah ke pundi-pundinya. Ketika ditanya lonjakan omzet, ia berujar, "Wah pokoknya mengejutkan sekali."
+Wajar jika anggrek-anggrek koleksinya tak bertahan lama di rumah. Tak sampai 10 hari, setelah anggrek datang dari berbagai penjuru, biasanya hobiis langsung menyerbu. Contoh ketika sekelompok <i>Grammatophyllum scriptum</i> dari Ambon tiba di rumahnya di bilangan Trimulyo, Kabupaten Sleman. Sepekan kemudian seorang hobiis memborongnya dengan harga Rp21-juta. Rini menangguk laba besar lantaran harga belinya jauh lebih kecil.
+<h2 id="Berburu">Berburu anggrek keluar Masuk jurang</h2>
+[caption id="attachment_7694" align="alignleft" width="257"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek_579x768.jpg"><img class="wp-image-7694" src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek_579x768.jpg" alt="Rini pebisnis anggrek" width="257" height="341" /></a> Satu dasawarsa menggeluti anggrek spesies[/caption]
+Rini merasakan betul manisnya berniaga anggrek spesies. Pendapatannya jauh melambung bila dibandingkan dengan gaji sebagai pahlawan tanpa tanda jasa. Ketika mengikuti festival hortikultura di Taman Anggrek Indonesia Permai, Jakarta Timur, misalnya, ia menangguk laba puluhan juta rupiah. Itu hanya ekshibisi selama 10 hari. Bisa dibayangkan jika celengannya kian gemuk.
+Ucapan temannya 9 tahun silam menjadi kenyataan. Ketika itu sang rekan berkata, "Tanam anggrek enak lo. Pas berbunga kita tak punya uang, dibawa ke Gondolangu (pasar <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/tanaman-hias"  title="tanaman hias" data-wpil-keyword-link="linked">tanaman hias</a> di Yogyakarta, red) anggrek jadi duit," ujarnya menirukan sang rekan. Malahan Rini tak perlu bersusah-payah menenteng anggrek ke Gondolangu. Soalnya, konsumen terus mengalir ke nurserinya.
+Menurut Rini, mereka tahu keberadaan Kepitu nama nurseri miliknya karena sistem getok tular alias dari mulut ke mulut. Namun, kadang-kadang pemesan tidak datang langsung. Tinggal menyebutkan jenis yang diminta via telepon, Rini akan mengantarkannya kemudian. Seperti malam itu ketika Trubus menyambangi Kepitu. Puluhan anggrek spesies memenuhi bak terbuka mobil Colt untuk memenuhi pesanan kolektor di Yogyakarta.
+Toh, perkenalan Rini dengan kerabat vanili itu bukan dipicu motif ekonomi untuk meraih laba. Anak tentara itu menggeluti anggrek justru karena musibah. Suatu pagi pada 1995 usai melihat kebun sengon <i>Samanea saman</i> di Kulonprogo, Yogyakarta, mobil yang dikendarai suaminya terperosok ke dalam jurang sedalam 7 m. Ia yang duduk di sebelah kiri sang suami, Ir Yulaenie, divonis cervikal 1-2.
+"Kalau hidup cuma beberapa jam. Tapi kalau ngga sadar bisa koma. Dan begitu sadar seperti bayi lagi," ujarnya mengutip keterangan dokter. Pascatragedi hari-hari Rini tampak kelabu. "Selama 5 bulan kepala seperti berputar. Dari duduk mau berdiri harus tutup mata agar dunia seolah tak berputar-putar," katanya mengenang.
+<h2 id="unik">Terus belanja anggrek unik</h2>
+[caption id="attachment_7695" align="alignleft" width="228"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek3_631x768.jpg"><img class=" wp-image-7695" src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek3_631x768.jpg" alt="Dendrobium starobllantes" width="228" height="278" /></a> Dendrobium starobllantes asal Papua Nugini ditemukan di Papua[/caption]
+Setelah memeriksakan diri di rumah sakit, ia berhenti persis di sisi kebun anggrek di Maguwoharjo, Sleman. Dari balik pagar kelahiran Padang 9 Maret 1960 itu melihat penampilan bunganya. Kekaguman atas kemolekannya tersimpan di benak. Itu yang kemudian menjadi candu baginya. Hari-hari berikutnya, ia kerap menyambangi kebun-kebun anggrek di sekitar Yogyakarta dan Magelang. Itu dilakukan selama hampir setengah tahun ia beristirahat.
+Dari sekadar mengagumi, lalu tumbuh rasa ingin memiliki. Saat itulah hasrat membeli anggrek sulit terbendung. Tiga bulan gaji sebagai guru SMU di Magelang dihabiskan hanya untuk sekali belanja anggrek. Kemudian hasil penjualan sebuah sepeda motor, lagi-lagi ludes untuk membeli anggrek. Koleksinya kian membeludak dan ditata di halaman rumah.
+Ketika berbunga ia iseng-iseng memanfaatkan sebagai bunga potong. Saat itu harga jual per kuntum Rp 100. Dari usaha di halaman rumah, Rini mendapat tambahan pendapatan Rp200.000 per bulan. Cukup besar untuk ukuran waktu itu. Ia tak melulu berkutat pada budidaya anggrek. Sesekali ia menyambangi penganggrek senior seperti Handoyo Hardjo, Rizal Djaafarer, dan Soetikno.
+Dari mereka, sarjana Psikologi Pendidikan itu tahu anggrek spesies Indonesia banyak dikirim ke luar negeri. Kemudian anggrek itu masuk ke Indonesia dengan nama berubah. "Berarti tanaman kita bagus-bagus kalau diincar orang asing?" kata Rini berkesimpulan. Contoh <i>Dendrobium veratrifolium</i> diperoleh di Singapura, padahal asalnya dari Papua.
+<h2 id="Laba">Laba besar dari penjualan anggrek</h2>
+Sepenggal informasi itu seperti membangkitkan naluri bisnis Rini. Langkah Rini kemudian adalah mengikuti pameran yang diselenggarakan Perhimpunan Anggrek Indonesia cabang Yogyakarta. Menjelang pameran ia memburu <i>Aerides odorata tenDiphodium tricolor</i>. Keduanya anggrek spesies dari Kopeng, Semarang. Benar juga, ketika ekshibisi digelar konsumen berdatangan memborong anggrek spesies itu.
+"Aerides yang dibeli Rp5.000 saya jual Rpl 5.000. Tricolor sayajual Rp25.000 dari harga beli Rp7.500," kata Rini mengenang. Malah ada pedagang dari Jakarta yang berniat membeli dalam jumlah banyak. Selama pameran 5 hari ia menjual setidaknya 200 pot. Saat itu ia juga membeli <i>Grammatophyllum martae</i> dari peserta pameran lain. Harganya Rp 1,4-juta. Menjelang pameran usai anggrek itu terjual Rp2,3-juta.
+Rini berujar, "Saya ngga modal, ngga ke mana-mana. Kan untung besar." Sebagai pendatang baru peruntungannya memang kinclong. Betapa tidak, hanya dengan sekali pameran ia menangguk laba bersih Rp8,7-juta. Artinya, 8 kali gaji yang diterimanya sebagai abdi negara golongan III d. Pameran inilah yang membuka cakrawala bisnis Rini. Sejak itu ia bertekad untuk serius berniaga anggrek spesies.
+<i>Dendrobium strebloceras</i>
+<h2 id="kirim">Salah kirim</h2>
+[caption id="attachment_7696" align="alignright" width="281"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek1_823x768.jpg"><img class="wp-image-7696" src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_anggrek1_823x768.jpg" alt="angrek special" width="281" height="263" /></a> Dendrobium undulatum[/caption]
+Usai ekshibisi Rini kian intens memburu anggrek-anggrek spesies. Awalnya memang hanya di sekitar Yogyakarta seperti <i>Vanda tricolor</i>. Lantas 2 tahun berselang ia telah membangun jejaring dengan beberapa pemasok anggrek spesies. Saat ini merekalah yang rutin mengirimkan anggrek-anggrek spesies ke rumah Rini.
+Para pemasok mencarinya di berbagai belantara Nusantara seperti Papua, Maluku, Kalimantan, Sulawesi, dan Nusa Tenggara Timur. Lokasi pencarian yang beragam menyebabkan tingginya varian. "Jenisnya lumayan banyak. Kualitasnya cukup bagus," ujar Santy Pieters, hobiis di Jakarta yang pernah mengunjungi Kepitu. Itulah sebabnya jika ada kesempatan seniwati itu ingin ke sana lagi.
+Meski demikian tak selamanya Rini mencecap manisnya anggrek spesies. Misalnya, ketika 239 <i>gigantea</i> asal rimba Kalimantan datang. Kondisinya amat parah sehingga perlu waktu sebulan untuk memulihkannya. Meski 4 tanaman di antaranya akhirnya mati. Kadang-kadang ia memesan jenis tertentu, tetapi yang dikirimkan malah jenis lain. Contoh saat meminta <i>Dendrobium lasianthera</i> malah <i>Dendrobium bicaudatum</i> dan <i>Dendrobium strebloceras</i> yang datang.
+Anak ke-3 dari 7 bersaudara itu juga pernah mengalami ratusan tanaman mati hanya gara-gara salah memilih pestisida. Hambatan itu ibarat kerikil-kerikil tajam, mengganggu perjalanan memang. Namun, langkah guru Bimbingan dan Penyuluhan itu kian mantap untuk menekuni anggrek spesies. Sebab, dari komoditas itulah gemerincing rupiah mengalir ke pundi-pundinya.

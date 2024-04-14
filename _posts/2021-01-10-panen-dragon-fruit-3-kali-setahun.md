@@ -1,0 +1,37 @@
+---
+layout: post
+title: Panen Dragon fruit 3 Kali Setahun
+categories: perkebunan
+date: 2021-01-10 07:13:17
+author: Mitra
+image: http://localhost/mitra/wp-content/uploads/2021/01/Gambar_buahnaga_1024x710.jpg
+tags:
+- Buah Naga
+- dragon fruit
+- tiang pemupukan
+
+modification_time: 2021-01-10 07:13:17
+blogger_orig_url: http://localhost/mitra/panen-dragon-fruit-3-kali-setahun.html
+---
+
+Kebanyakan pekebun dragon fruit di Jawa Timur dan Jawa Tengah panen raya pada Desember sampai Januari. Namun di tempat Djoko, buah naga "diatur" supaya keluar pada Oktober, Desember, dan Januari.
+Saat <a href="http://127.0.0.1/mitra/">Mitrausahatani</a> berkunjung ke salah satu kebunnya di Delanggu, Klaten, penghujung November lalu, buah-buah merah bergelantungan. <i>Hylocereus undatus</i> setengah masak bercampur dengan buah pentil, bunga yang sudah mengering, dan kuncup bunga. Semua lengkap dalam satu pohon.
+<h2 id="dragon">Dragon fruit mudah untuk dibudidayakan</h2>
+"Menanam dragon fruit tidak susah, kuncinya pada bibit, pupuk, air, dan pemangkasan," ujar sarjana Biologi UNS itu. Tanah kritis bukan hambatan. Dragon fruit termasuk keluarga kaktus yang daya tahannya tinggi. "Yang penting lahan terkena matahari pagi, kemiringan kurang dari 15°, dan pH antara 7 sampai 8," imbuh Djoko.
+Untuk soal lingkungan tumbuh, Indonesia boleh berbangga hati. Iklim tropis memberi kesempatan buah naga berkembang dengan baik. Dibanding negara lain, buah produksi lokal lebih disukai pasar Singapura. Pasalnya, residu pestisida minim karena hama jarang. Paling-paling siput pemakan bibit muda atau semut penyuka tunas pucuk. Keduanya mudah diatasi.
+Pertama kali menanam pada 1997 Djoko mendatangkan 3.000 bibit asal Thailand. Nilainya mencapai Rp297-juta. Bibit ditanam di lahan seluas 4 ha di Jawa Timur. Seiring berjalannya waktu, <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/pertanian"  title="pertanaman" data-wpil-keyword-link="linked">pertanaman</a> meluas hingga 20 ha. Sulur yang sudah berbuah langsung dipangkas menjadi bibit, termasuk untuk kebun di Delanggu.
+Persiapan lahan sebelum menanam meliputi pembuatan bedengan, pemasangan tiang penyangga, dan penggemburan. Bedengan dibuat dengan ukuran lebar 1,5 m. Panjang disesuaikan dengan keadaan kebun. Jarak antarbedengan 1 sampai 1,5 m. Tiang penyangga dibuat dari beton cor setinggi 2 m. Di bagian atas dipasang ban bekas untuk menahan percabangan.
+Jarak tanam minimal 1,5 m x 1,5 m, "Supaya pertumbuhan sulur lebih leluasa," ujar suami Endang Susilawati itu. Kerabat opuntia itu memiliki umur produksi hingga 20 tahun. Semakin tua, produksi sulur dan buah kian banyak sehingga pengaturan tanam harus direncanakan dengan seksama. Di Purwodadi jarak tanam lebih besar 2 m x 2 m.
+Bibit sepanjang 15 cm diambil dari sulur yang sudah menghasilkan. Sebelum ditanam, bibit dipelihara di polibag selama 6 bulan hingga mencapai tinggi 50 sampai 60 cm. Setelah ditanam, 9 bulan kemudian tanaman sudah bisa menghasilkan. Satu tiang digunakan untuk menyangga 4 tanaman. Supaya tidak rebah, bibit diikat dengan tali rafia. Lakukan dengan hati-hati agar batang tidak terluka.
+<h2 id="Pupuk">Pupuk 2 kali</h2>
+[caption id="attachment_7806" align="alignleft" width="287"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_buahnaga1_839x768.jpg"><img class="wp-image-7806" src="http://127.0.0.1/mitra/wp-content/uploads/2021/01/Gambar_buahnaga1_839x768.jpg" alt="buah Dragon fruit" width="287" height="263" /></a> Dragon fruit asal indonesia Disukai pasar Singapura[/caption]
+Jika pekebun lain memupuk setiap minggu, maka Djoko punyajadwal sendiri. Aplikasi hanya dilakukan 2 kali setahun. Awal dan pertengahan musim hujan. Alasannya saat musim kemarau tanaman hanya melakukan fungsi pertahanan diri. Penambahan hara tidak akan optimal, cuma disimpan sebagai cadangan oleh tanaman. Sebaliknya saat musim hujan tanaman langsung menyerap unsur hara.
+Kebun organik di Delanggu hanya menggunakan pupuk guano (pupuk asal kotoran kelelawar, red) yang sudah masak. Dosis 40 kg per tiang. Pemupukan pertama dilakukan di sekitar piringan tiang. Pemupukan kedua dengan membenamkan guano di antara 2 tiang. Tujuannya jika persediaan di piringan habis, tanaman bisa langsung menyerapnya. Di Jawa Timur pemupukan masih ditambah 0,5 kg NPK.
+Selain hara, tanaman juga membutuhkan air. Walaupun tergolong keluarga kaktus bukan berarti dragon fruit tidak perlu disiram. Saat musim kemarau penyiraman dilakukan 2 hari sekali. Jaga jangan sampai batang terendam karena akan menyebabkan busuk batang. Di musim hujan jadwal penyiraman bisa berubah, tergantung kondisi lahan. Untuk melancarkan pemasukan air, dibuat piringan atau gentongan di sekeliling tiang. Mirip piringan di kelapa sawit.
+<h2 id="Petik">Sistim Gilir Petik</h2>
+Sebagai anggota famili Cactacea, rhino fruit sebutan dragon fruit di Australia cenderung menumbuhkan tunas lebih dari satu. Lakukan seleksi dengan pemangkasan vegetatif. Pilih tunas bersosok kekar, sehat, dan terletak paling dekat dengan cabang utama. Pemangkasan terus dilakukan hingga tersisa 1 batang utama.
+Ketika ketinggian tanaman sudah sejajar tiang penyangga, kurang lebih pada umur 4 bulan, baru dilakukan pemangkasan produksi. Bagian pucuk dipangkas habis. Tak berapa lama kemudian tumbuh 4 tunas baru. Tunas-tunas inilah yang dipelihara menjadi sulur produktif. Panjang sulur produktif minimal 120 cm.
+Umur 5 sampai 6 bulan, tanaman mulai berbunga. Dalam waktu 3 5 sampai 40 hari bunga berubah menjadi buah siap petik. Untuk mencapai bobot 500 g per buah, dalam satu sulur hanya dipertahankan 3 sampai 4 buah.
+Salah satu ciri buah naga ialah terus menghasilkan sulur baru. Sekali tumbuh bisa 4 sulur sekaligus. Saat generasi pertama dipanen, sulur generasi kedua memasuki masa produksi. Yang ketiga mulai tumbuh. Begitu seterusnya. Sifat inilah yang dimanfaatkan Djoko untuk mengatur masa produksi. Panen pertama Oktober, buah dipetik dari sulur generasi pertama. Desember dari sulur generasi kedua. Terus berurutan.
+Jarak waktu panen antargenerasi sulur 2 bulanan, sehingga dalam setahun konsultan lingkungan itu bisa panen raya pada Oktober, Desember, dan Februari. Selesai panen, sulur langsung dipangkas dan dijadikan bibit. Selain untuk kebun sendiri, Djoko juga memenuhi permintaan bibit dari pekebun lain.
+Setelah dipangkas, sulur dipotong-potong sepanjang 15 cm, lalu ditanam di polibag berisi media tanah. Selama di polibag bibit sengaja tidak diberi pupuk. Tujuannya agar calon tanaman yang didapat benar-benar berkualitas. "Jika di tanah kritis bisa bertahan, saat ditanam di lahan budidaya pun tumbuhnya pasti lebih bagus, ibaratnya sudah teruji," ungkap Djoko.

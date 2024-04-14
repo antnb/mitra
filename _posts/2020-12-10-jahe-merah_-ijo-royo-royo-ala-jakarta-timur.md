@@ -1,0 +1,41 @@
+---
+layout: post
+title: Jahe merah: Ijo Royo-royo ala Jakarta Timur
+categories: artikel
+date: 2020-12-10 14:09:36
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_jahe1_993x768.jpg
+tags:
+- jahe
+- jahe merah
+- pertanian jakarta
+- suku dinas pertanian
+
+modification_time: 2020-12-10 14:09:36
+blogger_orig_url: http://localhost/mitra/jahe-merah-ijo-royo-royo-ala-jakarta.html
+---
+
+Itulah salah satu program suku Dinas Pertanian Jakarta Timur untuk mengubah kota Jakarta yang berpolusi, penuh debu, dan gersang. "Awalnya kami hanya mengikuti instruksi Gubernur DKI, meng-ijo royo-royo-kan Jakarta. Tapi jika hanya itu tujuannya, sulit membuat masyarakat ikut berperan," kata Aswin Saragih, kepala Suku Dinas Pertanian Jakarta Timur. Yang tak kalah penting menurut Aswin program itu harus bisa memberikan tambahan pendapatan.
+Jahe merah dipilih karena komoditas <a class="wpil_keyword_link " title="perkebunan" href="http://127.0.0.1/mitra/perkebunan" data-wpil-keyword-link="linked">perkebunan</a> itu mempunyai pangsa pasar luas. Minuman kesehatan yang kian berkembang banyak membutuhkan jahe merah. Itu karena kandungan oleoresin, pemberi rasa pedas, pada jahe merah cukup tinggi. Dari segi harga, jahe merah tertinggi dibanding jahe-jahe lainnya, bisa mencapai Rp20.000/kg, bahkan Rp35.000 per kg di tingkat pengecer. Apalagi jika diolah menjadi berbagai penganan seperti dalam bentuk bubuk jahe untuk minuman instan, sirop, atau dodol. Penanganan secara terpadu seperti itu akan memberikan nilai tambah.
+<h2 id="polibag">Ditanam Di polibag</h2>
+Namun, sadar akan ketersediaan lahan yang sangat terbatas, Aswin menganjurkan agar penanaman jahe dilakukan di dalam polibag. Kelebihannya, lokasi penanaman tidak perlu berpindah-pindah. "Sehabis panen tinggal ganti polibag baru, jadi tidak khawatir terkena penyakit," ungkap alumnus Institut Pertanian Bogor itu.
+Selama ini jahe dikebunkan dalam skala luas di lahan terbuka dengan pola tanam monokultur. Lahan harus dirotasi dengan tanaman lain sebelum ditanami jahe kembali. Jika digunakan terus-menerus, tanah akan tercemar Pseudomonas solanacearum, penyakit layu bakteri yang menjadi momok pekebun jahe.
+Tak hanya itu, di dalam polibag pertanaman jahe terlihat rapi. "Siapa sangka itu (jahe merah, red) tanaman perkebunan. Sepintas orang mengiranya <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a>," seloroh Hj Emy Sudaringsum, Sp, kepala seksi Pertanian dan Kehutanan Kecamatan Kramatjati, Jakarta Timur. Bahkan soal produktivitas kemungkinan tidak kalah dibanding yang ditanam di lahan. Musababnya media tanam yang digunakan lebih porous dan tentu saja ketersediaan hara terjamin karena tidak ada gulma pesaing.
+Sebagai ujicoba, suku Dinas Pertanian Jakarta Timur pada November 2006 membagikan 5.000 polibag berisi bibit jahe merah ke beberapa kecamatan wilayah Jakarta Timur meliputi 10 kecamatan termasuk Kramatjati di dalamnya. Dengan bibit asal suku Dinas Pertanian itulah sepanjang Jalan Kober di lingkungan RT IX, Kelurahan Balaikambang, Kramatjati, tampak hijau. "Kami senang melihat tanaman jahe subur-subur. Lingkungan pun menjadi segar dan sehat," ucap Warga Sudirja, ketua RT.
+Menurut Sudirja, warga sangat antusias menyambut program jahenisasi di lingkungannya. Hampir setiap keluarga dengan sukarela memelihara dan merawatnya. Kalaupun ada yang tak bisa meluangkan waktu karena kesibukan pekerjaan di kantor, tapi mereka tetap membolehkan lahan di depan rumahnya ditempati polibag-polibag jahe merah.
+"Bagi saya itung-itung hiburan. Kalau soal menyiram, masih bisa disambi sehabis pulang kerja," ujar Masri. Lelaki paruh baya yang bekerja sebagai pedagang elektronik itu malah kerap hingga tengah malam saking asyik merawat tanaman jahe.
+[caption id="attachment_20491" align="aligncenter" width="1475"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/rimpang.jpg"><img class="wp-image-20491 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/rimpang.jpg" alt="" width="1475" height="850" /></a> Lingkungan hijau dengan ditanami jahe[/caption]
+<h2 id="air">Terkendala diarea Sulit air</h2>
+Makanya Sudirja yakin betul penanaman jahe merah akan tetap berkelanjutan. "Sehabis dipanen, ya kita tanam lagi yang baru," imbuhnya. Tekad bulat para warga untuk mempertahankan pertanaman jahe sudah teruji. Buktinya ketika menghadapi musim kemarau, sulit air, mereka tidak penanaman di polibag lebih tinggi jika mencapai 1,5 kg/polibag.
+Jakarta Timur sebetulnya tak hanya memprogramkan jahenisasi untuk setiap kecamatan. "Banyak komoditas, ada jeruk nipis, lidah buaya, dan berbagai tar.aman obat keluarga (TOGA) lainnya," rinci Aswin. Itu tergantung kecocokan wilayah. Balaikambang
+dianggap cocok untuk jahe merah karena lokasinya terbuka. Zingiber officinale itu membutuhkan sinar matahari penuh. Sama halnya di Kecamatan Jatinegara yang kondisinya hampir sama dengan Kramatjati, dikembangkan lidahbuaya, kunyit, temulawak, mahkotadewa, dan jahe.
+Vina Fitriani dan Karjono, wartawan Trubus saat diajak berkeliling suku Dinas Pertanian melihat sebuah perumahan di Kelurahan Cililitan Kecil, halaman-halamannya penuh dengan <a class="wpil_keyword_link " title="tanaman obat" href="http://127.0.0.1/mitra/kesehatan" data-wpil-keyword-link="linked">tanaman obat</a>. Bahkan tanaman-tanaman di dalam polibag itu memenuhi loteng bersanding dengan tanaman-tanaman hias. Tidak disangka di tengah perkotaan yang identik dengan akar-akar beton, masih ditemukan "hutan kecil" penyejuk pandangan. "Belum dikomersialkan, baru sebatas untuk keperluan warga di sini," ujar warga yang ditemui.
+Menurut Ir Tuti Siswatiningsih, koordinator penyuluh Suku Dinas Pertanian Jakarta Timur, yang menemani Trubus, para penggerak di masing-masing kelurahan adalah ibu-ibu. Mereka tidak saja menanam, tapi juga mengolahnya menjadi berbagai penganan. Contoh jahe dan lidah buaya, diolah menjadi dodol dan sirop. Pada acara Trubus Agro Expo 2007 di Taman Wiladatika Cibubur, kreasi mereka dipajang di stan suku Dinas Pertanian Jakarta Timur. "Lumayan, banyak jung singgah ?rtarik mencicipi makanan yang membangkitkan selera," lanjutnya.
+Berawal dari usaha menghijaukan Jakarta, bukan tidak mungkin akan tumbuh indrustri-industri rumahtangga yang memanfaatkan halaman sempit di lingkungan perumahan. Itulah paling tidak yang kini tengan dirintis Sri Umirah dan kelompoknya di RT IX, Kelurahan
+Balaikambang. Siapa tahu dari sekadar mengolah 2 sampai 3 kg jahe merah per hari, dalam waktu singkat meningkat berkuintal-kuintal. Toh pesanan membeludak. Sri mengolah jahe merah yang dipanen dari depan rumah menjadi serbuk jahe untuk
+minuman instan. Dengan begitu ijo royo-royo didapat, untung pun diraih.
+[caption id="attachment_20492" align="aligncenter" width="1447"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/jahe-merah.jpg"><img class="wp-image-20492 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/jahe-merah.jpg" alt="" width="1447" height="850" /></a> Lingkungan hijau dan rupiah mengalir ke kantong Masri[/caption]
+<h2 id="Ekstrak">Ekstrak Jahe</h2>
+Volume jahe merah yang dipanen I Sri memang tidak banyak. Ia bersama warga RT IX Kelurahan Balekambang, Kramatjati, Jakarta Timur, hanya menanam jahe merah itu di halaman rumah. "Tujuan utamanya untuk menghijaukan lingkungan, tapi kalau bisa menjadi tambahan pendapatan keluarga,” kata Warga Sudirja, ketua Rukun Tetangga.
+Atas bimbingan Emy Sudaringsum, Sp Kepala Seksi Pertanian dan Kehutanan Kecamatan Kramatjati sampai di bentuklah kelompok Segar Abadi untuk mengolah jehe merah itu.
+Sri dan kelompoknya mengaku tidak sulit memasarkan ekstrak jahe. "Sudah banyak pesanan. Padahal, yang tahu baru seputaran RT IX,” imbuh Ninik Suganda ketua kelompok Segar Abadi itu. Menurut Sri istri sekretaris RT IX ada 2 manfaat sekaligus yang diperoleh dengan mengolah rimpang berasa pedas itu: pasar luas dan panen bertahap. Artinya lingkungan tetap hijau karena setiap hari paling hanya dipanen 3 sampai 5 polibag. Sementara jika dijual segar, tanaman harus langsung dipanen semuanya. Inilah cara kelompok Segar Abadi membuat ekstrak jahe.

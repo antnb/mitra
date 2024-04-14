@@ -1,0 +1,37 @@
+---
+layout: post
+title: Madu-madu di Mangga Baru
+categories: perkebunan
+date: 2020-12-19 08:15:03
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_mangga_madu_905x768.jpg
+tags:
+- carangjuri
+- endog madu
+- mangga baru
+- Mangga Darakande
+
+modification_time: 2020-12-19 08:15:03
+blogger_orig_url: http://localhost/mitra/madu-madu-di-mangga-baru.html
+---
+
+Si manis yang bisa diseruput dengan sedotan itu ditemukan Dr Ir Mohammad Reza Tirtawinta, MS, kala melakukan eksplorasi di sentra mangga podang di Kecamatan Banyakan, Kediri. Sesosok pohon yang tidak meyakinkan penampilannya berdiri di tengah-tengah Mangifera indica di perbukitan yang dipenuhi buah berwarna merah kuning. Keberadaannya nyaris terlupakan. Maklum, dibanding podang yang ngejreng penampilan carangjuri berkulit kuning pucat terlihat kusam.
+Toh, itu tak mengurungkan niat Reza mencicipi buahnya. "Dari bentuk daunnya saya yakin, dia pasti termasuk kelompok yang bermadu,” tutur pakar buah itu. Tak seperti mangga lain, jenis madu berdaun tegak lurus ranting, tidak rebah ke bawah dan rapat-rapat.
+<h2 id="Manenda">Mangga Manenda</h2>
+[caption id="attachment_3022" align="alignleft" width="224"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_mangga_ntb_587x768.jpg"><img class="wp-image-3022" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_mangga_ntb_587x768.jpg" alt="manis sejak masih mengkal" width="224" height="293" /></a> Carangjuri, manis sejak masih mengkal[/caption]
+Benar saja, begitu buah matang dibelah terlihat daging berwarna kuning tua dan bertekstur seperti buah bonyok di dekat biji. Itulah bagian yang manis seperti madu. Mendekati kulit, daging berwarna lebih muda. Buah seperti itu enaknya diseruput menggunakan sedotan daripada dipotong-potong biasa. Bagian bermadu bisa belepotan mengotori tangan.
+Buah yang mengkal kulit berwarna hijau muda paling pas sebagai buah meja. Setelah kulit dikupas, daging dipotong-potong. Rasanya manis gurih, kering, bertepung, dan renyah. Carangjuri memang cocok untuk manenda alias mangga panen muda. "Dari segi kualitas ia lebih enak dan lebih cocok di lidah Indonesia,” kata Reza.
+Doktor dari Institut Pertanian Bogor itu membandingkan dengan khioe sawoey. Manenda asal Thailand itu bercitarasa asam gurih yang merangsang liur bila dicecap lidah. Oleh karena itu, khioe sawoey cocok sebagai makanan pembuka, pembangkit selera sebelum menyantap hidangan utama.
+Tak jauh dari pohon carangjuri, tumbuh pula mangga tak kalah istimewa. Bentuknya bulat telur, berwarna hijau kekuningan. Daging anggota famili Anacardiaceae itu pun bermadu. Makanya penduduk setempat menjulukinya endog (endog=telur, bahasa Jawa, Sunda) madu.
+<h2 id="gurih">Mangga Madu gurih</h2>
+[caption id="attachment_3021" align="alignleft" width="288"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_carangjuri_994x768.jpg"><img class="wp-image-3021" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_carangjuri_994x768.jpg" alt="Mangga Endog madu" width="288" height="222" /></a> Endog madu (kiri), mirip carangjuri (kanan)[/caption]
+Meski berukuran hampir sama berbobot 250—300 g per buah, endog madu mudah dibedakan dari carangjuri. Bentuk endog madu bulat lonjong penuh, carangjuri melancip di ujung buah. Bila matang, si bulat telur berkulit hijau bersemburat kuning. Kerabatnya, kuning muda mulus dan berlilin. Perbedaan paling mencolok, posisi tangkai endog madu tidak tepat di tengah-tengah pangkal. Letaknya agak ke samping sehingga buah seperti menggantung tak seimbang.
+Rasa endog madu mengingatkan pada indramayu. Namun, lebih enak karena bagian dekat biji manis sekali. Bagian itu ketika buah mengkal berwarna kuning. Makin matang buah, kian memerah dan seperti memar, mengeluarkan cairan. Mirip mangga lalijiwo. Yang disebut terakhir berukuran lebih kecil dan berpenampilan kurang menarik. Endog madu besar, berdaging tebal, dan manis gurih.
+Reza memiliki sepohon di halaman rumah di Bogor dari sebuah tempat di Jawa Tengah. Mangga serupa juga menjadi koleksi Henny Guntur di Cempakaputih, Jakarta Pusat. Kolektor tanaman langka itu menyebutnya durih alias madu gurih.
+<h2 id="Darakande">Mangga Darakande</h2>
+[caption id="attachment_3020" align="alignleft" width="258"]<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_darakande_967x768.jpg"><img class="wp-image-3020" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/Gambar_darakande_967x768.jpg" alt="buah mangga Darakande" width="258" height="205" /></a> Darakande, oleh-oleh favorit dari Narmada[/caption]
+Trubus juga menemukan mangga bermadu kala menghadiri acara Tropical Fruit Festival di Kuta, Bali, penghujung tahun silam. Di anjungan Nusa Tenggara Barat terlihat setumpuk kerabat kueni berwarna hijau dihiasi bintik-bintik putih. Bentuknya oval dan gemuk. Bagian bermadu terlihat memenuhi 2/3 daging kala buah dibelah. Rasanya manis legit dan cukup juicy. Itu mengingatkan pada mangga manalagi.
+Menurut penjaga anjungan, mangga itu banyak ditemukan di Kecamatan Narmada, Lombok Barat. Bila sedang musim raya Desember Januari ia tumpah ruah hingga ke tepi-tepi jalan. Bersama darakande, mangga madu salah satu oleh-oleh favorit dari sana.
+Darakande berukuran lebih kecil dan bagian bermadu hanya berupa bintik-bintik. Namun, soal rasa ia tak kalah memikat lidah. Tekstur daging yang kuning terang, lembut tanpa serat, kering, dan manis. Hampir setiap halaman rumah penduduk ditanami mangga berkulit hijau tua itu. Bentuknya bulat, gemuk di pangkal dan lonjong di ujung. Tangkai buah terletak di agak ke sisi, mirip endog madu.
+Yang juga istimewa, mangga dodol dari Maluku Utara. Penampilannya memang kurang menarik, berbentuk bulat lonjong kecil-kecil dengan kulit hijau. Namun, soal rasa tak bakal mengecewakan. Daging di bagian dekat biji berwarna oranye dan manis nian.
+Gara-gara bertekstur tanpa serat ia mendapat julukan dodol. Menurut Ir Ali Haerullah, staf Dinas Pertanian Provinsi Maluku Utara, citarasa mangga asal Temate itu dinikmati konsumen hingga ke Manado.

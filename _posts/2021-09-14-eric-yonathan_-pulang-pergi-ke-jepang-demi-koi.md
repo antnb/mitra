@@ -1,0 +1,39 @@
+---
+layout: post
+title: Eric Yonathan: Pulang Pergi ke Jepang Demi Koi
+categories: hobi|ikan hias
+date: 2021-09-14 09:35:36
+author: Mitra
+image: http://localhost/mitra/wp-content/uploads/2021/09/ikan-koi.jpg
+tags:
+- farm koi
+- hobi ikan
+- ikan koi
+- koi berkualitas
+- sanke
+
+modification_time: 2021-09-14 09:35:36
+blogger_orig_url: http://localhost/mitra/eric-yonathan-pulang-pergi-ke-jepang.html
+---
+
+Berburu koi ke Jepang bagi Eric Yonathan tak ubahnya mencari harta karun. Di sana ia mengaduk-aduk farm-farm koi kenamaan. Dimulai dengan mengunjungi jejeran kolam kohaku, showa, dan sanke di farm Maruyama. Hari berikutnya giliran Dai Nichi dan Matsuno Suke, di Nigata, Jepang, yang diincar. Belum puas dengan hasil buruannya, ia pun menambah koleksi ogon, taisho, shusui, goshiki, dan jenis lain di farm Hosikin. Hasilnya, 600 koi berkualitas senilai lebih dari Rp1 miliar terbang bersama ke Indonesia.
+Setiba di tanah air, ratusan koi itu diperlakukan bak putri raja. Sebuah showroom seluas 500 m2 khusus dibangun untuk menampung semua hasil buruan. Di dalamnya, Eric membangun 17 kolam dengan 9 chamber berteknologi canggih introduksi dari Jepang. Filter sistem vortex, pompa, chiller pendingin air pengontrol volume air, dan solarguard untuk menopang hidup koleksinya. Bos perusahaan aki itu tidak peduli harus keluar uang miliaran rupiah khusus untuk itu, asal "Mereka tumbuh sehat," kata Eric.
+Saat Kami berkunjung, di kolam-kolam itu berseliweran ratusan koi: ogon, shiro utsuri, tancho, taisho, kohaku. Bahkan koi-koi eksklusif, seperti showa ginrin, showa kuchibeni, dan kujaku juga dikoleksi. "Biayapakan mereka Rp10-juta per bulan," kata Eric. Wajar biaya pakan tinggi lantaran yang dipakai Momotaro High Quality Koi Food, khusus diimpor dari Jepang.
+Kolam Eric itu dirancang dengan teknologi canggih asal Jepang. Semua sistem filterasi dan aerasi bekerja secara otomatis selama 24 jam non stop. Bahkan sistem pengurasan air kolam pun bekerja setiap 4 jam sekali. Untuk itu ia harus membayar Rp10-juta per bulan untuk biaya listrik agar 9 chamber berisi filter dan aerator bekerja maksimal.
+itu belum termasuk biaya 3 sampai 4 pekerja sebesar Rp4-juta sampai Rp5-juta per bulan.
+<h2 id="Cinta">Cinta koi</h2>
+[caption id="attachment_14049" align="aligncenter" width="300"]<img class="wp-image-14049 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/kolam-ikan-koi-mutakhir-300x298.jpg" alt="Eric Yonathan" width="300" height="298" /> Eric Yonathan, miliaran rupiah demi koi[/caption]
+Hobi Eric yang supermahal itu jarang ditiru orang lain. Bayangkan saja konstruksi dan rancangan kolamnya saja menelan biaya miliaran rupiah. Apalagi kalau ia melihat koi yang menarik minatnya."Berapa pun harganya saya beli kalau ikan itu memiliki patern yang cantik dan unik," kata kelahiran Surabaya 47 tahun silam itu. Buktinya, shusui jawara Ali Indonesia Combined Young Koi Show 2004 di Semarang diboyong seharga Rp60-juta.
+Bagi pemilik Nirwana Koi Centre itu, liukan budo guromo, hi utsuri, akabeko, ai kurumu, dan showa asagi menjadi pelipur stres. Selepas bergelut dengan urusan bisnis Eric memanjakan mata hingga larut malam di tepi kolam. Senyum sumringah selalu menghiasi bibir kala melihat koi berebut pakan dan berenang lincah.
+"Kalau melihat ikan perasaan menjadi tenang dan senang. Hati saya bahagia di sini," tutur Eric sembari senyum menghias bibirnya. Keunikan patern, kombinasi warna dan gaya berenang yang anggun mampu meluluhlantakkan kejenuhan dan kepenatannya selepas bekerja.
+Koleksi koi ayah 4 putra itu laksana harta berharga. Untuk mencegah penyakit, pakan bernutrisi lengkap selalu tersedia. Pemeriksaan kesehatan pun rutin dilakukan. "Koi harus rutin dicek kesehatan dan pertumbuhannya. Kalau ikan enggan berenang berarti ia sakit," tutur Erik sembari mengukur panjang koi dalam bak khusus.
+Walaupun kolam berteknologi tinggi, pH, kadar kalsium, dan KH selalu dicek secara teratur. Wajar bila ia sedih saat koi kesayangan sakit atau mati. Itu pernah terjadi ketika listrik padam. Akibatnya sistem sirkulasi udara dan air dalam kolam terganggu, beberapa koi kualitas tinggi mati meregang nyawa. Kecintaan Eric pada koi pun ditunjukkan saat bertransaksi. Pemilik perusahaan kimia di bilangan Pangeran Jayakarta itu pasti menolak menjual seekor showa atau sanke seharga Rp35-juta karena kondisi kolam dan air pembeli tidak memenuhi syarat. "Sayang bila melepas mereka lalu tidak dirawat dan dipelihara dengan baik," ucap Eric.
+<h3 id="Rutin">Rutin berburu</h3>
+Puncak kecintaan Eric kepada koi sejak 3 sampai 4 tahun silam. Maraknya kontes dan beragam jenis koi impor yang masuk ke Indonesia membuatnya semakin kepincut untuk memelihara ikan berpola unik itu. "Semua jenis koi harus dimiliki," kata Eric. Bak terhipnotis, segala cara dilakukan untuk bisa mendapatkan koi berkualitas. Walaupun harga selangit, niat dan semangat Eric untuk mencari Cyprinus carpio terus berlanjut.
+Setiap Januari dan Oktober Eric menyempatkan diri bertandang ke Jepang. Memenuhi panggilan hobiis di Jepang, Singapura, dan Cina menjadi agenda khusus. Bukan tanpa alasan ia berburu pada waktu-waktu tertentu di Jepang. Pada saat itu, para hobiis negeri Sakura dilanda demam auction (lelang, red) koi super dengan kualitas tinggi. "Ikan yang dilelang berukuran jumbo, di atas 50 cm. Kualitasnya pun luar biasa," tutur Eric yang sempat menyaksikan pelelangan di Jepang.
+Menurut pria berkulit putih itu, di negara bekas jajahan Amerika Serikat itu koi sangat dipuja dan dibanggakan. Tak heran membeli koi di sana bak meminang putri raja. Seekor koi kualitas kontes bisa dibandrol dengan harga selangit, ratusan juta hingga miliaran rupiah per ekor. Kohaku bercorak merah pekat ukuran 70 sampai 80 cm saja dihargai hingga dua juta yen atau setara Rp 160-juta per ekor. Sanke ukuran sama dijual Rp28O-juta per ekor. Bahkan untuk 3 ekor sanke atau showa kualitas tinggi dinilai Rp440-juta.
+<h4 id="Multihobi">Multihobi</h4>
+[caption id="attachment_14048" align="aligncenter" width="300"]<img class="wp-image-14048 size-medium" src="http://127.0.0.1/mitra/wp-content/uploads/2021/09/kolam-koi-mutakhir-300x222.jpg" alt="Kolam koi" width="300" height="222" /> Kolam koi berteknologi canggih[/caption]
+Pria bertubuh besar itu tidak hanya tergila-gila pada koi. Empat belas tahun lampau ia memelihara ratusan ayam bangkok. Tidak tanggung-tanggung, kocek Rp800-juta digelontorkan demi kesehatan dan penampilan ayam bangkoknya. Sembilan tahun menekuni ayam bangkok, Eric lalu kepincut kemolekan burung dara. Hobi burung ini pun menghabiskan uang miliaran rupiah. Hasilnya, burung dara koleksinya acap menjuarai lomba nasional di Jawa Tengah, Surabaya, Bandung, dan Jakarta.
+Dari beberapa hobinya itulah, ia mulai merambah dunia bisnis di luar pekerjaan utamanya. Tak jarang burung dara miliknya ditawar hingga puluhan juta rupiah per ekor. Itu belum termasuk koi koleksinya yang dibeli hobiis dengan harga Rp50-juta sampai Rp60-juta per ekor.
+Namun, bagi pemilik PT Permata Chemindo Jaya itu koi sebatas hobi, ia tidak memperhitungkan untung dari jualan koi. Ikut kontes atau mengumpulkan koi-koi berkualitas lebih utama. Karena itu pula pemilik kumis tebal siap-siap turun ke Koi &amp; gold Fish, Expo dan Bazaar 2005 pada Januari di Raiser, Cibinong, Bogor. (Mitra)

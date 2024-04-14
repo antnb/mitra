@@ -1,0 +1,29 @@
+---
+layout: post
+title: Mensiasati Maraknya Aksi Pencurian Tanaman Hias
+categories: artikel|hobi|tanaman hias
+date: 2020-08-06 11:35:32
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/08/aglaonema_1104x800.jpg
+tags:
+- 
+
+modification_time: 2020-08-06 11:35:32
+blogger_orig_url: http://localhost/mitra/mensiasati-maraknya-aksi-pencurian.html
+---
+
+<em>Munaedi, karyawan bagian perawatan tanaman t nurseri Art Garden, segera memanggil rekan-rekannya. Mendapat laporan pencurian, Gunawan Widjaya, pemilik nurseri, bergegas meninggalkan rumahnya di bilangan Pejaten, Jakarta Selatan. Mobilnya meluncur ke lokasi kebun di Sentul, Kabupaten Bogor. “Pencurinya tahu <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/topik/aglaonema"  title="aglaonema" data-wpil-keyword-link="linked">aglaonema</a>. Mungkin dia sudah lama mengincarnya,” ujar Gunawan getir.</em>
+Maklum, kerugiannya ratusan juta rupiah. Harga sebuah pot pride of sumatera terdiri atas 4-5 daun mencapai Rp  100.000. Tercatat 60 pot <a href="http://127.0.0.1/mitra/7-hal-penting-dalam-merawat-aglaonema.html">aglaonema silangan</a> Gregorius Garnadi Hambali itu. Artinya, Rp 6-juta menguap. Kecil? Tunggu dulu, coba perhitungkan 60 indukan legacy yang juga dicuri. Harga masing-masing Rp l,5-juta sehingga nilainya Rp 90-juta. Total kerugian itu setara harga rumah tipe 36 di tepian Jakarta. Belum lagi bila 40 pot <em>red patricia</em> yang dicuri juga diperhitungkan. Kerugian yang diderita pengusaha <a class="wpil_keyword_link " href="http://127.0.0.1/mitra/tanaman-hias"  title="tanaman hias" data-wpil-keyword-link="linked">tanaman hias</a> itu bakal melonjak.
+Si tangan panjang tentu leluasa memanjat pagar greenhouse besi bekas injakan kaki melengkung. Menurut Gunawan, pencuri cepat beraksi dengan hanya mengambil tanaman, tanpa pot. Anggota famili Araceae itu dimasukkan ke karung, sedangkan pot dan media tanam ditinggalkannya. Gunawan menduga, pencuri telah lama mengamati situasi kebun. “Mungkin sambil belanja tanaman yang harganya murah-murah dulu.”
+<h3>Palem berduri</h3>
+Hari itu, setelah semalam 160 aglaonema eksklusif raib, bagian atas greenhouse seluas 500m2 tempat aglaonema diletakkan ditutup rapat dengan pagar besi. Doberman yang biasanya diikat kini setiap malam dibiarkan lalu-lalang. Doberman dikenal sebagai anjing penjaga yang andal.
+Satu meter di sisi kiri pintu masuk greenhouse, Gunawan membangun gardu satpam. Di sana setiap malam petugas berjaga untuk mencegah pencurian aglaonema berulang. Langkah serupa juga ditempuh Ir Yopie Joko Pramono MS, pekebun aglaonema di Ungaran, Kabupaten Semarang, Jawa Tengah. Master Agronomi alumnus Universitas Gadjah Mada itu membangun 3 rumah tanam berpagar besi setinggi 4 meter.
+Yopie tak tanggung-tanggung mengamankan anggota famili Araceae itu. Setidaknya Rp lOO-juta digelontorkan untuk membuat pagar besi. Kejadian pahit pada September 2005, tentu tak ingin ia alami lagi. Malam itu 200 lady valentine dan 50 indukan gold lipstick, northern star, dan legacy hilang dari pot. Di Semarang harga sebuah pot lady valentine terdiri atas 5-6 daun Rp  125.000.
+Kerugiannya Rp 25-juta. Sedangkan kerugian akibat raibnya ke-3 jenis indukan itu sekitar Rp 75- juta atau total Rp lOO-juta. Harga sebuah indukan gold lipstick Rp 3-juta; legacy, Rp l,5-juta; dan northern star, Rp  1-juta. Sebelum pencurian, Yopie bukannya tak mengantisipasi. Kebun 1.000 m2 itu dipagar tembok setinggi 3 meter. Di atas pagar tembok melilit pagar kawat berduri 4 lapis. “Pencurinya sudah observasi lebih dulu,” ujarnya. Buktinya, pagar kawat itu digunting dan putus sehingga si pencuri dapat masuk ke kebun yang diapit 2 jalan raya itu.
+Untuk mengatasi pencurian Yopie membangun pagar berlapis dan menanam palem Aiphanes caryotifolia di sepanjang pagar depan. Palem itu tumbuh menjulang, 3 meter. Sekujur batang ditumbuhi duri-duri panjang dan tajam.
+<img class="wp-image-1268 aligncenter" src="http://127.0.0.1/mitra/wp-content/uploads/2020/07/coconuts-tree-dried-cocos-nucifera-coconut-tree-thumbnail_1072x800.jpg" alt="aglaonema" width="782" height="528" />
+<h3>Alarm Dog</h3>
+Nasib apes juga dialami Ukay Saputra pada awal 2005. Empat aglaonema dewasa-diana, srikandi, tiara, dan widuri-hilang. Ada lagi puluhan aglaonema asal Thailnad seperti noichompu dan valentine. Kerugian pemilik nurseri Annisa itu sekitar Rp 25-juta. Lahannya di Rawabelong, Jakarta Barat, seluas 12 m x 6 m itu kini dipagar besi.
+Para korban pencurian biasanya langsung memberitahukan kasusnya kepada pekebun lain. Namun, sampai saat ini pelaku pencurian belum pernah diketahui. Maraknya pencurian aglaonema belakangan ini memang membuat pekebun dan hobiis ekstrahati-hati.
+Lihatlah Paolina Marcehellie, hobiis di Malang, Jawa Timur. Tak semua orang diizinkan masuk ke hunian Sarjana Desain Interior alumnus Universitas Kristen Petra itu. “Hanya teman dekat yang benar-benar saya kenal,” uj ar perempuan yang 9 tahun terakhir menjalani hidup vegetarian.
+Tujuh anjing termasuk gembala jerman dilepas untuk mengamankan beragam koleksinya yang berharga relaif mahal. Mendengar salakan anjing pemburu itu, bulu kuduk pencuri bakal berdiri tegak. Lalu nyali untuk mencuri pun lunglai. Begitulah cara Paoli-sapaannya-mengamankan aglaonema. Tujuannya supaya kemolekan sang ratu lebih lama ia nikmati. Bagi pekebun: agar laba di depan mata tak lagi sirna. Sebaliknya jika pencurian terjadi, sri rejeki-sebutan lain aglaonema- itu, “Juga membawa rezeki bagi si pencuri,” ujar Greg Hambali.

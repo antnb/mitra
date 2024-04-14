@@ -1,0 +1,32 @@
+---
+layout: post
+title: Seri Sarang Walet: Dokumen dan Kemasan Ekspor
+categories: artikel
+date: 2020-11-08 06:38:45
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/11/Gambar_birdnest_1097x720.jpg
+tags:
+- ekspor
+- sarang walet
+- walet
+
+modification_time: 2020-11-08 06:38:45
+blogger_orig_url: http://localhost/mitra/seri-sarang-walet-dokumen-dan-kemasan.html
+---
+
+Setiap negara menginginkan standar mutu dan jenis sarang walet berbeda. Memahami mutu yang diminta buyers salah satu kunci sukses ekspor sarang walet. Selain itu kemasan dan dokumen yang dipersyaratkan masing-masing negara harus diperhatikan.
+Sekitar 75% kebutuhan sarang walet dunia dipenuhi oleh Indonesia. Jenis yang sering diperdagangkan di pasar internasional antara lain sarang burung walet rumah alias uyen, sarang gua atau tungyen, dan sarang darah yang lebih ngetop dengan siek yen.
+Negeri di Asia Timur seperti Cina memang merupakan pasar terbesar. Wajar jika jenis sarang walet tertentu lebih populer dengan sebutan yang berasal dari bahasa setempat. Selain Cina, negara penyerap sarang walet Indonesia adalah Taiwan,Hongkong,dan Singapura. Di benua Amerika, 2 negara merupakan pasar potensial yakni Kanada dan Amerika Serikat.
+Informasi soal sarang walet ekspor seperti standar kualitas atau cara kemas masih sangat minim. Itu disebabkan masih tertutupnya para pelaku bisnis sarang walet.
+Setiap negara menginginkan sarang walet tertentu. Singapura misalnya, lebih menghendaki jenis sarang walet gua. Alasannya, walet Collocalia fuchiphaga yang hidup di gua-gua dianggap lebih alamiah. Mereka mengkonsumsi pakan di lautan lepas. Bekas koloni Inggris, Hongkong, lebih menyukai sarang walet rumahan. Soalnya, dinilai bersih, jenis variatif, dan waktu pengolahan singkat.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/sarang-walet.jpg"><img class="aligncenter wp-image-20600 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/sarang-walet.jpg" alt="" width="1511" height="850" /></a>
+<h2 id="kapasitas">Per kati atau kg</h2>
+Selain jenis, kemasan produk juga beragam. Singapura, Taiwan, Cina, dan Hongkong menginginkan sarang dikemas dalam kotak plastik transparan berbentuk persegi panjang. Kadar air sarang 10% untuk mencegah pecah dan rusak. Bobot setiap kemasan 1 kati atau setara 600 g. Harga juga ditentukan per kati. Sarang untuk negeri Paman Sam dan Kanada dikemas per kati atau per pound atau 0,45 kg.
+Kemasan serupa yakni berupa plastik transparan dengan kadar air 5%. Yang membedakan, Amerika Serikat membayar bukan per kati, tetapi per kg. Di setiap kemasan mesti dicantumkan jenis produk, bobot bersih, dan negara asal. Informasi itu sangat diperlukan bea cukai AS, Food and Drug Administration, dan USDA. Pembayaran kas dalam bentuk $ AS.
+Pembeli Jepang menghendaki bobot kemasan 500 g, meski adajuga yang 1 kati. Pembayaran dalam bentuk yen atau dolar AS. Volume pengiriman sangat bervariasi. Namun, umumnya 1 boks besar yang terdiri atas 10-50 kati. Boks besar itu dilapisi seng aluminium untuk mencegah kerusakan boks kecil saat pengangkutan di pelabuhan. Lapisan seng juga untuk mencegah terjadinya pencurian oleh oknum tertentu.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Ekspor.jpg"><img class="aligncenter wp-image-20601 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/11/Ekspor.jpg" alt="" width="1511" height="850" /></a>
+<h3 id="sarang">Asuransi sarang</h3>
+Ekspor sarang rumahan tak perlu izin dari departemen terkait seperti Departemen Kehutanan. Demikian juga bila negara tujuan ekspor negara-negara Asia, tak perlu melampirkan izin khusus. Namun, jika mengekspor ke Amerika Serikat atau Kanada eksportir mesti melampirkan surat karantina dan Non-CITES, dan surat keterangan asal.
+Negeri Matahari Terbit mensyaratkan surat karantina dana form A dari Departemen Kehutanan. Jika semua dokumen penting sudah terpenuhi dan
+pengemasan selesai, sarang siap ekspor. Pengiriman sarang walet sebaiknya menggunakan pesawat udara agar lebih cepat. Di samping mencegah kerusakan, pembayaran juga relatif cepat. Penggunaan kapal laut sangat tidak dianjurkan. Waktu tempuh relatif lama, 2 pekan, menyebabkan sarang bercendawan.
+Rusak atau hilang saat pengiriman acapkali terjadi. Untuk memperkecil risiko itu sebaiknya eksportir meng-asuransikan sarang walet. Premi asuransi relatif kecil, hanya 0,34% dari nilai ekspor. Eksportir , sebaiknya tidak memanipulasi produk, sabar, ramah, dan tidak membohongi rekanan.

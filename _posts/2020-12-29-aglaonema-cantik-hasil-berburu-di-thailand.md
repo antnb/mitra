@@ -1,0 +1,36 @@
+---
+layout: post
+title: Aglaonema Cantik Hasil Berburu di Thailand
+categories: tanaman hias
+date: 2020-12-29 10:46:24
+author: Yudianto
+image: http://localhost/mitra/wp-content/uploads/2020/12/Gambar_anggrex1_1024x716.jpg
+tags:
+- Aglaonema
+- aglaonema berdaun
+- aglaonema cantik
+- merah muda
+
+modification_time: 2020-12-29 10:46:24
+blogger_orig_url: http://localhost/mitra/aglaonema-cantik-hasil-berburu-di.html
+---
+
+Pameran akbar untuk memperingati hari kelahiran raja Bhumibol Adulyadej itu menjadi ajang bagi hobiis aglaonema untuk mendapatkan jenis baru. Tak heran jika kolektor dari segala penjuru dunia berbondong-bondong menyerbu. Thailand memang dikenal sebagai pusat mode aglaonema. Hampir setiap bulan penangkar di sana melahirkan jenis baru. "Corak beragam, mencolok, bentuk dan warna bervariasi. Selain itu ia sangat adaptif," ujar Leman, kolektor <a class="wpil_keyword_link " title="aglaonema" href="http://127.0.0.1/mitra/topik/aglaonema" data-wpil-keyword-link="linked">aglaonema</a> di Jakarta Utara yang kerap berburu ke sana.
+Lebih dari 60 penangkar aglaonema tersebar di seluruh penjuru Thailand. Setiap penangkar memiliki motif dan warna daun berbeda lantaran induk yang digunakan berlainan. Pairoj Tianchai punya andalan aglaonema merah muda dengan motif hijau minim.
+Sedang yang berdaun hijau dikuasai nurseri lain. Itu sebabnya pemburu tanaman berdaun cantik harus rela berkeliling Bangkok untuk mempersunting sang ratu. Itu pula yang dilakukan Leman, Yayan, dan Chandra Gunawan.
+Berikut beberapa hasil perburuan mereka.
+<h2 id="Daun merah">aglaonema Daun merah</h2>
+Inilah aglaonema yang banyak diincar hobiis tanah air. Daun merah mencolok bak darah, batang pendek, dan kompak. Motif terlihat samar-samar tertutupi warna. Lihat saja aglaonema koleksi teranyar Leman. Warna merah menyelimuti daun menutupi corak daun berwarna hijau muda.
+Enam bulan lalu tanaman seharga Rp 1-juta per 3 helai daun itu diboyong. Yang berwarna merah muda pun tak kalah elok. Kesayangan Yayan itu tampil anggun dengan warna merah muda nan lembut. Pada daun tua corak nyaris tak terlihat.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-merah.jpg"><img class="aligncenter wp-image-20576 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-merah.jpg" alt="" width="1511" height="850" /></a>
+<h3 id="hijau">aglaonema Daun hijau</h3>
+Di Siam jenis ini yang sedang digandrungi. Itu terlihat saat kontes <a class="wpil_keyword_link " title="tanaman hias" href="http://127.0.0.1/mitra/tanaman-hias" data-wpil-keyword-link="linked">tanaman hias</a> di Suan Luang, Desember silam. Hampir separuhnya diikuti aglaonema berdaun hijau. Bagi Leman penampilan aglaonema berdaun hijau lebih eksotis dan tahan banting. Selain itu aglaonema mutasi kerap ditemukan di jenis ini. Misal aglaonema berdaun keriting.
+Dari 200 total koleksi Leman, 60 berdaun hijau. Jenisnya beragam, ada yang bercorak dan polos. Misal aglaonema berdaun jumbo. Bentuk daun mirip gunungan wayang tampil anggun. Daun hijau tua dengan totol merah muda.
+Koleksi lain berwarna hijau cerah berhias garis tipis putih dan merah muda di tepinya. Aglaonema favorit Leman berwarna hijau pucat dengan tulang daun merah muda. "Warnanya sangat lembut dan unik," katanya.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-hijau.jpg"><img class="aligncenter wp-image-20575 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-hijau.jpg" alt="" width="1535" height="850" /></a>
+<h3 id="kuning">aglaonema Daun kuning</h3>
+"Kuningnya ngga nahan, jarang ada aglaonema seperti itu," tutur Leman ketika melihat tanaman itu di salah satu nurseri di Bangkok. Tak pikir panjang Rp10-juta dirogoh untuk memboyongnya. Aglaonema berdaun kuning terkesan eksklusif karena langka.
+Tak hanya 1 tanaman, pemprogram komputer itu mengoleksi jenis kuning lain. Yang ini penampilannya memang tak sengejreng rekannya. Bentuk daun lanset berwarna kuning kehijauan dengan tulang daun merah muda. Pun Yayan mengoleksi agalaonema berdaun kuning. Sayang warna kuningnya samar-samar lantaran bercampur dengan warna merah muda dan hijau.
+<a href="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-putih.jpg"><img class="aligncenter wp-image-20574 size-full" src="http://127.0.0.1/mitra/wp-content/uploads/2020/12/aglaonema-Daun-putih.jpg" alt="" width="976" height="850" /></a>
+<h3 id="putih">aglaonema Daun putih</h3>
+Sepintas aglaonema berdaun putih itu tak ada yang istimewa. Semakin diamati tampak semburat tipis merah muda melapisi permukaan daun. Kontras dengan sosoknya yang tegak dan kompak.
