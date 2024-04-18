@@ -32,11 +32,15 @@ authors:
     web: https://linktr.ee/yudiant0
     twitter: https://twitter.com/wowthemesnet
     description: "Yudianto, penulis aktif di Budidayatani dan Mitrausahatani.com, memiliki hobi di bidang pertanian. Ia sering menulis artikel terkait teknik budidaya tanaman dan usaha tani, berkontribusi untuk mendukung pertanian yang berkelanjutan dan inovatif."
-
+    
 # Social
 social:
   facebook: https://www.facebook.com/Mitrausahatanikita
   twitter: https://twitter.com/mitratanikita
+  instagram: https://www.instagram.com/mitrautani
+  linkedin: https://www.linkedin.com/company/mitrausahatani
+  pinterest: https://id.pinterest.com/mitrausahatani/
+  
 
 # Plugins
 plugins: 
