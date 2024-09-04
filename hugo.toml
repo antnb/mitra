@@ -1,0 +1,49 @@
+baseURL = 'https://example.org/'
+languageCode = 'id'
+title = 'Mitra Usaha Tani'
+theme = "pehtheme"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Beranda"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "artikel"
+  name = "Artikel"
+  url = "/artikel"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "Tentang Kami"
+  url = "/about"
+  weight = 3
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Kontak"
+  url = "/contact"
+  weight = 4
+
+# Footer Menu
+[[menu.footer]]
+  identifier = "privacy-policy"
+  name = "Kebijakan Privasi"
+  url = "/privacy-policy"
+  weight = 1
+
+[[menu.footer]]
+  identifier = "terms"
+  name = "Syarat dan Ketentuan"
+  url = "/terms"
+  weight = 2
+
+[params.categoryDescriptions]
+"Budidaya" = "Panduan lengkap budidaya tanaman, hewan, dan akuakultur."
+"Agroindustri" = "Informasi mengenai pengolahan hasil pertanian secara industri."
+"Pertanian Organik" = "Teknik pertanian ramah lingkungan dan sehat."
+"Hobi Pertanian" = "Ide-ide berkebun sebagai hobi yang menyenangkan."
+"Artikel Pilihan" = "Topik utama yang menjadi sorotan di bidang pertanian."
+
