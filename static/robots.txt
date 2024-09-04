@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: /categories/*
-Disallow: /tags/*
-Disallow: /tags#*
-
-Sitemap: https://www.mitrausahatani.com/sitemap.xml
